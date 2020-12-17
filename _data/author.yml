@@ -1,1 +1,10 @@
+authors:
+  tanya:
+    name: Associate Professor Tanya Evans
+    bio: "Tanya Evans is and Associate Professor at Macquarie University within the Department of History and Archaeology"
+    avatar: assets/images/bio-photo.jpg
+        title: Associate Professor
+    links:
+    label: "Research Profile"
+    url: https://researchers.mq.edu.au/en/persons/tanya-evans
 
