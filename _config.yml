@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Project
-subtitle: Demo
+title: ANZPHN
+subtitle: Australia and New Zealand Public History Network
 logo: /assets/images/blue_mountain_medium.jpeg
 email:
 description: >- # this means to ignore newlines until "baseurl:" 
- A website for Blue Mountains ARC project.
+ A website for the ANZPHN.
 twitter_username: username
 minimal_mistakes_skin: air
 search: true
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Blue Mountains ARC project"
+  name   : "ANZPHN"
   avatar : "/assets/images/blue_mountain_medium.jpeg"
-  bio    : "Project mini description"
+  bio    : "The ANZPHN is a network for Public Historians across Australasia to connect and stay up to date on the most recent research"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
