@@ -10,6 +10,6 @@ There are a number of history organisations across Australia such as *Museums Au
 ## The Team
 ### Associate Professor Tanya Evans
 
-![image-center](/assets/images/TanyaEvansSquare.jpg){: .align-center}
+![image-center](/assets/images/TanyaEvansSquareSmall.jpg){: .align-center}
 
 Associate Professor Tanya Evans is Director of the *Centre for Applied History* at Macquarie University in Sydney Australia where she teaches public history and modern history. Her books include *Making Histories* (De Gruyter 2020, with Paul Ashton and Paula Hamilton as co-eds), the prize-winning *Fractured Families: Life On The Margins in Colonial New South Wales* (New South, 2015); *Swimming with the Spit, 100 Years of the Spit Amateur Swimming Club* (New South, 2016); with Pat Thane, *Sinners, Scroungers, Saints: Unmarried Motherhood in Modern England* (Oxford University Press, 2012) and *'Unfortunate Objects': Lone Mothers in Eighteenth-Century London* (Palgrave Macmillan, 2005). She has published many scholarly articles and book chapters on family history. She curates exhibitions and works as a consultant for television production companies making historical documentaries. She is currently finishing a book on the practice and meanings of family history in Australia, England and Canada and undertaking ARC-funded collaborative work with family and local historians on a social history and archaeological project in the Blue Mountains. 
