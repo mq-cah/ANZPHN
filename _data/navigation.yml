@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Team"
-    url: /team/
+  - title: "The Network"
+    url: /network/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
