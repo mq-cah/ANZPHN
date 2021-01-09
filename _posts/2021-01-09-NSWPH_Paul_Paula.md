@@ -3,7 +3,7 @@ title: "Public History in New South Wales "
 author:
 - paul_ashton
 header:
-image: assets/images/art_gallery.jpg
+  image: assets/images/art_gallery.jpg
 categories:
   - "Public History"
 tags:
