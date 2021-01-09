@@ -68,18 +68,17 @@ engagement.
 Public history contributes significantly to the state's culture and
 economy through, among other things,
 
--   Cultural tourism
+* Cultural tourism
 
--   Community formation and development
+* Community formation and development
 
--   Contributions to cultural institutions and infrastructure
+* Contributions to cultural institutions and infrastructure
 
--   Memory work
+* Memory work
 
--   Advocacy and
+* Advocacy and
 
--   Property development through heritage conservation and site
-    interpretation
+* Property development through heritage conservation and site interpretation
 
 Public historians have also had important inputs into cultural
 institutions and infrastructure including the History Council of NSW and
