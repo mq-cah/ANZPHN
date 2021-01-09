@@ -1,7 +1,6 @@
 ---
 title: "Public History in New South Wales "
-author:
-- paul_ashton
+author: paul ashton
 header:
   image: assets/images/art_gallery.jpg
 categories:
