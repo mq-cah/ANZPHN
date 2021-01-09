@@ -5,9 +5,9 @@ main:
     url: /network/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
   - title: "Topics"
     url: /topics/
+  - title: "Tags"
+    url: /tags/
   - title: "Resources"
     url: /resources/
