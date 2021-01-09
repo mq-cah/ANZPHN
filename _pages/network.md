@@ -1,6 +1,12 @@
 ---
 title: "The Network"
 permalink: /network/
-author_profile: true
+toc: true
 ---
-# The Network
+Alphabetical order by last name. 
+## A-D
+## E-H
+## I-L
+## M-P
+## Q-T
+## U-Z
