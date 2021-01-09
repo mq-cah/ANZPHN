@@ -11,5 +11,4 @@ title: "Resources"
 * Evans, T. (2018) ‘Enhancing student engagement through flipping: a case study in Australian History’, *The History Teacher*, 51(4), pp. 611–638.
 
 ### RIS
-[Here is the RIS]({{ site.url }}/assets/test_list.ris).
-
+[Download the RIS here]({{ site.url }}/assets/test_list.ris).
