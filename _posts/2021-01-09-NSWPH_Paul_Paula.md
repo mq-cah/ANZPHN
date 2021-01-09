@@ -1,9 +1,11 @@
 ---
 title: "Public History in New South Wales "
-author: paul ashton
+author: 
+- paul ashton
+- paula harrison
 header:
   image: assets/images/art_gallery.jpg
-  caption: "Dietmar Rabich, Wikimedia Commons, 'Sydney (AU), Art Gallery of New South Wales - 2019 - 3103' CC BY-SA 4.0"
+  caption: "Photo credit: Dietmar Rabich, Wikimedia Commons, ['Sydney (AU), Art Gallery of New South Wales - 2019 - 3103'](https://upload.wikimedia.org/wikipedia/commons/c/cd/Sydney_%28AU%29%2C_Art_Gallery_of_New_South_Wales_--_2019_--_3103.jpg) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 categories:
   - "Public History"
 tags:
