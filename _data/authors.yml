@@ -1,19 +1,18 @@
-authors:
-  tanya evans:
+tanya evans:
     name: "Associate Professor Tanya Evans"
     bio: "Tanya Evans is and Associate Professor at Macquarie University within the Department of History and Archaeology"
     avatar: assets/images/bio-photo.jpg
     links:
     label: "Research Profile"
     url: https://researchers.mq.edu.au/en/persons/tanya-evans
-  paul ashton:
+paul ashton:
     name: "Paul Ashton"
     bio:
     avatar: assets/images/bio-photo.jpg
     links:
     label:
     url:
-  paula hamilton:
+paula hamilton:
     name: "Paula Hamilton"
     bio:
     avatar: assets/images/bio-photo.jpg
