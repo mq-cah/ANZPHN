@@ -7,8 +7,10 @@ tanya evans:
     url: https://researchers.mq.edu.au/en/persons/tanya-evans
 paul and paula:
     name: "Paul Ashton and Paula Hamilton"
-    bio: "<p>[Paul Ashton](https://profiles.uts.edu.au/Paul.Ashton) is Professor of Public History at UTS; Co-Director of both the Australian Centre for Public History and the centre for Creative Practice and Cultural Economy; and Director of UTS Shopfront, a unit that works with community groups.</p> <p> Professor Paula Hamilton is an Adjunct Professor and associate of the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history).</p>"
+    bio: "<p>Paul Ashton is Professor of Public History at UTS; Co-Director of both the Australian Centre for Public History and the centre for Creative Practice and Cultural Economy; and Director of UTS Shopfront, a unit that works with community groups.</p> <p> Paula Hamilton is an Adjunct Professor and associate of the Australian Centre for Public History.</p>"
     avatar: assets/images/blue_mountain_medium.jpeg
     links:
+    - https://profiles.uts.edu.au/Paul.Ashton
+    - https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history
     label:
     url:
