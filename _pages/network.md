@@ -6,67 +6,67 @@ toc: true
 ## People
 Alphabetical order by last name.
 ### A-D
-*Professor Paul Arthur*
+<p>**Professor Paul Arthur**</p>
 paul(dot)arthur(at)ecu(dot)edu(dot)au
 
-*Dr	Alison Atkinson-Phillips*
+<p>**Dr Alison Atkinson-Phillips**</p>
 Alison(dot)Atkinson-Phillips(at)newcastle(dot)ac(dot)uk
 
-*Associate Professor Katie Barclay*
+<p>**Associate Professor Katie Barclay**</p>
 katie(dot)barclay(at)adelaide(dot)edu(dot)au
 
-*Dr Tully	Barnett*
+<p>**Dr Tully Barnett**</p>
 tully(dot)barnett(at)flinders(dot)edu(dot)au
 
-*Dr Ashley Barnwell*
+<p>**Dr Ashley Barnwell**</p>
 ashley(dot)barnwell(at)unimelb(dot)edu(dot)au
 
-*Professor Michael	Belgrave*
+<p>**Professor Michael	Belgrave**</p>
 m(dot)p(dot)belgrave(at)massey(dot)ac(dot)nz
 
-*Sue Berman*
+<p>**Sue Berman**</p>
 Sue(dot)Berman(at)aucklandcouncil(dot)govt(dot)nz
 
-*Dr	Louise Blake*
+<p>**Dr Louise Blake**</p>
 blake(dot)louise(at)gmail(dot)com
 
-*PhD Candidate Shauna	Bostock-Smith*
+<p>**PhD Candidate Shauna	Bostock-Smith**</p>
 Shauna(dot)Bostock-Smith(at)anu(dot)edu(dot)au
 
-*Lucy	Bracey*
+<p>**Lucy Bracey**</p>
 lbracey(at)waybackwhen(dot)com(dot)au
 
-*Professional Historian, Nicole	Cama*
+<p>**Professional Historian, Nicole	Cama**</p>
 nicole(at)nicolecama(dot)com(dot)au
 
-*Emeritus Professor David Carment*
+<p>**</p>Emeritus Professor David Carment**</p>
 dcarment(at)bigpond(dot)net(dot)au
 
-*Consulting Historian Alicia Cerreto*
+<p>**</p>Consulting Historian Alicia Cerreto**</p></p>
 aliciacerreto(at)gmail(dot)com
 
-*Associate Professor Anna Clark*
+<p>**Associate Professor Anna Clark**</p>
 Anna(dot)Clark(at)uts(dot)edu(dot)au
 
-*Jenny Coates*
+<p>**Jenny Coates**</p>
 info(at)jcch(dot)com(dot)au
 
-*Historian, Dr Margaret Cook*
+<p>**Historian, Dr Margaret Cook**</p>
 mcook1(at)usc(dot)edu(dot)au
 
-*Dr Sophie Couchman*
+<p>**Dr Sophie Couchman**</p>
 sophie(dot)couchman(at)gmail(dot)com
 
-*Dr Patricia Curthoys*
+<p>**Dr Patricia Curthoys**</p>
 patricia(dot)curthoys(at)gmail(dot)com
 
-*Emeritus Professor Graeme Davison (AO)*
+<p>**Emeritus Professor Graeme Davison (AO)**</p>
 graeme(dot)davison(at)monash(dot)edu
 
-*Dr Jennifer Debenham*
+<p>**Dr Jennifer Debenham**</p>
 jennifer(dot)debenham(at)newcastle(dot)edu(dot)au
 
-*Dr Mark Dunn*
+<p>**Dr Mark Dunn**</p>
 markdhistory(at)gmail(dot)com
 
 
