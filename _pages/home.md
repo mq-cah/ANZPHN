@@ -4,6 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_image: /assets/images/old_photos_2_big.jpg
+  caption: "© State Library of NSW. Photo by Joy Lai"
 excerpt: >
   Australia and New Zealand Public History Network
 feature_row:

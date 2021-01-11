@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "ANZPHN"
-  avatar : "/assets/images/old_photos_small.jpg"
+  avatar : "/assets/images/old_photos_square.jpg"
   bio    : "The ANZPHN is a network for Public Historians across Australasia to connect and stay up to date on the most recent research"
   links:
     - label: "Twitter"
@@ -94,6 +94,7 @@ defaults:
       author_profile: true
 
 teaser: /assets/images/old_photos_2_big.jpg
+caption: "© State Library of NSW. Photo by Joy Lai"
 
 category_archive:
   type: liquid
