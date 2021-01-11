@@ -9,6 +9,10 @@ Alphabetical order by last name.
 **Professor Paul Arthur**<br />
 : **Contact**  paul(dot)arthur(at)ecu(dot)edu(dot)au
 
+**Professor Paul Ashton**<br />
+: Paul Ashton (PHA, FRSN) is Professor of Public History at UTS. He is also Director and Co-Founder of [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history), University of Technology Sydney, Adjunct at the [Centre for Creative and Cultural Research](https://www.canberra.edu.au/research/faculty-research-centres/cccr), University of Canberra, and Adjunct at the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history), Macquarie University. He is also Co-Director of the centre for Creative Practice and Cultural Economy and Director of UTS Shopfront, a unit that works with community groups
+: **Contact**  Paul(dot)Ashton(at)uts(dot)edu(dot)au
+
 **Dr Alison Atkinson-Phillips**<br />
 : **Contact**  Alison(dot)Atkinson-Phillips(at)newcastle(dot)ac(dot)uk
 
@@ -74,7 +78,7 @@ Alphabetical order by last name.
 : **Contact** lellmoos(at)cityofsydney(dot)nsw(dot)gov(dot)au
 
 **Associate Professor Tanya Evans**<br />
-: Associate Professor Tanya Evans is Director of the **Centre for Applied History** at Macquarie University in Sydney Australia where she teaches public history and modern history. Her books include **Making Histories** (De Gruyter 2020, with Paul Ashton and Paula Hamilton as co-eds), the prize-winning **Fractured Families: Life On The Margins in Colonial New South Wales** (New South, 2015); **Swimming with the Spit, 100 Years of the Spit Amateur Swimming Club** (New South, 2016); with Pat Thane, **Sinners, Scroungers, Saints: Unmarried Motherhood in Modern England** (Oxford University Press, 2012) and **'Unfortunate Objects': Lone Mothers in Eighteenth-Century London** (Palgrave Macmillan, 2005). She has published many scholarly articles and book chapters on family history. She curates exhibitions and works as a consultant for television production companies making historical documentaries. She is currently finishing a book on the practice and meanings of family history in Australia, England and Canada and undertaking ARC-funded collaborative work with family and local historians on a social history and archaeological project in the Blue Mountains.
+: Associate Professor Tanya Evans is Director of the [*Centre for Applied History*](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at Macquarie University in Sydney Australia where she teaches public history and modern history. Her books include *Making Histories* (De Gruyter 2020, with Paul Ashton and Paula Hamilton as co-eds), the prize-winning *Fractured Families: Life On The Margins in Colonial New South Wales* (New South, 2015); *Swimming with the Spit, 100 Years of the Spit Amateur Swimming Club* (New South, 2016); with Pat Thane, *Sinners, Scroungers, Saints: Unmarried Motherhood in Modern England* (Oxford University Press, 2012) and *'Unfortunate Objects': Lone Mothers in Eighteenth-Century London** (Palgrave Macmillan, 2005). She has published many scholarly articles and book chapters on family history. She curates exhibitions and works as a consultant for television production companies making historical documentaries. She is currently finishing a book on the practice and meanings of family history in Australia, England and Canada and undertaking ARC-funded collaborative work with family and local historians on a social history and archaeological project in the Blue Mountains.
 : **Contact** tanya(dot)evans(at)mq(dot)edu(dot)au
 
 **Dr Steven Farram**<br />
