@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: ANZPHN
 subtitle: Australia and New Zealand Public History Network
-logo: /assets/images/old_photos_small.jpg
+logo: /assets/images/old_photos_square.jpg
 email:
 description: >- # this means to ignore newlines until "baseurl:"
  A website for the ANZPHN.
@@ -93,7 +93,7 @@ defaults:
       layout: single
       author_profile: true
 
-teaser: /assets/images/old_photos_2_big.jpg
+teaser: /assets/images/old_photos_2_banner.jpg
 caption: "© State Library of NSW. Photo by Joy Lai"
 
 category_archive:

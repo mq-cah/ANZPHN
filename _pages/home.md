@@ -3,15 +3,15 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_image: /assets/images/old_photos_2_big.jpg
+  overlay_image: /assets/images/old_photos_2_banner.jpg
   caption: "© State Library of NSW. Photo by Joy Lai"
 excerpt: >
   Australia and New Zealand Public History Network
 feature_row:
-  - image_path: /assets/images/old_photos_small.jpg
+  - image_path: /assets/images/old_photos_1_small.jpg
     alt: news
     title: News
-    excerpt: See our latests posts
+    excerpt: See our latest posts
     url: /posts/
     btn_class: btn--primary
     btn_label: See posts
