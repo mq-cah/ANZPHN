@@ -3,18 +3,18 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_image: /assets/images/blue_mountain_banner.jpg
+  overlay_image: /assets/images/old_photos_2_big.jpg
 excerpt: >
   Australia and New Zealand Public History Network
 feature_row:
-  - image_path: /assets/images/blue_mountain_medium.jpeg
+  - image_path: /assets/images/old_photos_small.jpg
     alt: news
     title: News
     excerpt: See our latests posts
     url: /posts/
     btn_class: btn--primary
     btn_label: See posts
-  - image_path: /assets/images/blue_mountain_medium.jpeg
+  - image_path: /assets/images/art_gallery.jpg
     alt: the team
     title: Team
     excerpt: Meet the team.

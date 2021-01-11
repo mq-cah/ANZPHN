@@ -93,7 +93,7 @@ defaults:
       layout: single
       author_profile: true
 
-teaser: /assets/images/blue_mountain_medium.jpeg
+teaser: /assets/images/old_photos_2_big.jpg
 
 category_archive:
   type: liquid
