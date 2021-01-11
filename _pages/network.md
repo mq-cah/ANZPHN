@@ -1,7 +1,7 @@
 ---
-title: *Contact*  "The Network"
-permalink: *Contact*  /network/
-toc: *Contact*  true
+title: "The Network"
+permalink: /network/
+toc: true
 ---
 ## People
 Alphabetical order by last name.
