@@ -119,6 +119,9 @@ Alphabetical order by last name.
 **Professor Andrew May**<br />
 : **Contact** a(dot)may(at)unimelb(dot)edu(dot)au
 
+**Dr Jane McCabe**<br />
+: **Contact** mccabehistory(at)gmail(dot)com
+
 **Professor Janet McCalman**<br />
 : **Contact** j(dot)mccalman(at)unimelb(dot)edu(dot)au
 
