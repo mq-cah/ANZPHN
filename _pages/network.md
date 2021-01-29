@@ -188,7 +188,7 @@ Alphabetical order by last name.
 : **Contact** ciyeats(at)gmail(dot)com
 
 ## Organisation
-Alphabetical order.
+Alphabetical order
 ### A-D
 ### E-H
 **History Council of NSW (HCNSW)**<br />
@@ -200,6 +200,7 @@ Alphabetical order.
 ### U-Z
 
 ## Projects
+Alphabetical order
 ### A-D
 ### E-H
 ### I-L
@@ -207,7 +208,7 @@ Alphabetical order.
 ### Q-T
 **Slow' digitisation, community heritage and the objects of Martindale Hall**
 : **Project Description** This project aims to investigate how community history, heritage, and cultural collections can be better preserved and made accessible through slow digitisation techniques. The project will generate new interdisciplinary knowledge about Martindale Hall, SA, the historically significant objects it contains, and digitisation. Expected outcomes include a new method that embeds digitisation in historical and cultural knowledge, and assists organisations to make sustainable decisions about when and how to digitise. Benefits include improved public access to significant cultural heritage assets, return on investment for local history organisations, and protection of cultural heritage places and objects by the communities that care for them.
-: **Further Info** "ARC project SR200200900.
+: **Further Info** ARC project SR200200900.
 : **Team** Tully Barnett, Jane Haggis, Penny Edmonds, Margaret Allen (historians), Heather Burke and Claire Smith (archaeologists).
 : **Contact**
 

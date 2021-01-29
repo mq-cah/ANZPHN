@@ -10,5 +10,7 @@ title: "Resources"
 * Evans, T. (2019) ‘Discovering violence in the family’, in Piper, A. and Stevenson, A. (eds) *Gender violence in Australia: historical perspectives*. Clayton, Victoria: Monash University Publishing, pp. 20–23.
 * Evans, T. (2018) ‘Enhancing student engagement through flipping: a case study in Australian History’, *The History Teacher*, 51(4), pp. 611–638.
 
-### RIS
-[Download the RIS here]({{ site.url }}/assets/test_list.ris).
+### Reference Manager Files
+Download these files and import them into your reference manager of choice:
+* [RIS]({{ site.url }}/assets/test_list.ris) (e.g. EndNote)
+* [BIB]({{ site.url }}/assets/test_list.bib) (e.g. LaTeX and BibTeX)
