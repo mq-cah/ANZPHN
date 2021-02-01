@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ANZPHN
-subtitle: Australia and New Zealand Public History Network
+subtitle:
 logo: /assets/images/old_photo_logo.jpg
 email:
 description: >- # this means to ignore newlines until "baseurl:"
  A website for the ANZPHN.
 twitter_username: username
-minimal_mistakes_skin: air
+minimal_mistakes_skin: contrastPermalink
 search: true
 
 # Build settings
