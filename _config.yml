@@ -20,7 +20,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
  A website for the ANZPHN.
 twitter_username: username
-minimal_mistakes_skin: contrastPermalink
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
