@@ -10,7 +10,7 @@ Alphabetical order by last name.
 : **Contact**  paul(dot)arthur(at)ecu(dot)edu(dot)au
 
 **Professor Paul Ashton**<br />
-: Paul Ashton (PHA, FRSN) is Professor of Public History at UTS. He is also Director and Co-Founder of [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history), University of Technology Sydney, Adjunct at the [Centre for Creative and Cultural Research](https://www.canberra.edu.au/research/faculty-research-centres/cccr), University of Canberra, and Adjunct at the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history), Macquarie University. He is also Co-Director of the centre for Creative Practice and Cultural Economy and Director of UTS Shopfront, a unit that works with community groups
+: Paul Ashton is adjunct professor at the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at Macquarie University and founding co-director of the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at the University of Technology Sydney where he also holds an adjunct professorship. He has authored, co-authored, edited and co-edited 36 books. In 2020 he was awarded the NSW History Council's Annual History Citation for outstanding contributions to public and Australian history.
 : **Contact**  Paul(dot)Ashton(at)uts(dot)edu(dot)au
 
 **Dr Alison Atkinson-Phillips**<br />
