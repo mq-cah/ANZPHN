@@ -1,6 +1,6 @@
 ---
 permalink: /resources/
-title: "Resources"
+title: "AANZPHN Resources"
 ---
 
 ## Bibliography
