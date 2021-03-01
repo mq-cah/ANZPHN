@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "ANZPHN"
   avatar : "/assets/images/old_photos_square.jpg"
-  bio    : "The AANZPHN is a network for Public Historians across Australasia to connect and stay up to date on the most recent research"
+  bio    : "The AANZPHN is a network for Public Historians across Australasia to connect and stay up to date on the most recent research and events."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

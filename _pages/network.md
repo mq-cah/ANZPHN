@@ -13,11 +13,20 @@ Alphabetical order by last name.
 : Paul Ashton is adjunct professor at the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at Macquarie University and founding co-director of the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at the University of Technology Sydney where he also holds an adjunct professorship. He has authored, co-authored, edited and co-edited 36 books. In 2020 he was awarded the NSW History Council's Annual History Citation for outstanding contributions to public and Australian history.
 : **Contact**  Paul(dot)Ashton(at)uts(dot)edu(dot)au
 
+**Professor Michelle Arrow** <br />
+: Michelle Arrow is a Professor at Macquarie University, Sydney, who has published extensively on Australian History and Media (particularly television).
+: **Contact** Michelle(dot)Arrow(at)mq(dot)edu(dot)au
+
 **Dr Alison Atkinson-Phillips**<br />
 : **Contact**  Alison(dot)Atkinson-Phillips(at)newcastle(dot)ac(dot)uk
 
 **Associate Professor Katie Barclay**<br />
+: Katie Barclay is Deputy Director of the [ARC Centre of Excellence in the History of Emotions](http://www.historyofemotions.org.au/) and Associate Professor in History, University of Adelaide. Her research explores the intersections of emotion, family and gender. She is especially interested in how families pass on their various 'inheritances' across generations and she works collaboratively with the public to explore this topic.
 : **Contact**  katie(dot)barclay(at)adelaide(dot)edu(dot)au
+
+**Dr Joel Barnes, Postdoctoral Research Fellow**<br />
+: Joel Barnes is a Postdoctoral Research Fellow at [the Institute for Advanced Studies in the Humanities](https://iash.uq.edu.au/) at the University of Queensland, working on the international [Science and Religion: Exploring the Spectrum Project](https://sciencereligionspectrum.org/). In 2018–20 they were Research Associate in the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at UTS, where they were one of the organisers of the Centre's public history activities such as the popular Public History Hour, which ran for much of 2020. With Dr Chelsea Barnett, they co-organise *Historians at the Movies Australia*, a popular film watch party run each weekend on Twitter.
+: **Contact** joel(dot)barnes(at)uq(dot)edu(dot)au
 
 **Dr Tully Barnett**<br />
 : **Contact**  tully(dot)barnett(at)flinders(dot)edu(dot)au
@@ -44,6 +53,7 @@ Alphabetical order by last name.
 : **Contact**  nicole(at)nicolecama(dot)com(dot)au
 
 **Emeritus Professor David Carment**<br />
+: David is Emeritus Professor of History at Charles Darwin University and has worked at various universities, publishing extensively on Public History, Cultural Heritage and Public Memory.
 : **Contact**  dcarment(at)bigpond(dot)net(dot)au
 
 **Alicia Cerreto, Consulting Historian**<br />
@@ -63,6 +73,10 @@ Alphabetical order by last name.
 
 **Dr Patricia Curthoys**<br />
 : **Contact**  patricia(dot)curthoys(at)gmail(dot)com
+
+**Ms (Waskam) Emelda Davis**<br />
+: Ms (Waskam) Emelda Davis is part of the team at the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at UTS.
+: **Contact** assi(dot)pj(at)gmail(dot)com
 
 **Emeritus Professor Graeme Davison (AO)**<br />
 : **Contact**  graeme(dot)davison(at)monash(dot)edu
@@ -97,17 +111,31 @@ Alphabetical order by last name.
 : **Contact** kristyn(dot)harman(at)utas(dot)edu(dot)au
 
 **Dr Peter Hobbins**<br />
+: Peter is the Principal at [Artefact Heritage Services](https://www.artefact.net.au/). They are an award-winning historian who has published two books and over 20 academic articles in history and archaeology journals. Peter is passionate about public history and has led both online and face-to-face community history projects across NSW. With a PhD in history, their research experience spans international, national, state and local archives, plus interpretation of artefacts and heritage places. Peter’s expertise in Australian history leads to regular appearances in print, online and broadcast media, and they have delivered over 130 academic and community engagement presentations. A former marketing communications company director, Peter project managed a major 3-year historical archaeology research program at Sydney’s former North Head Quarantine Station. In 2020 Peter was the primary historian appearing in the ABC’s Australian Story episode on the 1918–19 ‘Spanish’ influenza pandemic.
 : **Contact** peter(dot)hobbins(at)artefact(dot)net(dot)au
 
 **Dr Ian Hodges**<br />
 : **Contact** ianhodges(at)grapevine(dot)com(dot)au
 
+**Randolph Hollingsworth, PhD**<br />
+: Retired university administrator and history faculty; frequently using and creating Open Educational Resources (inc. H-Net Commons, Wordpress and Drupal sites, Sophia, MERLOT, Wikipedia) in connection with social media accounts (inc. Twitter, Instagram, Facebook) - see their bio [here](https://authors.org.nz/author/dolph/) on the NZ Soc of Authors.
+: **Contact** hollings(at)mail(dot)h-net(dot)org
+
 ### I-L
-**Janine Irvine, PhD candidate**<br />
+**Janine Irvine, Independent writer/researcher, PhD Candidate**<br />
+: Janine Irvine is a PhD Candidate at Massey University whose thesis is currently under examination. Janine has previously worked as an independent researcher/writer publishing personal, family and community history books.
 : **Contact** irvine(dot)jja(at)xtra(dot)co(dot)nz
 
 **Michael Kelly, PHANZA President**<br />
 : **Contact** president(at)phanza(dot)org(dot)nz
+
+**Matilda Keynes, Doctoral Researcher** <br />
+: Matilda Keynes is a PhD candidate in the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at UTS. Their co-authored book, *Historical Justice and History Education* will be published by Palgrave McMillan in 2021, and their work has appeared in the *International Journal of Transitional Justice*, *Handbook in Historical Studies and Education* and *History of Education Review*.
+: **Contact** matilda(dot)keynes(at)gmail(dot)com
+
+**Dr Paul Kiem**<br />
+: Paul Kiem is an independent researcher, former secondary history teacher and President of the [History Teachers' Association of Australia](http://www.historyteacher.org.au/). They are also a Casual Education lecturer in History Method and an Industry Fellow at the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at UTS.
+: **Contact** pmkiem(at)ozemail(dot)com(dot)au
 
 **Seonaid Lewis, Senior research librarian**<br />
 : **Contact** Seonaid(dot)Lewis(at)aucklandcouncil(dot)govt(dot)nz
@@ -140,6 +168,10 @@ Alphabetical order by last name.
 **Elizabeth Offer, PhD Candidate**<br />
 : **Contact** ejoffer(at)students(dot)latrobe(dot)edu(dot)au
 
+**Karen Merle Pack, PhD Candidate**<br />
+: Karen Pack is an ordained minister and a doctoral candidate at Macquarie University, researching the lives of unmarried, Christian women in Australia involved in social justice activism motivated by their faith. Her passion is advocating for young queer people of faith. She specialises in the historical intersections of gender, faith and sexuality but has also written numerous articles on pastoral ethics and cross-cultural missions. She is an experienced educator and communicator, having lectured in Australia and internationally for over twenty years, including training pastors, chaplains, teachers and lay leaders throughout Africa, Asia and the Middle East.
+: **Contact** karen(dot)pack(at)hdr(dot)mq(dot)edu(dot)au
+
  **Michelle Patient**<br />
  : **Contact** thepatientgenie(at)gmail(dot)com
 
@@ -147,6 +179,7 @@ Alphabetical order by last name.
 : **Contact** m(dot)phillips(at)uq(dot)edu(dot)au
 
 **Associate Professor Tamson Pietsch**<br />
+: Tamson Pietsch is Associate Professor in Social and Political Sciences at UTS and Director of the [Australian Centre for Public History at UTS](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history). Her research focuses on the history of ideas and the global politics of knowledge, with a particular focus on institutions of knowledge and their publics.
 : **Contact** Tamson(dot)Pietsch(at)uts(dot)edu(dot)au
 
 **Dr Alana Piper**<br />
@@ -179,6 +212,7 @@ Alphabetical order by last name.
 : **Contact** imogen(dot)wegman(at)utas(dot)edu(dot)au
 
 **Dr Derek R. Whaley, Research Librarian**<br />
+: Derek R. Whaley is a Research Librarian at [Auckland Libraries](https://www.aucklandlibraries.govt.nz/) with a wide range of historical interests from medieval French royalty to North Auckland transportation and thoroughfares to the railroads of Santa Cruz County, California.
 : **Contact** derek(dot)whaley(at)aucklandcouncil(dot)govt(dot)nz
 
 **Associate Professor Nathan Wise**<br />
