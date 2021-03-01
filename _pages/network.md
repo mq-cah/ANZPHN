@@ -192,7 +192,7 @@ Alphabetical order
 ### A-D
 ### E-H
 **History Council of NSW (HCNSW)**<br />
-: **Contact** executive(at))historycouncilnsw(dot)org(dot)au
+: **Contact** executive(at)historycouncilnsw(dot)org(dot)au
 
 ### I-L
 ### M-P
