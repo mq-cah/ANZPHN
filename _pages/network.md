@@ -110,6 +110,9 @@ Alphabetical order by last name.
 **Associate Professor Kristyn Harman**<br />
 : **Contact** kristyn(dot)harman(at)utas(dot)edu(dot)au
 
+**Jillian Hiscock, Collections Manager & Volunteer Coordinator**<br />
+: **Contact** collections(at)historyvictoria(dot)org(dot)au
+
 **Dr Peter Hobbins**<br />
 : Peter is the Principal at [Artefact Heritage Services](https://www.artefact.net.au/). They are an award-winning historian who has published two books and over 20 academic articles in history and archaeology journals. Peter is passionate about public history and has led both online and face-to-face community history projects across NSW. With a PhD in history, their research experience spans international, national, state and local archives, plus interpretation of artefacts and heritage places. Peter’s expertise in Australian history leads to regular appearances in print, online and broadcast media, and they have delivered over 130 academic and community engagement presentations. A former marketing communications company director, Peter project managed a major 3-year historical archaeology research program at Sydney’s former North Head Quarantine Station. In 2020 Peter was the primary historian appearing in the ABC’s Australian Story episode on the 1918–19 ‘Spanish’ influenza pandemic.
 : **Contact** peter(dot)hobbins(at)artefact(dot)net(dot)au
@@ -122,7 +125,7 @@ Alphabetical order by last name.
 : **Contact** hollings(at)mail(dot)h-net(dot)org
 
 ### I-L
-**Janine Irvine, Independent writer/researcher, PhD Candidate**<br />
+**Janine Irvine, Independent Writer/Researcher, PhD Candidate**<br />
 : Janine Irvine is a PhD Candidate at Massey University whose thesis is currently under examination. Janine has previously worked as an independent researcher/writer publishing personal, family and community history books.
 : **Contact** irvine(dot)jja(at)xtra(dot)co(dot)nz
 
@@ -136,6 +139,14 @@ Alphabetical order by last name.
 **Dr Paul Kiem**<br />
 : Paul Kiem is an independent researcher, former secondary history teacher and President of the [History Teachers' Association of Australia](http://www.historyteacher.org.au/). They are also a Casual Education lecturer in History Method and an Industry Fellow at the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at UTS.
 : **Contact** pmkiem(at)ozemail(dot)com(dot)au
+
+**Dr Rebecca Le Get, Independent Researcher** <br />
+: Rebecca Le Get is an environmental historian and ecologist, who completed her PhD in May 2019. Her research has primarily focused upon the former grounds of tuberculosis hospitals from the late 19th to the mid-20th centuries in Victoria. She is interested how tuberculosis has influenced the development of increasingly urbanised landscapes in Australia.
+: **Contact** rebe(dot)le(dot)get(at)gmail(dot)com
+
+**Ms Deborah A. Lee-Talbot, Phd Candidate & Historian**<br />
+: Deborah Lee-Talbot is a historian fascinated by issues of materiality, religion, gender, and archives. These interests are currently being expressed, with financial support from a Scholarship at Deakin University, in her PhD thesis. This project is tentatively titled 'A feminist frontier? Analysing women’s experiences on evangelical sites in Oceania, 1861-1907.' She is also the owner/operator of [Colourful Histories](https://colourfulhistories.wordpress.com/) and on the committee of management with the [Professional Historians Association (Vic. & Tas.)](https://www.phavic.org.au/) as Publications Editor. Deborah volunteers with the [Langi Morgala Museum](https://victoriancollections.net.au/organisations/ararat-and-district-historical-society) (Ararat, Victoria), researching, processing and caring for the Pacific Collection there.
+: **Contact** colourfulhistories(at)gmail(dot)om
 
 **Seonaid Lewis, Senior research librarian**<br />
 : **Contact** Seonaid(dot)Lewis(at)aucklandcouncil(dot)govt(dot)nz
@@ -175,6 +186,11 @@ Alphabetical order by last name.
  **Michelle Patient**<br />
  : **Contact** thepatientgenie(at)gmail(dot)com
 
+ **Helen Penrose, Professional Historian**<br />
+ : Helen has been working as a professional historian in Victoria for over 25 years, and is a member of [PHA (Victoria & Tasmania)](https://www.phavic.org.au/).
+ : **Contact** hp(at)historysmiths(dot)com(dot)au
+
+
 **Professor Murray Phillips**<br />
 : **Contact** m(dot)phillips(at)uq(dot)edu(dot)au
 
@@ -195,14 +211,25 @@ Alphabetical order by last name.
 **Kerry Raymond**<br />
 : **Contact** kerry(dot)raymond(at)gmail(dot)com
 
+**Dr Alexandra Roginski, Research Fellow**<br />
+: Dr Alexandra Roginski is a research fellow with the Alfred Deakin Institute for Citizenship and Globalisation. Her work spans the history of science, anthropology and heritage studies, and she completed her PhD through the ANU in 2018 with a thesis examining the history of popular phrenology in Australia and Aotearoa New Zealand. She is the author of The Hanged Man and the Body Thief: Finding Lives in a Museum Mystery (Monash University Publishing, 2015), a book examining the lives of a young Aboriginal man whose remains ended up as part of the collection of Museum Victoria and the Scottish phrenologist who collected him. With a former career in journalism, publishing and communications, Alex is passionate about public scholarship. She has contributed to publications including The Age and the Australian Book Review, written and presented a podcast segment for My Marvellous Melbourne, appeared on ABC radio, and delivered public lectures at the National Portrait Gallery and Museum Victoria.
+: **Contact** alexandra(dot)roginski(at)deakin(dot)edu(dot)au
+
 **Emma Russell, Historian**<br />
 : **Contact** erussell(at)historyatwork(dot)com(dot)au
+
+**Dr Karen Schamberger, Curator**<br />
+: Dr Karen Schamberger is a curator and historian of mixed Austrian and Chinese Malaysian descent living on the unceded lands of the Ngunnawal and Ngambri people. She is currently working with the [Lambing Flat Folk Museum](https://lambingflatmuseum.webs.com/) to develop a display about the goldfields and is now in an exhibitions curator role at the [National Library of Australia](https://www.nla.gov.au/). She has previously worked at the National Museum of Australia, [Immigration Museum](https://museumsvictoria.com.au/immigrationmuseum/) and Deakin University. She is Vice President of the [Dragon Tails Association](https://www.dragontails.org.au/) which organises biennial Australasian conferences on Chinese diaspora history & heritage, a founding member and administrator of the [Australian Migration History Network](https://amigrationhn.wordpress.com/) and an Exhibition Reviews editor of Australian Historical Studies. Her PhD, *Identity, Belonging and Cultural Diversity in Australian Museums* (2016) explored the ways that objects mediate relations between people of different cultural backgrounds in Australian society and museums. She is interested in Australia's migration history, material culture and cross-cultural relations.
+: **Contact** karen(dot)schamberger(at)gmail(dot)com
 
 **Mary Sheehan, Professional Historian**<br />
 : **Contact** mary(at)livinghistories(dot)net(dot)au
 
 **Professor Lucy Taksa**<br />
 : **Contact** lucy(dot)taksa(at)mq(dot)edu(dot)au
+
+**Diana Thorp**<br />
+: **diana(dot)thorp(at)bigpond(dot)com**
 
 ### U-Z
 **Dr Cheryl Ware**<br />
@@ -220,6 +247,10 @@ Alphabetical order by last name.
 
 **Ms Christine Yeats**<br />
 : **Contact** ciyeats(at)gmail(dot)com
+
+**Dr Linda Young, Honourary Fellow** <br />
+: Honorary Fellow at Deakin University
+: **Contact** linda(dot)young(at)deakin(dot)edu(dot)au
 
 ## Organisation
 Alphabetical order
