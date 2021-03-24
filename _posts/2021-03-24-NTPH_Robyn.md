@@ -4,6 +4,7 @@ author: robyn smith
 header:
   image: assets/images/Barrow_Creek.jpg
   caption: "Barrow Creek Tele Station. © Museums Victoria"
+  teaser: assets/images/Barrow_Creek.jpg
 categories:
   - "Public History"
 tags:

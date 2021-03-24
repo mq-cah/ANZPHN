@@ -4,6 +4,7 @@ author: paul and paula
 header:
   image: assets/images/Paul_Ashton_Photos/DiLeeFairfieldCityMuseum2019.jpeg
   caption: "© Paul Ashton"
+  teaser: assets/images/Paul_Ashton_Photos/DiLeeFairfieldCityMuseum2019.jpeg
 categories:
   - "Public History"
 tags:
