@@ -22,3 +22,10 @@ paul ashton:
     links:
     - label: "Research Profile"
       url: https://profiles.uts.edu.au/Paul.Ashton
+robyn smith:
+    name: "Robyn Smith"
+    bio: "Dr Robyn Smith is a Conjoint Fellow at the University of Newcastle, a PhD (Political History), Master of Cultural Heritage and Bachelor of Arts (Journalism & Anthropology) from Darwin. She is well written on the history, heritage and politics of the Northern Territory and is presently researching massacre sites in the NT for the UoN’s Colonial Frontier Massacres project."
+    avatar: assets/images/people/RobynSmith.jpg
+    links:
+    - label: "Research Profile"
+      url: https://www.newcastle.edu.au/profile/robyn-smith
