@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/art_gallery_ratio4_3.jpg
     alt: public history resources
     title: Resources
-    excerpt: Download references and stay up to date on funding opportunities
+    excerpt: Bibliography and funding opportunities
     url: /resources/
     btn_class: btn--primary
     btn_label: The team
