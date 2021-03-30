@@ -17,16 +17,16 @@ feature_row:
     btn_class: btn--primary
     btn_label: See posts
   - image_path: /assets/images/art_gallery_ratio4_3.jpg
-    alt: the team
-    title: Team
-    excerpt: Meet the team.
-    url: /team/
+    alt: public history resources
+    title: Resources
+    excerpt: Download references and stay up to date on funding opportunities
+    url: /resources/
     btn_class: btn--primary
     btn_label: The team
   - image_path: /assets/images/blue_mountain_medium.jpeg
     alt: about
     title: About
-    excerpt: Learn more about us and our project
+    excerpt: Learn more about the project
     url: /about/
     btn_class: btn--primary
     btn_label: Learn more    
