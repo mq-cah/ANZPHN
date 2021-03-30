@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/old_photos_1_banner.jpg
   caption: "© State Library of NSW. Photo by Joy Lai"
 excerpt: >
-  AANZPHN
+  AAPHN
 feature_row:
   - image_path: /assets/images/old_photos_2_small.jpg
     caption: "© State Library of NSW. Photo by Joy Lai"

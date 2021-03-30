@@ -1,6 +1,6 @@
 ---
 permalink: /resources/
-title: "AANZPHN Resources"
+title: "AAPHN Resources"
 toc: true
 ---
 

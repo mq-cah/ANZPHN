@@ -18,7 +18,7 @@ subtitle: Home
 logo: /assets/images/Buecher-lineart.png
 email:
 description: >- # this means to ignore newlines until "baseurl:"
- A website for the AANZPHN.
+ A website for the AAPHN.
 twitter_username: username
 minimal_mistakes_skin: contrast
 search: true
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "ANZPHN"
+  name   : "AAPHN"
   avatar : "/assets/images/old_photos_square.jpg"
-  bio    : "The AANZPHN is a network for Public Historians across Australasia to connect and stay up to date on the most recent research and events."
+  bio    : "The AAPHN is a network for Public Historians across Australasia to connect and stay up to date on the most recent research and events."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
