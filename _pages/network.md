@@ -3,10 +3,12 @@ title: "The Network"
 permalink: /network/
 toc: true
 ---
-If you would like your information/projects/organisations listed please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at arts.CAH@mq.edu.au
+Browse the many wonderful specialists, projects and organisations that comprise our vast Australasian network.
+
+If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>
 
 ## People
-Alphabetical order by last name.
+
 ### A-D
 **Professor Paul Arthur**<br />
 : **Contact**  paul(dot)arthur(at)ecu(dot)edu(dot)au
@@ -254,39 +256,69 @@ Alphabetical order by last name.
 : Honorary Fellow at Deakin University
 : **Contact** linda(dot)young(at)deakin(dot)edu(dot)au
 
-## Organisation
-Alphabetical order
-### A-D
-**Australian Centre for Public History (ACPH)**	<br />
-: **Contact** Tamson Pietsch at tamson.pietsch@uts.edu.au
-
-### E-H
-**History Council of NSW (HCNSW)**<br />
-: **Contact** executive(at)historycouncilnsw(dot)org(dot)au
-
-### I-L
-### M-P
-### Q-T
-### U-Z
-
 ## Projects
-Alphabetical order
+
 ### A-D
+
 ### E-H
+
+**Historians at the Movies (HATM)**
+: **Project Description** Historians at the Movies Australia, or HATMAus, is a weekly live watch party on Twitter. Hosted by Dr Joel Barnes and Dr Chelsea Barnett, each Sunday evening we watch a film and live-tweet our way through, using the hashtag #HATMAus. Born at the beginning of COVID-19 lockdown as a way to maintain connection and conversation, #HATMAus has transformed into a community of film lovers and friends. We historicise, we talk, we share memories, insights, and gifs. Best of all, we welcome everyone, historians and non-historians alike! 
+: **Status** Active
+: **Website** <https://historiansatthemoviesaustralia.com/>
+
 ### I-L
+
 **Inheriting the Family AHRC Networking Grant**
 : **Project Description** Inheriting the Family is an AHRC-funded network that explores the role of emotion in explaining why some objects and stories (and not others) are transmitted across generations and from the private sphere of the family to public spaces like museums and archives. The network brings together academics from across the world, along with heritage, museum and family history professionals, and members of the public with an interest in family history and inheritance.
 : **Status** Finished
-: **Team** https://inheritingthefamily.org/meet-the-team/
-: **Website** https://inheritingthefamily.org/
+: **Team** <https://inheritingthefamily.org/meet-the-team/>
+: **Website** <https://inheritingthefamily.org/>
+
+**Kentucky Women in the Civil Rights Era (KYWCRH)**
+: **Project Description** This site is part of a community outreach program at the University of Kentucky that seeks to collaborate with any interested individuals or organizations who wish to focus on the participation of Kentucky women in the twentieth century civil rights era. Users of this site can explore the many different resources in order to analyze the structure and dynamics of the civil rights movement in Kentucky.
+: **Status** Active
+: **Website** <http://www.kywcrh.org/>
+
+**Kentucky Woman Suffrage Project (KWSP)**
+: **Project Description** The KWSP Crowdsourcing Project allows for anyone to contribute information about the suffrage history of their Kentucky county.
+: **Status** Active
+: **Website** <https://networks.h-net.org/kywomansuffrage>
 
 ### M-P
+
 ### Q-T
+
 **'Slow' digitisation, community heritage and the objects of Martindale Hall**
 : **Project Description** This project aims to investigate how community history, heritage, and cultural collections can be better preserved and made accessible through slow digitisation techniques. The project will generate new interdisciplinary knowledge about Martindale Hall, SA, the historically significant objects it contains, and digitisation. Expected outcomes include a new method that embeds digitisation in historical and cultural knowledge, and assists organisations to make sustainable decisions about when and how to digitise. Benefits include improved public access to significant cultural heritage assets, return on investment for local history organisations, and protection of cultural heritage places and objects by the communities that care for them.
-: **Status** Active
 : **Further Info** ARC project SR200200900.
+: **Status** Active
 : **Team** Tully Barnett, Jane Haggis, Penny Edmonds, Margaret Allen (historians), Heather Burke and Claire Smith (archaeologists).
-: **Contact**
 
+### U-Z
+
+
+
+## Organisations
+
+### A-D
+
+**Australian Centre for Public History (ACPH)**
+: **Description** The Australian Centre for Public History (ACPH) is a critical hub for public history in Australia. We provide a hub for history at UTS and through our research and activities, we seek to promote the practice and understanding of public history within academia and the broader community.
+: **Website** <https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history>
+: **Contact** <tamson.pietsch@uts.edu.au>
+
+### E-H
+**History Council of NSW (HCNSW)**
+: **Description** The History Council of New South Wales (HCNSW) was established in 1995.  It is a not-for-profit membership association, and a registered charity.  It is supported by Create NSW through an annual grant under the Arts & Cultural Development Program, and through partnerships with large cultural organisations.
+: **Website** <https://historycouncilnsw.org.au/>
+: **Contact** <admin@historycouncilnsw.org.au>
+
+### I-L
+### M-P
+**Professional Historians Association, Victoria & Tasmania (PHA Vic & Tas)**
+: **Description** A thriving, dynamic community of professional historians who communicate history in diverse ways.
+: **Website** <https://www.phavic.org.au/>
+
+### Q-T
 ### U-Z

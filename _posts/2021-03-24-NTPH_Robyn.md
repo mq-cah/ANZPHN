@@ -11,6 +11,7 @@ tags:
   - NT
   - PHA
   - Territories
+classes: wide
 ---
 
 Public history in the Northern Territory broadly reflects its official history. That is, few other than ‘official’ records exist in the colonial context and they are carefully crafted to avoid, ignore or obfuscate unpleasantries. Unfortunately, unpleasantries abound.

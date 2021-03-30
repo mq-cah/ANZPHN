@@ -10,6 +10,7 @@ categories:
 tags:
   - NZ
   - PHANZA
+classes: wide
 ---
 If public history is the creation of informed dialogue about the past, it is alive and well in many forms of historical endeavour practised in Aotearoa New Zealand. Common modes of presentation include oral histories, lectures, podcasts, websites, festivals, exhibitions, films, television, books, magazines, journals, games, re-enactments, walks, tours, signs, monuments and memorials. The historical fabric of people’s everyday lives can provide a significant interface.
 

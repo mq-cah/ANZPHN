@@ -11,6 +11,8 @@ tags:
   - NSW
   - ACT
   - PHA
+  - News
+classes: wide
 ---
 
 The practice of public history in New South Wales (NSW) can be traced
