@@ -17,6 +17,15 @@ Download these files and import them into your reference manager of choice:
 * Evans, T. (2019) ‘Discovering violence in the family’, in Piper, A. and Stevenson, A. (eds) *Gender violence in Australia: historical perspectives*. Clayton, Victoria: Monash University Publishing, pp. 20–23.
 * Evans, T. (2018) ‘Enhancing student engagement through flipping: a case study in Australian History’, *The History Teacher*, 51(4), pp. 611–638.
 
+## Web resources
+
+### Public History Websites
+* An Intimate Pandemic: The Community Impact of Influenza in 1919
+: https://www.rahs.org.au/an-intimate-pandemic-the-community-impact-of-influenza-in-1919/
+
+* Map of RAAF P-40 Kittyhawk Accidents in Australia between 1942 and 1946
+: https://public.tableau.com/profile/chao.sun#!/vizhome/AircraftCrash_0/KittyHawkAccidents
+
 ## Funding Opportunities
 
 ### Scholarships

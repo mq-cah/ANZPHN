@@ -3,6 +3,8 @@ title: "The Network"
 permalink: /network/
 toc: true
 ---
+If you would like your information/projects/organisations listed please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at arts.CAH@mq.edu.au
+
 ## People
 Alphabetical order by last name.
 ### A-D
@@ -255,6 +257,10 @@ Alphabetical order by last name.
 ## Organisation
 Alphabetical order
 ### A-D
+**Australian Centre for Public History (ACPH)**	<br />
+: **Contact** Tamson Pietsch at tamson.pietsch@uts.edu.au
+
+
 ### E-H
 **History Council of NSW (HCNSW)**<br />
 : **Contact** executive(at)historycouncilnsw(dot)org(dot)au
@@ -273,6 +279,7 @@ Alphabetical order
 ### Q-T
 **'Slow' digitisation, community heritage and the objects of Martindale Hall**
 : **Project Description** This project aims to investigate how community history, heritage, and cultural collections can be better preserved and made accessible through slow digitisation techniques. The project will generate new interdisciplinary knowledge about Martindale Hall, SA, the historically significant objects it contains, and digitisation. Expected outcomes include a new method that embeds digitisation in historical and cultural knowledge, and assists organisations to make sustainable decisions about when and how to digitise. Benefits include improved public access to significant cultural heritage assets, return on investment for local history organisations, and protection of cultural heritage places and objects by the communities that care for them.
+: **Status** Active
 : **Further Info** ARC project SR200200900.
 : **Team** Tully Barnett, Jane Haggis, Penny Edmonds, Margaret Allen (historians), Heather Burke and Claire Smith (archaeologists).
 : **Contact**
