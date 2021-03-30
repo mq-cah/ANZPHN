@@ -260,7 +260,6 @@ Alphabetical order
 **Australian Centre for Public History (ACPH)**	<br />
 : **Contact** Tamson Pietsch at tamson.pietsch@uts.edu.au
 
-
 ### E-H
 **History Council of NSW (HCNSW)**<br />
 : **Contact** executive(at)historycouncilnsw(dot)org(dot)au
@@ -275,6 +274,12 @@ Alphabetical order
 ### A-D
 ### E-H
 ### I-L
+**Inheriting the Family AHRC Networking Grant**
+: **Project Description** Inheriting the Family is an AHRC-funded network that explores the role of emotion in explaining why some objects and stories (and not others) are transmitted across generations and from the private sphere of the family to public spaces like museums and archives. The network brings together academics from across the world, along with heritage, museum and family history professionals, and members of the public with an interest in family history and inheritance.
+: **Status** Finished
+: **Team** https://inheritingthefamily.org/meet-the-team/
+: **Website** https://inheritingthefamily.org/
+
 ### M-P
 ### Q-T
 **'Slow' digitisation, community heritage and the objects of Martindale Hall**
