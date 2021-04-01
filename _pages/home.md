@@ -22,11 +22,11 @@ feature_row:
     excerpt: Bibliography and funding opportunities
     url: /resources/
     btn_class: btn--primary
-    btn_label: The team
+    btn_label: Network resources
   - image_path: /assets/images/blue_mountain_medium.jpeg
     alt: about
     title: About
-    excerpt: Learn more about the project
+    excerpt: Learn more about the AAPHN
     url: /about/
     btn_class: btn--primary
     btn_label: Learn more    
