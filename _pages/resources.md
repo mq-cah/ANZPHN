@@ -3,7 +3,7 @@ permalink: /resources/
 title: "AAPHN Resources"
 toc: true
 ---
-If you would like to add published works, creative works, websites, funding opportunities etc. to this page, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>
+This Bibliography is still being compiled, so if you would like to add published works, creative works, websites, funding opportunities etc. to this page, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>
 
 ## Bibliography
 
