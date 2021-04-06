@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 ## The AAPHN
 The aim of the *Australian and Aotearoa NZ Public History Network* is to develop public history across Australasia by creating opportunities to communicate, meet and share knowledge among individuals and organisations who practice public and applied history in the academy, communities, industry and professions. We aim to promote teaching, research and engagements between these diverse communities and encourage best practice through an online portal.
