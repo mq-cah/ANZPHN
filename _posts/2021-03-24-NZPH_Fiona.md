@@ -35,7 +35,7 @@ Members of these groups do not typically venture into forms of historical expres
 The New Zealand government has funded history initiatives since the mid-nineteenth century. Initially this support was sporadic. Prior to 1854, Wiremu Maihi Te Rangikāheke produced numerous manuscripts while in Governor George Grey’s employment. John White was appointed to produce a six-volume history of Māori people through the 1880s. The official history of the First World War ran to five volumes. James Cowan prepared a history of the New Zealand Wars in the 1920s. The Centennial Branch of the Department of Internal Affairs produced a suite of publications for the nation’s centennial celebrations in 1940.
 
 <figure>
-  <img src="/assets/images/TePapa.jpg" alt="image of a statue of three figures on an ocean going voyage">
+  <img src="{{ site.baseurl }}/assets/images/TePapa.jpg" alt="image of a statue of three figures on an ocean going voyage">
   <figcaption>Three figures in the prow of Mātāwhaorua, an ocean voyaging canoe, represent the discovery and naming of Aotearoa. Hine Te Apārangi (left) points to the long white cloud that signals the presence of a landmass. The figures at the top and right are her husband Kupe, the renowned explorer, and Pekahourangi, his tohunga (ritual expert). William Trethewey created this plaster sculpture for the 1939-40 Centennial Exhibition in Wellington, where it was photographed by Leslie Adkin. A bronze version was unveiled on the Wellington waterfront in 2000.
   Museum of New Zealand Te Papa Tongarewa A.007274.</figcaption>
 </figure>

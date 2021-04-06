@@ -10,26 +10,26 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/old_photos_2_small.jpg
     caption: "© State Library of NSW. Photo by Joy Lai"
-    alt: news
-    title: News
-    excerpt: See our latest posts
+    alt: posts
+    title: Posts
+    excerpt: Browse
     url: /posts/
     btn_class: btn--primary
     btn_label: See posts
   - image_path: /assets/images/art_gallery_ratio4_3.jpg
     alt: public history resources
     title: Resources
-    excerpt: Bibliography and funding opportunities
+    excerpt: Bibliography, funding, and more
     url: /resources/
     btn_class: btn--primary
-    btn_label: Network resources
+    btn_label: Browse
   - image_path: /assets/images/blue_mountain_medium.jpeg
-    alt: about
-    title: About
-    excerpt: Learn more about the AAPHN
-    url: /about/
+    alt: network
+    title: Network
+    excerpt: Browse the AAPHN
+    url: /network/
     btn_class: btn--primary
-    btn_label: Learn more    
+    btn_label: Browse    
 ---
 
 {% include feature_row %}
