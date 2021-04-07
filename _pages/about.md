@@ -8,6 +8,18 @@ The aim of the *Australian and Aotearoa NZ Public History Network* is to develop
 
 There are a number of history organisations across Australia such as *[Museums Australia](https://www.amaga.org.au/)*, *[Australian Historical Association](https://www.theaha.org.au/)*, the several *Professional Historians Associations*, *[History Council of NSW](https://historycouncilnsw.org.au/)*, several *Family and Local Historical Societies* (some helpfully listed by the [National Library](https://www.nla.gov.au/research-guides/family-history/family-history-societies)), Heritage Councils, *[AIATSIS](https://aiatsis.gov.au/)*, the several State and Territory *[History Teachers Associations](http://www.historyteacher.org.au/)*, *[Oral History Australia](https://oralhistoryaustralia.org.au/)* and the *[Federation of Australian Historical Societies](https://www.history.org.au/)*. However, members of these groups who understand themselves as public historians don’t always communicate effectively with each other about public history. This network will encourage national and international communication and collaboration at a time when we need to emphasise the cultural and social benefits of public history learning, teaching and community engagement for everyone.
 
+### The Network
+
+In order to create opportunities to "*communicate, meet and share knowledge among individuals and organisations who practice public and applied history in the academy, communities, industry and professions*" the AAPHN is home to a vast network of specialists and enthusiasts who have shared contact details and bios. This way members of our community can collaborate and share their vast expertise with one another, and members of the broader community are able to reach out to appropriate specialists. The network is available [here](/network/), and if you would like to be added to the network please contact us at <arts.CAH@mq.edu.au>.
+
+### AAPHN Blog
+
+In order to "*promote teaching, research and engagements between these diverse communities*" through the AAPHN, this website is home to a [blog](/posts/) where history practitioners and enthusiasts from across Australia and Aotearoa NZ can disseminate their research, history and culture. If you would like to contribute to this resource please send through a short (~150 word) description of your proposed post to <arts.CAH@mq.edu.au> and we will inform you of the rest of the submission process. We are accepting entries from all members of our network on any topic to do with public history.
+
+### AAPHN Newsletter
+
+Bi-annually we will send out our virtual AAPHN newsletter through our email contact list. This newsletter will contain information about upcoming events and funding opportunities, and will also highlight some of the popular posts from this website. If you would like to receive this newsletter (as well as other communications from the AAPHN) or would like to have an event or funding opportunity advertised, please subscribe to our mailing list by contacting us at <arts.CAH@mq.edu.au>.
+
 ## The Team
 ### Associate Professor Tanya Evans
 

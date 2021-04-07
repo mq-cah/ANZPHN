@@ -3,7 +3,7 @@ permalink: /resources/
 title: "AAPHN Resources"
 toc: true
 ---
-This Bibliography is still being compiled, so if you would like to add published works, creative works, websites, funding opportunities etc. to this page, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>
+This Bibliography is still being compiled, so if you would like to add published works, creative works, websites, and funding opportunities to this page, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>.
 
 ## Bibliography
 
@@ -52,3 +52,12 @@ Download these files and import them into your reference manager of choice:
 : **Application**: Follow Instructions on the [MQ Website](https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/history,-heritage-and-environmental-change-in-a-deindustrialised-landscape2)
 
 ### Grants
+
+* Community Heritage Grants – 2021 Round
+: **Description**:
+: The Community Heritage Grants (CHG) program provides grants of up to $15,000 (GST inclusive) to community organisations such as libraries, archives, museums, genealogical and historical societies, multicultural and Indigenous groups. Successful CHG recipients are also given access to online workshops.
+: The grants are provided to assist with the preservation of locally owned, but nationally significant collections of materials that are publicly accessible including artefacts, letters, diaries, maps, photographs, and audio visual material. The grants are also aimed at helping make these collections of materials more publicly accessible.
+: **Type**: Community organisation grant
+: **Closing Date**: Monday 10 May 2021
+: **More Information**: <https://www.nla.gov.au/chg/guidelines>
+: **Application**: Follow instructions on the [NLA website](https://www.nla.gov.au/content/community-heritage-grants-4)

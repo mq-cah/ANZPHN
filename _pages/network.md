@@ -3,9 +3,7 @@ title: "The Network"
 permalink: /network/
 toc: true
 ---
-Browse the many wonderful specialists, projects and organisations that comprise our vast network of practitioners.
-
-If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>
+Browse the many wonderful specialists, projects and organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>
 
 ## People
 

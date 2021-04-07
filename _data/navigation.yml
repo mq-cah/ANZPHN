@@ -1,13 +1,15 @@
 main:
   - title: "About"
     url: /about/
-  - title: "The Network"
-    url: /network/
   - title: "Posts"
     url: /posts/
+  - title: "The Network"
+    url: /network/
   - title: "Resources"
     url: /resources/
-  - title: "Post Topics"
+  - title: "Events"
+    url: /events/
+  - title: "Blog Topics"
     url: /categories/
-  - title: "Post Tags"
+  - title: "Blog Tags"
     url: /tags/
