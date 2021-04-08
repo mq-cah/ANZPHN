@@ -223,7 +223,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 
 **Dr Karen Schamberger, Curator**<br />
 : Dr Karen Schamberger is a curator and historian of mixed Austrian and Chinese Malaysian descent living on the unceded lands of the Ngunnawal and Ngambri people. She is currently working with the [Lambing Flat Folk Museum](https://lambingflatmuseum.webs.com/) to develop a display about the goldfields and is now in an exhibitions curator role at the [National Library of Australia](https://www.nla.gov.au/). She has previously worked at the National Museum of Australia, [Immigration Museum](https://museumsvictoria.com.au/immigrationmuseum/) and Deakin University. She is Vice President of the [Dragon Tails Association](https://www.dragontails.org.au/) which organises biennial Australasian conferences on Chinese diaspora history & heritage, a founding member and administrator of the [Australian Migration History Network](https://amigrationhn.wordpress.com/) and an Exhibition Reviews editor of Australian Historical Studies. Her PhD, *Identity, Belonging and Cultural Diversity in Australian Museums* (2016) explored the ways that objects mediate relations between people of different cultural backgrounds in Australian society and museums. She is interested in Australia's migration history, material culture and cross-cultural relations.
-: **Contact** <karen.schamberger@gmail.com>
+: **Contact** <www.historyobjectsculture.wordpress.com>
 
 **Mary Sheehan, Professional Historian**<br />
 : **Contact** <mary@livinghistories.net.au>
