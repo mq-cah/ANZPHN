@@ -27,7 +27,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <katie.barclay@adelaide.edu.au>
 
 **Dr Joel Barnes, Postdoctoral Research Fellow**<br />
-: Joel Barnes is a Postdoctoral Research Fellow at [the Institute for Advanced Studies in the Humanities](https://iash.uq.edu.au/) at the University of Queensland, working on the international [Science and Religion: Exploring the Spectrum Project](https://sciencereligionspectrum.org/). In 2018–20 they were Research Associate in the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at UTS, where they were one of the organisers of the Centre's public history activities such as the popular Public History Hour, which ran for much of 2020. With Dr Chelsea Barnett, they co-organise *Historians at the Movies Australia*, a popular film watch party run each weekend on Twitter.
+: Joel Barnes is a Postdoctoral Research Fellow at [the Institute for Advanced Studies in the Humanities](https://iash.uq.edu.au/) at the University of Queensland, working on the international [Science and Religion: Exploring the Spectrum Project](https://sciencereligionspectrum.org/). In 2018–20 they were Research Associate in the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at UTS, where they were one of the organisers of the Centre's public history activities such as the popular Public History Hour, which ran for much of 2020. With Dr Chelsea Barnett, they co-organise *Historians at the Movies Australia*.
 : **Contact** <joel.barnes@uq.edu.au>
 
 **Dr Tully Barnett**<br />
@@ -100,7 +100,9 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Dr Steven Farram**<br />
 : **Contact** <Steven.Farram@cdu.edu.au>
 
-**Dr Stephen Gapps**<br />
+**Dr Stephen Gapps, HCNSW	President**<br />
+: Dr Stephen Gapps has a long-standing interest in public history, historical reenactments and the history and commemoration of the Australian Frontier Wars. His doctoral thesis was a history of historical reenactments.  Stephen has worked extensively as consultant historian in heritage, museums, film and television and history events and performances and has been a participant in and organizer of historical reenactments.
+: Stephen is a curator at the [Australian National Maritime Museum](https://www.sea.museum/), a Conjoint Lecturer at the University of Newcastle and President of the [History Council of NSW](https://historycouncilnsw.org.au/). He has written two award winning books and is currently working on his second Australian Frontier Wars history, focusing on the first Wiradjuri war of resistance 1822-1824.
 : **Contact** <stephen.gapps@gmail.com>
 
 **Associate Professor Geoff Ginn**<br />
@@ -108,6 +110,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 
 **Joanne Graves, Senior Research Librarian**<br />
 : **Contact** <Joanne.Graves@aucklandcouncil.govt.nz>
+
+**Professor Emeritus Paula Hamilton**<br />
+: Paula Hamilton is Adjunct Professor of History at the University of Technology, Sydney. She was involved in setting up and teaching in the public history program there from 1989 and was founding co-director of the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) and co-editor of [Public History Review journal](https://epress.lib.uts.edu.au/journals/index.php/phrj). She has worked in a range of historical projects with community groups, museums, heritage agencies and trade unions over thirty years. She has also published widely in oral history and memory studies. Her most recent books are [Making Histories](https://www.degruyter.com/document/doi/10.1515/9783110636352/html) (edited with Paul Ashton & Tanya Evans) de Gruyter publishers, Germany (new series in Public History edited by Mike Frisch and Indira Chowdhury) 2020; [Migration Memories: Oral History and Heritage in Australia](https://www.palgrave.com/gp/book/9783030177508) (edited with Kate Darian-Smith) Palgrave Memory Studies series, London 2019; [The Oxford Handbook of Public History](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199766024.001.0001/oxfordhb-9780199766024) (edited with James Gardner) Oxford University Press, New York, 2018
+: **Contact** <paula.hamilton@uts.edu.au>
 
 **Associate Professor Kristyn Harman**<br />
 : **Contact** <kristyn.harman@utas.edu.au>
@@ -225,6 +231,12 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Dr Karen Schamberger is a curator and historian of mixed Austrian and Chinese Malaysian descent living on the unceded lands of the Ngunnawal and Ngambri people. She is currently working with the [Lambing Flat Folk Museum](https://lambingflatmuseum.webs.com/) to develop a display about the goldfields and is now in an exhibitions curator role at the [National Library of Australia](https://www.nla.gov.au/). She has previously worked at the National Museum of Australia, [Immigration Museum](https://museumsvictoria.com.au/immigrationmuseum/) and Deakin University. She is Vice President of the [Dragon Tails Association](https://www.dragontails.org.au/) which organises biennial Australasian conferences on Chinese diaspora history & heritage, a founding member and administrator of the [Australian Migration History Network](https://amigrationhn.wordpress.com/) and an Exhibition Reviews editor of Australian Historical Studies. Her PhD, *Identity, Belonging and Cultural Diversity in Australian Museums* (2016) explored the ways that objects mediate relations between people of different cultural backgrounds in Australian society and museums. She is interested in Australia's migration history, material culture and cross-cultural relations.
 : **Contact** <www.historyobjectsculture.wordpress.com>
 
+**Associate Professor Heather Sharp**<br />
+: Dr Heather Sharp is currently working on a research project funded by the Swedish Research Council that investigates intersections of historical consciousness and moral consciousness. The focus of this history didaktik project is History teaching in secondary schools. She is working will colleagues in Sweden and Finland for this four year funded project (2018-2021). For more on her career and research see her more extensive bio [here](https://www.newcastle.edu.au/profile/heather-sharp#career).
+: **Contact** <heather.sharp@newcastle.edu.au>
+: **Profile** < https://www.newcastle.edu.au/profile/heather-sharp>
+: **Twitter** [@heathermedowie](https://twitter.com/heathermedowie)
+
 **Mary Sheehan, Professional Historian**<br />
 : **Contact** <mary@livinghistories.net.au>
 
@@ -265,7 +277,7 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 ### E-H
 
 **Historians at the Movies (HATM)**
-: **Project Description** Historians at the Movies Australia, or HATMAus, is a weekly live watch party on Twitter. Hosted by Dr Joel Barnes and Dr Chelsea Barnett, each Sunday evening we watch a film and live-tweet our way through, using the hashtag #HATMAus. Born at the beginning of COVID-19 lockdown as a way to maintain connection and conversation, #HATMAus has transformed into a community of film lovers and friends. We historicise, we talk, we share memories, insights, and gifs. Best of all, we welcome everyone, historians and non-historians alike! 
+: **Project Description** Historians at the Movies Australia, or HATMAus, is an occasional live watch party on Twitter. Hosted by Dr Joel Barnes and Dr Chelsea Barnett, we watch a film and live-tweet our way through, using the hashtag #HATMAus. Born at the beginning of COVID-19 lockdown as a way to maintain connection and conversation, #HATMAus has transformed into a community of film lovers and friends. We historicise, we talk, we share memories, insights, and gifs. Best of all, we welcome everyone, historians and non-historians alike! 
 : **Status** Active
 : **Website** <https://historiansatthemoviesaustralia.com/>
 
