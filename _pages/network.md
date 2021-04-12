@@ -234,7 +234,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Associate Professor Heather Sharp**<br />
 : Dr Heather Sharp is currently working on a research project funded by the Swedish Research Council that investigates intersections of historical consciousness and moral consciousness. The focus of this history didaktik project is History teaching in secondary schools. She is working will colleagues in Sweden and Finland for this four year funded project (2018-2021). For more on her career and research see her more extensive bio [here](https://www.newcastle.edu.au/profile/heather-sharp#career).
 : **Contact** <heather.sharp@newcastle.edu.au>
-: **Profile** < https://www.newcastle.edu.au/profile/heather-sharp>
+: **Profile** <https://www.newcastle.edu.au/profile/heather-sharp>
 : **Twitter** [@heathermedowie](https://twitter.com/heathermedowie)
 
 **Mary Sheehan, Professional Historian**<br />
