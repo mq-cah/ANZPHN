@@ -10,11 +10,11 @@ There are a number of history organisations across Australia such as *[Museums A
 
 ### The Network
 
-In order to create opportunities to "*communicate, meet and share knowledge among individuals and organisations who practice public and applied history in the academy, communities, industry and professions*" the AAPHN is home to a vast network of specialists and enthusiasts who have shared contact details and bios. This way members of our community can collaborate and share their vast expertise with one another, and members of the broader community are able to reach out to appropriate specialists. The network is available [here](/network/), and if you would like to be added to the network please contact us at <arts.CAH@mq.edu.au>.
+In order to create opportunities to "*communicate, meet and share knowledge among individuals and organisations who practice public and applied history in the academy, communities, industry and professions*" the AAPHN is home to a vast network of specialists and enthusiasts who have shared contact details and bios. This way members of our community can collaborate and share their vast expertise with one another, and members of the broader community are able to reach out to appropriate specialists. The network is available [here]({{ site.baseurl }}/network/), and if you would like to be added to the network please contact us at <arts.CAH@mq.edu.au>.
 
 ### AAPHN Blog
 
-In order to "*promote teaching, research and engagements between these diverse communities*" through the AAPHN, this website is home to a [blog](/posts/) where history practitioners and enthusiasts from across Australia and Aotearoa NZ can disseminate their research, history and culture. If you would like to contribute to this resource please send through a short (~150 word) description of your proposed post to <arts.CAH@mq.edu.au> and we will inform you of the rest of the submission process. We are accepting entries from all members of our network on any topic to do with public history.
+In order to "*promote teaching, research and engagements between these diverse communities*" through the AAPHN, this website is home to a [blog]({{ site.baseurl }}/posts/) where history practitioners and enthusiasts from across Australia and Aotearoa NZ can disseminate their research, history and culture. If you would like to contribute to this resource please send through a short (~150 word) description of your proposed post to <arts.CAH@mq.edu.au> and we will inform you of the rest of the submission process. We are accepting entries from all members of our network on any topic to do with public history.
 
 ### AAPHN Newsletter
 
