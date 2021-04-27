@@ -1,5 +1,5 @@
 ---
-title: "Public History in New South Wales "
+title: "Public History in New South Wales"
 author: paul and paula
 header:
   image: assets/images/Paul_Ashton_Photos/DiLeeFairfieldCityMuseum2019.jpeg
