@@ -10,8 +10,8 @@ This Bibliography is still being compiled, so if you would like to add published
 
 ### Reference Manager Files
 Download these files and import them into your reference manager of choice:
-* [RIS]({{ site.url }}/assets/test_list.ris) (e.g. EndNote)
-* [BIB]({{ site.url }}/assets/test_list.bib) (e.g. LaTeX and BibTeX)
+* [RIS]({{ site.baseurl }}/assets/test_list.ris) (e.g. EndNote)
+* [BIB]({{ site.baseurl }}/assets/test_list.bib) (e.g. LaTeX and BibTeX)
 
 ### Text
 * Hamilton, P., Ashton, P. and Evans, T. (2020) ‘Making Histories, Making Memories in Difficult Times’, in Ashton, P., Evans, T., and Hamilton, P. (eds) *Making Histories*. Berlin, Boston: De Gruyter Oldenbourg, pp. 1–8. doi: <https://doi.org/10.1515/9783110636352-001>.
