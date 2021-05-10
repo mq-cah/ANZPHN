@@ -186,6 +186,11 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Dr Lisa Murray**<br />
 : **Contact** <sydneyhistory@gmail.com>
 
+**Professor Bronwen Neil**<br />
+: Bronwen Neil is Professor of Ancient History at Macquarie, and member of the Macquarie University [Ancient Cultures Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache). She studied Linguistics, Classics and Ancient History at the University of Queensland (1987-1991), before undertaking a Master of Arts in Theological Research at Durham University, UK (1997/1998) and completing her PhD at Australian Catholic University in 1999. Subsequently, she joined the Centre for Early Christian Studies there (2000-2015), serving as Associate Director (2014-2015). From 2001-2005 she held an ARC Postgraduate Research Fellowship, while teaching in the School of Theology at ACU. In 2010 she was appointed the inaugural holder of the Burke Senior Lectureship in Ecclesiastical Latin, and in 2015 was promoted to Associate Professor. She was awarded an ARC Future Fellowship (2014-2018) and joined Macquarie University as Professor of Ancient History in 2017.
+: **Contact** <bronwen.neil@mq.edu.au>
+: **Research profile** For Bronwen's research and positions see her [ORCID Profile](https://orcid.org/0000-0002-6626-3693).
+
 **Elizabeth Offer, PhD Candidate**<br />
 : **Contact** <ejoffer@students.latrobe.edu.au>
 
@@ -274,6 +279,11 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 ## Projects
 
 ### A-D
+
+**Crises of Leadership in the Eastern Roman Empire (250-1000 CE)**
+: **Project Description** In 250 CE, after Rome was defeated in the Persian wars, the Roman empire seemed on the brink of destruction. By 1000 CE it had collapsed, due to multiple crises including: waves of mass migration, increasing demands for Roman citizenship, populism in government, religious extremism and food shortages due to war and climate change. These crises arose from complex problems that required strong and strategic leadership. There is a convergence between the challenges faced by Roman leaders then and those facing our leaders today.
+: **Status** Active
+: **Website** <https://www.mq.edu.au/research/research-centres-groups-and-facilities/groups/crises-of-leadership-in-the-eastern-roman-empire>
 
 ### E-H
 
