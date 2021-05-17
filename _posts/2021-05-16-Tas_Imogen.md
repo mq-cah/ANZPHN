@@ -2,9 +2,9 @@
 title: "Public History in Tasmania"
 author: imogen
 header:
-  image: assets/images/Paul_Ashton_Photos/DiLeeFairfieldCityMuseum2019.jpeg
-  caption: "Red Bridge at Campbell Town, Tasmania. Part of the Convict Brick Trail. Edoddridge: CC BY-SA 3.0."
-  teaser: assets/images/Paul_Ashton_Photos/DiLeeFairfieldCityMuseum2019.jpeg
+  image: assets/images/Bridge_Edoddridge_3.0.jpg
+  caption: "Red Bridge at Campbell Town, Tasmania. Part of the Convict Brick Trail. [Edoddridge: CC BY-SA 3.0.]((https://en.wikipedia.org/wiki/Red_Bridge_(Tasmania)#/media/File:Red_Bridge_-_Campbell_Town,_Tasmania.JPG))"
+  teaser: /assets/images/Bridge_Edoddridge_3.0.jpg
 categories:
   - "Public History"
 tags:
@@ -30,8 +30,8 @@ On 15 February 2021, the Royal Society of Tasmania and the Tasmanian Museum and 
 Today, the largest history museums in Tasmania are the [Tasmanian Museum and Art Gallery (TMAG)](https://www.tmag.tas.gov.au/) and the [Queen Victoria Museum and Art Gallery (QVMag)](https://www.qvmag.tas.gov.au/Home), with combined visitor numbers exceeding 500,000 in 2018-19. The [Museum of Old and New Art (MONA)](https://mona.net.au/) includes some historical exhibits, but is not focussed on exploring historical themes or stories. Smaller museums and heritage centres can be found in every town, celebrating the local area or specific themes. The [National Trust](https://www.nationaltrust.org.au/) is active in Tasmania, although they only advertise eight properties in the state, so their reach is somewhat limited. TMAG manages two house museums in Hobart, Narryna and Markree, and local councils manage other sites, such as the former defensive batteries along the Derwent which have been turned into parks. Many of these houses and sites are popular as venues for exhibitions and art installations, or private functions. Most, including the parks, display at least some basic information about the history of the site, although this author doubts many read the signboards.
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/images/Bridge_Edoddridge_3.0.jpg" alt="image of a statue of three figures on an ocean going voyage">
-  <figcaption>Red Bridge at Campbell Town, Tasmania. The oldest surviving brick arch bridge in Australia and the oldest on a National Highway and part of the Convict Brick Track. Edoddridge: CC SA-BY 3.0. https://en.wikipedia.org/wiki/Red_Bridge_(Tasmania)#/media/File:Red_Bridge_-_Campbell_Town,_Tasmania.JPG</figcaption>
+  <img src="{{ site.baseurl }}/assets/images/Bridge_Edoddridge_3.0.jpg" alt="a red brick bridge over a river">
+  <figcaption>Red Bridge at Campbell Town, Tasmania. The oldest surviving brick arch bridge in Australia and the oldest on a National Highway and part of the Convict Brick Track. Edoddridge: CC SA-BY 3.0.</figcaption>
 </figure>
 
 # Volunteering
