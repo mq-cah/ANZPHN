@@ -39,6 +39,10 @@ Download these files and import them into your reference manager of choice:
 * Santa Cruz Trains: Railroads of the Monterey Bay Area
 : <https://www.santacruztrains.com/>
 
+* Teller of Yarns
+: **Description**: A collection of real Australian stories composed by an author, a researcher of history, and a passionate storyteller.
+: <https://www.tellerofyarns.com/>
+
 
 ## Funding Opportunities
 
