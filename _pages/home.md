@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/old_photos_1_banner.jpg
   caption: "© State Library of NSW. Photo by Joy Lai"
 excerpt: >
-  AAPHN
+  AAPHN is a network for practitioners and enthusiasts across Australasia to share research and collaborate.
 feature_row:
   - image_path: /assets/images/old_photos_2_small.jpg
     caption: "© State Library of NSW. Photo by Joy Lai"
