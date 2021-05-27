@@ -145,7 +145,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <matilda.keynes@gmail.com>
 
 **Dr Paul Kiem**<br />
-: Paul Kiem is an independent researcher, former secondary history teacher and President of the [History Teachers' Association of Australia](http://www.historyteacher.org.au/). They are also a Casual Education lecturer in History Method and an Industry Fellow at the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at UTS.
+: Paul Kiem is an independent researcher, former secondary history teacher and President of the [History Teachers' Association of Australia](http://www.historyteacher.org.au/). He is also a Casual Education lecturer in History Method and an Industry Fellow at the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at UTS.
 : **Contact** <pmkiem@ozemail.com.au>
 
 **Dr Rebecca Le Get, Independent Researcher** <br />
@@ -178,6 +178,9 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 
 **Professor Ann McGrath**<br />
 : **Contact** <ann.mcgrath@anu.edu.au>
+
+**Dr Fiona McKergow**
+: Fiona McKergow is preparing her awarded doctoral thesis on colonial textile culture in mid-nineteenth century Aotearoa New Zealand for publication. She has previously been a historical researcher, museum curator, and co-editor of two volumes: Looking Flash: Clothing in Aotearoa New Zealand (Auckland University Press, 2007) with Bronwyn Labrum and Stephanie Gibson and Te Hao Nui - The Great Catch: Object Stories from Te Manawa (Godwit/Random House, 2011) with Kerry Taylor.
 
 **Dr Tom Murray**<br />
 : **Contact** <tom.murray@mq.edu.au>
