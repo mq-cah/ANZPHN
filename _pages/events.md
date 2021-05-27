@@ -3,6 +3,8 @@ permalink: /events/
 title: "Events"
 toc: true
 toc_sticky: true
+excerpt: >
+  The AAPHN collates information regarding upcoming invents of interest to public history enthusiasts and practitioners and also sends out a bi-annual Newsletter summarising the year and looking forward to the future. 
 ---
 ## Upcoming Events
 Coming soon!
