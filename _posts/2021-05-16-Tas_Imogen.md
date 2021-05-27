@@ -5,6 +5,8 @@ header:
   image: assets/images/Bridge_Edoddridge_3.0.jpg
   caption: "Red Bridge at Campbell Town, Tasmania. Part of the Convict Brick Trail. [Edoddridge: CC BY-SA 3.0.]((https://en.wikipedia.org/wiki/Red_Bridge_(Tasmania)#/media/File:Red_Bridge_-_Campbell_Town,_Tasmania.JPG))"
   teaser: /assets/images/Bridge_Edoddridge_3.0.jpg
+excerpt: >
+  Tasmania has a complicated relationship between culture, conservation and development, and Imogen Wegman recounts it wonderfully in this blog post on public history in the island state. 
 categories:
   - "Public History"
 tags:

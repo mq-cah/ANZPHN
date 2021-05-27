@@ -5,6 +5,8 @@ header:
   image: assets/images/TePapaHeader.jpg
   caption: "Three figures in the prow of Mātāwhaorua, an ocean voyaging canoe, represent the discovery and naming of Aotearoa. © Museum of New Zealand Te Papa Tongarewa A.007274"
   teaser: assets/images/TePapaHeader.jpg
+excerpt: >
+  Fiona McKergow addresses the intriguing story of public history in Aotearoa New Zealand, including an exploration of its place in the ongoing processes of historical redress for Māori.
 categories:
   - "Public History"
 tags:

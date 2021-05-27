@@ -7,8 +7,8 @@ subtitle: Home
 logo: /assets/images/Buecher-lineart.png
 email:
 description: >- # this means to ignore newlines until "baseurl:"
- A website for the AAPHN.
-twitter_username: username
+ The Australia and Aotearoa NZ Public History Network aims to to develop public history across Australasia by creating opportunities to communicate, meet and share knowledge among individuals and organisations who practice public and applied history in the academy, communities, industry and professions.
+twitter_username: @AppliedHist
 minimal_mistakes_skin: contrast
 search: true
 
@@ -19,7 +19,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Sydney
 
 
 include:
@@ -49,7 +49,7 @@ plugins:
 author:
   name   : "AAPHN"
   avatar : "/assets/images/old_photos_square.jpg"
-  bio    : "The AAPHN is a network for public historians and history enthusiasts across Australasia to connect and stay up to date on the most recent research and events, as well as share information about their research. Sign up to our newsletter and join the newtork by contacting us at <arts.CAH@mq.edu.au>."
+  bio    : "The AAPHN is a network for public historians and enthusiasts across Australasia to connect, communicate and collaborate. Sign up to our newsletter and join the newtork by contacting us: <arts.CAH@mq.edu.au>."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

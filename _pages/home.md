@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/old_photos_1_banner.jpg
   caption: "© State Library of NSW. Photo by Joy Lai"
 excerpt: >
-  AAPHN is a network for practitioners and enthusiasts across Australasia to share research and collaborate.
+    The AAPHN aims to develop public history across Australasia by providing a means of networking, communication and knowledge sharing for individuals and organisations who practice public and applied history.
 feature_row:
   - image_path: /assets/images/old_photos_2_small.jpg
     caption: "© State Library of NSW. Photo by Joy Lai"

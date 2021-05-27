@@ -5,6 +5,8 @@ header:
   image: assets/images/Paul_Ashton_Photos/DiLeeFairfieldCityMuseum2019.jpeg
   caption: "© Paul Ashton"
   teaser: assets/images/Paul_Ashton_Photos/DiLeeFairfieldCityMuseum2019.jpeg
+excerpt: >
+  Paul Ashton and Paula Hamilton trace back the practice of public history in NSW, from its early days in the 20th century to 2021.
 categories:
   - "Public History"
 tags:

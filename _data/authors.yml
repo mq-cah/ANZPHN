@@ -1,6 +1,6 @@
 tanya evans:
     name: "Tanya Evans"
-    bio: "Tanya Evans is and Associate Professor at Macquarie University within the Department of History and Archaeology"
+    bio: "Tanya Evans is and Associate Professor at Macquarie University within the Department of History and Archaeology and Director of the Centre for Applied History."
     avatar: assets/images/people/TanyaEvansSquareSmall.jpg
     links:
     - label: "Research Profile"
@@ -10,28 +10,28 @@ tanya evans:
       url: https://twitter.com/TanyaEvans14
 paul and paula:
     name: "Paul Ashton and Paula Hamilton"
-    bio: "<p>Paul Ashton is adjunct professor at the Centre for Applied History at Macquarie University and founding co-director of the Australian Centre for Public History at the University of Technology Sydney where he also holds an adjunct professorship. He has authored, co-authored, edited and co-edited 36 books. In 2020 he was awarded the NSW History Council's Annual History Citation for outstanding contributions to public and Australian history.</p> <p> Paula Hamilton is an Adjunct Professor and associate of the Australian Centre for Public History.</p>"
+    bio: "<p>Paul Ashton is adjunct professor at the Centre for Applied History at Macquarie University and founding co-director of the Australian Centre for Public History at UTS where he is also adjunct professor.</p> <p> Paula Hamilton is an Adjunct Professor of the Australian Centre for Public History.</p>"
     avatar: assets/images/people/paul_paula.jpg
     links:
     - label: "ACPH"
       url: https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history
 paul ashton:
     name: "Paul Ashton"
-    bio: "Paul Ashton is adjunct professor at the Centre for Applied History at Macquarie University and founding co-director of the Australian Centre for Public History at the University of Technology Sydney where he also holds an adjunct professorship. He has authored, co-authored, edited and co-edited 36 books. In 2020 he was awarded the NSW History Council's Annual History Citation for outstanding contributions to public and Australian history."
+    bio: "Paul Ashton is adjunct professor at the Centre for Applied History at Macquarie University and founding co-director of the Australian Centre for Public History at UTS where he is also adjunct professor. He has authored, co-authored, edited and co-edited 36 books."
     avatar: assets/images/people/paul_ashton.jpg
     links:
     - label: "Research Profile"
       url: https://profiles.uts.edu.au/Paul.Ashton
 robyn smith:
     name: "Robyn Smith"
-    bio: "Dr Robyn Smith is a Conjoint Fellow at the University of Newcastle, a PhD (Political History), Master of Cultural Heritage and Bachelor of Arts (Journalism & Anthropology) from Darwin. She is well written on the history, heritage and politics of the Northern Territory and is presently researching massacre sites in the NT for the UoN’s Colonial Frontier Massacres project."
+    bio: "Dr Robyn Smith is a Conjoint Fellow at the University of Newcastle. She has a PhD, Master of Cultural Heritage, and a BA from Darwin. She is well written on the history, heritage and politics of the NT and is presently researching massacre sites in the NT for the UoN’s Colonial Frontier Massacres project."
     avatar: assets/images/people/RobynSmith.jpg
     links:
     - label: "Research Profile"
       url: https://www.newcastle.edu.au/profile/robyn-smith
 fiona mckergow:
     name: "Fiona McKergow"
-    bio: "Fiona McKergow is preparing her awarded doctoral thesis on colonial textile culture in mid-nineteenth century Aotearoa New Zealand for publication. She has previously been a historical researcher, museum curator, and co-editor of two volumes: Looking Flash: Clothing in Aotearoa New Zealand (Auckland University Press, 2007) with Bronwyn Labrum and Stephanie Gibson and Te Hao Nui - The Great Catch: Object Stories from Te Manawa (Godwit/Random House, 2011) with Kerry Taylor."
+    bio: "Fiona McKergow is preparing her doctoral thesis on mid-nineteenth century colonial textile culture for publication. She has previously been a historical researcher, museum curator, and co-editor of two volumes: Looking Flash: Clothing in Aotearoa New Zealand and Te Hao Nui - The Great Catch: Object Stories from Te Manawa."
     avatar: assets/images/people/Fiona.jpg
     links:
 imogen:

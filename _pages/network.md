@@ -179,7 +179,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Professor Ann McGrath**<br />
 : **Contact** <ann.mcgrath@anu.edu.au>
 
-**Dr Fiona McKergow**
+**Dr Fiona McKergow** <br />
 : Fiona McKergow is preparing her awarded doctoral thesis on colonial textile culture in mid-nineteenth century Aotearoa New Zealand for publication. She has previously been a historical researcher, museum curator, and co-editor of two volumes: Looking Flash: Clothing in Aotearoa New Zealand (Auckland University Press, 2007) with Bronwyn Labrum and Stephanie Gibson and Te Hao Nui - The Great Catch: Object Stories from Te Manawa (Godwit/Random House, 2011) with Kerry Taylor.
 
 **Dr Tom Murray**<br />
@@ -247,6 +247,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 
 **Mary Sheehan, Professional Historian**<br />
 : **Contact** <mary@livinghistories.net.au>
+
+**Robyn Smith**<br />
+: Dr Robyn Smith is a Conjoint Fellow at the University of Newcastle, a PhD (Political History), Master of Cultural Heritage and Bachelor of Arts (Journalism & Anthropology) from Darwin. She is presently researching massacre sites in the NT for the UoN’s Colonial Frontier Massacres project.
+: **Research Profile**: <https://www.newcastle.edu.au/profile/robyn-smith>
 
 **Professor Lucy Taksa**<br />
 : **Contact** <lucy.taksa@mq.edu.au>

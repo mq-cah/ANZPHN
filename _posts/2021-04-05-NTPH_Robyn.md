@@ -5,6 +5,8 @@ header:
   image: assets/images/Barrow_Creek.jpg
   caption: "Barrow Creek Tele Station. © Museums Victoria"
   teaser: assets/images/Barrow_Creek.jpg
+excerpt: >
+  Robyn Smith recounts the development of public history in the NT and how this was intertwined with the Territory's own history. 
 categories:
   - "Public History"
 tags:
