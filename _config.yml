@@ -11,7 +11,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: "AppliedHist"
 minimal_mistakes_skin: contrast
 search: true
-og_image: \assets\images\old_photos_2_small.jpg
+og_image: /assets/images/old_photos_2_small.jpg
 
 # Build settings
 markdown: kramdown
