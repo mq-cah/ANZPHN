@@ -1,6 +1,8 @@
 ---
 permalink: /events/
 title: "Events"
+toc: true
+toc_sticky: true
 ---
 ## Upcoming Events
 Coming soon! 
