@@ -39,3 +39,7 @@ imogen:
     bio: "Imogen is a lecturer in history at the University of Tasmania, teaching in the Diploma of Family History and the Bachelor of Arts. She likes to nerd out about maps with her students, teaching them how to find and interpret them for their own research. She also has a keen interest in public histories."
     avatar: assets/images/people/imogen.jpeg
     links:
+ KateJaneClare:
+   name: "Kate Gregory, Jane Lydon, Clare Menck"
+   bio: <p>Kate Gregory is the Battye Historian at the State Library of Western Australia. She has worked as an Historian with the National Trust of Australia (WA), as well as Curator at Claremont Museum<p/><p>Jane Lydon is the Wesfarmers Chair of Australian History at The University of Western Australia. Her research centres upon Australia’s colonial past and its legacies in the present.<p/><p>Clare Menck has been working in the WA heritage industry for over twenty years. She runs her own business in Perth as a consultant historian and is currently working on a Thematic History of Western Australia for the Department of Planning, Lands & Heritage.<p/>
+   avatar: assets\images\people\bio-photo.jpg

@@ -111,6 +111,9 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Joanne Graves, Senior Research Librarian**<br />
 : **Contact** <Joanne.Graves@aucklandcouncil.govt.nz>
 
+**Dr Kate Gregory, State Library Battye Historian**<br />
+: Kate Gregory is the Battye Historian at the [State Library of Western Australia](https://www.slwa.wa.gov.au/). She has worked as an Historian with the National Trust of Australia (WA), as well as Curator at Claremont Museum. She has a PhD in Art History from the University of Melbourne and has served as a Trustee of the Western Australian Museum from 2012 - 2018. Her book [From the Barracks to the Burrup: the National Trust in Western Australia](https://catalogue.nla.gov.au/Record/4586584) (University of New South Wales Press, 2010) co-authored with Andrea Witcomb, was shortlisted for the Western Australian Premier’s Book Awards.
+
 **Professor Paula Hamilton**<br />
 : Paula Hamilton is Adjunct Professor of History at the University of Technology, Sydney. She was involved in setting up and teaching in the public history program there from 1989 and was founding co-director of the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) and co-editor of [Public History Review journal](https://epress.lib.uts.edu.au/journals/index.php/phrj). She is also an adjuct professor at Macquarie University. She has worked in a range of historical projects with community groups, museums, heritage agencies and trade unions over thirty years. She has also published widely in oral history and memory studies. Her most recent books are [Making Histories](https://www.degruyter.com/document/doi/10.1515/9783110636352/html) (edited with Paul Ashton & Tanya Evans) de Gruyter publishers, Germany (new series in Public History edited by Mike Frisch and Indira Chowdhury) 2020; [Migration Memories: Oral History and Heritage in Australia](https://www.palgrave.com/gp/book/9783030177508) (edited with Kate Darian-Smith) Palgrave Memory Studies series, London 2019; [The Oxford Handbook of Public History](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199766024.001.0001/oxfordhb-9780199766024) (edited with James Gardner) Oxford University Press, New York, 2018
 : **Contact** <paula.hamilton@uts.edu.au>
@@ -161,6 +164,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <Seonaid.Lewis@aucklandcouncil.govt.nz>
 
 **Professor Jane Lydon**<br />
+: Jane Lydon is the Wesfarmers Chair of Australian History at The University of Western Australia. Her research centres upon Australia’s colonial past and its legacies in the present. Her books include _[Imperial Emotions]_(https://www.cambridge.org/core/books/imperial-emotions/8366C7C253B054C63934669F600A803A) (Cambridge 2019) and most recently, a study of the relationship between the abolition of British slavery and Australian colonization, _[Antislavery and Australia: No Slavery in a Free Land?]_(https://www.routledge.com/Anti-Slavery-and-Australia-No-Slavery-in-a-Free-Land/Lydon/p/book/9781138334724) (Routledge, 2021).
 : **Contact** <jane.lydon@uwa.edu.au>
 
 ### M-P
@@ -181,6 +185,9 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 
 **Dr Fiona McKergow** <br />
 : Fiona McKergow is preparing her awarded doctoral thesis on colonial textile culture in mid-nineteenth century Aotearoa New Zealand for publication. She has previously been a historical researcher, museum curator, and co-editor of two volumes: Looking Flash: Clothing in Aotearoa New Zealand (Auckland University Press, 2007) with Bronwyn Labrum and Stephanie Gibson and Te Hao Nui - The Great Catch: Object Stories from Te Manawa (Godwit/Random House, 2011) with Kerry Taylor.
+
+**Clare Menck, Consultant Historian** <br />
+: Clare Menck has been working in the WA heritage industry for over twenty years. She runs her own business in Perth as a consultant historian and is currently working on a Thematic History of Western Australia for the Department of Planning, Lands & Heritage (Heritage Services). Clare has served on the management committee of Professional Historians Association (WA) since 2018 and is currently its President.  
 
 **Dr Tom Murray**<br />
 : **Contact** <tom.murray@mq.edu.au>
