@@ -2,8 +2,11 @@
 title: "Public History in Tasmania"
 author: imogen
 header:
-  image: assets/images/Bridge_Edoddridge_3.0.jpg
+  overlay_image: assets/images/Bridge_Edoddridge_3.0.jpg
   caption: "Red Bridge at Campbell Town, Tasmania. Part of the Convict Brick Trail. [Edoddridge: CC BY-SA 3.0.]((https://en.wikipedia.org/wiki/Red_Bridge_(Tasmania)#/media/File:Red_Bridge_-_Campbell_Town,_Tasmania.JPG))"
+  actions:
+    - label: "Read Below"
+      url: "/public_history/Tas_Imogen/#overview"
   teaser: /assets/images/Bridge_Edoddridge_3.0.jpg
 excerpt: >
   Tasmania has a complicated relationship between culture, conservation and development, and Imogen Wegman recounts it wonderfully in this blog post on public history in the island state.
@@ -15,6 +18,8 @@ tags:
   - Organisations
 classes: wide
 ---
+# Overview
+
 The island state of Tasmania has a complicated relationship between culture, conservation and development. Van Diemen’s Land, the first European settlement on the island, was established as a penal colony, and with that came an international reputation of low class, illiteracy and criminality. Even in the twenty-first century, nearly half the population remains functionally illiterate (lacking the reading, writing and mathematical skills required for everyday tasks). Despite – or perhaps in spite of – this there has been a long history of public cultural institutions in Tasmania.
 
 Every year, barring the Covid-19 restrictions, Tasmania welcomes tourists from around Australia and the world. In the 2018-19 season, 1.4 million guests visited the state, with another 130,000 arriving on cruise ships. 357,411 people visited the Port Arthur Historic Site on the Tasman Peninsula. Thousands of guests visited other sites under the [Port Arthur Historic Site Management Authority (PAHSMA)](https://portarthur.org.au/about-us/) – the Cascades Female Factory, Ross Female Factory or Saltwater River Coal Mines – to see the places their convict ancestors were imprisoned, while others went straight to the archives to research. With Tasmania’s long convict history, extensive records, and massive digitisation projects, family history research is an expanding tourism market. PAHSMA employs and engages professional historians at all stages of developing their site interpretations, from the initial research through to the final exhibitions.

@@ -2,8 +2,11 @@
 title: "Public History in Aotearoa New Zealand"
 author: fiona mckergow
 header:
-  image: assets/images/TePapaHeader.jpg
+  overlay_image: assets/images/TePapaHeader.jpg
   caption: "Three figures in the prow of Mātāwhaorua, an ocean voyaging canoe, represent the discovery and naming of Aotearoa. © Museum of New Zealand Te Papa Tongarewa A.007274"
+  actions:
+    - label: "Read Below"
+      url: "/public_history/NZPH_Fiona/#public-history-in-aotearoa-new-zealand"
   teaser: assets/images/TePapaHeader.jpg
 excerpt: >
   Fiona McKergow addresses the intriguing story of public history in Aotearoa New Zealand, including an exploration of its place in the ongoing processes of historical redress for Māori.
@@ -14,6 +17,7 @@ tags:
   - PHANZA
 classes: wide
 ---
+# Public History in Aotearoa New Zealand
 If public history is the creation of informed dialogue about the past, it is alive and well in many forms of historical endeavour practised in Aotearoa New Zealand. Common modes of presentation include oral histories, lectures, podcasts, websites, festivals, exhibitions, films, television, books, magazines, journals, games, re-enactments, walks, tours, signs, monuments and memorials. The historical fabric of people’s everyday lives can provide a significant interface.
 
 A major strand of historical storytelling is based on kaupapa Māori principles (Māori ways of doing, being and thinking). Oral traditions, concerning knowledge such as whakapapa (genealogy), pūrākau (mythological stories) and kōrero tuku iho (narratives passed down), are regarded as distinct from, yet compatible with, oral histories. In the past decade a major reference work, Tangata Whenua: An Illustrated History (Bridget Williams Books, 2014), has been published. Some iwi (major descent groups) have developed digital tools and resources, such as [Kā Huru Manu](https://www.kahurumanu.co.nz/), the [Ngāi Tahu Cultural Mapping Project](https://www.kahurumanu.co.nz/), and [Whakakitenga](https://www.wgtn.ac.nz/victorious/issues/victorious-2020/soaring-into-an-historical-maori-worldview-with-vr), a VR film on the worldview of Te Rangihaeata of Ngāti Toa Rangatira.
@@ -50,9 +54,9 @@ Heritage preservation began with the protection of cultural landscapes. Horonuku
 
 In 2000, the Historical Branch was relocated to Manatū Taonga, the Ministry for Culture and Heritage, as the History Group. Te Ara: An Encyclopedia of New Zealand became available [online](https://teara.govt.nz/en) between 2005 and 2014. The five-year First World War centenary programme is the most extensive series of commemorations to be undertaken in Aotearoa New Zealand to date. Raising public understanding of the wartime experiences of New Zealanders at home and abroad was a key objective. Activities included official ceremonies, the building of a national memorial park, numerous publications, films and archival projects, as well as trails and carvings. A new national day, Te Pūtake o te Riri, He Rā Maumahara, was established in 2016 to commemorate the New Zealand Wars between the 1840s and 1870s. The New Zealand government decided to make the history of Aotearoa an official part of the school curriculum (rather than an optional subject in the final three years at secondary school) in a landmark decision made in 2019.
 
-**Sources**
+# Sources
 
-**Books and articles**
+## Books and articles
 
 - Anderson, Atholl, Judith Binney and Aroha Harris, *Tangata Whenua: An Illustrated History*, Bridget Williams Books, Wellington, 2014.
 - Dalley, Bronwyn, and Jock Phillips, eds, *Going Public: The Changing Face of New Zealand History*, Auckland University Press, Auckland, 2001.
@@ -61,7 +65,7 @@ In 2000, the Historical Branch was relocated to Manatū Taonga, the Ministry for
 - Phillips, Jock, ‘The University and Public History’, *New Zealand Journal of History*, vol. 54, no. 1 (2020), pp. 112–26.
 - Trapeznik, Alex, ‘Public History in New Zealand: From Treaty to Te Papa’, in Paul Ashton and Alex Trapeznik, eds, *What is Public History Globally? Working With the Past in the Present*, Bloomsbury Academic, London, 2019, pp. 107–20.
 
-**Websites**
+## Websites
 
 - Auckland History Initiative, [accessible here](https://ahi.auckland.ac.nz/2019/04/15/ben-schrader/)
 - First World War Centenary Programme, [accessible here](https://ww100.govt.nz/sites/default/files/files/mch-ww100-report-ART-FINAL-WEB-RES.pdf )

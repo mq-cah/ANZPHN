@@ -2,8 +2,11 @@
 title: "Public History in the Northern Territory"
 author: robyn smith
 header:
-  image: assets/images/Barrow_Creek.jpg
+  overlay_image: assets/images/Barrow_Creek.jpg
   caption: "Barrow Creek Tele Station. © Museums Victoria"
+  actions:
+    - label: "Read Below"
+      url: "/public_history/NTPH_Robyn/#public-history-in-the-northern-territory"
   teaser: assets/images/Barrow_Creek.jpg
 excerpt: >
   Robyn Smith recounts the development of public history in the NT and how this was intertwined with the Territory's own history.
@@ -15,7 +18,7 @@ tags:
   - Territories
 classes: wide
 ---
-
+# Public History in the Northern Territory
 Public history in the Northern Territory broadly reflects its official history. That is, few other than ‘official’ records exist in the colonial context and they are carefully crafted to avoid, ignore or obfuscate unpleasantries. Unfortunately, unpleasantries abound.
 
 Happily, though, it is public history that has brought these to the fore. It is the case that the Northern Territory was part of the colony of New South Wales until 1863 when it was ceded to South Australia. Few official records exist of the NSW era because there was little activity in this part of the country by colonists until after Stuart crossed from south to north in 1862.

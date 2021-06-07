@@ -10,7 +10,7 @@ tanya evans:
       url: https://twitter.com/TanyaEvans14
 paul and paula:
     name: "Paul Ashton and Paula Hamilton"
-    bio: "<p>Paul Ashton is adjunct professor at the Centre for Applied History at Macquarie University and founding co-director of the Australian Centre for Public History at UTS where he is also adjunct professor.</p> <p> Paula Hamilton is an Adjunct Professor of the Australian Centre for Public History.</p>"
+    bio: "Paul Ashton is adjunct professor at the Centre for Applied History at Macquarie University and founding co-director of the Australian Centre for Public History at UTS where he is also adjunct professor. Paula Hamilton is an Adjunct Professor of the Australian Centre for Public History."
     avatar: assets/images/people/paul_paula.jpg
     links:
     - label: "ACPH"
@@ -38,4 +38,9 @@ imogen:
     name: "Imogen Wegman"
     bio: "Imogen is a lecturer in history at the University of Tasmania, teaching in the Diploma of Family History and the Bachelor of Arts. She likes to nerd out about maps with her students, teaching them how to find and interpret them for their own research. She also has a keen interest in public histories."
     avatar: assets/images/people/imogen.jpeg
+    links:
+katejaneclare:
+    name: "Kate Gregory, Jane Lydon, Clare Menck"
+    bio: "Kate Gregory is the Battye Historian at the State Library of Western Australia. She has worked as an Historian with the National Trust of Australia (WA), as well as Curator at Claremont Museum. Jane Lydon is the Wesfarmers Chair of Australian History at The University of Western Australia. Her research centres upon Australia’s colonial past and its legacies in the present. Clare Menck has been working in the WA heritage industry for over twenty years. She runs her own business in Perth as a consultant historian and is currently working on a Thematic History of Western Australia for the Department of Planning, Lands & Heritage."
+    avatar: assets/images/people/bio-photo.jpg
     links:

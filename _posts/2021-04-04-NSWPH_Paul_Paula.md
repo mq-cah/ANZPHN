@@ -2,8 +2,11 @@
 title: "Public History in New South Wales"
 author: paul and paula
 header:
-  image: assets/images/Paul_Ashton_Photos/DiLeeFairfieldCityMuseum2019.jpeg
+  overlay_image: assets/images/Paul_Ashton_Photos/DiLeeFairfieldCityMuseum2019.jpeg
   caption: "© Paul Ashton"
+  actions:
+    - label: "Read Below"
+      url: "/public_history/NSWPH_Paul_Paula/#public-history-in-new-south-wales"
   teaser: assets/images/Paul_Ashton_Photos/DiLeeFairfieldCityMuseum2019.jpeg
 excerpt: >
   Paul Ashton and Paula Hamilton trace back the practice of public history in NSW, from its early days in the 20th century to 2021.
@@ -15,7 +18,7 @@ tags:
   - PHA
 classes: wide
 ---
-
+# Public History in New South Wales
 The practice of public history in New South Wales (NSW) can be traced
 back to the rise of the nation state. State governments began investing
 more and more in developing national identities and narratives as modern
