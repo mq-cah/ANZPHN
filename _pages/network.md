@@ -27,7 +27,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <katie.barclay@adelaide.edu.au>
 
 **Dr Joel Barnes, Postdoctoral Research Fellow**<br />
-: Joel Barnes is a Postdoctoral Research Fellow at [the Institute for Advanced Studies in the Humanities](https://iash.uq.edu.au/) at the University of Queensland, working on the international [Science and Religion: Exploring the Spectrum Project](https://sciencereligionspectrum.org/). In 2018–20 they were Research Associate in the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at UTS, where they were one of the organisers of the Centre's public history activities such as the popular Public History Hour, which ran for much of 2020. With Dr Chelsea Barnett, they co-organise *Historians at the Movies Australia*.
+: Joel Barnes is a Postdoctoral Research Fellow at [the Institute for Advanced Studies in the Humanities](https://iash.uq.edu.au/) at the University of Queensland ,working on the international [Science and Religion: Exploring the Spectrum Project](https://scienceandbeliefinsociety.org/) run by the International Research Network for the Study of Science and Belief in Society . In 2018–20 he was Research Associate in the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at UTS, where he was one of the organisers of the Centre's public history activities such as the popular Public History Hour, which ran for much of 2020. With Dr Chelsea Barnett, he co-organises *Historians at the Movies Australia*.
 : **Contact** <joel.barnes@uq.edu.au>
 
 **Dr Tully Barnett**<br />
