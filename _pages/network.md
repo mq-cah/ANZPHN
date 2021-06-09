@@ -51,7 +51,11 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Lucy Bracey**<br />
 : **Contact** <lbracey@waybackwhen.com.au>
 
-**Nicole	Cama, Professional Historian**<br />
+**Dr Neville Douglas Buch, Consultant/Public Historian** <br />
+: Prior to being an independent philosophic-socio-intellectual historian, Dr Neville Buch was the researcher and speechwriter supporting the Vice-Chancellor, Professors Glyn Davis, Kwong Lee Dow, and Alan Gilbert, along with work for Chancellors, Mr Ian Renard, and Sir Edward Woodward (1998-2008). He first came in this role in 1997 as the Research Assistant to the Vice-Chancellor, Professor Roy Webb, at Griffith University. He has been a Q ANZAC Fellow at the State Library of Queensland (2015-2016). He is recognised for his histories of Queensland secondary and primary education, and the cultural shaping of Protestant and Catholic organisations. Dr Buch is an expert on histories and historiography of big belief and doubt, with the focus on historiography in the local social environment. He has produced several large websites and books in the last seven years. The Mapping Brisbane History Project website is his ground-breaking achievement for public history and local intellectual history.
+: **Contact** <nbuch61@gmail.com>
+
+**Nicole Cama, Professional Historian**<br />
 : **Contact** <nicole@nicolecama.com.au>
 
 **Emeritus Professor David Carment**<br />
@@ -105,6 +109,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Stephen is a curator at the [Australian National Maritime Museum](https://www.sea.museum/), a Conjoint Lecturer at the University of Newcastle and President of the [History Council of NSW](https://historycouncilnsw.org.au/). He has written two award winning books and is currently working on his second Australian Frontier Wars history, focusing on the first Wiradjuri war of resistance 1822-1824.
 : **Contact** <stephen.gapps@gmail.com>
 
+**Fiona Isobel Gatt, Casual Academic** <br/>
+: Fiona Gatt is a casual academic and PhD candidate at Deakin University. Her thesis aims to recover the lived experience of nineteenth century urbanisation on Melbourne's colonial urban frontier, focusing on the town of Hotham, now known as the suburb of North Melbourne. Fiona's research delves into the quantitative data of the rate books, using urban history techniques, but blended with qualitative insights to achieve a recreative mode, of more intimate details of the urbanisation process.
+: **Contact** <gattfiona@gmail.com>
+
 **Associate Professor Geoff Ginn**<br />
 : **Contact** <g.ginn@uq.edu.au>
 
@@ -136,9 +144,9 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <hollings@mail.h-net.org>
 
 ### I-L
-**Janine Irvine, Independent Writer/Researcher, PhD Candidate**<br />
-: Janine Irvine is a PhD Candidate at Massey University whose thesis is currently under examination. Janine has previously worked as an independent researcher/writer publishing personal, family and community history books.
-: **Contact** <irvine.jja@xtra.co.nz>
+**Janine Irvine, Independent Writer/Researcher**<br />
+: Janine Irvine completed her doctorate in March 2021. Her research examined local history books as life writing and she is interested in how community histories are researched and written as collaborative projects
+: **Contact** <janineirvine.lifewriting@gmail.com>
 
 **Michael Kelly, PHANZA President**<br />
 : **Contact** <president@phanza.org.nz>
@@ -188,6 +196,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 
 **Clare Menck, Consultant Historian** <br />
 : Clare Menck has been working in the WA heritage industry for over twenty years. She runs her own business in Perth as a consultant historian and is currently working on a Thematic History of Western Australia for the Department of Planning, Lands & Heritage (Heritage Services). Clare has served on the management committee of Professional Historians Association (WA) since 2018 and is currently its President.  
+: **Contact** <clarenerida@gmail.com>
 
 **Dr Tom Murray**<br />
 : **Contact** <tom.murray@mq.edu.au>
