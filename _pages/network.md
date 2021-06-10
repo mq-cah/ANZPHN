@@ -217,7 +217,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <karen.pack@hdr.mq.edu.au>
 
 **Bill Pascoe, Digital Humanities Specialist** <br />
-: Bill Pascoe interested in joining the AAPHN. I'm a digital humanities specialist and have worked on the production of the Colonial Frontier Massacres website and other humanities digital humanities projects, often with a history component, such as work conducted through the [Centre for 21st Century Humanities](https://c21ch.newcastle.edu.au/) at the University of Newcastle. He is currently instrumental in conceiving and producing [Time Layered Cultural Map](https://tlcmap.org) which will provide tools to help humanities researchers, including historians, and anyone interested in history, work with digital maps.
+: Bill Pascoe is a digital humanities specialist and has worked on the production of the Colonial Frontier Massacres website and other humanities digital humanities projects, often with a history component, such as work conducted through the [Centre for 21st Century Humanities](https://c21ch.newcastle.edu.au/) at the University of Newcastle. He is currently instrumental in conceiving and producing [Time Layered Cultural Map](https://tlcmap.org) which will provide tools to help humanities researchers, including historians, and anyone interested in history, work with digital maps.
 **Contact** <bill.pascoe@newcastle.edu.au>
 
  **Michelle Patient**<br />
