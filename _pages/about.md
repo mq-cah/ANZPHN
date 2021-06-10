@@ -43,6 +43,9 @@ Professor Paul Ashton is adjunct professor at the [Centre for Applied History](h
 **Research Profile** [UTS Research Profile](https://profiles.uts.edu.au/Paul.Ashton)
 
 ### Ewan Coopey
+
+![image-center]({{ site.baseurl }}/assets/images/people/EwanSmall.jpeg){: .align-center}
+
 Ewan Coopey is Research Assistant at the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) working on several websites and a database of Australian Public History theses. He is interested in Roman archaeology and epigraphy and is also passionate about public engagement with history, archaeology, and academia more broadly. He is dedicated to promoting Open Access (OA) publishing and the application of digital tools in archaeology and epigraphy.
 
 **Research Profile:** [ORCID Research Profile](https://orcid.org/0000-0001-8633-6418)
