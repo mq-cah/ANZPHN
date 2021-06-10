@@ -27,9 +27,9 @@ Download these files and import them into your reference manager of choice:
 * An Intimate Pandemic: The Community Impact of Influenza in 1919
 : <https://www.rahs.org.au/an-intimate-pandemic-the-community-impact-of-influenza-in-1919/>
 
-* Centre for 21st Century Humanities
-: **Description**: The _Centre for 21st Century Humanities_ brings together leading University of Newcastle researchers. It promotes high quality humanities research, using new methods for the new century. Our vision is that by 2025 the University of Newcastle will be a world leader in humanities research.
-: <https://c21ch.newcastle.edu.au/>
+* Colonial Frontier Massacres in Australia
+: **Description**: A map and information about massacres on the Australian Colonial Frontier.
+: <https://c21ch.newcastle.edu.au/colonialmassacres/>
 
 * Colourful Histories
 : <https://colourfulhistories.wordpress.com/>
@@ -50,9 +50,9 @@ Download these files and import them into your reference manager of choice:
 : **Description**: A collection of real Australian stories composed by an author, a researcher of history, and a passionate storyteller.
 : <https://www.tellerofyarns.com/>
 
-* Time Layered Cultural Map 
+* Time Layered Cultural Map
 : **Description**: This resource provides tools to help humanities researchers, including historians, and anyone interested in history, to work with digital maps. Many more history datasets will be added to this resource over the coming year.
-: <https://tlcmap.org> 
+: <https://tlcmap.org>
 
 
 ## Funding Opportunities

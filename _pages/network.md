@@ -139,7 +139,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Dr Ian Hodges**<br />
 : **Contact** <ianhodges@grapevine.com.au>
 
-**Randolph Hollingsworth, PhD**<br />
+**Dr Randolph Hollingsworth**<br />
 : Retired university administrator and history faculty; frequently using and creating Open Educational Resources (inc. H-Net Commons, Wordpress and Drupal sites, Sophia, MERLOT, Wikipedia) in connection with social media accounts (inc. Twitter, Instagram, Facebook) - see their bio [here](https://authors.org.nz/author/dolph/) on the NZ Soc of Authors.
 : **Contact** <hollings@mail.h-net.org>
 
@@ -306,6 +306,12 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 
 ### A-D
 
+**Colonial Frontier Massacres in Australia**
+: **Project Description** A map and information about massacres on the Australian Colonial Frontier.
+: **Status** Active
+: **Website** <https://c21ch.newcastle.edu.au/colonialmassacres/>
+
+
 **Crises of Leadership in the Eastern Roman Empire (250-1000 CE)**
 : **Project Description** In 250 CE, after Rome was defeated in the Persian wars, the Roman empire seemed on the brink of destruction. By 1000 CE it had collapsed, due to multiple crises including: waves of mass migration, increasing demands for Roman citizenship, populism in government, religious extremism and food shortages due to war and climate change. These crises arose from complex problems that required strong and strategic leadership. There is a convergence between the challenges faced by Roman leaders then and those facing our leaders today.
 : **Status** Active
@@ -325,16 +331,6 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 : **Status** Finished
 : **Team** <https://inheritingthefamily.org/meet-the-team/>
 : **Website** <https://inheritingthefamily.org/>
-
-**Kentucky Women in the Civil Rights Era (KYWCRH)**
-: **Project Description** This site is part of a community outreach program at the University of Kentucky that seeks to collaborate with any interested individuals or organizations who wish to focus on the participation of Kentucky women in the twentieth century civil rights era. Users of this site can explore the many different resources in order to analyze the structure and dynamics of the civil rights movement in Kentucky.
-: **Status** Active
-: **Website** <http://www.kywcrh.org/>
-
-**Kentucky Woman Suffrage Project (KWSP)**
-: **Project Description** The KWSP Crowdsourcing Project allows for anyone to contribute information about the suffrage history of their Kentucky county.
-: **Status** Active
-: **Website** <https://networks.h-net.org/kywomansuffrage>
 
 ### M-P
 
@@ -367,9 +363,16 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 
 ### I-L
 ### M-P
+**Professional Historians Association**
+: **Website** <https://www.historians.org.au/>
+
 **Professional Historians Association, Victoria & Tasmania (PHA Vic & Tas)**
 : **Description** A thriving, dynamic community of professional historians who communicate history in diverse ways.
 : **Website** <https://www.phavic.org.au/>
 
 ### Q-T
+**Society of Australian Genealogists (SAG)**
+: **Description** The Society of Australian Genealogists has been in existence since 1932 and our principal object is the advancement of genealogical and family history education and this is reflected in their education program and collections. They are keen to engage in collaborations with other public history practitioners and organisations.
+: **Website** <https://www.sag.org.au/>
+: **Twitter** [@SocAustGen](https://twitter.com/SocAustGen)
 ### U-Z
