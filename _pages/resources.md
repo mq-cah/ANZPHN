@@ -23,9 +23,13 @@ Download these files and import them into your reference manager of choice:
 
 ## Web resources
 
-### Public History Websites
+### Public History Web Resources
 * An Intimate Pandemic: The Community Impact of Influenza in 1919
 : <https://www.rahs.org.au/an-intimate-pandemic-the-community-impact-of-influenza-in-1919/>
+
+* Centre for 21st Century Humanities
+: **Description**: The _Centre for 21st Century Humanities_ brings together leading University of Newcastle researchers. It promotes high quality humanities research, using new methods for the new century. Our vision is that by 2025 the University of Newcastle will be a world leader in humanities research.
+: <https://c21ch.newcastle.edu.au/>
 
 * Colourful Histories
 : <https://colourfulhistories.wordpress.com/>
@@ -35,7 +39,8 @@ Download these files and import them into your reference manager of choice:
 : This website is for descendants of the Kalimpong Kids, many of whom are still discovering this hidden aspect of their family history. It is also for anyone with an interest in the Kalimpong story, from which we can learn so much about memory, community and family ties.
 : <http://www.kalimpongkids.org.nz/>
 
-* Map of RAAF P-40 Kittyhawk Accidents in Australia between 1942 and 1946
+* RAAF P-40 Kittyhawk Accidents
+: **Description**: A digital map of RAAF P-40 Kittyhawk Accidents in Australia between 1942 and 1946.
 : <https://public.tableau.com/profile/chao.sun#!/vizhome/AircraftCrash_0/KittyHawkAccidents>
 
 * Santa Cruz Trains: Railroads of the Monterey Bay Area
@@ -44,6 +49,10 @@ Download these files and import them into your reference manager of choice:
 * Teller of Yarns
 : **Description**: A collection of real Australian stories composed by an author, a researcher of history, and a passionate storyteller.
 : <https://www.tellerofyarns.com/>
+
+* Time Layered Cultural Map 
+: **Description**: This resource provides tools to help humanities researchers, including historians, and anyone interested in history, to work with digital maps. Many more history datasets will be added to this resource over the coming year.
+: <https://tlcmap.org> 
 
 
 ## Funding Opportunities
