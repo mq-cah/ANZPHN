@@ -57,19 +57,24 @@ Download these files and import them into your reference manager of choice:
 
 ## Funding Opportunities
 
-### Scholarships
-
-* History, heritage and environmental change in a deindustrialised landscape
+### Fellowships
+* CACHE Early Career Indigenous Australian Research Fellowship - 2021
 : **Description**:
-: The project’s multi-disciplinary historical and archaeological project team is seeking expressions of interest from suitable candidates for a HDR Scholarship to participate in the investigation of the forgotten shale-mining settlements that existed in the environmentally and culturally significant Jamison and Megalong Valleys in the Blue Mountains during the final decades of the 19th and early decades of the 20th centuries.
-: The research centres on the collection of archaeological, archival, and oral history evidence to identify dimensions of everyday working and family life, task scapes, and migration linked to shale mining work, community and gender. The project includes a creative applied dimension that aims to produce educational and social outcomes, such as memory scapes, a walking tour and teaching materials that can contribute to conservation and interpretation of industrial heritage and cultural heritage tourism.  In this way, the project aims to advance knowledge and enable cross-generational engagement with history and heritage to improve understanding of the long-term impact of deindustrialisation through collaborative and multidisciplinary, scholarly, and community-based study with industry partners: the Blue Mountains World Heritage Institute, NSW National Parks and Wildlife Service, MTS Heritage, Lantern Heritage.
-: **Type**: Domestic PhD Scholarship
-: **Closing Date**: 05 Apr 2021 11pm AEST
-: **Application**: Follow Instructions on the [MQ Website](https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/history,-heritage-and-environmental-change-in-a-deindustrialised-landscape2)
+: HDR, postdoctoral or heritage/environment professional fellowship of $5000 for a dynamic and enthusiastic Aboriginal and/or Torres Strait Islander person with research skills to work with members of the Centre for Ancient Cultural Heritage and Environment (CACHE) in the fields of archaeological science, cultural heritage, and/or environmental heritage.
+: **Closing Date**: Tuesday 6th July, 2021
+: **More Information**: [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities)
+: **Application**: Follow instructions on the [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities)
+
+* CACHE Postdoctoral Research Fellowship
+: **Description**:
+: Postdoctoral fellowship of $5000 for a dynamic and enthusiastic early career scholar with research skills to work with members of the Centre for Ancient Cultural Heritage and Environment (CACHE) in the fields of archaeological science, cultural heritage, and/or environmental heritage.
+: **Closing Date**: Tuesday 6th July, 2021
+: **More Information**: [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities)
+: **Application**: Follow instructions on the [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities)
 
 ### Grants
 
-* Community Heritage Grants – 2021 Round
+* Community Heritage Grants – 2021 Round (completed)
 : **Description**:
 : The Community Heritage Grants (CHG) program provides grants of up to $15,000 (GST inclusive) to community organisations such as libraries, archives, museums, genealogical and historical societies, multicultural and Indigenous groups. Successful CHG recipients are also given access to online workshops.
 : The grants are provided to assist with the preservation of locally owned, but nationally significant collections of materials that are publicly accessible including artefacts, letters, diaries, maps, photographs, and audio visual material. The grants are also aimed at helping make these collections of materials more publicly accessible.

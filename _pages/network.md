@@ -333,14 +333,23 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 : **Website** <https://inheritingthefamily.org/>
 
 ### M-P
+**New Zealand suffragists**
+: **Project Description** Creating or expanding the Wikipedia biographical entries of New Zealand women to support the new _List of New Zealand suffragists_.
+: **Status** Active
+: **Website** <https://protect-au.mimecast.com/s/upkLCk815RCND9Pgt2ia5S?domain=en.wikipedia.org>
+: **Contact** <hollings@mail.h-net.org>
 
 ### Q-T
-
 **'Slow' digitisation, community heritage and the objects of Martindale Hall**
 : **Project Description** This project aims to investigate how community history, heritage, and cultural collections can be better preserved and made accessible through slow digitisation techniques. The project will generate new interdisciplinary knowledge about Martindale Hall, SA, the historically significant objects it contains, and digitisation. Expected outcomes include a new method that embeds digitisation in historical and cultural knowledge, and assists organisations to make sustainable decisions about when and how to digitise. Benefits include improved public access to significant cultural heritage assets, return on investment for local history organisations, and protection of cultural heritage places and objects by the communities that care for them.
 : **Further Info** ARC project SR200200900.
 : **Status** Active
 : **Team** Tully Barnett, Jane Haggis, Penny Edmonds, Margaret Allen (historians), Heather Burke and Claire Smith (archaeologists).
+
+**Travels in New Zealand - 1885**
+: **Project Description** A working research log regarding findings about the journey of World WCTU organiser Mary Clement Leavitt and details on the resulting WCTU NZ chapters and their local leaders.
+: **Status** Active
+: **Contact** <hollings@mail.h-net.org>
 
 ### U-Z
 
