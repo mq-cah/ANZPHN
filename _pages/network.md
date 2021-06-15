@@ -123,7 +123,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Joanne Graves, Senior Research Librarian**<br />
 : **Contact** <Joanne.Graves@aucklandcouncil.govt.nz>
 
-**Dr Kate Gregory, State Library Battye Historian**<br />
+**Dr Kate Gregory, Historian**<br />
 : Kate Gregory is the Battye Historian at the [State Library of Western Australia](https://www.slwa.wa.gov.au/). She has worked as an Historian with the National Trust of Australia (WA), as well as Curator at Claremont Museum. She has a PhD in Art History from the University of Melbourne and has served as a Trustee of the Western Australian Museum from 2012 - 2018. Her book [From the Barracks to the Burrup: the National Trust in Western Australia](https://catalogue.nla.gov.au/Record/4586584) (University of New South Wales Press, 2010) co-authored with Andrea Witcomb, was shortlisted for the Western Australian Premier’s Book Awards.
 
 **Professor Paula Hamilton**<br />
@@ -151,6 +151,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Dr Janine Irvine, Independent Writer/Researcher**<br />
 : Janine Irvine completed her doctorate in March 2021. Her research examined local history books as life writing and she is interested in how community histories are researched and written as collaborative projects
 : **Contact** <janineirvine.lifewriting@gmail.com>
+
+**Dr Benjamin Jones**<br />
+: Dr Benjamin Jones is a Lecturer in History at Central Queensland University. He mainly researches Australian social and political history with a particular emphasis on republicanism, national identity, and public memory.
+: **Contact** <b.t.jones@cqu.edu.au>
 
 **Michael Kelly, PHANZA President**<br />
 : **Contact** <president@phanza.org.nz>
