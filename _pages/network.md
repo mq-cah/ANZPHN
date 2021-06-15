@@ -42,6 +42,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Sue Berman**<br />
 : **Contact** <Sue.Berman@aucklandcouncil.govt.nz>
 
+**Dr Catherine Bishop**<br />
+: Dr Catherine Bishop is a New Zealander living in Australia. The author of _Minding Her Own Business: Colonial Businesswomen in Sydney, Women Mean Business: Colonial Businesswomen in New Zealand_ and _Too Much Cabbage and Jesus Christ: Australia’s 'Mission Girl' Annie Lock_, she is currently researching a history a Cold War world youth forum and a history of 20thC Australian women in business. She is interested in engaging with businesswomen’s groups, family historians and historical associations.
+: **Contact** <catherine.bishop@mq.edu.au>
+
 **Dr Louise Blake**<br />
 : **Contact** <blake.louise@gmail.com>
 
