@@ -5,9 +5,9 @@ toc: true
 ---
 Browse the many wonderful specialists, projects and organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>
 
-## People
+# People
 
-### A-D
+## A-D
 **Professor Paul Arthur**<br />
 : **Contact** <paul.arthur@ecu.edu.au>
 
@@ -99,7 +99,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Dr Mark Dunn**<br />
 : **Contact** <markdhistory@gmail.com>
 
-### E-H
+## E-H
 **Laila Ellmoos, Historian**<br />
 : **Contact** <lellmoos@cityofsydney.nsw.gov.au>
 
@@ -149,7 +149,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Retired university administrator and history faculty; frequently using and creating Open Educational Resources (inc. H-Net Commons, Wordpress and Drupal sites, Sophia, MERLOT, Wikipedia) in connection with social media accounts (inc. Twitter, Instagram, Facebook) - see their bio [here](https://authors.org.nz/author/dolph/) on the NZ Soc of Authors.
 : **Contact** <hollings@mail.h-net.org>
 
-### I-L
+## I-L
 **Dr Janine Irvine, Independent Writer/Researcher**<br />
 : Janine Irvine completed her doctorate in March 2021. Her research examined local history books as life writing and she is interested in how community histories are researched and written as collaborative projects
 : **Contact** <janineirvine.lifewriting@gmail.com>
@@ -185,7 +185,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Jane Lydon is the Wesfarmers Chair of Australian History at The University of Western Australia. Her research centres upon Australia’s colonial past and its legacies in the present. Her books include _[Imperial Emotions]_(https://www.cambridge.org/core/books/imperial-emotions/8366C7C253B054C63934669F600A803A) (Cambridge 2019) and most recently, a study of the relationship between the abolition of British slavery and Australian colonization, _[Antislavery and Australia: No Slavery in a Free Land?]_(https://www.routledge.com/Anti-Slavery-and-Australia-No-Slavery-in-a-Free-Land/Lydon/p/book/9781138334724) (Routledge, 2021).
 : **Contact** <jane.lydon@uwa.edu.au>
 
-### M-P
+## M-P
 **Professor Andrew May**<br />
 : **Contact** <a.may@unimelb.edu.au>
 
@@ -255,7 +255,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Anisa Puri, Professional Historian**<br />
 : **Contact** <anisa.puri@gmail.com
 
-### Q-T
+## Q-T
 **Kerry Raymond**<br />
 : **Contact** <kerry.raymond@gmail.com>
 
@@ -297,7 +297,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Diana Thorp**<br />
 : **Contact** <diana.thorp@bigpond.com>
 
-### U-Z
+## U-Z
 **Dr Cheryl Ware**<br />
 : **Contact** <c.ware@auckland.ac.nz>
 
@@ -321,9 +321,9 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 : Honorary Fellow at Deakin University
 : **Contact** <linda.young@deakin.edu.au>
 
-## Projects
+# Projects
 
-### A-D
+## A-D
 
 **Colonial Frontier Massacres in Australia**
 : **Project Description** A map and information about massacres on the Australian Colonial Frontier.
@@ -336,14 +336,14 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 : **Status** Active
 : **Website** <https://www.mq.edu.au/research/research-centres-groups-and-facilities/groups/crises-of-leadership-in-the-eastern-roman-empire>
 
-### E-H
+## E-H
 
 **Historians at the Movies (HATM)**
 : **Project Description** Historians at the Movies Australia, or HATMAus, is an occasional live watch party on Twitter. Hosted by Dr Joel Barnes and Dr Chelsea Barnett, we watch a film and live-tweet our way through, using the hashtag #HATMAus. Born at the beginning of COVID-19 lockdown as a way to maintain connection and conversation, #HATMAus has transformed into a community of film lovers and friends. We historicise, we talk, we share memories, insights, and gifs. Best of all, we welcome everyone, historians and non-historians alike! 
 : **Status** Active
 : **Website** <https://historiansatthemoviesaustralia.com/>
 
-### I-L
+## I-L
 
 **Inheriting the Family AHRC Networking Grant**
 : **Project Description** Inheriting the Family is an AHRC-funded network that explores the role of emotion in explaining why some objects and stories (and not others) are transmitted across generations and from the private sphere of the family to public spaces like museums and archives. The network brings together academics from across the world, along with heritage, museum and family history professionals, and members of the public with an interest in family history and inheritance.
@@ -351,14 +351,14 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 : **Team** <https://inheritingthefamily.org/meet-the-team/>
 : **Website** <https://inheritingthefamily.org/>
 
-### M-P
+## M-P
 **New Zealand suffragists**
 : **Project Description** Creating or expanding the Wikipedia biographical entries of New Zealand women to support the new _List of New Zealand suffragists_.
 : **Status** Active
 : **Website** <https://protect-au.mimecast.com/s/upkLCk815RCND9Pgt2ia5S?domain=en.wikipedia.org>
 : **Contact** <hollings@mail.h-net.org>
 
-### Q-T
+## Q-T
 **'Slow' digitisation, community heritage and the objects of Martindale Hall**
 : **Project Description** This project aims to investigate how community history, heritage, and cultural collections can be better preserved and made accessible through slow digitisation techniques. The project will generate new interdisciplinary knowledge about Martindale Hall, SA, the historically significant objects it contains, and digitisation. Expected outcomes include a new method that embeds digitisation in historical and cultural knowledge, and assists organisations to make sustainable decisions about when and how to digitise. Benefits include improved public access to significant cultural heritage assets, return on investment for local history organisations, and protection of cultural heritage places and objects by the communities that care for them.
 : **Further Info** ARC project SR200200900.
@@ -370,27 +370,27 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 : **Status** Active
 : **Contact** <hollings@mail.h-net.org>
 
-### U-Z
+## U-Z
 
 
 
-## Organisations
+# Organisations
 
-### A-D
+## A-D
 
 **Australian Centre for Public History (ACPH)**
 : **Description** The Australian Centre for Public History (ACPH) is a critical hub for public history in Australia. We provide a hub for history at UTS and through our research and activities, we seek to promote the practice and understanding of public history within academia and the broader community.
 : **Website** <https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history>
 : **Contact** <tamson.pietsch@uts.edu.au>
 
-### E-H
+## E-H
 **History Council of NSW (HCNSW)**
 : **Description** The History Council of New South Wales (HCNSW) was established in 1995.  It is a not-for-profit membership association, and a registered charity.  It is supported by Create NSW through an annual grant under the Arts & Cultural Development Program, and through partnerships with large cultural organisations.
 : **Website** <https://historycouncilnsw.org.au/>
 : **Contact** <admin@historycouncilnsw.org.au>
 
-### I-L
-### M-P
+## I-L
+## M-P
 **Professional Historians Association**
 : **Website** <https://www.historians.org.au/>
 
@@ -398,12 +398,13 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 : **Description** A thriving, dynamic community of professional historians who communicate history in diverse ways.
 : **Website** <https://www.phavic.org.au/>
 
-### Q-T
+## Q-T
 **Society of Australian Genealogists (SAG)**
 : **Description** The Society of Australian Genealogists has been in existence since 1932 and our principal object is the advancement of genealogical and family history education and this is reflected in their education program and collections. They are keen to engage in collaborations with other public history practitioners and organisations.
 : **Website** <https://www.sag.org.au/>
 : **Twitter** [@SocAustGen](https://twitter.com/SocAustGen)
-### U-Z
+
+## U-Z
 **Way Back When: Consulting Historians** <br />
 : **Description** Way Back When is a creative, dynamic and unique team of professional historians. We work with communities and organisations to create meaningful histories.
 : **Website** <https://www.waybackwhen.com.au/>
