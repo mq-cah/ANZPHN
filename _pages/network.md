@@ -20,6 +20,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <Michelle.Arrow@mq.edu.au>
 
 **Dr Alison Atkinson-Phillips**<br />
+: Alison Atkinson-Phillips is lecturer in public history at Newcastle University (UK), where she is Degree Programme Director for their MA Public History and a member of [the Oral History Unit & Collective](https://research.ncl.ac.uk/oralhistory/). While currently UK-based, she maintain a strong connection with Australia. Her research uses oral history methods to understand how ordinary, and often marginalised, people become activists. She is author of _Survivor Memorials: Remembering Trauma and Loss in Contemporary Australia_.
 : **Contact** <Alison.Atkinson-Phillips@newcastle.ac.uk>
 
 **Associate Professor Katie Barclay**<br />
@@ -52,7 +53,8 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Shauna Bostock-Smith, PhD Candidate**<br />
 : **Contact** <Shauna.Bostock-Smith@anu.edu.au>
 
-**Lucy Bracey**<br />
+**Lucy Bracey, Professional Historian**<br />
+: Lucy Bracey is a senior associate with [Way Back When Consulting Historians](https://www.waybackwhen.com.au/), working on a wide variety of projects including commissioned history, heritage, and oral history. She is a member and past president of the Professional Historians Association (Vic & Tas), and a member of Oral History Victoria.
 : **Contact** <lbracey@waybackwhen.com.au>
 
 **Dr Neville Douglas Buch, Consultant/Public Historian** <br />
@@ -246,7 +248,8 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Dr Alana Piper**<br />
 : **Contact** <Alana.Piper@uts.edu.au>
 
-**Fiona Poulton**<br />
+**Fiona Poulton, Professional Historian**<br />
+: Fiona Poulton is a senior associate with [Way Back When Consulting Historians](https://www.waybackwhen.com.au/), working on a wide variety of projects including commissioned history, heritage, and oral history. She is a member and past vice-president of the Professional Historians Association (Vic & Tas), and a member of Oral History Victoria.
 : **Contact** <fpoulton@waybackwhen.com.au>
 
 **Anisa Puri, Professional Historian**<br />
@@ -260,6 +263,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Dr Alexandra Roginski is a research fellow with the Alfred Deakin Institute for Citizenship and Globalisation. Her work spans the history of science, anthropology and heritage studies, and she completed her PhD through the ANU in 2018 with a thesis examining the history of popular phrenology in Australia and Aotearoa New Zealand. She is the author of The Hanged Man and the Body Thief: Finding Lives in a Museum Mystery (Monash University Publishing, 2015), a book examining the lives of a young Aboriginal man whose remains ended up as part of the collection of Museum Victoria and the Scottish phrenologist who collected him. With a former career in journalism, publishing and communications, Alex is passionate about public scholarship. She has contributed to publications including The Age and the Australian Book Review, written and presented a podcast segment for My Marvellous Melbourne, appeared on ABC radio, and delivered public lectures at the National Portrait Gallery and Museum Victoria.
 : **Contact** <alexandra.roginski@deakin.edu.au>
 
+**Sarah Rood, Professional Historian** <br />
+: Sarah Rood is a director of [Way Back When Consulting Historians](https://www.waybackwhen.com.au/), working on a wide variety of projects including commissioned history, heritage, and oral history. She is a member and past president of the Professional Historians Association (Vic & Tas), and a member of Oral History Victoria.  
+: **Contact** <sjrood@waybackwhen.com.au>
+
 **Emma Russell, Historian**<br />
 : **Contact** <erussell@historyatwork.com.au>
 
@@ -272,6 +279,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <heather.sharp@newcastle.edu.au>
 : **Profile** <https://www.newcastle.edu.au/profile/heather-sharp>
 : **Twitter** [@heathermedowie](https://twitter.com/heathermedowie)
+
+**Katherine Sheedy, Professional Historian**<br />
+: Katherine Sheedy is a director of [Way Back When Consulting Historians](https://www.waybackwhen.com.au/), working on a wide variety of projects including commissioned history, heritage, and oral history. She is a member and past vice-president of the Professional Historians Association (Vic & Tas), and a member of Oral History Victoria.
+: **Contact** <ksheedy@waybackwhen.com.au>
 
 **Mary Sheehan, Professional Historian**<br />
 : **Contact** <mary@livinghistories.net.au>
@@ -393,3 +404,7 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 : **Website** <https://www.sag.org.au/>
 : **Twitter** [@SocAustGen](https://twitter.com/SocAustGen)
 ### U-Z
+**Way Back When: Consulting Historians** <br />
+: **Description** Way Back When is a creative, dynamic and unique team of professional historians. We work with communities and organisations to create meaningful histories.
+: **Website** <https://www.waybackwhen.com.au/>
+: **Twitter** [@WBWhistorians](https://twitter.com/wbwhistorians?lang=en)
