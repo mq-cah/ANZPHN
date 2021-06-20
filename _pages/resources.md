@@ -39,6 +39,10 @@ Download these files and import them into your reference manager of choice:
 : This website is for descendants of the Kalimpong Kids, many of whom are still discovering this hidden aspect of their family history. It is also for anyone with an interest in the Kalimpong story, from which we can learn so much about memory, community and family ties.
 : <http://www.kalimpongkids.org.nz/>
 
+* New Zealand Women Historian's Forum
+: **Description**: A place to connect, share and advance the work of women historians of Aotearoa New Zealand.
+: <https://newzealandwomenhistoriansforum.wordpress.com/>
+
 * RAAF P-40 Kittyhawk Accidents
 : **Description**: A digital map of RAAF P-40 Kittyhawk Accidents in Australia between 1942 and 1946.
 : <https://public.tableau.com/profile/chao.sun#!/vizhome/AircraftCrash_0/KittyHawkAccidents>
@@ -53,7 +57,6 @@ Download these files and import them into your reference manager of choice:
 * Time Layered Cultural Map
 : **Description**: This resource provides tools to help humanities researchers, including historians, and anyone interested in history, to work with digital maps. Many more history datasets will be added to this resource over the coming year.
 : <https://tlcmap.org>
-
 
 ## Funding Opportunities
 
