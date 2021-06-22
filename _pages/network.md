@@ -158,6 +158,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Dr Benjamin Jones is a Lecturer in History at Central Queensland University. He mainly researches Australian social and political history with a particular emphasis on republicanism, national identity, and public memory.
 : **Contact** <b.t.jones@cqu.edu.au>
 
+**Dr Mike Jones**<br />
+: Dr Mike Jones is an archivist, historian, and collections consultant based in Canberra, Australia. For more than a decade Mike has collaborated with researchers, academics, and the GLAM sector (galleries, libraries, archives, and museums) on digital collections and public history projects. He is currently a Postdoctoral Research Fellow in the [Research Centre for Deep History](https://re.anu.edu.au/), in the ANU’s [School of History](https://history.cass.anu.edu.au/).
+: **Contact** <info@mikejonesonline.com>
+
 **Michael Kelly, PHANZA President**<br />
 : **Contact** <president@phanza.org.nz>
 
