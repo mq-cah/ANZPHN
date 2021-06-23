@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 toc: true
+toc_sticky: true
 toc_label: "About"
 toc_sticky: true
 excerpt: >
