@@ -3,16 +3,14 @@ title: "The Network"
 permalink: /network/
 toc: true
 toc_sticky: true
-toc_label: "AAPHN"
+toc_label: "People"
 toc_icon: "users"
 sidebar:
   nav: network-sidebar
 author_profile: false
 ---
-Browse the many wonderful specialists, projects and organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>. Browse our [people]({{ site.baseurl }}/network/#aaphn-people), [projects]({{ site.baseurl }}/projects/) and [organisations]({{ site.baseurl }}/organisations).
+Browse the many wonderful specialists, projects and organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>. Browse our [people]({{ site.baseurl }}/network/#a-d), [projects]({{ site.baseurl }}/projects/) and [organisations]({{ site.baseurl }}/organisations).
 
-
-# AAPHN People
 ## A-D
 **Professor Paul Arthur**<br />
 : **Contact** <paul.arthur@ecu.edu.au>

@@ -9,10 +9,6 @@ main:
     url: /resources/
   - title: "Events"
     url: /events/
-  - title: "Blog Topics"
-    url: /categories/
-  - title: "Blog Tags"
-    url: /tags/
 
 network-sidebar:
   - title: "The Network"
@@ -23,3 +19,13 @@ network-sidebar:
         url: /organisations/
       - title: "Projects"
         url: /projects/
+
+posts-sidebar:
+  - title: "Posts"
+    children:
+      - title: "Posts by year"
+        url: /posts/
+      - title: "Posts by topic"
+        url: /posts/categories/
+      - title: "Post by tags"
+        url: /posts/tags

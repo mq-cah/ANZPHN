@@ -2,6 +2,8 @@
 permalink: /about/
 title: "About"
 toc: true
+toc_label: "About"
+toc_sticky: true
 excerpt: >
   The AAPHN aims to develop public history across Australasia by providing a means of networking, communication and knowledge sharing for individuals and organisations who practice public and applied history.
 ---
