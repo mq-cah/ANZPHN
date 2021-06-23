@@ -13,3 +13,13 @@ main:
     url: /categories/
   - title: "Blog Tags"
     url: /tags/
+
+network-sidebar:
+  - title: "The Network"
+    children:
+      - title: "People"
+        url: /network/
+      - title: "Organisations"
+        url: /organisations/
+      - title: "Projects"
+        url: /projects/
