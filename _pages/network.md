@@ -211,6 +211,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 
 **Dr Fiona McKergow** <br />
 : Fiona McKergow is preparing her awarded doctoral thesis on colonial textile culture in mid-nineteenth century Aotearoa New Zealand for publication. She has previously been a historical researcher, museum curator, and co-editor of two volumes: Looking Flash: Clothing in Aotearoa New Zealand (Auckland University Press, 2007) with Bronwyn Labrum and Stephanie Gibson and Te Hao Nui - The Great Catch: Object Stories from Te Manawa (Godwit/Random House, 2011) with Kerry Taylor.
+: **Contact** <f.mckergow@gmail.com>
 
 **Clare Menck, Consultant Historian** <br />
 : Clare Menck has been working in the WA heritage industry for over twenty years. She runs her own business in Perth as a consultant historian and is currently working on a Thematic History of Western Australia for the Department of Planning, Lands & Heritage (Heritage Services). Clare has served on the management committee of Professional Historians Association (WA) since 2018 and is currently its President.  
