@@ -79,7 +79,6 @@ Download these files and import them into your reference manager of choice:
 : **Application**: Follow instructions on the [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities)
 
 ### Grants
-
 * Community Heritage Grants – 2021 Round (completed)
 : **Description**:
 : The Community Heritage Grants (CHG) program provides grants of up to $15,000 (GST inclusive) to community organisations such as libraries, archives, museums, genealogical and historical societies, multicultural and Indigenous groups. Successful CHG recipients are also given access to online workshops.
