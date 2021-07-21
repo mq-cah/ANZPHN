@@ -8,6 +8,8 @@ toc_icon: "users"
 sidebar:
   nav: network-sidebar
 author_profile: false
+excerpt: >
+  Our AAPHN members are undertaking a great number of diverse projects with a plethora of focuses and goals. Read more about them here.
 ---
 Browse the many wonderful projects being undertaken by our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>. Browse our [people]({{ site.baseurl }}/network/), [projects]({{ site.baseurl }}/projects/#a-d) and [organisations]({{ site.baseurl }}/organisations/).
 
