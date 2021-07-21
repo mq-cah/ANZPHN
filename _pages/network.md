@@ -88,7 +88,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Ewan Coopey is Research Assistant at the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) working on several history-orientated websites and a database of Australian Public History theses. He is interested in Roman archaeology and epigraphy and is also passionate about public engagement with history, archaeology, and academia more broadly. He is dedicated to promoting Open Access (OA) publishing and the application of digital tools in archaeology and epigraphy.
 : **Research Profile** [ORCID](https://orcid.org/0000-0001-8633-6418)
 : **Contact** <ewan.coopey@mq.edu.au>
-: **Twitter** @EuuanXCVI
+: **Twitter** [@EuuanXCVI](https://twitter.com/EuuanXCVI)
 
 **Dr Sophie Couchman**<br />
 : **Contact** <sophie.couchman@gmail.com>
