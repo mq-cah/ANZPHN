@@ -13,7 +13,7 @@ feature_row:
     caption: "© State Library of NSW. Photo by Joy Lai"
     alt: posts
     title: Blog posts
-    excerpt: Browse our public history blog
+    excerpt: Read our public history blog
     url: /posts/
     btn_class: btn--primary
     btn_label: See posts

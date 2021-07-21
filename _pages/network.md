@@ -9,7 +9,7 @@ sidebar:
   nav: network-sidebar
 author_profile: false
 ---
-Browse the many wonderful specialists, projects and organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>. Browse our [people]({{ site.baseurl }}/network/#a-d), [projects]({{ site.baseurl }}/projects/) and [organisations]({{ site.baseurl }}/organisations).
+Browse the many wonderful specialists, projects and organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>. Please browse our Network's [people]({{ site.baseurl }}/network/#a-d), [projects]({{ site.baseurl }}/projects/) and [organisations]({{ site.baseurl }}/organisations).
 
 ## A-D
 **Professor Paul Arthur**<br />
