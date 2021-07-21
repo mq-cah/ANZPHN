@@ -49,12 +49,12 @@ This page is still being compiled (and we hope to continually update it in futur
 
 This bibliography is still under construction, so if you have anything to add please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au> with either a CONSISTENTLY FORMATTED list of references or (preferably) a .RIS (e.g. EndNote) or .BIB (e.g. BibTeX)) file exported from your reference manager.
 
-### Bibliography: Reference Manager Files
+### Reference Manager Files
 Download these files and import them into your reference manager of choice:
 * [RIS]({{ site.baseurl }}/assets/test_list.ris) (e.g. EndNote)
 * [BIB]({{ site.baseurl }}/assets/test_list.bib) (e.g. LaTeX and BibTeX)
 
-### Bibliography: Text
+### Text
 
 * Hamilton, P., Ashton, P. and Evans, T. (2020) ‘Making Histories, Making Memories in Difficult Times’, in Ashton, P., Evans, T., and Hamilton, P. (eds) *Making Histories*. Berlin, Boston: De Gruyter Oldenbourg, pp. 1–8. doi: <https://doi.org/10.1515/9783110636352-001>.
 * Ashton, P., Evans, T. and Hamilton, P. (2020) *Making Histories*. Edited by P. Ashton, T. Evans, and P. Hamilton. Berlin, Boston: De Gruyter Oldenbourg. doi: <https://doi.org/10.1515/9783110636352>.
