@@ -6,20 +6,7 @@ toc_sticky: true
 excerpt: >
   The AAPHN collates a repository of scholarly, online and public resources concerning public history in Australasia. This includes information concerning scholarship and grant opportunities as well as practitioners websites.
 ---
-This Bibliography is still being compiled, so if you would like to add published works, creative works, websites, and funding opportunities to this page, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>.
-
-## Bibliography
-
-### Reference Manager Files
-Download these files and import them into your reference manager of choice:
-* [RIS]({{ site.baseurl }}/assets/test_list.ris) (e.g. EndNote)
-* [BIB]({{ site.baseurl }}/assets/test_list.bib) (e.g. LaTeX and BibTeX)
-
-### Text
-* Hamilton, P., Ashton, P. and Evans, T. (2020) ‘Making Histories, Making Memories in Difficult Times’, in Ashton, P., Evans, T., and Hamilton, P. (eds) *Making Histories*. Berlin, Boston: De Gruyter Oldenbourg, pp. 1–8. doi: <https://doi.org/10.1515/9783110636352-001>.
-* Ashton, P., Evans, T. and Hamilton, P. (2020) *Making Histories*. Edited by P. Ashton, T. Evans, and P. Hamilton. Berlin, Boston: De Gruyter Oldenbourg. doi: <https://doi.org/10.1515/9783110636352>.
-* Evans, T. (2019) ‘Discovering violence in the family’, in Piper, A. and Stevenson, A. (eds) *Gender violence in Australia: historical perspectives*. Clayton, Victoria: Monash University Publishing, pp. 20–23.
-* Evans, T. (2018) ‘Enhancing student engagement through flipping: a case study in Australian History’, *The History Teacher*, 51(4), pp. 611–638.
+This page is still being compiled (and we hope to continually update it in future), so if you would like to add published works, creative works, websites, and funding opportunities to this page, or would like suggest edits to certain pieces of information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>.
 
 ## Web resources
 
@@ -58,17 +45,33 @@ Download these files and import them into your reference manager of choice:
 : **Description**: This resource provides tools to help humanities researchers, including historians, and anyone interested in history, to work with digital maps. Many more history datasets will be added to this resource over the coming year.
 : <https://tlcmap.org>
 
+## Bibliography
+
+This bibliography is still under construction, so if you have anything to add please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au> with either a CONSISTENTLY FORMATTED list of references or (preferably) a .RIS (e.g. EndNote) or .BIB (e.g. BibTeX)) file exported from your reference manager.
+
+### Bibliography: Reference Manager Files
+Download these files and import them into your reference manager of choice:
+* [RIS]({{ site.baseurl }}/assets/test_list.ris) (e.g. EndNote)
+* [BIB]({{ site.baseurl }}/assets/test_list.bib) (e.g. LaTeX and BibTeX)
+
+### Bibliography: Text
+
+* Hamilton, P., Ashton, P. and Evans, T. (2020) ‘Making Histories, Making Memories in Difficult Times’, in Ashton, P., Evans, T., and Hamilton, P. (eds) *Making Histories*. Berlin, Boston: De Gruyter Oldenbourg, pp. 1–8. doi: <https://doi.org/10.1515/9783110636352-001>.
+* Ashton, P., Evans, T. and Hamilton, P. (2020) *Making Histories*. Edited by P. Ashton, T. Evans, and P. Hamilton. Berlin, Boston: De Gruyter Oldenbourg. doi: <https://doi.org/10.1515/9783110636352>.
+* Evans, T. (2019) ‘Discovering violence in the family’, in Piper, A. and Stevenson, A. (eds) *Gender violence in Australia: historical perspectives*. Clayton, Victoria: Monash University Publishing, pp. 20–23.
+* Evans, T. (2018) ‘Enhancing student engagement through flipping: a case study in Australian History’, *The History Teacher*, 51(4), pp. 611–638.
+
 ## Funding Opportunities
 
 ### Fellowships
-* CACHE Early Career Indigenous Australian Research Fellowship - 2021
+* CACHE Early Career Indigenous Australian Research Fellowship - 2021 (completed)
 : **Description**:
 : HDR, postdoctoral or heritage/environment professional fellowship of $5000 for a dynamic and enthusiastic Aboriginal and/or Torres Strait Islander person with research skills to work with members of the Centre for Ancient Cultural Heritage and Environment (CACHE) in the fields of archaeological science, cultural heritage, and/or environmental heritage.
 : **Closing Date**: Tuesday 6th July, 2021
 : **More Information**: [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities)
 : **Application**: Follow instructions on the [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities)
 
-* CACHE Postdoctoral Research Fellowship
+* CACHE Postdoctoral Research Fellowship (completed)
 : **Description**:
 : Postdoctoral fellowship of $5000 for a dynamic and enthusiastic early career scholar with research skills to work with members of the Centre for Ancient Cultural Heritage and Environment (CACHE) in the fields of archaeological science, cultural heritage, and/or environmental heritage.
 : **Closing Date**: Tuesday 6th July, 2021
