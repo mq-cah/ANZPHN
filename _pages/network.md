@@ -328,6 +328,10 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 : Derek R. Whaley is a Research Librarian at [Auckland Libraries](https://www.aucklandlibraries.govt.nz/) with a wide range of historical interests from medieval French royalty to North Auckland transportation and thoroughfares to the railroads of Santa Cruz County, California.
 : **Contact** <derek.whaley@aucklandcouncil.govt.nz>
 
+**Dr Ian Willis, Historian**<br />
+: Dr Ian Willis is an honorary fellow at the University of Wollongong and completed his PhD in Australian History at Wollongong in 2004. He has awarded a Medal of the Order of Australia (OAM) for his service to community history in 2019. His general area of research is centred on local studies in and around the Macarthur region of New South Wales, with works published in popular media to peer-reviewed journals. Dr Willis currently has several on-going research projects based on this regional area. He is an active blogger on the history of the Macarthur region at [Camden History Notes](https://camdenhistorynotes.com/).
+: **Contact** <Willis02@bigpond.com>
+
 **Associate Professor Nathan Wise**<br />
 : **Contact** <nwise@une.edu.au>
 

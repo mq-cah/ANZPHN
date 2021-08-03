@@ -14,6 +14,9 @@ This page is still being compiled (and we hope to continually update it in futur
 * An Intimate Pandemic: The Community Impact of Influenza in 1919
 : <https://www.rahs.org.au/an-intimate-pandemic-the-community-impact-of-influenza-in-1919/>
 
+* Camden History Notes
+: <https://camdenhistorynotes.com/>
+
 * Colonial Frontier Massacres in Australia
 : **Description**: A map and information about massacres on the Australian Colonial Frontier.
 : <https://c21ch.newcastle.edu.au/colonialmassacres/>
