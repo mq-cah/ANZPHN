@@ -29,6 +29,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Alison Atkinson-Phillips is lecturer in public history at Newcastle University (UK), where she is Degree Programme Director for their MA Public History and a member of [the Oral History Unit & Collective](https://research.ncl.ac.uk/oralhistory/). While currently UK-based, she maintain a strong connection with Australia. Her research uses oral history methods to understand how ordinary, and often marginalised, people become activists. She is author of _Survivor Memorials: Remembering Trauma and Loss in Contemporary Australia_.
 : **Contact** <Alison.Atkinson-Phillips@newcastle.ac.uk>
 
+**Dr Claire Baddeley**
+: Claire Baddeley has worked in museums, galleries, cultural and heritage organizations in Victoria, the ACT and New South Wales for 25 years. Her roles have included curatorial, public programs, management and research positions, with qualifications in Art History, Curatorial Studies, Museum Studies, Heritage Conservation and a PhD in public sector management & museum studies. Currently Curator at Hurstville Museum and Gallery, Claire’s interests include Australian migration history, indigenous history in the Georges River area, and Australian garden history.
+: **Contact** <cbaddeley@georgesriver.nsw.gov.au>
+
 **Associate Professor Katie Barclay**<br />
 : Katie Barclay is Deputy Director of the [ARC Centre of Excellence in the History of Emotions](http://www.historyofemotions.org.au/) and Associate Professor in History, University of Adelaide. Her research explores the intersections of emotion, family and gender. She is especially interested in how families pass on their various 'inheritances' across generations and she works collaboratively with the public to explore this topic.
 : **Contact** <katie.barclay@adelaide.edu.au>
