@@ -24,7 +24,7 @@ feature_row:
     url: /about/
     btn_class: btn--primary
     btn_label: Learn
-  - image_path: /assets/images/blue_mountain_medium.jpeg
+  - image_path: /assets/images/blue_mountain_small.jpeg
     alt: network
     title: Network
     excerpt: Browse the AAPHN
