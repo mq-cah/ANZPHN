@@ -102,10 +102,6 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Dr Patricia Curthoys**<br />
 : **Contact** <patricia.curthoys@gmail.com>
 
-**Dr Xu Daozhi** <br />
-: Dr Xu Daozhi is a Macquarie University Research Fellow in the Department of Media, Communication, Creative Arts, Literature, and Language. She focuses on Indigenous and Asian interrelations in contemporary Australian literature published by Indigenous and Asian Australian authors. She is particularly interested in the ongoing history of Indigenous-Chinese relationships. Her monograph Indigenous Cultural Capital: Postcolonial Narratives in Australian Children’s Literature (2018) won the Biennial Australian Studies in China Book Prize, awarded by Australia–China Council in 2018. It was also shortlisted for the Association for the Study of Australian Literature “Alvie Egan Award” in 2019.
-: **Contact** <>
-
 **Ms (Waskam) Emelda Davis**<br />
 : Ms (Waskam) Emelda Davis is part of the team at the [Australian Centre for Public History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history) at UTS.
 : **Contact** <assi.pj@gmail.com>
@@ -342,6 +338,11 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 
 **Associate Professor Nathan Wise**<br />
 : **Contact** <nwise@une.edu.au>
+
+**Dr Xu Daozhi** <br />
+: Dr Xu Daozhi is a Macquarie University Research Fellow in the Department of Media, Communication, Creative Arts, Literature, and Language. She focuses on Indigenous and Asian interrelations in contemporary Australian literature published by Indigenous and Asian Australian authors. She is particularly interested in the ongoing history of Indigenous-Chinese relationships. Her monograph Indigenous Cultural Capital: Postcolonial Narratives in Australian Children’s Literature (2018) won the Biennial Australian Studies in China Book Prize, awarded by Australia–China Council in 2018. It was also shortlisted for the Association for the Study of Australian Literature “Alvie Egan Award” in 2019.
+: **Contact** <daozhi.xu@mq.edu.au>
+: **Research Profile** [Macquarie University Profile]( https://researchers.mq.edu.au/en/persons/daozhi-xu)
 
 **Ms Christine Yeats**<br />
 : **Contact** <ciyeats@gmail.com>
