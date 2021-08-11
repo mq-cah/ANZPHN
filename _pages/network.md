@@ -138,6 +138,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Associate Professor Geoff Ginn**<br />
 : **Contact** <g.ginn@uq.edu.au>
 
+**Dr Rachel Goldlust** <br />
+: Rachel Goldlust is a recently completed Ph.D. Candidate at La Trobe University in Melbourne having traced the history of self-sufficient living and politics in Australia from the late 19th Century until today.  Prior to commencing her doctorate studies, Rachel studied Environment and Planning at RMIT University and worked as a municipal town planner and taught sustainability and environmental education.  She is passionate about oral history, environmental and social justice, travel, storytelling and bringing sustainable living ideas to wider audiences through her work and writing.
+: **Research Profile** [La Trobe Research Profile](https://scholars.latrobe.edu.au/rgoldlust)
+
 **Joanne Graves, Senior Research Librarian**<br />
 : **Contact** <Joanne.Graves@aucklandcouncil.govt.nz>
 
@@ -287,6 +291,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Sarah Rood, Professional Historian** <br />
 : Sarah Rood is a director of [Way Back When Consulting Historians](https://www.waybackwhen.com.au/), working on a wide variety of projects including commissioned history, heritage, and oral history. She is a member and past president of the Professional Historians Association (Vic & Tas), and a member of Oral History Victoria.  
 : **Contact** <sjrood@waybackwhen.com.au>
+
+**Dr Liz Rushen AM**<br />
+: Liz Rushen is a Research Associate in the Faculty of Arts, Monash University, a Director of the [Melbourne Maritime Heritage Network](https://www.mmhn.org.au/) and former Chair of the [History Council of Victoria](https://www.historycouncilvic.org.au/). Liz is widely published in the field of migration history, women in colonial Australia and the social history of the Port Phillip District. In 2021, Liz received an AM for significant service to community history and heritage preservation.
+: **Contact** <liz.rushen@monash.edu>
 
 **Emma Russell, Historian**<br />
 : **Contact** <erussell@historyatwork.com.au>

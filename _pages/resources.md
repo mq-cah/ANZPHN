@@ -14,7 +14,7 @@ This page is still being compiled (and we hope to continually update it in futur
 * **An Intimate Pandemic: The Community Impact of Influenza in 1919**
 : <https://www.rahs.org.au/an-intimate-pandemic-the-community-impact-of-influenza-in-1919/>
 
-* C**amden History Notes Blog**
+* **Camden History Notes Blog**
 : The aim of the Camden History Notes blog is telling stories about the characters, events, general goings and changing landscapes of the Macarthur region of New South Wales, and occasionally elsewhere.
 : Originally occupied by the Indigenous Dharawal people it is one the fastest, growing areas in Australia with its master-planned housing estates and peri-urban farmland around the historic communities of Camden, Campbelltown and Picton on Sydney’s southwestern urban fringe.
 : <https://camdenhistorynotes.com/>
