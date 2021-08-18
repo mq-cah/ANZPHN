@@ -320,6 +320,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Dr Robyn Smith is a Conjoint Fellow at the University of Newcastle, a PhD (Political History), Master of Cultural Heritage and Bachelor of Arts (Journalism & Anthropology) from Darwin. She is presently researching massacre sites in the NT for the UoN’s Colonial Frontier Massacres project.
 : **Research Profile**: <https://www.newcastle.edu.au/profile/robyn-smith>
 
+**Kathleen Stringer, Archivist/Researcher**
+: After forty years of working in archives and museums, Kathleen is working as a freelance archivist / researcher, while she completes her Ph.D. (focusing on prisoners’ stories in Otago). Particularly interested in social history, Kathleen has an extensive knowledge of New Zealand resources and research methods gained through academic study and her own genealogical research. Although she is specially interested in the colonization period and feminist stories, Kathleen has a passion for assisting all members of society uncover and celebrate their story. She is the incoming secretary for ARANZ ([Archives and Records Association of NZ](https://www.aranz.org.nz/)).
+: **Contact** <kathleen.stringer@xtra.co.nz>
+
 **Professor Lucy Taksa**<br />
 : **Contact** <lucy.taksa@mq.edu.au>
 
