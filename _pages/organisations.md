@@ -27,6 +27,11 @@ Browse the many wonderful organisations that comprise our vast network of practi
 : **Website** <https://historycouncilnsw.org.au/>
 : **Contact** <admin@historycouncilnsw.org.au>
 
+**History Council of Victoria (HCV)**
+: **Description** The History Council of Victoria Incorporated (HCV) is the peak body for history in the Australian state of Victoria. Our vision is to connect Victorians with history and to inspire engagement with the past, their identity and the world today. We champion the work of historians and the value of history. We recognise that history can be written about any place, any person, any period. We advocate why history matters.
+: **Website** <https://www.historycouncilvic.org.au/>
+: **Contact** <info@historycouncilvic.org.au>
+
 ## I-L
 ## M-P
 **Professional Historians Association**
