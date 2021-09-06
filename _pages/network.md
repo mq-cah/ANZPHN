@@ -14,6 +14,10 @@ excerpt: >
 Browse the many wonderful specialists, projects and organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>. Please browse our Network's [people]({{ site.baseurl }}/network/#a-d), [projects]({{ site.baseurl }}/projects/) and [organisations]({{ site.baseurl }}/organisations).
 
 ## A-D
+**Dr Malcolm Allbrook** <br />
+: Malcolm Allbrook is managing editor of the [Australian Dictionary of Biography (ADB)](https://adb.anu.edu.au/) and a research fellow in the [National Centre of Biography](https://history.cass.anu.edu.au/centres/ncb) at The Australian National University (ANU). He has authored and co-authored four books: Never Stand Still (with Darraga Watson, 2013), Henry Prinsep’s Empire (2014), Carlotta’s Perth (with Mary Anne Jebb, 2017) and Barddabardda Wodjenangorddee: We’re Telling All of You: The Creation, History and People of Dambeemangaddee Country (with Valda Blundell, et al., 2017). His most recent book is an edited collection: Family History and Historians in Australia and New Zealand: Related Histories (with Sophie Scott-Brown, 2021).
+: **Contact** <malcolm.allbrook@anu.edu.au>
+
 **Professor Paul Arthur**<br />
 : **Contact** <paul.arthur@ecu.edu.au>
 
