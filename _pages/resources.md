@@ -59,7 +59,7 @@ View and browse our [Zotero](https://www.zotero.org/) library at: <https://www.z
 
 ### Full AAPHN Library
 Download these files and import them into your reference manager of choice:
-* [RIS]({{ site.baseurl }}/assets/aaphn_list.ris) (e.g. Mendeley, EndNote)
+* [RIS]({{ site.baseurl }}/assets/aaphn_list.ris){:target="_blank"} (e.g. Mendeley, EndNote)
 * [BIB]({{ site.baseurl }}/assets/aaphn_list.bib) (e.g. Zotero, LaTex)
 
 Download these files for text / formatted bibliography:
