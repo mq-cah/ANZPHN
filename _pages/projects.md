@@ -11,14 +11,14 @@ author_profile: false
 excerpt: >
   Our AAPHN members are undertaking a great number of diverse projects with a plethora of focuses and goals. Read more about them here.
 ---
-Browse the many wonderful projects being undertaken by our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>. Browse our [people]({{ site.baseurl }}/network/), [projects]({{ site.baseurl }}/projects/#a-d) and [organisations]({{ site.baseurl }}/organisations/).
+Browse the many wonderful projects being undertaken by our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <arts.CAH@mq.edu.au>. Browse our [people]({{ site.baseurl }}/network/){:target="_blank"}, [projects]({{ site.baseurl }}/projects/#a-d){:target="_blank"} and [organisations]({{ site.baseurl }}/organisations/){:target="_blank"}.
 
 ## A-D
 
 **Colonial Frontier Massacres in Australia**
 : **Project Description** A map and information about massacres on the Australian Colonial Frontier.
 : **Status** Active
-: **Website** <https://c21ch.newcastle.edu.au/colonialmassacres/>
+: **Website** <https://c21ch.newcastle.edu.au/colonialmassacres/>{:target="_blank"}
 
 
 **Crises of Leadership in the Eastern Roman Empire (250-1000 CE)**

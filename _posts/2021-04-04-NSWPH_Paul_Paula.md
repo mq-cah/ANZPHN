@@ -38,14 +38,14 @@ The building and expansion of a secondary and tertiary education system
 from the 1960s encouraged the rise of specialisation in History related
 jobs both in and out of the academy. From the 1980s a new generation of
 freelance historians emerged. In 1985 the Professional Historians
-Association NSW Inc ([PHA NSW & ACT](https://www.phansw.org.au/)) was
+Association NSW Inc ([PHA NSW & ACT](https://www.phansw.org.au/){:target="_blank"}) was
 formed. (A national body, Professional Historians Australia, was set up
 in 1996.) Three years later NSW's first and by far the largest graduate
 public history program in NSW was established at the University of
 Technology Sydney. The course was taught by Ann Curthoys and Paula
 Hamilton. They were later joined by Heather Goodall and Paul Ashton and
 the [Australian Centre for Public
-History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history)
+History](https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history){:target="_blank"}
 was set up in 1999 to focus their projects and activities. Graduating
 over 150 Masters students and dozens of doctoral students, many of these
 public historians gained jobs in most of Australia's leading cultural
@@ -65,10 +65,10 @@ commissioned by governmental agencies -- corporate and institutional
 history, museums, history education -- including textbook writing -- and
 the media. Some are employed by government agencies such as the
 [National Parks and Wildlife
-Service](https://www.nationalparks.nsw.gov.au/) and the [Australian War
-Memorial](https://www.awm.gov.au/). Others are employed in heritage
-firms such as [GML](https://www.gml.com.au/) and [Sue Rosen
-Associates](https://suerosenassociates.com/). Public historians also
+Service](https://www.nationalparks.nsw.gov.au/){:target="_blank"} and the [Australian War
+Memorial](https://www.awm.gov.au/){:target="_blank"}. Others are employed in heritage
+firms such as [GML](https://www.gml.com.au/){:target="_blank"} and [Sue Rosen
+Associates](https://suerosenassociates.com/){:target="_blank"}. Public historians also
 work as academics, blending research and teaching with community
 engagement.
 
@@ -89,15 +89,15 @@ economy through, among other things,
 
 Public historians have also had important inputs into cultural
 institutions and infrastructure including the History Council of NSW and
-the [*Dictionary of Sydney*](https://home.dictionaryofsydney.org/). The
+the [*Dictionary of Sydney*](https://home.dictionaryofsydney.org/){:target="_blank"}. The
 refereed journal [*Public History
-Review*](https://epress.lib.uts.edu.au/journals/index.php/phrj) has been
+Review*](https://epress.lib.uts.edu.au/journals/index.php/phrj){:target="_blank"} has been
 Sydney-based since it commenced publication in 1992.
 
 So what of the future? Public history is now a well-established field in
 NSW and Australia. It has a growing of body reflective and theoretical
 literature, the most recent of which is [*Making Histories*
-(2020)](https://www.degruyter.com/view/title/547254) edited by Paul
+(2020)](https://www.degruyter.com/view/title/547254){:target="_blank"} edited by Paul
 Ashton, Tanya Evans and Paula Hamilton. (It is the first volume in de
 Gruyter's new series Public History in International Perspective.)
 Public historians have a modest but significant presence in the state's

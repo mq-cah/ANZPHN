@@ -6,7 +6,7 @@ toc_sticky: true
 excerpt: >
   The AAPHN collates a repository of scholarly, online and public resources concerning public history in Australasia. This includes information concerning scholarship and grant opportunities as well as practitioners websites.
 ---
-This page is still being compiled (and we hope to continually update it in future), so if you would like to add published works, creative works, websites, and funding opportunities to this page, or would like suggest edits to certain pieces of information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>.
+This page is still being compiled (and we hope to continually update it in future), so if you would like to add published works, creative works, websites, and funding opportunities to this page, or would like suggest edits to certain pieces of information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <arts.CAH@mq.edu.au>.
 
 ## Web resources
 
@@ -52,7 +52,7 @@ This page is still being compiled (and we hope to continually update it in futur
 
 ## Bibliography
 
-This bibliography is still under construction, so if you have anything to add please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au> with either a CONSISTENTLY FORMATTED list of references or, preferably, a .RIS or .BIB (BibTeX)) file exported from your reference manager.
+This bibliography is still under construction, so if you have anything to add please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <arts.CAH@mq.edu.au> with either a CONSISTENTLY FORMATTED list of references or, preferably, a .RIS or .BIB (BibTeX)) file exported from your reference manager.
 
 ### Online Zotero Library
 View and browse our [Zotero](https://www.zotero.org/) library at: <https://www.zotero.org/groups/4404913/aaphn>.
@@ -60,11 +60,11 @@ View and browse our [Zotero](https://www.zotero.org/) library at: <https://www.z
 ### Full AAPHN Library
 Download these files and import them into your reference manager of choice:
 * [RIS]({{ site.baseurl }}/assets/aaphn_list.ris){:target="_blank"} (e.g. Mendeley, EndNote)
-* [BIB]({{ site.baseurl }}/assets/aaphn_list.bib) (e.g. Zotero, LaTex)
+* [BIB]({{ site.baseurl }}/assets/aaphn_list.bib){:target="_blank"} (e.g. Zotero, LaTex)
 
 Download these files for text / formatted bibliography:
-* [Table]({{ site.baseurl }}/assets/aaphn_list.csv) (e.g. Excel, SQL)
-* [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.pdf) (PDF)
+* [Table]({{ site.baseurl }}/assets/aaphn_list.csv){:target="_blank"} (e.g. Excel, SQL)
+* [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.pdf){:target="_blank"} (PDF)
 
 ## Funding Opportunities
 
@@ -73,15 +73,15 @@ Download these files for text / formatted bibliography:
 : **Description**:
 : HDR, postdoctoral or heritage/environment professional fellowship of $5000 for a dynamic and enthusiastic Aboriginal and/or Torres Strait Islander person with research skills to work with members of the Centre for Ancient Cultural Heritage and Environment (CACHE) in the fields of archaeological science, cultural heritage, and/or environmental heritage.
 : **Closing Date**: Tuesday 6th July, 2021
-: **More Information**: [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities)
-: **Application**: Follow instructions on the [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities)
+: **More Information**: [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities){:target="_blank"}
+: **Application**: Follow instructions on the [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities){:target="_blank"}
 
 * CACHE Postdoctoral Research Fellowship (completed)
 : **Description**:
 : Postdoctoral fellowship of $5000 for a dynamic and enthusiastic early career scholar with research skills to work with members of the Centre for Ancient Cultural Heritage and Environment (CACHE) in the fields of archaeological science, cultural heritage, and/or environmental heritage.
 : **Closing Date**: Tuesday 6th July, 2021
-: **More Information**: [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities)
-: **Application**: Follow instructions on the [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities)
+: **More Information**: [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities){:target="_blank"}
+: **Application**: Follow instructions on the [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities){:target="_blank"}
 
 ### Grants
 #### Open
@@ -92,7 +92,7 @@ Download these files for text / formatted bibliography:
 : **Eligibility**: Must have a part-time or full-time research-only position at a research institute, university or government science agency in Australia or New Zealand.
 : **Closing Date**: 24 February 2022
 : **More Information**: <https://www.capstoneediting.com.au/midcareer-grant>
-: **Application**: Follow the instructions on the Capstone Editing [website](https://www.capstoneediting.com.au/midcareer-grant).
+: **Application**: Follow the instructions on the Capstone Editing [website](https://www.capstoneediting.com.au/midcareer-grant){:target="_blank"}.
 
 #### Closed
 * Community Heritage Grants – 2021 Round (completed)
@@ -102,4 +102,4 @@ Download these files for text / formatted bibliography:
 : **Type**: Community organisation grant
 : **Closing Date**: Monday 10 May 2021
 : **More Information**: <https://www.nla.gov.au/chg/guidelines>
-: **Application**: Follow instructions on the [NLA website](https://www.nla.gov.au/content/community-heritage-grants-4)
+: **Application**: Follow instructions on the [NLA website](https://www.nla.gov.au/content/community-heritage-grants-4){:target="_blank"}

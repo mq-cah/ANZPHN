@@ -11,7 +11,7 @@ author_profile: false
 excerpt: >
   The AAPHN has members from a vast range of organisations with diverse goals, missions and areas of focus. Read about them here.
 ---
-Browse the many wonderful organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au>. Browse our [people]({{ site.baseurl }}/network/), [projects]({{ site.baseurl }}/projects/) and [organisations]({{ site.baseurl }}/organisations/#a-d).
+Browse the many wonderful organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <arts.CAH@mq.edu.au>. Browse our [people]({{ site.baseurl }}/network/), [projects]({{ site.baseurl }}/projects/){:target="_blank"} and [organisations]({{ site.baseurl }}/organisations/#a-d){:target="_blank"}.
 
 
 ## A-D
@@ -45,10 +45,10 @@ Browse the many wonderful organisations that comprise our vast network of practi
 **Society of Australian Genealogists (SAG)**
 : **Description** The Society of Australian Genealogists has been in existence since 1932 and our principal object is the advancement of genealogical and family history education and this is reflected in their education program and collections. They are keen to engage in collaborations with other public history practitioners and organisations.
 : **Website** <https://www.sag.org.au/>
-: **Twitter** [@SocAustGen](https://twitter.com/SocAustGen)
+: **Twitter** [@SocAustGen](https://twitter.com/SocAustGen){:target="_blank"}
 
 ## U-Z
 **Way Back When: Consulting Historians** <br />
 : **Description** Way Back When is a creative, dynamic and unique team of professional historians. We work with communities and organisations to create meaningful histories.
 : **Website** <https://www.waybackwhen.com.au/>
-: **Twitter** [@WBWhistorians](https://twitter.com/wbwhistorians?lang=en)
+: **Twitter** [@WBWhistorians](https://twitter.com/wbwhistorians?lang=en){:target="_blank"}
