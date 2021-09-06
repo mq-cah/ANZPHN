@@ -52,15 +52,17 @@ This page is still being compiled (and we hope to continually update it in futur
 
 ## Bibliography
 
-This bibliography is still under construction, so if you have anything to add please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au> with either a CONSISTENTLY FORMATTED list of references or (preferably) a .RIS (e.g. EndNote) or .BIB (e.g. BibTeX)) file exported from your reference manager.
+This bibliography is still under construction, so if you have anything to add please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at <arts.CAH@mq.edu.au> with either a CONSISTENTLY FORMATTED list of references or, preferably, a .RIS or .BIB (BibTeX)) file exported from your reference manager.
 
 ### Online Zotero Library
-View and browse our [Zotero](https://www.zotero.org/) library at at: <https://www.zotero.org/groups/4404913/aaphn>.
+View and browse our [Zotero](https://www.zotero.org/) library at: <https://www.zotero.org/groups/4404913/aaphn>.
 
-Download these files and import them into your reference manager of choice:
 ### Full AAPHN Library
+Download these files and import them into your reference manager of choice:
 * [RIS]({{ site.baseurl }}/assets/aaphn_list.ris) (e.g. Mendeley, EndNote)
 * [BIB]({{ site.baseurl }}/assets/aaphn_list.bib) (e.g. Zotero, LaTex)
+
+Download these files for text / formatted bibliography:
 * [Table]({{ site.baseurl }}/assets/aaphn_list.csv) (e.g. Excel, SQL)
 * [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.pdf) (PDF)
 
