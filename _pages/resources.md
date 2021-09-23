@@ -6,7 +6,7 @@ toc_sticky: true
 excerpt: >
   The AAPHN collates a repository of scholarly, online and public resources concerning public history in Australasia. This includes information concerning scholarship and grant opportunities as well as practitioners websites.
 ---
-This page is still being compiled (and we hope to continually update it in future), so if you would like to add published works, creative works, websites, and funding opportunities to this page, or would like suggest edits to certain pieces of information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <arts.CAH@mq.edu.au>.
+This page is still being compiled (and we hope to continually update it in future), so if you would like to add published works, creative works, websites, and funding opportunities to this page, or would like suggest edits to certain pieces of information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <aaphn@mq.edu.au>.
 
 ## Web resources
 
@@ -52,7 +52,7 @@ This page is still being compiled (and we hope to continually update it in futur
 
 ## Bibliography
 
-This bibliography is still under construction, so if you have anything to add please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <arts.CAH@mq.edu.au> with either a CONSISTENTLY FORMATTED list of references or, preferably, a .RIS or .BIB (BibTeX)) file exported from your reference manager.
+This bibliography is still under construction, so if you have anything to add please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <aaphn@mq.edu.au> with either a CONSISTENTLY FORMATTED list of references or, preferably, a .RIS or .BIB (BibTeX)) file exported from your reference manager.
 
 ### Online Zotero Library
 View and browse our [Zotero](https://www.zotero.org/) library at: <https://www.zotero.org/groups/4404913/aaphn>.

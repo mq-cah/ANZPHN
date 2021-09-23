@@ -11,7 +11,7 @@ author_profile: false
 excerpt: >
   The AAPHN is home to a wide range of scholars, practitioners and enthusiasts of applied and public history. Read about our fabulous members and their interests here.
 ---
-Browse the many wonderful specialists, projects and organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <arts.CAH@mq.edu.au>. Please browse our Network's [people]({{ site.baseurl }}/network/#a-d){:target="_blank"}, [projects]({{ site.baseurl }}/projects/){:target="_blank"} and [organisations]({{ site.baseurl }}/organisations){:target="_blank"}.
+Browse the many wonderful specialists, projects and organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <aaphn@mq.edu.au>. Please browse our Network's [people]({{ site.baseurl }}/network/#a-d){:target="_blank"}, [projects]({{ site.baseurl }}/projects/){:target="_blank"} and [organisations]({{ site.baseurl }}/organisations){:target="_blank"}.
 
 ## A-D
 **Dr Malcolm Allbrook** <br />
@@ -234,7 +234,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <f.mckergow@gmail.com>
 
 **Clare Menck, Consultant Historian** <br />
-: Clare Menck has been working in the WA heritage industry for over twenty years. She runs her own business in Perth as a consultant historian and is currently working on a Thematic History of Western Australia for the Department of Planning, Lands & Heritage (Heritage Services). Clare has served on the management committee of Professional Historians Association (WA) since 2018 and is currently its President.  
+: Clare Menck has been working in the WA heritage industry for over twenty years. She runs her own business in Perth as a consultant historian and is currently working on a Thematic History of Western Australia for the Department of Planning, Lands & Heritage (Heritage Services). Clare has served on the management committee of Professional Historians Association (WA) since 2018 and is currently its President.
 : **Contact** <clarenerida@gmail.com>
 
 **Dr Tom Murray**<br />
@@ -293,7 +293,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <alexandra.roginski@deakin.edu.au>
 
 **Sarah Rood, Professional Historian** <br />
-: Sarah Rood is a director of [Way Back When Consulting Historians](https://www.waybackwhen.com.au/){:target="_blank"}, working on a wide variety of projects including commissioned history, heritage, and oral history. She is a member and past president of the Professional Historians Association (Vic & Tas), and a member of Oral History Victoria.  
+: Sarah Rood is a director of [Way Back When Consulting Historians](https://www.waybackwhen.com.au/){:target="_blank"}, working on a wide variety of projects including commissioned history, heritage, and oral history. She is a member and past president of the Professional Historians Association (Vic & Tas), and a member of Oral History Victoria.
 : **Contact** <sjrood@waybackwhen.com.au>
 
 **Dr Liz Rushen AM**<br />

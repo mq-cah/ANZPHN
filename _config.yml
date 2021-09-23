@@ -50,7 +50,7 @@ plugins:
 author:
   name   : "AAPHN"
   avatar : "/assets/images/old_photos_square.jpg"
-  bio    : "The AAPHN is a network for public historians and enthusiasts across Australasia to connect, communicate and collaborate. Sign up to our newsletter and join the newtork by contacting us: <arts.CAH@mq.edu.au>."
+  bio    : "The AAPHN is a network for public historians and enthusiasts across Australasia to connect, communicate and collaborate. Sign up to our newsletter and join the newtork by contacting us: <aaphn@mq.edu.au>."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
