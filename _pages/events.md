@@ -15,5 +15,5 @@ excerpt: >
 
 ## Past Events
 
-## Newsletter
-We send out a newsletter bi-annually through the AAPHN email list which will record any upcoming events concerning public history in Australasia. If you would like to make a post about an upcoming event or would like for it to be included in our next newsletter, please contact the AAPHN team at <aaphn@mq.edu.au>.
+## Newsletter and Communications
+In addition to general membership communications and updates, we send out a newsletter bi-annually which records any upcoming events concerning public history in Australasia. If you would like to make a post about an upcoming event or would like for it to be included in our next newsletter, please contact the AAPHN team at <aaphn@mq.edu.au>.
