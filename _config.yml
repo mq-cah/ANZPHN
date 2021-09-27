@@ -54,13 +54,13 @@ author:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AppliedHist"
+      url: "https://twitter.com/aaphnetwork"
 
 footer:
   links:
-    - label: "CAH Twitter"
+    - label: "AAPHN Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AppliedHist"
+      url: "https://twitter.com/aaphnetwork"
 
 defaults:
   # _posts
