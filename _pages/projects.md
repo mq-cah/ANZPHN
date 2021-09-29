@@ -24,28 +24,28 @@ Browse the many wonderful projects being undertaken by our vast network of pract
 **Crises of Leadership in the Eastern Roman Empire (250-1000 CE)**
 : **Project Description** In 250 CE, after Rome was defeated in the Persian wars, the Roman empire seemed on the brink of destruction. By 1000 CE it had collapsed, due to multiple crises including: waves of mass migration, increasing demands for Roman citizenship, populism in government, religious extremism and food shortages due to war and climate change. These crises arose from complex problems that required strong and strategic leadership. There is a convergence between the challenges faced by Roman leaders then and those facing our leaders today.
 : **Status** Active
-: **Website** <https://www.mq.edu.au/research/research-centres-groups-and-facilities/groups/crises-of-leadership-in-the-eastern-roman-empire>
+: **Website** <https://www.mq.edu.au/research/research-centres-groups-and-facilities/groups/crises-of-leadership-in-the-eastern-roman-empire>{:target="_blank"}
 
 ## E-H
 
 **Historians at the Movies (HATM)**
 : **Project Description** Historians at the Movies Australia, or HATMAus, is an occasional live watch party on Twitter. Hosted by Dr Joel Barnes and Dr Chelsea Barnett, we watch a film and live-tweet our way through, using the hashtag #HATMAus. Born at the beginning of COVID-19 lockdown as a way to maintain connection and conversation, #HATMAus has transformed into a community of film lovers and friends. We historicise, we talk, we share memories, insights, and gifs. Best of all, we welcome everyone, historians and non-historians alike! 
 : **Status** Active
-: **Website** <https://historiansatthemoviesaustralia.com/>
+: **Website** <https://historiansatthemoviesaustralia.com/>{:target="_blank"}
 
 ## I-L
 
 **Inheriting the Family AHRC Networking Grant**
 : **Project Description** Inheriting the Family is an AHRC-funded network that explores the role of emotion in explaining why some objects and stories (and not others) are transmitted across generations and from the private sphere of the family to public spaces like museums and archives. The network brings together academics from across the world, along with heritage, museum and family history professionals, and members of the public with an interest in family history and inheritance.
 : **Status** Finished
-: **Team** <https://inheritingthefamily.org/meet-the-team/>
-: **Website** <https://inheritingthefamily.org/>
+: **Team** <https://inheritingthefamily.org/meet-the-team/>{:target="_blank"}
+: **Website** <https://inheritingthefamily.org/>{:target="_blank"}
 
 ## M-P
 **New Zealand suffragists**
 : **Project Description** Creating or expanding the Wikipedia biographical entries of New Zealand women to support the new _List of New Zealand suffragists_.
 : **Status** Active
-: **Website** <https://protect-au.mimecast.com/s/upkLCk815RCND9Pgt2ia5S?domain=en.wikipedia.org>
+: **Website** <https://protect-au.mimecast.com/s/upkLCk815RCND9Pgt2ia5S?domain=en.wikipedia.org>{:target="_blank"}
 : **Contact** <hollings@mail.h-net.org>
 
 ## Q-T

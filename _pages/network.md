@@ -37,6 +37,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Claire Baddeley has worked in museums, galleries, cultural and heritage organizations in Victoria, the ACT and New South Wales for 25 years. Her roles have included curatorial, public programs, management and research positions, with qualifications in Art History, Curatorial Studies, Museum Studies, Heritage Conservation and a PhD in public sector management & museum studies. Currently Curator at Hurstville Museum and Gallery, Claire’s interests include Australian migration history, indigenous history in the Georges River area, and Australian garden history.
 : **Contact** <cbaddeley@georgesriver.nsw.gov.au>
 
+**Dr Robyn Ballinger** <br />
+: Robyn is a professional historian and heritage consultant with over twenty years’ experience who also runs [History Making](https://www.historymaking.com.au/){:target="_blank"}.
+: **Contact** <robyn.ballinger@bigpond.com>
+
 **Associate Professor Katie Barclay**<br />
 : Katie Barclay is Deputy Director of the [ARC Centre of Excellence in the History of Emotions](http://www.historyofemotions.org.au/){:target="_blank"} and Associate Professor in History, University of Adelaide. Her research explores the intersections of emotion, family and gender. She is especially interested in how families pass on their various 'inheritances' across generations and she works collaboratively with the public to explore this topic.
 : **Contact** <katie.barclay@adelaide.edu.au>
@@ -303,6 +307,9 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Emma Russell, Historian**<br />
 : **Contact** <erussell@historyatwork.com.au>
 
+**Cameron Sang** <br />
+: Cameron's main project is collating information relevant to the stories of Chinese in Wellington NZ for the [Wellington Chinese History wiki](https://wellingtonchinesehistory.fandom.com/wiki/Wellington_Chinese_History_Wiki){:target="_blank"}, as well as running the Wellington Chinese History [twitter account](https://twitter.com/WgtnChineseHist){:target="_blank"} and [Facebook page](https://www.facebook.com/WellingtonChineseHistory){:target="_blank"}.
+
 **Dr Karen Schamberger, Curator**<br />
 : Dr Karen Schamberger is a curator and historian of mixed Austrian and Chinese Malaysian descent living on the unceded lands of the Ngunnawal and Ngambri people. She is currently working with the [Lambing Flat Folk Museum](https://lambingflatmuseum.webs.com/){:target="_blank"} to develop a display about the goldfields and is now in an exhibitions curator role at the [National Library of Australia](https://www.nla.gov.au/){:target="_blank"}. She has previously worked at the National Museum of Australia, [Immigration Museum](https://museumsvictoria.com.au/immigrationmuseum/){:target="_blank"} and Deakin University. She is Vice President of the [Dragon Tails Association](https://www.dragontails.org.au/){:target="_blank"} which organises biennial Australasian conferences on Chinese diaspora history & heritage, a founding member and administrator of the [Australian Migration History Network](https://amigrationhn.wordpress.com/){:target="_blank"} and an Exhibition Reviews editor of Australian Historical Studies. Her PhD, _Identity, Belonging and Cultural Diversity in Australian Museums_ (2016) explored the ways that objects mediate relations between people of different cultural backgrounds in Australian society and museums. She is interested in Australia's migration history, material culture and cross-cultural relations.
 : **Contact** <www.historyobjectsculture.wordpress.com>
@@ -335,6 +342,9 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <diana.thorp@bigpond.com>
 
 ## U-Z
+**Eloise Wallace, Museum Director**<br />
+: Director at Tairawhiti Museum in Gisborne New Zealand and also co-chair of Museums Aotearoa.
+
 **Dr Cheryl Ware**<br />
 : **Contact** <c.ware@auckland.ac.nz>
 
@@ -351,6 +361,9 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 **Dr Ian Willis, Historian**<br />
 : Dr Ian Willis is an honorary fellow at the University of Wollongong and completed his PhD in Australian History at Wollongong in 2004. He has awarded a Medal of the Order of Australia (OAM) for his service to community history in 2019. His general area of research is centred on local studies in and around the Macarthur region of New South Wales, with works published in popular media to peer-reviewed journals. Dr Willis currently has several on-going research projects based on this regional area. He is an active blogger on the history of the Macarthur region at [Camden History Notes](https://camdenhistorynotes.com/){:target="_blank"}.
 : **Contact** <Willis02@bigpond.com>
+
+**Gaye Wilson, PhD, CUG, JP**<br />
+: Gaye is an independent Scholar in Egyptology and Modern History who runs [Personal and Business Coaching Services](http://www.PhDSuccess.com){:target="_blank"} (specialising in Research Students) and [editorial Services](http://www.Gryphonworks.com){:target="_blank"} (editing, proofreading, desktop publishing services)
 
 **Associate Professor Nathan Wise**<br />
 : **Contact** <nwise@une.edu.au>

@@ -12,43 +12,47 @@ This page is still being compiled (and we hope to continually update it in futur
 
 ### Public History Web Resources
 * **An Intimate Pandemic: The Community Impact of Influenza in 1919**
-: <https://www.rahs.org.au/an-intimate-pandemic-the-community-impact-of-influenza-in-1919/>
+: <https://www.rahs.org.au/an-intimate-pandemic-the-community-impact-of-influenza-in-1919/>{:target="_blank"}
 
 * **Camden History Notes Blog**
 : The aim of the Camden History Notes blog is telling stories about the characters, events, general goings and changing landscapes of the Macarthur region of New South Wales, and occasionally elsewhere.
 : Originally occupied by the Indigenous Dharawal people it is one the fastest, growing areas in Australia with its master-planned housing estates and peri-urban farmland around the historic communities of Camden, Campbelltown and Picton on Sydney’s southwestern urban fringe.
-: <https://camdenhistorynotes.com/>
+: <https://camdenhistorynotes.com/>{:target="_blank"}
 
 * **Colonial Frontier Massacres in Australia**
 : **Description**: A map and information about massacres on the Australian Colonial Frontier.
-: <https://c21ch.newcastle.edu.au/colonialmassacres/>
+: <https://c21ch.newcastle.edu.au/colonialmassacres/>{:target="_blank"}
 
 * **Colourful Histories**
-: <https://colourfulhistories.wordpress.com/>
+: <https://colourfulhistories.wordpress.com/>{:target="_blank"}
 
 * **Kalimpong Kids**
 : **Description**: Between 1908 and 1938, 130 Anglo-Indian adolescents were sent to New Zealand from Dr Graham’s Homes in Kalimpong, India. Most were the children of British tea planters and Indian women, and faced an uncertain future in India. Their resettlement in New Zealand was in many ways a success, but it was also characterised by silence about their heritage.
 : This website is for descendants of the Kalimpong Kids, many of whom are still discovering this hidden aspect of their family history. It is also for anyone with an interest in the Kalimpong story, from which we can learn so much about memory, community and family ties.
-: <http://www.kalimpongkids.org.nz/>
+: <http://www.kalimpongkids.org.nz/>{:target="_blank"}
 
 * **New Zealand Women Historian's Forum**
 : **Description**: A place to connect, share and advance the work of women historians of Aotearoa New Zealand.
-: <https://newzealandwomenhistoriansforum.wordpress.com/>
+: <https://newzealandwomenhistoriansforum.wordpress.com/>{:target="_blank"}
 
 * **RAAF P-40 Kittyhawk Accidents**
 : **Description**: A digital map of RAAF P-40 Kittyhawk Accidents in Australia between 1942 and 1946.
-: <https://public.tableau.com/profile/chao.sun#!/vizhome/AircraftCrash_0/KittyHawkAccidents>
+: <https://public.tableau.com/profile/chao.sun#!/vizhome/AircraftCrash_0/KittyHawkAccidents>{:target="_blank"}
 
 * **Santa Cruz Trains: Railroads of the Monterey Bay Area**
-: <https://www.santacruztrains.com/>
+: <https://www.santacruztrains.com/>{:target="_blank"}
 
 * **Teller of Yarns**
 : **Description**: A collection of real Australian stories composed by an author, a researcher of history, and a passionate storyteller.
-: <https://www.tellerofyarns.com/>
+: <https://www.tellerofyarns.com/>{:target="_blank"}
 
 * **Time Layered Cultural Map**
 : **Description**: This resource provides tools to help humanities researchers, including historians, and anyone interested in history, to work with digital maps. Many more history datasets will be added to this resource over the coming year.
-: <https://tlcmap.org>
+: <https://tlcmap.org>{:target="_blank"}
+
+* **Wellington Chinese History Wiki**
+: **Description**: Collates information relevant to the stories of Chinese in Wellington NZ.
+: <https://wellingtonchinesehistory.fandom.com/wiki/Wellington_Chinese_History_Wiki>{:target="_blank"}
 
 ## Bibliography
 
