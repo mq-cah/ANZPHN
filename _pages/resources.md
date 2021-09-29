@@ -6,7 +6,7 @@ toc_sticky: true
 excerpt: >
   The AAPHN collates a repository of scholarly, online and public resources concerning public history in Australasia. This includes information concerning scholarship and grant opportunities as well as practitioners websites.
 ---
-This page is still being compiled (and we hope to continually update it in future), so if you would like to add published works, creative works, websites, and funding opportunities to this page, or would like suggest edits to certain pieces of information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <aaphn@mq.edu.au>.
+This page is still being compiled (and we hope to continually update it in future), so if you would like to add published works, creative works, websites, and funding opportunities to this page, or would like suggest edits to certain pieces of information, please contact us at <aaphn@mq.edu.au>.
 
 ## Web resources
 

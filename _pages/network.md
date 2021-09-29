@@ -11,7 +11,7 @@ author_profile: false
 excerpt: >
   The AAPHN is home to a wide range of scholars, practitioners and enthusiasts of applied and public history. Read about our fabulous members and their interests here.
 ---
-Browse the many wonderful specialists, projects and organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <aaphn@mq.edu.au>. Please browse our Network's [people]({{ site.baseurl }}/network/#a-d){:target="_blank"}, [projects]({{ site.baseurl }}/projects/){:target="_blank"} and [organisations]({{ site.baseurl }}/organisations){:target="_blank"}.
+Browse the many wonderful specialists, projects and organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact us at <aaphn@mq.edu.au>. Please browse our Network's [people]({{ site.baseurl }}/network/#a-d){:target="_blank"}, [projects]({{ site.baseurl }}/projects/){:target="_blank"} and [organisations]({{ site.baseurl }}/organisations){:target="_blank"}.
 
 ## A-D
 **Dr Malcolm Allbrook** <br />
@@ -363,7 +363,7 @@ Imogen has a keen interest in public histories, and has held a range of non-acad
 : **Contact** <Willis02@bigpond.com>
 
 **Gaye Wilson, PhD, CUG, JP**<br />
-: Gaye is an independent Scholar in Egyptology and Modern History who runs [Personal and Business Coaching Services](http://www.PhDSuccess.com){:target="_blank"} (specialising in Research Students) and [editorial Services](http://www.Gryphonworks.com){:target="_blank"} (editing, proofreading, desktop publishing services)
+: Gaye is an independent Scholar in Egyptology and Modern History who runs [Personal and Business Coaching Services](http://www.PhDSuccess.com){:target="_blank"} (specialising in Research Students) and [editorial Services](http://www.Gryphonworks.com){:target="_blank"} (editing, proofreading, desktop publishing services).
 
 **Associate Professor Nathan Wise**<br />
 : **Contact** <nwise@une.edu.au>

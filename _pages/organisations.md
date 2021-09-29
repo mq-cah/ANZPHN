@@ -11,7 +11,7 @@ author_profile: false
 excerpt: >
   The AAPHN has members from a vast range of organisations with diverse goals, missions and areas of focus. Read about them here.
 ---
-Browse the many wonderful organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <aaphn@mq.edu.au>. Browse our [people]({{ site.baseurl }}/network/), [projects]({{ site.baseurl }}/projects/){:target="_blank"} and [organisations]({{ site.baseurl }}/organisations/#a-d){:target="_blank"}.
+Browse the many wonderful organisations that comprise our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact us at <aaphn@mq.edu.au>. Browse our [people]({{ site.baseurl }}/network/), [projects]({{ site.baseurl }}/projects/){:target="_blank"} and [organisations]({{ site.baseurl }}/organisations/#a-d){:target="_blank"}.
 
 
 ## A-D

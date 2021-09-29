@@ -11,7 +11,7 @@ author_profile: false
 excerpt: >
   Our AAPHN members are undertaking a great number of diverse projects with a plethora of focuses and goals. Read more about them here.
 ---
-Browse the many wonderful projects being undertaken by our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <aaphn@mq.edu.au>. Browse our [people]({{ site.baseurl }}/network/){:target="_blank"}, [projects]({{ site.baseurl }}/projects/#a-d){:target="_blank"} and [organisations]({{ site.baseurl }}/organisations/){:target="_blank"}.
+Browse the many wonderful projects being undertaken by our vast network of practitioners. If you would like your information/projects/organisations listed, or would like to edit your information, please contact us at <aaphn@mq.edu.au>. Browse our [people]({{ site.baseurl }}/network/){:target="_blank"}, [projects]({{ site.baseurl }}/projects/#a-d){:target="_blank"} and [organisations]({{ site.baseurl }}/organisations/){:target="_blank"}.
 
 ## A-D
 
