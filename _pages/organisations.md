@@ -34,8 +34,12 @@ Browse the many wonderful organisations that comprise our vast network of practi
 
 ## I-L
 ## M-P
-**Professional Historians Association**
+**Professional Historians Association (PHA)**
 : **Website** <https://www.historians.org.au/>{:target="_blank"}
+
+**Professional Historians Association, New Zealand Aotearoa (PHANZA)**
+: **Description** Established in 1994, PHANZA supports professional historians in Aotearoa New Zealand by advocating for history and historians, offering employment advice and information, promoting standards of excellence, and encouraging a sense of community.
+: **Website** <https://phanza.org.nz/>{:target="_blank"}
 
 **Professional Historians Association, Victoria & Tasmania (PHA Vic & Tas)**
 : **Description** A thriving, dynamic community of professional historians who communicate history in diverse ways.
