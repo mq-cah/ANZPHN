@@ -26,6 +26,11 @@ This page is still being compiled (and we hope to continually update it in futur
 * **Colourful Histories**
 : <https://colourfulhistories.wordpress.com/>{:target="_blank"}
 
+* **DigitalNZ / Ā-Tihi o Aotearoa**
+: **Description**: Search digital collections from all over Aotearoa
+: **Twitter**: [@DigitalNZ](https://twitter.com/DigitalNZ){:target="_blank"}
+: <https://digitalnz.org/>{:target="_blank"}
+
 * **Kalimpong Kids**
 : **Description**: Between 1908 and 1938, 130 Anglo-Indian adolescents were sent to New Zealand from Dr Graham’s Homes in Kalimpong, India. Most were the children of British tea planters and Indian women, and faced an uncertain future in India. Their resettlement in New Zealand was in many ways a success, but it was also characterised by silence about their heritage.
 : This website is for descendants of the Kalimpong Kids, many of whom are still discovering this hidden aspect of their family history. It is also for anyone with an interest in the Kalimpong story, from which we can learn so much about memory, community and family ties.
