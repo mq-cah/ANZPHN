@@ -117,6 +117,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Emeritus Professor Graeme Davison (AO)**<br />
 : **Contact** <graeme.davison@monash.edu>
 
+**Emily Dawson, PhD Candidate and Senior Policy Officer** <br />
+: Emily Dawson is a PhD Candidate in Education at the University of Melbourne and Senior Policy Officer at the peak Aboriginal Community Controlled Organisation for education, the [Victorian Aboriginal Education Association Incorporated](https://www.vaeai.org.au/) (VAEAI). Her PhD research is investigating Aboriginal-led community-based activism and advocacy in education between 1950s-1980s in Australia. With experience teaching within Aboriginal and Torres Strait Islander education in Primary, Secondary and Tertiary settings, she has published several curriculum resources in collaboration with Aboriginal and Torres Strait Islander filmmakers and knowledge-holders to support teachers and schools to embed Aboriginal and Torres Strait Islander perspectives throughout their curricula. She has recently been awarded the 2021 George Alexander Fellowship through the International Specialised Skills Institute.
+: **Contact** <emily@vaeai.org.au>
+
 **Dr Jennifer Debenham**<br />
 : **Contact** <jennifer.debenham@newcastle.edu.au>
 

@@ -61,23 +61,28 @@ This page is still being compiled (and we hope to continually update it in futur
 
 ## Bibliography
 
-This bibliography is still under construction, so if you have anything to add please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <aaphn@mq.edu.au> with either a CONSISTENTLY FORMATTED list of references or, preferably, a .RIS or .BIB (BibTeX)) file exported from your reference manager.
+This bibliography is still under construction, so if you have anything to add please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <aaphn@mq.edu.au> with either a consistently formatted list of references or (preferably) a .RIS or .BIB (BibTeX) file exported from your reference manager.
 
 ### Online Zotero Library
 View and browse our [Zotero](https://www.zotero.org/) library at: <https://www.zotero.org/groups/4404913/aaphn>.
 
 ### Full AAPHN Library
 Download these files and import them into your reference manager of choice:
-* [RIS]({{ site.baseurl }}/assets/aaphn_list.ris){:target="_blank"} (e.g. Mendeley, EndNote)
+* [RIS]({{ site.baseurl }}/assets/aaphn_list.ris){:target="_blank"} (e.g. Mendeley)
 * [BIB]({{ site.baseurl }}/assets/aaphn_list.bib){:target="_blank"} (e.g. Zotero, LaTex)
+* [XML]({{ site.baseurl }}/assets/aaphn_list.xml){:target="_blank"} (e.g. EndNote)
 
 Download these files for text / formatted bibliography:
-* [Table]({{ site.baseurl }}/assets/aaphn_list.csv){:target="_blank"} (e.g. Excel, SQL)
+* [Table]({{ site.baseurl }}/assets/aaphn_list.csv){:target="_blank"} (Excel)
 * [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.pdf){:target="_blank"} (PDF)
+* [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.docx){:target="_blank"} (DOCX)
 
 ## Funding Opportunities
 
 ### Fellowships
+#### Open
+
+#### Closed
 * CACHE Early Career Indigenous Australian Research Fellowship - 2021 (completed)
 : **Description**:
 : HDR, postdoctoral or heritage/environment professional fellowship of $5000 for a dynamic and enthusiastic Aboriginal and/or Torres Strait Islander person with research skills to work with members of the Centre for Ancient Cultural Heritage and Environment (CACHE) in the fields of archaeological science, cultural heritage, and/or environmental heritage.
