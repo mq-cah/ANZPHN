@@ -18,6 +18,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Malcolm Allbrook is managing editor of the [Australian Dictionary of Biography (ADB)](https://adb.anu.edu.au/){:target="_blank"} and a research fellow in the [National Centre of Biography](https://history.cass.anu.edu.au/centres/ncb){:target="_blank"} at The Australian National University (ANU). He has authored and co-authored four books: Never Stand Still (with Darraga Watson, 2013), Henry Prinsep’s Empire (2014), Carlotta’s Perth (with Mary Anne Jebb, 2017) and Barddabardda Wodjenangorddee: We’re Telling All of You: The Creation, History and People of Dambeemangaddee Country (with Valda Blundell, et al., 2017). His most recent book is an edited collection: Family History and Historians in Australia and New Zealand: Related Histories (with Sophie Scott-Brown, 2021).
 : **Contact** <malcolm.allbrook@anu.edu.au>
 
+**Dr Kylie Andrews** <br />
+: Kylie Andrews is an ECR and sessional academic at UTS.  Her research centres on histories of media and gender, production studies and biography. She is the author of Trailblazing Women of Australian Public Broadcasting, 1945-1975 (Anthem Press, 2022). Kylie provides research services across a range of subjects and is currently assisting on 'A Century of Sex and the Australian Military, 1914-2020'. She contributes to a variety of historical organisations and was recently Secretary of the Oral History Association of NSW. Prior to becoming a historian, Kylie worked in film, radio and television as a production manager and producer and developed commercial projects, animated feature film and broadcast design.
+: **Contact** <Kylie.Andrews@uts.edu.au>
+
 **Professor Paul Arthur**<br />
 : **Contact** <paul.arthur@ecu.edu.au>
 
