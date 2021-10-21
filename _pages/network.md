@@ -370,6 +370,11 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Imogen has a keen interest in public histories, and has held a range of non-academic roles that have connected her research with the public. As a tour guide she converted her thesis into a commentary designed for tourists with little to no background knowledge. She also worked behind the help desk in a public library, helping clients research their family history, find information about their house, or pursue other historical questions. She is a popular public speaker, and is regularly invited to speak to diverse audiences. In 2016 she co-founded [A Pint of History](https://pintofhistory.wordpress.com/){:target="_blank"} – a monthly pub-based history event in Hobart, which continues to a provide a space for academics and experts to present their historical research to a large general audience.
 : **Contact** <imogen.wegman@utas.edu.au>
 
+**** <br />
+: Antares Wells is an emerging curatorial professional with particular interests in collections access, advocacy and outreach. Originally from the Blue Mountains, Australia, she is currently the graduate curatorial assistant in the Department of Photographs at the J. Paul Getty Museum, where she works on a broad range of exhibition projects and catalogues rare material. Her research interests span nineteenth- and twentieth-century social history and print culture (Australia, UK, US), the history of photography and Australian migration history. She has worked across museums, Special Collections, universities and the public sector on a diverse range of exhibition and research projects, and in publishing as an editor and translator.
+: **Contact** <ADwells@getty.edu>
+: **Twitter** [@antareswells](https://twitter.com/antareswells)
+
 **Dr Derek R. Whaley, Research Librarian**<br />
 : Derek R. Whaley is a Research Librarian at [Auckland Libraries](https://www.aucklandlibraries.govt.nz/){:target="_blank"} with a wide range of historical interests from medieval French royalty to North Auckland transportation and thoroughfares to the railroads of Santa Cruz County, California.
 : **Contact** <derek.whaley@aucklandcouncil.govt.nz>
