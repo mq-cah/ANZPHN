@@ -8,12 +8,10 @@ excerpt: >
 ---
 ## Upcoming Events
 
+## Past Events
 **AAPHN '21 Social Meet and Greet**
 : **Event Description** We are happy to announce our first network event! We will be hosting an AAPHN Zoom social gathering. The Zoom will provide an opportunity for our members (and any individuals considering signing up) to learn more about the network and each other. We hope to provide an oppurtunity for members to share ideas and get to know one another and their projects.
 : **When** Wednesday the 20th of October 5-6pm
-: **Register** Contact us at <aaphn@mq.edu.au>
-
-## Past Events
 
 ## Newsletter and Communications
 In addition to general membership communications and updates, we send out a newsletter bi-annually which records any upcoming events concerning public history in Australasia. If you would like to make a post about an upcoming event or would like for it to be included in our next newsletter, please contact the AAPHN team at <aaphn@mq.edu.au>.
