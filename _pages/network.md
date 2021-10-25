@@ -161,6 +161,11 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Joanne Graves, Senior Research Librarian**<br />
 : **Contact** <Joanne.Graves@aucklandcouncil.govt.nz>
 
+**Dr Anna Green** <br />
+: Anna Green is an adjunct professor in the [Stout Research Centre for New Zealand Studies](https://www.wgtn.ac.nz/stout-centre){:target="_blank"} at Victoria University of Wellington | Te Herenga Waka, New Zealand. She has both taught history and public history at tertiary level in the U.K. and N.Z., and collaboratively run public history programmes through the Stout Centre. Her research is in the field of oral history, and she is currently working on a Marsden-funded intergenerational family memory project among the descendants of nineteenth-century European settlers.
+: **Contact** <anna.green@vuw.ac.nz>
+: **Research Profile** [University of Wellington Profile Page](https://www.wgtn.ac.nz/stout-centre/about/staff/associate-professor-anna-green){:target="_blank"}
+
 **Dr Kate Gregory, Historian**<br />
 : Kate Gregory is the Battye Historian at the [State Library of Western Australia](https://www.slwa.wa.gov.au/){:target="_blank"}. She has worked as an Historian with the National Trust of Australia (WA), as well as Curator at Claremont Museum. She has a PhD in Art History from the University of Melbourne and has served as a Trustee of the Western Australian Museum from 2012 - 2018. Her book _[From the Barracks to the Burrup: the National Trust in Western Australia](https://catalogue.nla.gov.au/Record/4586584){:target="_blank"}_ (University of New South Wales Press, 2010) co-authored with Andrea Witcomb, was shortlisted for the Western Australian Premier’s Book Awards.
 
@@ -370,7 +375,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Imogen has a keen interest in public histories, and has held a range of non-academic roles that have connected her research with the public. As a tour guide she converted her thesis into a commentary designed for tourists with little to no background knowledge. She also worked behind the help desk in a public library, helping clients research their family history, find information about their house, or pursue other historical questions. She is a popular public speaker, and is regularly invited to speak to diverse audiences. In 2016 she co-founded [A Pint of History](https://pintofhistory.wordpress.com/){:target="_blank"} – a monthly pub-based history event in Hobart, which continues to a provide a space for academics and experts to present their historical research to a large general audience.
 : **Contact** <imogen.wegman@utas.edu.au>
 
-**** <br />
+**Antares Wells, curatorial professional** <br />
 : Antares Wells is an emerging curatorial professional with particular interests in collections access, advocacy and outreach. Originally from the Blue Mountains, Australia, she is currently the graduate curatorial assistant in the Department of Photographs at the J. Paul Getty Museum, where she works on a broad range of exhibition projects and catalogues rare material. Her research interests span nineteenth- and twentieth-century social history and print culture (Australia, UK, US), the history of photography and Australian migration history. She has worked across museums, Special Collections, universities and the public sector on a diverse range of exhibition and research projects, and in publishing as an editor and translator.
 : **Contact** <ADwells@getty.edu>
 : **Twitter** [@antareswells](https://twitter.com/antareswells)
