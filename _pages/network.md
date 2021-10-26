@@ -162,7 +162,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <Joanne.Graves@aucklandcouncil.govt.nz>
 
 **Dr Anna Green** <br />
-: Anna Green is an adjunct professor in the [Stout Research Centre for New Zealand Studies](https://www.wgtn.ac.nz/stout-centre){:target="_blank"} at Victoria University of Wellington | Te Herenga Waka, New Zealand. She has both taught history and public history at tertiary level in the U.K. and N.Z., and collaboratively run public history programmes through the Stout Centre. Her research is in the field of oral history, and she is currently working on a Marsden-funded intergenerational family memory project among the descendants of nineteenth-century European settlers.
+: Anna Green is an adjunct professor in the [Stout Research Centre for New Zealand Studies](https://www.wgtn.ac.nz/stout-centre){:target="_blank"} at Victoria University of Wellington / Te Herenga Waka, New Zealand. She has both taught history and public history at tertiary level in the U.K. and N.Z., and collaboratively run public history programmes through the Stout Centre. Her research is in the field of oral history, and she is currently working on a Marsden-funded intergenerational family memory project among the descendants of nineteenth-century European settlers.
 : **Contact** <anna.green@vuw.ac.nz>
 : **Research Profile** [University of Wellington Profile Page](https://www.wgtn.ac.nz/stout-centre/about/staff/associate-professor-anna-green){:target="_blank"}
 
