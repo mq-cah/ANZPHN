@@ -111,6 +111,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Dr Sophie Couchman**<br />
 : **Contact** <sophie.couchman@gmail.com>
 
+**Dr Rose Cullen, Historian** <br />
+: Dr Rose Cullen is a historian with expertise in Australian social, cultural and local history, as well as the built environment and historical consciousness. She has experience working as an independent professional historian, a local studies librarian and a curator. Rose’s PhD, awarded in 2019 from the University of Sydney, explored historical consciousness and the repair of old houses in Australia in the period 1960 – 2018.
+: **Contact** <rose@rosecullen.com.au>
+
 **Dr Patricia Curthoys**<br />
 : **Contact** <patricia.curthoys@gmail.com>
 
