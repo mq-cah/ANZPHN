@@ -254,6 +254,11 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Fiona McKergow is preparing her awarded doctoral thesis on colonial textile culture in mid-nineteenth century Aotearoa New Zealand for publication. She has previously been a historical researcher, museum curator, and co-editor of two volumes: _Looking Flash: Clothing in Aotearoa New Zealand_ (Auckland University Press 2007) with Bronwyn Labrum and Stephanie Gibson and _Te Hao Nui - The Great Catch: Object Stories from Te Manawa_ (Godwit/Random House 2011) with Kerry Taylor.
 : **Contact** <f.mckergow@gmail.com>
 
+**Dr Scott McKinnon** <br />
+: Scott McKinnon is a Research Fellow at the University of Wollongong. He is a geographer and historian whose current research investigates community-based histories of the 2019/2020 bushfires in southern NSW. Scott is the author of [Gay Men at the Movies: Cinema, Memory and the History of a Gay Male Community](https://press.uchicago.edu/ucp/books/book/distributed/G/bo23353310.html){:target="_blank"} (Intellect, 2016) and co-editor of [Disasters in Australia and New Zealand: Historical Approaches to Understanding Catastrophe](https://doi.org/10.1007/978-981-15-4382-1){:target="_blank"} (Palgrave MacMillan 2020). He is the vice president of Oral History NSW and of LGBTQ community history organisation Pride History Group.
+: **Contact** <scottmck@uow.edu.au>
+: **Research Profile** [UoW Research Page](https://scholars.uow.edu.au/display/scott_mckinnon){:target="_blank"}
+
 **Clare Menck, Consultant Historian** <br />
 : Clare Menck has been working in the WA heritage industry for over twenty years. She runs her own business in Perth as a consultant historian and is currently working on a Thematic History of Western Australia for the Department of Planning, Lands & Heritage (Heritage Services). Clare has served on the management committee of Professional Historians Association (WA) since 2018 and is currently its President.
 : **Contact** <clarenerida@gmail.com>
