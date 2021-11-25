@@ -91,7 +91,8 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <dcarment@bigpond.net.au>
 
 **Alicia Cerreto, Consulting Historian**<br />
-: **Contact** <aliciacerreto@gmail.com>
+: Alicia is a professional historian with a focus on Australian community history. She has worked on a wide range of commissioned projects including books, exhibitions and oral histories. Alicia is Executive Officer of the [History Council of Victoria](https://www.historycouncilvic.org.au/){:target="_blank"}, a member of Oral History Victoria and a member and former President of the [Professional Historians Association (Victoria & Tasmania)](https://www.phavic.org.au/){:target="_blank"}.
+: **Contact** <hello@aliciacerreto.com>
 
 **Associate Professor Anna Clark**<br />
 : **Contact** <Anna.Clark@uts.edu.au>
