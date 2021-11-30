@@ -6,7 +6,25 @@ toc_sticky: true
 excerpt: >
   The AAPHN collates a repository of scholarly, online and public resources concerning public history in Australasia. This includes information concerning scholarship and grant opportunities as well as practitioners websites.
 ---
-This page is still being compiled (and we hope to continually update it in future), so if you would like to add published works, creative works, websites, and funding opportunities to this page, or would like suggest edits to certain pieces of information, please contact us at <aaphn@mq.edu.au>.
+We plan to continually update this page &ndash; a 'forever work-in-progress' if you will &ndash; so if you would like to add published works, creative works, websites, and funding opportunities to this page, or would like suggest edits to certain pieces of information, please contact us at <aaphn@mq.edu.au>.
+
+## Bibliography
+
+This bibliography is still under construction, so if you have anything to add please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <aaphn@mq.edu.au> with either a consistently formatted list of references or (preferably) a .RIS or .BIB (BibTeX) file exported from your reference manager.
+
+### Online Zotero Library
+View and browse our [Zotero](https://www.zotero.org/) library at: <https://www.zotero.org/groups/4404913/aaphn>.
+
+### Full AAPHN Library
+Download these files and import them into your reference manager of choice:
+* [RIS]({{ site.baseurl }}/assets/aaphn_list.ris){:target="_blank"} (e.g. Mendeley)
+* [BIB]({{ site.baseurl }}/assets/aaphn_list.bib){:target="_blank"} (e.g. Zotero, LaTex)
+* [XML]({{ site.baseurl }}/assets/aaphn_list.xml){:target="_blank"} (e.g. EndNote)
+
+Download these files for text / formatted bibliography:
+* [Table]({{ site.baseurl }}/assets/aaphn_list.csv){:target="_blank"} (Excel, Google Sheet)
+* [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.pdf){:target="_blank"} (PDF)
+* [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.docx){:target="_blank"} (DOCX, Google Doc)
 
 ## Web resources
 
@@ -59,24 +77,6 @@ This page is still being compiled (and we hope to continually update it in futur
 : **Description**: Collates information relevant to the stories of Chinese in Wellington NZ.
 : <https://wellingtonchinesehistory.fandom.com/wiki/Wellington_Chinese_History_Wiki>{:target="_blank"}
 
-## Bibliography
-
-This bibliography is still under construction, so if you have anything to add please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <aaphn@mq.edu.au> with either a consistently formatted list of references or (preferably) a .RIS or .BIB (BibTeX) file exported from your reference manager.
-
-### Online Zotero Library
-View and browse our [Zotero](https://www.zotero.org/) library at: <https://www.zotero.org/groups/4404913/aaphn>.
-
-### Full AAPHN Library
-Download these files and import them into your reference manager of choice:
-* [RIS]({{ site.baseurl }}/assets/aaphn_list.ris){:target="_blank"} (e.g. Mendeley)
-* [BIB]({{ site.baseurl }}/assets/aaphn_list.bib){:target="_blank"} (e.g. Zotero, LaTex)
-* [XML]({{ site.baseurl }}/assets/aaphn_list.xml){:target="_blank"} (e.g. EndNote)
-
-Download these files for text / formatted bibliography:
-* [Table]({{ site.baseurl }}/assets/aaphn_list.csv){:target="_blank"} (Excel)
-* [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.pdf){:target="_blank"} (PDF)
-* [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.docx){:target="_blank"} (DOCX)
-
 ## Funding Opportunities
 
 ### Fellowships
@@ -119,9 +119,5 @@ Download these files for text / formatted bibliography:
 : **Application**: Follow instructions on the [NLA website](https://www.nla.gov.au/content/community-heritage-grants-4){:target="_blank"}
 
 ## Jobs
-* **Historian with Coast History & Heritage**
-: **Description**: This position is identified for Aboriginal people
-: Coast History & Heritage (‘Coast’) are looking for a passionate History graduate to join our team and work on a range of exciting and interesting Aboriginal history and heritage projects. We are based in our office and display space at Alexandria in Sydney and work with Aboriginal people and communities as well as public and private sector clients to help research, document and raise awareness and understanding of the Aboriginal histories of places in the Sydney region and beyond. We are also developing an Aboriginal history display space at our office and a searchable archive of historical materials relating to Sydney’s Aboriginal history.
-: You will be working with Coast Director Dr Paul Irish and Senior Historian Dr Michael Bennett, who are keen to assist with your professional development. You will also be working with Aboriginal community members and our heritage team. Ideally you will have a History Honours degree or equivalent, but we will also consider graduates or final year students majoring in History or Indigenous Studies with a history focus, who are planning to complete a History Honours degree. Salary commensurate with experience.
-: If this sounds like you, have a look at the position description and application details at <www.coasthistory.com.au/careers>. Applications close 30 November 2021.
-: Coast History & Heritage has been granted an exemption under section 126 of the AntiDiscrimination Act 1977 (NSW) in relation to this position. For further details please contact <admin@coasthistory.com.au>.
+
+* _There are currently no jobs posted on the AAPHN_
