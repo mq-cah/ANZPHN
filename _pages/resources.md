@@ -10,10 +10,10 @@ We plan to continually update this page &ndash; a 'forever work-in-progress' if 
 
 ## Bibliography
 
-This bibliography is still under construction, so if you have anything to add please contact the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} at <aaphn@mq.edu.au> with either a consistently formatted list of references or (preferably) a .RIS or .BIB (BibTeX) file exported from your reference manager.
+This bibliography is still under construction, so if you have anything to add please contact <aaphn@mq.edu.au> with either a consistently formatted list of references or (preferably) a .RIS or .BIB (BibTeX) file exported from your reference manager.
 
 ### Online Zotero Library
-View and browse our [Zotero](https://www.zotero.org/) library at: <https://www.zotero.org/groups/4404913/aaphn>.
+View and browse our [Zotero](https://www.zotero.org/) library at: <https://www.zotero.org/groups/4404913/aaphn/library>.
 
 ### Full AAPHN Library
 Download these files and import them into your reference manager of choice:
