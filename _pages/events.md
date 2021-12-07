@@ -7,6 +7,13 @@ excerpt: >
   The AAPHN collates information regarding upcoming invents of interest to public history enthusiasts and practitioners and also sends out a bi-annual Newsletter summarising the year and looking forward to the future.
 ---
 ## Upcoming Events
+### Call For Papers
+**WWII in the Asia-Pacific: Border Crossing Mobilities**
+: **Event Description**: Two-day online workshop which focuses on international mobilities and migration as a way to understand the impacts of WWII across the Asia-Pacific region. The workshop is a joint project between The University of Notre Dame (Australia), the University of Wollongong, and Ritsumeikan University (Japan).
+: **When** 18-19 July 2022.
+: **Deadline for submission**: 17 January 2022.
+: **Contact and more Information**: [http://www.ritsumei.ac.jp/research/ihhss/events/article.html/?id=77](http://www.ritsumei.ac.jp/research/ihhss/events/article.html/?id=77){:target="_blank"}
+
 
 ## Past Events
 **AAPHN '21 Social Meet and Greet**
