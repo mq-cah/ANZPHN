@@ -78,3 +78,5 @@ In 2000, the Historical Branch was relocated to Manatū Taonga, the Ministry for
 - Te Ara: The Encyclopedia of New Zealand, [accessible here](https://teara.govt.nz/en){:target="_blank"}
 - Whakakitenga, first Māori VR film, [accessible here](https://www.wgtn.ac.nz/victorious/issues/victorious-2020/soaring-into-an-historical-maori-worldview-with-vr){:target="_blank"}
 - Women Together – Ngā Rōpu Wāhine o te Motu, [accessible here](https://nzhistory.govt.nz/women-together){:target="_blank"}
+
+_We We at the AAPHN acknowledge the traditional custodians of the land upon which we work, the Wallamattagal people of the Dharug nation, whose cultures and customs have nurtured, and continue to nurture, this land, since the Dreamtime. We pay our respects to the Dharug people and the Wallamattagal clan. We also acknowledge the Elders of the Dharug nation, past, present and future, and pay our respects to them._

@@ -52,3 +52,6 @@ Professor Paul Ashton is adjunct professor at the [Centre for Applied History](h
 Ewan Coopey is PhD candidate and Research Assistant at the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} working on several history-focused websites and a database of Australian Public History theses. He is interested in Roman archaeology and epigraphy and is also passionate about public engagement with history, archaeology, and academia more broadly. He is dedicated to promoting Open Access (OA) publishing and the application of digital tools in archaeology and epigraphy.
 
 **Research Profile:** [Macquarie University Research Profile](https://researchers.mq.edu.au/en/persons/ewan-coopey){:target="_blank"}
+
+## Acknowledgement of Country
+_We at the AAPHN acknowledge the traditional custodians of the land upon which we work, the Wallamattagal people of the Dharug nation, whose cultures and customs have nurtured, and continue to nurture, this land, since the Dreamtime. We pay our respects to the Dharug people and the Wallamattagal clan. We also acknowledge the Elders of the Dharug nation, past, present and future, and pay our respects to them._

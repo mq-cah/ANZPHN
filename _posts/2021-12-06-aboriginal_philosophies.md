@@ -51,3 +51,6 @@ Pascoe, B 2018, [*Dark Emu: Aboriginal Australia and the Birth of Agriculture*](
 Roberts, Z, Carlson, B, O'Sullivan, S, Day, M, Rey, J, Kennedy, T, Bakic, T, & Farrell, A. 2021, [*A guide to writing and speaking about Indigenous People in Australia*](https://doi.org/10.25949/5TFK-5113){:target="_blank"}, Macquarie University.
 
 Yunkaporta, T 2019, *[Sand talk: how Indigenous thinking can save the world](https://www.textpublishing.com.au/books/sand-talk){:target="_blank"}*, Text Publishing, Melbourne, Victoria.
+
+
+_We at the AAPHN acknowledge the traditional custodians of the land upon which we work, the Wallamattagal people of the Dharug nation, whose cultures and customs have nurtured, and continue to nurture, this land, since the Dreamtime. We pay our respects to the Dharug people and the Wallamattagal clan. We also acknowledge the Elders of the Dharug nation, past, present and future, and pay our respects to them._

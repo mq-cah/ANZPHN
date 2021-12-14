@@ -59,3 +59,5 @@ For several reasons, including the state’s convict heritage and its demographi
 - W Bryden, ‘Tasmanian Museum and Art Gallery: Historical Note’, Papers and Proceedings of the Royal Society of Tasmania 100 (1966): 23.
 - Mary Koolhof, ‘Apology by the Royal Society of Tasmania to the Aboriginal People of Tasmania’ (Hobart, Australia, 15 February 2021), https://rst.org.au/wp-content/uploads/2021/02/RST-2021-Apology-to-Tasmanian-Aboriginal-People-for-the-web.pdf
 - Brett Torossi, ‘Apology to Tasmanian Aboriginal People’ (Hobart, Australia, Department of State Growth, 15 February 2021), https://www.tmag.tas.gov.au/about_us/apology_to_tasmanian_aboriginal_people.
+
+_We We at the AAPHN acknowledge the traditional custodians of the land upon which we work, the Wallamattagal people of the Dharug nation, whose cultures and customs have nurtured, and continue to nurture, this land, since the Dreamtime. We pay our respects to the Dharug people and the Wallamattagal clan. We also acknowledge the Elders of the Dharug nation, past, present and future, and pay our respects to them._

@@ -10,18 +10,24 @@ We plan to continually update this page &ndash; a 'forever work-in-progress' if 
 
 ## Bibliography
 
-This bibliography is still under construction, so if you have anything to add please contact <aaphn@mq.edu.au> with either a consistently formatted list of references or (preferably) a .RIS or .BIB (BibTeX) file exported from your reference manager.
+This bibliography is still under construction. If you have anything to add please contact <aaphn@mq.edu.au> with either a consistently formatted list of references with DOIs / IBSNs / URLs where possible, or (preferably) a .RIS or .BIB (BibTeX) file exported from your reference manager.
 
 ### Online Zotero Library
-View and browse our [Zotero](https://www.zotero.org/) library at: <https://www.zotero.org/groups/4404913/aaphn/library>.
+View and browse our [Zotero](https://www.zotero.org/){:target="_blank"} library at: [https://www.zotero.org/groups/4404913/aaphn/library](https://www.zotero.org/groups/4404913/aaphn/library){:target="_blank"}.
+
+#### Bibliographic collections
+We are continually collating and adding to multiple themed bibliographies on [our Zotero library](https://www.zotero.org/groups/4404913/aaphn/library){:target="_blank"}. There are several collections already available for browsing, with more on the way:
+* [Dark Tourism](https://www.zotero.org/groups/4404913/aaphn/collections/MQ5G8ERC){:target="_blank"}
+* [Public History Theses](https://www.zotero.org/groups/4404913/aaphn/collections/7JA4UZLL){:target="_blank"}
+* [Public History and the Media](https://www.zotero.org/groups/4404913/aaphn/collections/EC7QBYPJ){:target="_blank"}
 
 ### Full AAPHN Library
-Download these files and import them into your reference manager of choice:
+In addition to our Zotero library, our full bibliography can be downloaded in several different ways. For example, download these files and import them into your reference manager of choice:
 * [RIS]({{ site.baseurl }}/assets/aaphn_list.ris){:target="_blank"} (e.g. Mendeley)
 * [BIB]({{ site.baseurl }}/assets/aaphn_list.bib){:target="_blank"} (e.g. Zotero, LaTex)
 * [XML]({{ site.baseurl }}/assets/aaphn_list.xml){:target="_blank"} (e.g. EndNote)
 
-Download these files for text / formatted bibliography:
+Alternatively, download these files for text / formatted bibliography:
 * [Table]({{ site.baseurl }}/assets/aaphn_list.csv){:target="_blank"} (Excel, Google Sheet)
 * [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.pdf){:target="_blank"} (PDF)
 * [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.docx){:target="_blank"} (DOCX, Google Doc)

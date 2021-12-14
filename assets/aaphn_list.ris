@@ -5115,9 +5115,9 @@ PY  - 2018
 DP  - Library of Congress ISBN
 PB  - Bloomsbury Academic
 SN  - 978-1-4725-8080-1 978-1-4725-8081-8
+KW  - History
 KW  - Civilization
 KW  - Historiography
-KW  - History
 KW  - Social history
 ER  - 
 
@@ -5178,8 +5178,8 @@ EP  - 97
 PB  - Monash University Publishing
 SN  - 978-1-925495-60-7
 KW  - Australia
-KW  - Bolton, Geoffrey
 KW  - History
+KW  - Bolton, Geoffrey
 ER  - 
 
 TY  - CHAP
@@ -5199,8 +5199,8 @@ SP  - 538
 PB  - OUP
 SN  - 978-0-19-551503-9
 KW  - Australia
-KW  - Encyclopedias
 KW  - History
+KW  - Encyclopedias
 ER  - 
 
 TY  - JOUR
@@ -5255,8 +5255,8 @@ SP  - 273
 PB  - State University of New York Press
 SN  - 978-0-7914-0132-3 978-0-7914-0133-0
 ST  - A shared authority
-KW  - Oral history
 KW  - Public history
+KW  - Oral history
 ER  - 
 
 TY  - BOOK
@@ -5272,8 +5272,8 @@ SP  - 316
 PB  - Routledge, Taylor & Francis Group
 SN  - 978-1-138-90531-3 978-1-138-90532-0
 ST  - Consuming history
-KW  - History in popular culture
 KW  - Public history
+KW  - History in popular culture
 ER  - 
 
 TY  - JOUR
@@ -5366,8 +5366,8 @@ SP  - 304
 PB  - Palgrave Macmillan
 SN  - 978-0-230-54669-1
 ST  - People and their pasts
-KW  - Case studies
 KW  - Public history
+KW  - Case studies
 ER  - 
 
 TY  - BOOK
@@ -5433,7 +5433,988 @@ SP  - 186
 PB  - Routledge
 SN  - 978-1-138-77509-1 978-1-138-77510-7
 ST  - The impact of history?
-KW  - Historiography
 KW  - Social aspects
+KW  - Historiography
+ER  - 
+
+TY  - RPRT
+TI  - A guide to writing and speaking about Indigenous People in Australia
+AU  - Roberts, Zac
+AU  - Carlson, Bronwyn
+AU  - O'Sullivan, Sandy
+AU  - Day, Madi
+AU  - Rey, Jo
+AU  - Kennedy, Tristan
+AU  - Bakic, Tetei
+AU  - Farrell, Andrew
+DA  - 2021///
+PY  - 2021
+DP  - DOI.org (Datacite)
+LA  - en
+PB  - Macquarie University
+UR  - https://researchers.mq.edu.au/en/publications/5b3af988-1429-4ad5-b4a1-0b56e45e2ed0
+Y2  - 2021/12/05/22:20:21
+ER  - 
+
+TY  - JOUR
+TI  - The death drive in tourism studies
+AU  - Buda, Dorina Maria
+T2  - Annals of Tourism Research
+DA  - 2015/01//
+PY  - 2015
+DO  - 10.1016/j.annals.2014.10.008
+DP  - DOI.org (Crossref)
+VL  - 50
+SP  - 39
+EP  - 51
+J2  - Annals of Tourism Research
+LA  - en
+SN  - 01607383
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0160738314001388
+Y2  - 2021/12/14/03:46:05
+ER  - 
+
+TY  - JOUR
+TI  - The history of dark tourism
+AU  - Hartmann, Rudi
+AU  - Lennon, John
+AU  - Reynolds, Daniel P.
+AU  - Rice, Alan
+AU  - Rosenbaum, Adam T.
+AU  - Stone, Philip R.
+T2  - Journal of Tourism History
+DA  - 2018/09/02/
+PY  - 2018
+DO  - 10.1080/1755182X.2018.1545394
+DP  - DOI.org (Crossref)
+VL  - 10
+IS  - 3
+SP  - 269
+EP  - 295
+J2  - Journal of Tourism History
+LA  - en
+SN  - 1755-182X, 1755-1838
+UR  - https://www.tandfonline.com/doi/full/10.1080/1755182X.2018.1545394
+Y2  - 2021/12/14/03:46:15
+ER  - 
+
+TY  - JOUR
+TI  - Progress in dark tourism and thanatourism research: An uneasy relationship with heritage tourism
+AU  - Light, Duncan
+T2  - Tourism Management
+DA  - 2017/08//
+PY  - 2017
+DO  - 10.1016/j.tourman.2017.01.011
+DP  - DOI.org (Crossref)
+VL  - 61
+SP  - 275
+EP  - 301
+J2  - Tourism Management
+LA  - en
+SN  - 02615177
+ST  - Progress in dark tourism and thanatourism research
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0261517717300092
+Y2  - 2021/12/14/03:46:33
+ER  - 
+
+TY  - JOUR
+TI  - Dark tourism and affect: framing places of death and disaster
+AU  - Martini, Annaclaudia
+AU  - Buda, Dorina Maria
+T2  - Current Issues in Tourism
+DA  - 2020/03/18/
+PY  - 2020
+DO  - 10.1080/13683500.2018.1518972
+DP  - DOI.org (Crossref)
+VL  - 23
+IS  - 6
+SP  - 679
+EP  - 692
+J2  - Current Issues in Tourism
+LA  - en
+SN  - 1368-3500, 1747-7603
+ST  - Dark tourism and affect
+UR  - https://www.tandfonline.com/doi/full/10.1080/13683500.2018.1518972
+Y2  - 2021/12/14/03:46:46
+ER  - 
+
+TY  - JOUR
+TI  - Does emotional engagement matter in dark tourism? Implications drawn from a reflective approach
+AU  - Sigala, Marianna
+AU  - Steriopoulos, Effie
+T2  - Journal of Heritage Tourism
+DA  - 2021/07/04/
+PY  - 2021
+DO  - 10.1080/1743873X.2020.1851697
+DP  - DOI.org (Crossref)
+VL  - 16
+IS  - 4
+SP  - 412
+EP  - 432
+J2  - Journal of Heritage Tourism
+LA  - en
+SN  - 1743-873X, 1747-6631
+ST  - Does emotional engagement matter in dark tourism?
+UR  - https://www.tandfonline.com/doi/full/10.1080/1743873X.2020.1851697
+Y2  - 2021/12/14/03:47:18
+ER  - 
+
+TY  - JOUR
+TI  - Illicit autobiographies: 1980s graffiti, prisoner movement, recidivism and inmates’ personal lives at the Adelaide Gaol, South Australia
+AU  - Agutter, Rhiannon
+T2  - Australian Archaeology
+DA  - 2014/06//
+PY  - 2014
+DO  - 10.1080/03122417.2014.11682005
+DP  - DOI.org (Crossref)
+VL  - 78
+IS  - 1
+SP  - 100
+EP  - 107
+J2  - Australian Archaeology
+LA  - en
+SN  - 0312-2417, 2470-0363
+ST  - Illicit autobiographies
+UR  - http://www.tandfonline.com/doi/full/10.1080/03122417.2014.11682005
+Y2  - 2021/12/14/03:47:42
+ER  - 
+
+TY  - JOUR
+TI  - Ghosts of Sorrow, Sin and Crime: Dark Tourism and Convict Heritage in Van Diemen’s Land, Australia
+AU  - Casella, Eleanor Conlin
+AU  - Fennelly, Katherine
+T2  - International Journal of Historical Archaeology
+DA  - 2016/09//
+PY  - 2016
+DO  - 10.1007/s10761-016-0354-5
+DP  - DOI.org (Crossref)
+VL  - 20
+IS  - 3
+SP  - 506
+EP  - 520
+J2  - Int J Histor Archaeol
+LA  - en
+SN  - 1092-7697, 1573-7748
+ST  - Ghosts of Sorrow, Sin and Crime
+UR  - http://link.springer.com/10.1007/s10761-016-0354-5
+Y2  - 2021/12/14/03:47:51
+ER  - 
+
+TY  - JOUR
+TI  - “Born to be a Stoway”: Inscriptions, Graffiti, and the Rupture of Space at the North Head Quarantine Station, Sydney
+AU  - Clarke, Anne
+AU  - Frederick, Ursula K.
+T2  - International Journal of Historical Archaeology
+DA  - 2016/09//
+PY  - 2016
+DO  - 10.1007/s10761-016-0357-2
+DP  - DOI.org (Crossref)
+VL  - 20
+IS  - 3
+SP  - 521
+EP  - 535
+J2  - Int J Histor Archaeol
+LA  - en
+SN  - 1092-7697, 1573-7748
+ST  - “Born to be a Stoway”
+UR  - http://link.springer.com/10.1007/s10761-016-0357-2
+Y2  - 2021/12/14/03:47:58
+ER  - 
+
+TY  - JOUR
+TI  - The Tragic Events of April 1996
+AU  - Coulehan, Jack
+T2  - Annals of Internal Medicine
+DA  - 2000/06/06/
+PY  - 2000
+DO  - 10.7326/0003-4819-132-11-200006060-00010
+DP  - DOI.org (Crossref)
+VL  - 132
+IS  - 11
+SP  - 911
+J2  - Ann Intern Med
+LA  - en
+SN  - 0003-4819
+UR  - http://annals.org/article.aspx?doi=10.7326/0003-4819-132-11-200006060-00010
+Y2  - 2021/12/14/03:48:09
+ER  - 
+
+TY  - JOUR
+TI  - Commemorative Events and National Identity: Commemorating Death and Disaster in Australia
+AU  - Frew, Elspeth
+AU  - White, Leanne
+T2  - Event Management
+AB  - Commemorative events are held to remember all types of occasions including disastrous and tragic incidents. Due to the passage of time, the commemoration and collective memory of the event may change its significance and relevance due to changes in the associated social, political,
+ and cultural landscape. This article examines the commemorative events associated with three tragic incidents that occurred on Australian soil, namely, the 175th anniversary of the Myall Creek massacre held in 2013, the 70th anniversary of the Second World War bombing of Darwin held in 2012,
+ and the 10th anniversary of the Port Arthur massacre held in 2006. National identity and commemorative events are strongly connected and the article examines these particular anniversaries and commemorative events in the context of Australian national identity, collective memory, and how the
+ significance of these commemorations may change from generation to generation. The article finds each of the commemorative events have altered in their significance and are now remembered in a different light, with the Myall Creek massacre reflecting aspects of Aboriginal reconciliation; the
+ bombing of Darwin reflecting Australia's role on the world's political stage; and the Port Arthur massacre highlighting Australia's strict gun laws.
+DA  - 2015/12/23/
+PY  - 2015
+DO  - 10.3727/152599515X14465748512722
+DP  - DOI.org (Crossref)
+VL  - 19
+IS  - 4
+SP  - 509
+EP  - 524
+J2  - Event Management
+LA  - en
+SN  - 1525-9951
+ST  - Commemorative Events and National Identity
+UR  - https://www.ingentaconnect.com/content/10.3727/152599515X14465748512722
+Y2  - 2021/12/14/03:48:19
+ER  - 
+
+TY  - JOUR
+TI  - Local community perspectives towards dark tourism development: The case of Snowtown, South Australia
+AU  - Kim, Sangkyun
+AU  - Butler, Gareth
+T2  - Journal of Tourism and Cultural Change
+DA  - 2015/01/02/
+PY  - 2015
+DO  - 10.1080/14766825.2014.918621
+DP  - DOI.org (Crossref)
+VL  - 13
+IS  - 1
+SP  - 78
+EP  - 89
+J2  - Journal of Tourism and Cultural Change
+LA  - en
+SN  - 1476-6825, 1747-7654
+ST  - Local community perspectives towards dark tourism development
+UR  - http://www.tandfonline.com/doi/abs/10.1080/14766825.2014.918621
+Y2  - 2021/12/14/03:48:30
+ER  - 
+
+TY  - JOUR
+TI  - Paranoia, Prisoners & Politics: The Contract for the Adelaide Gaol, 1839
+AU  - Langmead, Donald
+T2  - Fabrications
+DA  - 1997/07//
+PY  - 1997
+DO  - 10.1080/10331867.1997.10525109
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 1
+SP  - 47
+EP  - 62
+J2  - Fabrications
+LA  - en
+SN  - 1033-1867, 2164-4756
+ST  - Paranoia, Prisoners & Politics
+UR  - https://www.tandfonline.com/doi/full/10.1080/10331867.1997.10525109
+Y2  - 2021/12/14/03:49:13
+ER  - 
+
+TY  - JOUR
+TI  - Dark tourism and affect: framing places of death and disaster
+AU  - Martini, Annaclaudia
+AU  - Buda, Dorina Maria
+T2  - Current Issues in Tourism
+DA  - 2020/03/18/
+PY  - 2020
+DO  - 10.1080/13683500.2018.1518972
+DP  - DOI.org (Crossref)
+VL  - 23
+IS  - 6
+SP  - 679
+EP  - 692
+J2  - Current Issues in Tourism
+LA  - en
+SN  - 1368-3500, 1747-7603
+ST  - Dark tourism and affect
+UR  - https://www.tandfonline.com/doi/full/10.1080/13683500.2018.1518972
+Y2  - 2021/12/14/03:49:19
+ER  - 
+
+TY  - CHAP
+TI  - Penal Transportation, Family History, and Convict Tourism
+AU  - Maxwell-Stewart, Hamish
+AU  - Nicholson, Lydia
+T2  - The Palgrave Handbook of Prison Tourism
+A2  - Wilson, Jacqueline Z.
+A2  - Hodgkinson, Sarah
+A2  - Piché, Justin
+A2  - Walby, Kevin
+CY  - London
+DA  - 2017///
+PY  - 2017
+DP  - DOI.org (Crossref)
+SP  - 713
+EP  - 734
+LA  - en
+PB  - Palgrave Macmillan UK
+SN  - 978-1-137-56134-3 978-1-137-56135-0
+UR  - http://link.springer.com/10.1057/978-1-137-56135-0_34
+Y2  - 2021/12/14/03:49:27
+ER  - 
+
+TY  - CHAP
+TI  - Motivations of Participants in Dark Tourism: A Case Study of Port Arthur, Tasmania, Australia
+T2  - Taking Tourism to the Limits
+A2  - Aicken, Michelle
+A2  - Page, Stephen J.
+A2  - Ryan, Chris
+DA  - 2006/08/11/
+PY  - 2006
+DP  - DOI.org (Crossref)
+ET  - 0
+SP  - 215
+EP  - 222
+LA  - en
+PB  - Routledge
+SN  - 978-0-08-045947-9
+ST  - Motivations of Participants in Dark Tourism
+UR  - https://www.taylorfrancis.com/books/9781136360282/chapters/10.4324/9780080459479-30
+Y2  - 2021/12/14/03:49:53
+ER  - 
+
+TY  - JOUR
+TI  - Conflicts, battlefields, indigenous peoples and tourism: addressing dissonant heritage in warfare tourism in Australia and North America in the twenty‐first century
+AU  - Harvey Lemelin, Raynald
+AU  - Powys Whyte, Kyle
+AU  - Johansen, Kelsey
+AU  - Higgins Desbiolles, Freya
+AU  - Wilson, Christopher
+AU  - Hemming, Steve
+T2  - International Journal of Culture, Tourism and Hospitality Research
+A2  - Birna, Avital
+DA  - 2013/08/02/
+PY  - 2013
+DO  - 10.1108/IJCTHR-05-2012-0038
+DP  - DOI.org (Crossref)
+VL  - 7
+IS  - 3
+SP  - 257
+EP  - 271
+J2  - Int J Culture Tourism Hosp Res
+LA  - en
+SN  - 1750-6182
+ST  - Conflicts, battlefields, indigenous peoples and tourism
+UR  - https://www.emerald.com/insight/content/doi/10.1108/IJCTHR-05-2012-0038/full/html
+Y2  - 2021/12/14/03:50:06
+ER  - 
+
+TY  - CHAP
+TI  - Motivations of Participants in Dark Tourism: A Case Study of Port Arthur, Tasmania, Australia
+AU  - Preece, Tanaya
+AU  - Price, Garry G.
+T2  - Taking Tourism to the Limits
+DA  - 2005///
+PY  - 2005
+DP  - DOI.org (Crossref)
+SP  - 191
+EP  - 198
+LA  - en
+PB  - Elsevier
+SN  - 978-0-08-044644-8
+ST  - Motivations of Participants in Dark Tourism
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780080446448500217
+Y2  - 2021/12/14/03:50:20
+ER  - 
+
+TY  - CHAP
+TI  - Explorations in Banality: Prison Tourism at the Old Melbourne Gaol
+AU  - Smith, Laurajane
+T2  - The Palgrave Handbook of Prison Tourism
+A2  - Wilson, Jacqueline Z.
+A2  - Hodgkinson, Sarah
+A2  - Piché, Justin
+A2  - Walby, Kevin
+CY  - London
+DA  - 2017///
+PY  - 2017
+DP  - DOI.org (Crossref)
+SP  - 763
+EP  - 786
+LA  - en
+PB  - Palgrave Macmillan UK
+SN  - 978-1-137-56134-3 978-1-137-56135-0
+ST  - Explorations in Banality
+UR  - http://link.springer.com/10.1057/978-1-137-56135-0_36
+Y2  - 2021/12/14/03:50:33
+ER  - 
+
+TY  - JOUR
+TI  - Australian Prison Tourism: A Question of Narrative Integrity: Australian Prison Tourism
+AU  - Wilson, Jacqueline
+T2  - History Compass
+DA  - 2011/08//
+PY  - 2011
+DO  - 10.1111/j.1478-0542.2011.00789.x
+DP  - DOI.org (Crossref)
+VL  - 9
+IS  - 8
+SP  - 562
+EP  - 571
+LA  - en
+SN  - 14780542
+ST  - Australian Prison Tourism
+UR  - https://onlinelibrary.wiley.com/doi/10.1111/j.1478-0542.2011.00789.x
+Y2  - 2021/12/14/03:54:27
+ER  - 
+
+TY  - CHAP
+TI  - “Pack of Thieves?”: The Visual Representation of Prisoners and Convicts in Dark Tourist Sites
+AU  - Wise, Jenny
+AU  - McLean, Lesley
+T2  - The Palgrave Handbook of Incarceration in Popular Culture
+A2  - Harmes, Marcus
+A2  - Harmes, Meredith
+A2  - Harmes, Barbara
+CY  - Cham
+DA  - 2020///
+PY  - 2020
+DP  - DOI.org (Crossref)
+SP  - 555
+EP  - 573
+LA  - en
+PB  - Springer International Publishing
+SN  - 978-3-030-36058-0 978-3-030-36059-7
+ST  - “Pack of Thieves?
+UR  - http://link.springer.com/10.1007/978-3-030-36059-7_34
+Y2  - 2021/12/14/03:54:32
+ER  - 
+
+TY  - BOOK
+TI  - Dark tourism
+AU  - Lennon, John
+AU  - Foley, Malcolm
+CN  - G155.A1 L46 2000
+CY  - London
+DA  - 2000///
+PY  - 2000
+DP  - National Library of Australia (new catalog)
+SP  - 184
+PB  - Continuum
+SN  - 978-0-8264-5063-0 978-0-8264-5064-7
+KW  - Historic sites
+KW  - Holocaust memorials
+KW  - Tourism
+KW  - War memorials
+ER  - 
+
+TY  - JOUR
+TI  - Conflicts, battlefields, indigenous peoples and tourism: addressing dissonant heritage in warfare tourism in Australia and North America in the twenty‐first century
+AU  - Harvey Lemelin, Raynald
+AU  - Powys Whyte, Kyle
+AU  - Johansen, Kelsey
+AU  - Higgins Desbiolles, Freya
+AU  - Wilson, Christopher
+AU  - Hemming, Steve
+T2  - International Journal of Culture, Tourism and Hospitality Research
+A2  - Birna, Avital
+DA  - 2013/08/02/
+PY  - 2013
+DO  - 10.1108/IJCTHR-05-2012-0038
+DP  - DOI.org (Crossref)
+VL  - 7
+IS  - 3
+SP  - 257
+EP  - 271
+J2  - Int J Culture Tourism Hosp Res
+LA  - en
+SN  - 1750-6182
+ST  - Conflicts, battlefields, indigenous peoples and tourism
+UR  - https://www.emerald.com/insight/content/doi/10.1108/IJCTHR-05-2012-0038/full/html
+Y2  - 2021/12/14/03:57:02
+ER  - 
+
+TY  - JOUR
+TI  - Considering the Limits of Rural Place Making Opportunities: Rural Dystopias and Dark Tourism
+AU  - Rofe, Matthew Winsor
+T2  - Landscape Research
+DA  - 2013/04//
+PY  - 2013
+DO  - 10.1080/01426397.2012.694414
+DP  - DOI.org (Crossref)
+VL  - 38
+IS  - 2
+SP  - 262
+EP  - 272
+J2  - Landscape Research
+LA  - en
+SN  - 0142-6397, 1469-9710
+ST  - Considering the Limits of Rural Place Making Opportunities
+UR  - http://www.tandfonline.com/doi/abs/10.1080/01426397.2012.694414
+Y2  - 2021/12/14/04:00:48
+ER  - 
+
+TY  - THES
+TI  - Dark tourism: understanding visitor motivation at sites of death and disaster
+AU  - Yuill, Stephanie Marie
+AB  - People are fascinated with death and disaster.  One simply has to watch traffic slow to a crawl when passing a car accident to understand this. However, this fascination goes beyond the side of a highway and enters the realm of tourism.  Today, numerous sites of death and disaster attract millions of visitors from all around the world: Auschwitz-Birkenau, Anne Frank's House, Graceland, Oklahoma City, Gettysburg, Vimy Ridge, the Somme, Arlington National Cemetery.  The list grows each year as exhibited by the recent creation of an apartheid museum in Johannesburg, South Africa.  Due to the increasing popularity of this tourism product, a small number of academics have begun studying the phenomenon. Leading the field are Lennon and Foley who labeled it Dark Tourism, Seaton who coined the term Thanatourism, and Rojek who developed the concept of Black Spots. However, despite ongoing study, there has been a paucity in understanding what actually motivates individuals to sites of dark tourism. Yet understanding motivation is imperative, particularly given the subject and sensitivity of these sites.  Some are slowly decaying, and visitors play a large role in their preservation. Subsequently, without proper management, visitor influxes can further deteriorate sites or induce friction with the locals. Knowledge then, also provides administrators the necessary tools to properly manage the varying stakeholders. Although many feel an interest in death and disaster simply stems from morbidity, the range of factors involved extend from an interest in history and heritage to education to remembrance. To begin this study, a list of possible motivations was compiled. Then, to get a better comprehension of these motivations, visitors to the Holocaust Museum Houston were surveyed as a case study. As a commodified, synthetic site of death and atrocity, the museum fits the definitions of a dark tourism site as established by lead academics. Therefore, by asking visitors to the museum what motivated them to the site, the results will hopefully give some acumen into the wants and needs of certain stakeholders. Finally, this research sought to discover if motivation at the museum could shed light on motivation to other sites of dark tourism.
+DA  - 2004/09/30/
+PY  - 2004
+DP  - oaktrust.library.tamu.edu
+LA  - en_US
+M3  - Thesis
+PB  - Texas A&M University
+ST  - Dark tourism
+UR  - https://oaktrust.library.tamu.edu/handle/1969.1/89
+Y2  - 2021/12/14/04:01:51
+ER  - 
+
+TY  - NEWS
+TI  - Dark tourism: The ethical argument for holidays in disaster zones
+AU  - Orzessek, Eli
+T2  - NZ Herald
+DA  - 2018/09/03/
+PY  - 2018
+SE  - Travel
+UR  - https://www.nzherald.co.nz/travel/dark-tourism-the-ethical-argument-for-holidays-in-disaster-zones/3WPE3HVIPBUM5Q2RNXVGJWGUUA/
+ER  - 
+
+TY  - NEWS
+TI  - Comment: Acid bath murderers and poison: why dark tourism is important
+AU  - Sutton-Vane, Angela
+T2  - SBS News
+DA  - 2015/11/02/
+PY  - 2015
+UR  - https://www.sbs.com.au/news/comment-acid-bath-murderers-and-poison-why-dark-tourism-is-important
+ER  - 
+
+TY  - NEWS
+TI  - Chernobyl and the dangerous ground of 'dark tourism'
+T2  - 9Honey
+DA  - 2019///
+PY  - 2019
+SE  - Travel
+ER  - 
+
+TY  - NEWS
+TI  - Dark tourism, explained: Why visitors flock to sites of tragedy
+AU  - Sampson, Hannah
+T2  - Washington Post
+AB  - Sites of atrocities, accidents and natural disasters have drawn interest from tourists for years. Experts believe the morbid fascination is a way to better understand ourselves.
+DA  - 2019/11/13/
+PY  - 2019
+LA  - en
+ST  - Dark tourism, explained
+UR  - https://www.washingtonpost.com/graphics/2019/travel/dark-tourism-explainer/
+Y2  - 2021/12/14/04:11:03
+ER  - 
+
+TY  - NEWS
+TI  - The Rise Of Dark Tourism In Europe
+AU  - Ledsom, Alex
+T2  - Forbes
+AB  - Dark tourism is where people choose to vacation in places associated with death and killing. And although official numbers are impossible to track down, anecdotal evidence and increased social media presence suggests it is on the rise in the E.U.
+DA  - 2020/02/16/
+PY  - 2020
+LA  - en
+SE  - Editor's Pick
+UR  - https://www.forbes.com/sites/alexledsom/2020/02/16/the-rise-of-dark-tourism-in-europe/
+Y2  - 2021/12/14/04:12:02
+ER  - 
+
+TY  - NEWS
+TI  - Dark tourism: China, Nepal, Korea destinations more eerie than Chernobyl
+AU  - O’Connell, Ronan
+T2  - news.com.au
+AB  - From execution sites in China, to earthquake ruins in Nepal, death camps in Korea, the lawless walled city inside Hong Kong, and the Khmer Rouge killing fields, dark travel has become big business.
+DA  - 2019/07/29/
+PY  - 2019
+ET  - Travel
+UR  - https://www.news.com.au/escape-travel/news/dark-tourism-where-to-go-to-experience-the-eerie-travel-trend/news-story/2d6501d50c400f86fbd5f3e01da92778
+Y2  - 2021/12/14/04:13:23
+ER  - 
+
+TY  - MPCT
+TI  - Dark Tourist
+AU  - Rothbart, Colin
+AU  - McIntosh, Zoe
+AU  - Hawkes, Justin
+AU  - Hart, Ian
+AU  - Horan, Paul
+AU  - Farrier, David
+AB  - From a nuclear lake to a haunted forest, New Zealand filmmaker and journalist David Farrier (&apos;Tickled&apos;) visits unusual -- and often macabre -- tourism spots around the world.
+C1  - Farrier, David
+C5  - TV Series
+DA  - 2018///
+PY  - 2018
+PB  - Netflix
+ER  - 
+
+TY  - MPCT
+TI  - Dark tourism
+T2  - The Feed
+AB  - Afghanistan. Somalia. Iran. These aren’t places many of us expect to receive postcards from, but travel to war zones and political hotspots is on the rise.
+DA  - 2015/10/14/
+PY  - 2015
+LA  - en
+PB  - SBS The Feed
+UR  - https://www.sbs.com.au/guide/video/544096323731/Dark-tourism-The-Feed
+Y2  - 2021/12/14/04:29:22
+ER  - 
+
+TY  - SOUND
+TI  - Wish you weren't here: dark tourism and memory
+AU  - Jokiranta, Miyuki
+T2  - ABC Radio National
+AB  - Gallipoli, Auschwitz, the 9/11 memorial: sites commemorating death, violence and human suffering have always been a source of fascination. But 'dark tourism raises a host of complex ethical questions.
+DA  - 2015/04/14/T12:59:07+1000
+PY  - 2015
+LA  - en_AU
+PB  - ABC Radio National
+ST  - Wish you weren't here
+UR  - https://www.abc.net.au/radionational/programs/earshot/dark-tourism/6908084
+Y2  - 2021/12/14/04:30:51
+ER  - 
+
+TY  - CONF
+TI  - On the ruins of Empire: dark tourism and penal heritage in the Francophone world
+AU  - Forsdick, Charles
+T2  - Thrill of the Dark
+AB  - Professor Charles Forsdick gave the keynote speech to open the 'Thrill of the Dark' conference 2019, hosted by the Ironbridge International Institute for Cultural Heritage, based at the University of Birmingham.
+Learn more: http://www.birmingham.ac.uk/ironbridge
+C1  - University of Birmingham
+DA  - 2019/04/29/
+PY  - 2019
+DP  - YouTube
+PB  - Ironbridge International Institute for Cultural Heritage
+ST  - On the ruins of Empire
+UR  - https://www.youtube.com/watch?v=RkffGYqFEXM
+Y2  - 2021/12/14/04:32:41
+ER  - 
+
+TY  - SOUND
+TI  - Dark tourism and sites of conscience
+AU  - Funnell, Antony
+T2  - ABC Radio National
+AB  - Dark tourism, or thanatourism, is enormously popular -- so why are so many of us increasingly interested in visiting sites of horror, tragedy and suffering?
+DA  - 2010/07/08/T14:28:00+1000
+PY  - 2010
+LA  - en_AU
+UR  - https://www.abc.net.au/radionational/programs/futuretense/dark-tourism-and-sites-of-conscience/3031382
+Y2  - 2021/12/14/04:34:44
+ER  - 
+
+TY  - JOUR
+TI  - From convict prison to the Gothic ruins of tourist attraction
+AU  - Goc, N. E.
+T2  - Historic Environment
+AB  - This paper examined the transformation and commodification of Port Arthur from a convict prison to the Gothic ruins of a tourist attraction. Before the concept of preservation became the main emphasis of the Port Arthur site there was a period of time when historical and natural heritage bled into one another in a cycle of construction and destruction. this paper will explore the ways in which the site, in its ruined state, was interpreted and utilised from the late 1870s.
+The concept of ruins as a tourist attraction in Australia has correlations with the European construct of teh Grand Tour and its modern counterpart -mass tourism. The romancing of the ruins of the old prison site began to occur very soon after bushfires swept through the settlement creating what some commentators referred to as "Australia's own Tintern Abbey".
+DA  - 2002///
+PY  - 2002
+DP  - eprints.utas.edu.au
+VL  - 16
+IS  - 3
+SP  - 22
+EP  - 26
+LA  - en
+SN  - 0726-6715
+UR  - https://eprints.utas.edu.au/8591/
+Y2  - 2021/12/14/04:36:22
+ER  - 
+
+TY  - BOOK
+TI  - The Palgrave handbook of prison tourism
+T2  - Palgrave Studies in Prisons and Penology
+A3  - Wilson, Jacqueline Z.
+A3  - Hodgkinson, Sarah
+A3  - Piché, Justin
+A3  - Walby, Kevin
+CN  - G156.5.H47 P36 2017
+CY  - London, United Kingdom
+DA  - 2017///
+PY  - 2017
+DP  - Library of Congress ISBN
+SP  - 1045
+PB  - Palgrave Macmillan
+SN  - 978-1-137-56134-3
+KW  - Heritage tourism
+KW  - Prisons
+ER  - 
+
+TY  - CHAP
+TI  - Penal Transportation, Family History, and Convict Tourism
+AU  - Maxwell-Stewart, Hamish
+AU  - Nicholson, Lydia
+T2  - The Palgrave Handbook of Prison Tourism
+A2  - Wilson, Jacqueline Z.
+A2  - Hodgkinson, Sarah
+A2  - Piché, Justin
+A2  - Walby, Kevin
+CY  - London
+DA  - 2017///
+PY  - 2017
+DP  - DOI.org (Crossref)
+SP  - 713
+EP  - 734
+LA  - en
+PB  - Palgrave Macmillan UK
+SN  - 978-1-137-56134-3 978-1-137-56135-0
+UR  - http://link.springer.com/10.1057/978-1-137-56135-0_34
+Y2  - 2021/12/14/04:39:38
+ER  - 
+
+TY  - CHAP
+TI  - Penal Transportation, Family History, and Convict Tourism
+AU  - Maxwell-Stewart, Hamish
+AU  - Nicholson, Lydia
+T2  - The Palgrave Handbook of Prison Tourism
+A2  - Wilson, Jacqueline Z.
+A2  - Hodgkinson, Sarah
+A2  - Piché, Justin
+A2  - Walby, Kevin
+CY  - London
+DA  - 2017///
+PY  - 2017
+DP  - DOI.org (Crossref)
+SP  - 713
+EP  - 734
+LA  - en
+PB  - Palgrave Macmillan UK
+SN  - 978-1-137-56134-3 978-1-137-56135-0
+UR  - http://link.springer.com/10.1057/978-1-137-56135-0_34
+Y2  - 2021/12/14/04:41:34
+ER  - 
+
+TY  - CHAP
+TI  - The Port Arthur Massacre: Tragedy and Public Memory in Australia
+AU  - Strange, Carolyn
+T2  - Studies in law, politics and society
+A2  - Sarat, Austin
+DA  - 2000///
+PY  - 2000
+DP  - BnF ISBN
+VL  - 20
+SP  - 159
+EP  - 182
+LA  - eng
+PB  - JAI Press
+SN  - 978-0-7623-0653-4
+ER  - 
+
+TY  - NEWS
+TI  - GUYRA'S GHOST
+AU  - Daily Telegraph
+T2  - Daily Telegraph
+AB  - ARMIDALE, Monday.--Everyone in Guyra appears to be more or less hysterical over Guyra's ghost, and half the people within 50 miles of the bush township are arguing ...
+CY  - Sydney, New South Wales
+DA  - 1921/06/19/
+PY  - 1921
+DP  - Trove
+SP  - 5
+UR  - http://nla.gov.au/nla.news-article239732234
+Y2  - 2021/12/14/04:47:23
+KW  - Guyra Ghost
+KW  - tourism
+ER  - 
+
+TY  - NEWS
+TI  - The 75th anniversary of the bombing of Darwin to commemorate devastating raids
+AU  - Huxley, John
+T2  - Traveller
+AB  - There are relics and signs everywhere in Darwin of the devastating bombings that took place during World War II. Yet many people are still unaware of the horrors that befell that city.
+DA  - 2016/10/15/T00:15:00+1100
+PY  - 2016
+LA  - en-au
+UR  - https://www.traveller.com.au/the-75th-anniversary-of-the-bombing-of-darwin-to-commemorate-devastating-raids-gryqe4
+Y2  - 2021/12/14/04:50:10
+ER  - 
+
+TY  - NEWS
+TI  - How a regional town is using dark tourism to grow its economy
+AU  - Rollason, Bridget
+AU  - Cansdale, Dominic
+T2  - ABC Ballarat
+AB  - A regional Australian town uses its dark history and sad past to help turn around a struggling economy.
+DA  - 2018/08/29/
+PY  - 2018
+DP  - www.abc.net.au
+LA  - en-AU
+UR  - https://www.abc.net.au/news/2018-08-29/dark-tourism-helps-create-bright-future-for-ararat/10166312
+Y2  - 2021/12/14/04:50:55
+KW  - aradale
+KW  - ararat
+KW  - dark tourism
+KW  - j ward
+KW  - regional tourism
+KW  - rural tourism
+ER  - 
+
+TY  - NEWS
+TI  - Port Arthur massacre a story that must be told, not buried
+AU  - Totaro, Paola
+AU  - Wainwright, Robert
+T2  - The Sydney Morning Herald
+AB  - There are still lessons to be learned about what happened in the lead up to that sunny Sunday in 1996, when Bryant walked into a tourist cafe and started shooting. A touted new film might help us learn them.
+DA  - 2020/12/02/T00:21:35+00:00
+PY  - 2020
+LA  - en
+UR  - https://www.smh.com.au/culture/movies/port-arthur-massacre-a-story-that-must-be-told-not-buried-20201201-p56jgt.html
+Y2  - 2021/12/14/04:52:15
+ER  - 
+
+TY  - NEWS
+TI  - Friday Rewind: The Hangman of Old Mount Gambier Gaol
+AU  - Hill, Kate
+T2  - ABC Local
+DA  - 2015/08/21/
+PY  - 2015
+UR  - https://www.abc.net.au/local/photos/2015/08/21/4297622.htm
+Y2  - 2021/12/14/04:53:09
+ER  - 
+
+TY  - NEWS
+TI  - Killer last man to be hanged in SA
+AU  - Cook, Craig
+T2  - The Advertiser
+AB  - THE mournful wailing of a siren from the old Adelaide Gaol signalled the final breath of the last person executed by the state of South Australia.
+DA  - 2014/11/21/
+PY  - 2014
+UR  - https://adelaidenow.com.au/news/south-australia/50-years-since-killer-glen-valance-became-the-last-man-hanged-in-south-australia/news-story/bd258bec0c5654073dc88aaea3a65cd1
+Y2  - 2021/12/14/04:54:29
+ER  - 
+
+TY  - NEWS
+TI  - Inside Australia's most haunted places
+AU  - 7 Digital Staff
+T2  - 7NEWS
+AB  - These spooky spaces are guaranteed to send shivers down your spine and leave you looking over your shoulder until you make it home safely.
+DA  - 2019/07/05/T05:26:47.000Z
+PY  - 2019
+LA  - en
+SE  - Travel
+UR  - https://7news.com.au/travel/inside-australias-most-haunted-places-and-locations-c-200451
+Y2  - 2021/12/14/04:55:16
+ER  - 
+
+TY  - NEWS
+TI  - Incredible 150-year-old prison portraits now in digital archive
+AU  - Noble, Freya
+T2  - 9 News
+AB  - In recent years the NSW State Archives digitised 46,000 images and collated them in an exhibition titled Ca...
+DA  - 2020/08/25/
+PY  - 2020
+UR  - https://www.9news.com.au/national/captured-portraits-of-crime-thousands-of-mugshots-nsw-archives/0daa7be1-f845-4bc8-822f-76c4e222d05a
+Y2  - 2021/12/14/04:57:18
+ER  - 
+
+TY  - NEWS
+TI  - The true story behind Manly Quarantine Station's most haunted building
+AU  - Boon, Maxim
+T2  - Time Out Sydney
+AB  - Are you brave enough to enter Sydney's most haunted bathroom?
+DA  - 2020/09/28/
+PY  - 2020
+LA  - en-AU
+SE  - Things to do
+UR  - https://www.timeout.com/sydney/things-to-do/this-place-is-pure-evil-are-you-brave-enough-to-enter-sydneys-most-haunted-bathroom
+Y2  - 2021/12/14/04:58:15
+ER  - 
+
+TY  - NEWS
+TI  - 'The other side of humanity': The necessity of dark tourism
+AU  - Nierhoff, Andrea
+T2  - SBS News
+AB  - Research questioning the story around a tourist attraction in Western Australia, has sparked discussion over the dark history of well-known tourist sites.
+DA  - 2017/03/31/
+PY  - 2017
+LA  - en
+SE  - Indigenous
+UR  - https://www.sbs.com.au/news/the-other-side-of-humanity-the-necessity-of-dark-tourism
+Y2  - 2021/12/14/04:59:27
+ER  - 
+
+TY  - NEWS
+TI  - Cemetery tours popular at Halloween with dark tourism on the rise
+AU  - Nobel, Emma
+AU  - Romensky, Larissa
+T2  - ABC News
+AB  - Cemeteries are growing in popularity as venues for dark tourism with small burial plots and large cemeteries alike becoming destinations for spook spectacle and historical intrigue.
+DA  - 2018/10/31/
+PY  - 2018
+DP  - www.abc.net.au
+LA  - en-AU
+SE  - Central Victoria
+UR  - https://www.abc.net.au/news/2018-10-31/australian-cemeteries-becoming-tourist-destinations/10451440
+Y2  - 2021/12/14/05:00:40
+KW  - adelaide cemeteries authority
+KW  - adelaide fringe festival
+KW  - bendigo
+KW  - cemetery
+KW  - cemetery tours
+KW  - dark tourism
+KW  - events
+KW  - goldrush
+KW  - halloween
+KW  - history
+KW  - remembrance parks central victoria
+KW  - south australian writers festival
+KW  - tourism
+ER  - 
+
+TY  - GEN
+TI  - Great North Road convict heritage trail: tourism and interpretation strategy
+CN  - ID 48111342
+DA  - 2002///
+PY  - 2002
+DP  - Libraries Australia
+UR  - https://trove.nla.gov.au/work/159510311?keyword=Great%20North%20Road%20convict%20heritage%20trail%20%3A%20tourism%20and%20interpretation%20strategy.
+Y2  - 2021/12/14/05:06:12
+ER  - 
+
+TY  - BOOK
+TI  - Dark tourism and place identity: managing and interpreting dark places
+AU  - White, Leanne
+AU  - Frew, Elspeth
+CN  - G155.A1 .W46 2013
+CY  - New York
+DA  - 2013///
+PY  - 2013
+DP  - Library of Congress ISBN
+PB  - Routledge
+SN  - 978-0-415-80965-8
+ST  - Dark tourism and place identity
+KW  - Dark tourism
+KW  - Geographical perception
+KW  - Place attachment
+KW  - Psychological aspects
+ER  - 
+
+TY  - CHAP
+TI  - Dark tourism in the Top End: commemorating the bombing of Darwin
+AU  - Frew, Elspeth
+T2  - Dark tourism and place identity: managing and interpreting dark places
+A2  - White, Leanne
+A2  - Frew, Elspeth
+CN  - G155.A1 .W46 2013
+CY  - New York
+DA  - 2013///
+PY  - 2013
+DP  - Library of Congress ISBN
+SP  - 248
+EP  - 263
+PB  - Routledge
+SN  - 978-0-415-80965-8
+KW  - Dark tourism
+KW  - Geographical perception
+KW  - Place attachment
+KW  - Psychological aspects
+ER  - 
+
+TY  - CHAP
+TI  - Marvellous, murderous and macabre Melbourne: taking a walk on the dark side
+AU  - White, Leanne
+T2  - Dark tourism and place identity: managing and interpreting dark places
+A2  - White, Leanne
+A2  - Frew, Elspeth
+CN  - G155.A1 .W46 2013
+CY  - New York
+DA  - 2013///
+PY  - 2013
+DP  - Library of Congress ISBN
+SP  - 217
+EP  - 235
+PB  - Routledge
+SN  - 978-0-415-80965-8
+KW  - Dark tourism
+KW  - Geographical perception
+KW  - Place attachment
+KW  - Psychological aspects
 ER  - 
 
