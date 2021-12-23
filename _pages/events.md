@@ -17,10 +17,6 @@ excerpt: >
 : **More Information**: [Auckland Libraries website](https://www.aucklandlibraries.govt.nz/Pages/family-and-local-history-events.aspx){:target="_blank"}
 : **Contact**: <Seonaid.Harvey@aucklandcouncil.govt.nz>
 
-
-
-:
-
 ### Call For Papers
 **WWII in the Asia-Pacific: Border Crossing Mobilities**
 : **Event Description**: Two-day online workshop which focuses on international mobilities and migration as a way to understand the impacts of WWII across the Asia-Pacific region. The workshop is a joint project between The University of Notre Dame (Australia), the University of Wollongong, and Ritsumeikan University (Japan).
