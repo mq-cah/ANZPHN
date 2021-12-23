@@ -13,7 +13,7 @@ excerpt: >
 : Speakers are a mix of amateur and professional historians, archivists, librarians, museum specialists, authors and academics.
 : Our talks are held **in-person** (subject to the COVID restrictions), and **also held live via Zoom**. We have been streaming our talks via Zoom since the first lockdown in March 2020, and they have been very successful. This means that our talks can still go-ahead even if we have a lockdown. Also we are really fortunate that this also means that our guest speakers don’t have to be in Auckland, nor even in New Zealand! Our audience is also much more geographically diverse.
 : **CFP**: Heritage _Talks_ is also seeking speakers for the second half of the year – June to November.
-: **When**: Wednesday at 12 noon NZT from February to November. Programme available [here]({{ site.baseurl }}"/assets/files/2022 Feb-Jul Heritage talks leaflet final.pdf"){:target="_blank"}.
+: **When**: Wednesday at 12 noon NZT from February to November. Programme available [here]("{{ site.baseurl }}/assets/files/2022 Feb-Jul Heritage talks leaflet final.pdf"){:target="_blank"}.
 : **More Information**: [Auckland Libraries website](https://www.aucklandlibraries.govt.nz/Pages/family-and-local-history-events.aspx){:target="_blank"}
 : **Contact**: <Seonaid.Harvey@aucklandcouncil.govt.nz>
 
