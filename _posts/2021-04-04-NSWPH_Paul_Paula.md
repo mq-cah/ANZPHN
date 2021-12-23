@@ -116,5 +116,3 @@ their presence in activities that work with the past in the present. And
 to ensure a stronger profile, they need to be explicit and vocal about
 the social benefits of public history and to work across different
 media.
-
-_We We at the AAPHN acknowledge the traditional custodians of the land upon which we work, the Wallamattagal people of the Dharug nation, whose cultures and customs have nurtured, and continue to nurture, this land, since the Dreamtime. We pay our respects to the Dharug people and the Wallamattagal clan. We also acknowledge the Elders of the Dharug nation, past, present and future, and pay our respects to them._
