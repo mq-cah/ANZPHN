@@ -147,6 +147,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Dr Steven Farram**<br />
 : **Contact** <Steven.Farram@cdu.edu.au>
 
+**Dr Meg Foster**<br />
+: Meg Foster is an award-winning historian of banditry, settler colonial and public history and the Mary Bateson Research Fellow at Newnham College, University of Cambridge. Meg has worked as a public historian for over 7 years, undertaken historical consultancy, featured in historical documentaries, and engaged in artistic collaborations. Meg has a breadth of experience engaging academic and public audiences and a passion for connecting history to the contemporary world. Her first book Boundary Crossers: the hidden history of Australia’s other bushrangers will be published with NewSouth in 2022.
+: **Contact** <meg.foster@newn.cam.ac.uk>
+
 **Dr Stephen Gapps, HCNSW	President**<br />
 : Dr Stephen Gapps has a long-standing interest in public history, historical re-enactments and the history and commemoration of the Australian Frontier Wars. His doctoral thesis was a history of historical re-enactments.  Stephen has worked extensively as consultant historian in heritage, museums, film and television and history events and performances and has been a participant in and organizer of historical re-enactments.
 : Stephen is a curator at the [Australian National Maritime Museum](https://www.sea.museum/){:target="_blank"}, a Conjoint Lecturer at the University of Newcastle and President of the [History Council of NSW](https://historycouncilnsw.org.au/){:target="_blank"}. He has written two award winning books and is currently working on his second Australian Frontier Wars history, focusing on the first Wiradjuri war of resistance 1822-1824.
