@@ -103,7 +103,7 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 **Dr Margaret Cook**<br />
 : **Contact** <mcook1@usc.edu.au>
 
-**Ewan Coopey, PhD Candidate** <br />
+**Ewan Coopey** <br />
 : Ewan Coopey is Research Assistant at the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} working on several history-orientated websites and a database of Australian Public History theses. He is a PhD candidate in Roman archaeology and epigraphy and is also passionate about public engagement with history, archaeology, and academia more broadly. He is dedicated to promoting Open Access (OA) publishing and the application of digital tools in archaeology and epigraphy.
 : **Research Profile** [ORCID](https://orcid.org/0000-0001-8633-6418){:target="_blank"}
 : **Contact** <ewan.coopey@mq.edu.au>
