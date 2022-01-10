@@ -190,8 +190,8 @@ LA  - en
 SN  - 1741-6612
 ST  - Nurturing spiritual well-being among older people in Australia
 UR  - http://onlinelibrary.wiley.com/doi/abs/10.1111/ajag.12284
-KW  - Indigenous
 KW  - health
+KW  - Indigenous
 KW  - non-Indigenous
 KW  - older people
 KW  - spiritual well-being
@@ -235,12 +235,12 @@ SP  - 382
 LA  - en
 PB  - Aboriginal Studies Press
 SN  - 978-0-85575-499-0
-KW  - Australia
 KW  - Aboriginal Australians
-KW  - Social archaeology
-KW  - History
-KW  - Social life and customs
 KW  - Antiquities
+KW  - Australia
+KW  - History
+KW  - Social archaeology
+KW  - Social life and customs
 ER  - 
 
 TY  - JOUR
@@ -3584,11 +3584,11 @@ SP  - 280
 PB  - Text Publishing
 SN  - 978-1-925773-99-6
 ST  - Sand talk
-KW  - Australia
 KW  - Aboriginal Australians
+KW  - Attitudes
+KW  - Australia
 KW  - Indigenous peoples
 KW  - Philosophy
-KW  - Attitudes
 KW  - Philosophy, Aboriginal Australian
 KW  - Public opinion
 ER  - 
@@ -3664,10 +3664,10 @@ PB  - Magabala Books
 SN  - 978-1-875641-72-7
 ST  - Yorro Yorro
 KW  - Aboriginal Australians
-KW  - Religion
 KW  - Antiquities
 KW  - Australia Kimberley (W.A.)
 KW  - Kimberley (W.A.)
+KW  - Religion
 KW  - Rock paintings
 ER  - 
 
@@ -3765,12 +3765,12 @@ EP  - 68
 LA  - en
 PB  - Monash University Publishing
 SN  - 978-1-921867-71-2
-KW  - Australia
-KW  - History
-KW  - Philosophy
 KW  - 1900 - 1999
 KW  - 20th century
+KW  - Australia
+KW  - History
 KW  - New Zealand
+KW  - Philosophy
 KW  - Philosophy, Modern
 KW  - Philosophy, New Zealand
 ER  - 
@@ -3787,15 +3787,15 @@ SP  - 688
 PB  - Spinifex
 SN  - 978-1-875559-71-8
 ST  - Ngarrindjeri wurruwarrin
-KW  - South Australia
-KW  - Social life and customs
-KW  - Social conditions
 KW  - Australia Goolwa (S.A.)
 KW  - Folklore
 KW  - Hindmarsh Island Bridge Royal Commission
 KW  - Narrinyeri (Australian people)
 KW  - Oral tradition
 KW  - Sacred space
+KW  - Social conditions
+KW  - Social life and customs
+KW  - South Australia
 KW  - Women, Narrinyeri
 ER  - 
 
@@ -4216,13 +4216,13 @@ SP  - 87
 EP  - 97
 LA  - english
 SN  - 1037-9851
-KW  - Aboriginal history
-KW  - Northern Territory
 KW  - Aboriginal culture
+KW  - Aboriginal history
 KW  - Conservation (Natural resources)
 KW  - Cultural resource management
 KW  - Information
 KW  - Management
+KW  - Northern Territory
 KW  - Parks
 KW  - Tourism
 ER  - 
@@ -4358,14 +4358,14 @@ SP  - 246
 PB  - Palgrave Macmillan
 SN  - 978-1-4039-6322-2 978-1-4039-6330-7
 ST  - Dream travelers
-KW  - Australia
 KW  - Aboriginal Australians
-KW  - Social life and customs
+KW  - Australia
 KW  - Cross-cultural studies
 KW  - Dream interpretation
 KW  - Dreams
 KW  - Ethnology
 KW  - Melanesia
+KW  - Social life and customs
 ER  - 
 
 TY  - BOOK
@@ -4383,9 +4383,9 @@ PB  - Wilfred Laurier University Press
 SN  - 978-0-88920-117-0
 ST  - The firm and the formless
 KW  - Aboriginal Australians
-KW  - Religion
 KW  - Ethnic identity
 KW  - Mythology, Aboriginal Australian
+KW  - Religion
 ER  - 
 
 TY  - JOUR
@@ -4619,13 +4619,13 @@ SP  - 19
 EP  - 25
 ST  - Dadirri -Aboriginal contemplation-
 UR  - http://search.informit.org/doi/abs/10.3316/ielapa.971111819
-KW  - Religion
 KW  - Aboriginal religion
 KW  - Buddhist zen
 KW  - Christian hesychasm
 KW  - Hindu yoga
 KW  - Islamic Dhikr
 KW  - Meditation
+KW  - Religion
 KW  - Self discipline
 KW  - Ungunmerr, Miriam Rose
 ER  - 
@@ -4871,11 +4871,8 @@ IS  - 2
 SP  - 69
 EP  - 80
 UR  - http://search.informit.org/doi/abs/10.3316/aeipt.191258
-KW  - Australia
-KW  - Postcolonialism
-KW  - Northern Territory
-KW  - Aboriginal culture
 KW  - Aboriginal communities
+KW  - Aboriginal culture
 KW  - Aboriginal education
 KW  - Aboriginal elders
 KW  - Aboriginal knowledge
@@ -4883,6 +4880,7 @@ KW  - Aboriginal languages
 KW  - Aboriginal peoples
 KW  - Aboriginal teachers
 KW  - Arnhem Land (NT)
+KW  - Australia
 KW  - Charles Darwin University
 KW  - Cultural awareness
 KW  - Cultural interrelationships
@@ -4897,8 +4895,10 @@ KW  - Knowledge systems
 KW  - Metaphysics
 KW  - Moral values
 KW  - North American students
+KW  - Northern Territory
 KW  - Online learning
 KW  - Partnerships in education
+KW  - Postcolonialism
 KW  - Primary secondary education
 KW  - Research ethics
 KW  - Research projects
@@ -4927,9 +4927,9 @@ EP  - 31
 UR  - http://search.informit.org/doi/abs/10.3316/aeipt.52383
 KW  - Aboriginal culture
 KW  - Aboriginal peoples
-KW  - Western civilisation
 KW  - Ecological factors
 KW  - Scientific principles
+KW  - Western civilisation
 ER  - 
 
 TY  - CHAP
@@ -5014,10 +5014,10 @@ SP  - 434
 PB  - Allen & Unwin
 SN  - 978-1-74237-748-3
 ST  - The biggest estate on earth
-KW  - Australia
 KW  - Aboriginal Australians
-KW  - History
 KW  - Agriculture History
+KW  - Australia
+KW  - History
 KW  - Land use
 KW  - Management History
 KW  - Natural resources
@@ -5091,7 +5091,7 @@ L2  - https://journals-sagepub-com.simsrad.net.ocs.mq.edu.au/doi/full/10.1177/13
 ER  - 
 
 TY  - BLOG
-TI  - The Roles for Indigenous Peoples in Anthropocene Dialogues_ Some Critical Notes and a Question _ Inhabiting the Anthropocene.pdf
+TI  - The Roles for Indigenous Peoples in Anthropocene Dialogue: Some Critical Notes and a Question Inhabiting the Anthropocene
 AU  - Whyte, Kyle
 T2  - Inhabiting the Anthropocene
 DA  - 2017/01/25/
@@ -5272,8 +5272,8 @@ SP  - 316
 PB  - Routledge, Taylor & Francis Group
 SN  - 978-1-138-90531-3 978-1-138-90532-0
 ST  - Consuming history
-KW  - Public history
 KW  - History in popular culture
+KW  - Public history
 ER  - 
 
 TY  - JOUR
@@ -5706,27 +5706,6 @@ UR  - https://www.tandfonline.com/doi/full/10.1080/10331867.1997.10525109
 Y2  - 2021/12/14/03:49:13
 ER  - 
 
-TY  - JOUR
-TI  - Dark tourism and affect: framing places of death and disaster
-AU  - Martini, Annaclaudia
-AU  - Buda, Dorina Maria
-T2  - Current Issues in Tourism
-DA  - 2020/03/18/
-PY  - 2020
-DO  - 10.1080/13683500.2018.1518972
-DP  - DOI.org (Crossref)
-VL  - 23
-IS  - 6
-SP  - 679
-EP  - 692
-J2  - Current Issues in Tourism
-LA  - en
-SN  - 1368-3500, 1747-7603
-ST  - Dark tourism and affect
-UR  - https://www.tandfonline.com/doi/full/10.1080/13683500.2018.1518972
-Y2  - 2021/12/14/03:49:19
-ER  - 
-
 TY  - CHAP
 TI  - Penal Transportation, Family History, and Convict Tourism
 AU  - Maxwell-Stewart, Hamish
@@ -5888,36 +5867,10 @@ DP  - National Library of Australia (new catalog)
 SP  - 184
 PB  - Continuum
 SN  - 978-0-8264-5063-0 978-0-8264-5064-7
+KW  - Tourism
 KW  - Historic sites
 KW  - Holocaust memorials
-KW  - Tourism
 KW  - War memorials
-ER  - 
-
-TY  - JOUR
-TI  - Conflicts, battlefields, indigenous peoples and tourism: addressing dissonant heritage in warfare tourism in Australia and North America in the twenty‐first century
-AU  - Harvey Lemelin, Raynald
-AU  - Powys Whyte, Kyle
-AU  - Johansen, Kelsey
-AU  - Higgins Desbiolles, Freya
-AU  - Wilson, Christopher
-AU  - Hemming, Steve
-T2  - International Journal of Culture, Tourism and Hospitality Research
-A2  - Birna, Avital
-DA  - 2013/08/02/
-PY  - 2013
-DO  - 10.1108/IJCTHR-05-2012-0038
-DP  - DOI.org (Crossref)
-VL  - 7
-IS  - 3
-SP  - 257
-EP  - 271
-J2  - Int J Culture Tourism Hosp Res
-LA  - en
-SN  - 1750-6182
-ST  - Conflicts, battlefields, indigenous peoples and tourism
-UR  - https://www.emerald.com/insight/content/doi/10.1108/IJCTHR-05-2012-0038/full/html
-Y2  - 2021/12/14/03:57:02
 ER  - 
 
 TY  - JOUR
@@ -6129,50 +6082,6 @@ KW  - Prisons
 ER  - 
 
 TY  - CHAP
-TI  - Penal Transportation, Family History, and Convict Tourism
-AU  - Maxwell-Stewart, Hamish
-AU  - Nicholson, Lydia
-T2  - The Palgrave Handbook of Prison Tourism
-A2  - Wilson, Jacqueline Z.
-A2  - Hodgkinson, Sarah
-A2  - Piché, Justin
-A2  - Walby, Kevin
-CY  - London
-DA  - 2017///
-PY  - 2017
-DP  - DOI.org (Crossref)
-SP  - 713
-EP  - 734
-LA  - en
-PB  - Palgrave Macmillan UK
-SN  - 978-1-137-56134-3 978-1-137-56135-0
-UR  - http://link.springer.com/10.1057/978-1-137-56135-0_34
-Y2  - 2021/12/14/04:39:38
-ER  - 
-
-TY  - CHAP
-TI  - Penal Transportation, Family History, and Convict Tourism
-AU  - Maxwell-Stewart, Hamish
-AU  - Nicholson, Lydia
-T2  - The Palgrave Handbook of Prison Tourism
-A2  - Wilson, Jacqueline Z.
-A2  - Hodgkinson, Sarah
-A2  - Piché, Justin
-A2  - Walby, Kevin
-CY  - London
-DA  - 2017///
-PY  - 2017
-DP  - DOI.org (Crossref)
-SP  - 713
-EP  - 734
-LA  - en
-PB  - Palgrave Macmillan UK
-SN  - 978-1-137-56134-3 978-1-137-56135-0
-UR  - http://link.springer.com/10.1057/978-1-137-56135-0_34
-Y2  - 2021/12/14/04:41:34
-ER  - 
-
-TY  - CHAP
 TI  - The Port Arthur Massacre: Tragedy and Public Memory in Australia
 AU  - Strange, Carolyn
 T2  - Studies in law, politics and society
@@ -6200,8 +6109,8 @@ DP  - Trove
 SP  - 5
 UR  - http://nla.gov.au/nla.news-article239732234
 Y2  - 2021/12/14/04:47:23
-KW  - Guyra Ghost
 KW  - tourism
+KW  - Guyra Ghost
 ER  - 
 
 TY  - NEWS
@@ -6333,19 +6242,19 @@ LA  - en-AU
 SE  - Central Victoria
 UR  - https://www.abc.net.au/news/2018-10-31/australian-cemeteries-becoming-tourist-destinations/10451440
 Y2  - 2021/12/14/05:00:40
+KW  - history
+KW  - tourism
+KW  - dark tourism
 KW  - adelaide cemeteries authority
 KW  - adelaide fringe festival
 KW  - bendigo
 KW  - cemetery
 KW  - cemetery tours
-KW  - dark tourism
 KW  - events
 KW  - goldrush
 KW  - halloween
-KW  - history
 KW  - remembrance parks central victoria
 KW  - south australian writers festival
-KW  - tourism
 ER  - 
 
 TY  - GEN
@@ -6370,10 +6279,10 @@ DP  - Library of Congress ISBN
 PB  - Routledge
 SN  - 978-0-415-80965-8
 ST  - Dark tourism and place identity
+KW  - Psychological aspects
 KW  - Dark tourism
 KW  - Geographical perception
 KW  - Place attachment
-KW  - Psychological aspects
 ER  - 
 
 TY  - CHAP
@@ -6391,10 +6300,10 @@ SP  - 248
 EP  - 263
 PB  - Routledge
 SN  - 978-0-415-80965-8
+KW  - Psychological aspects
 KW  - Dark tourism
 KW  - Geographical perception
 KW  - Place attachment
-KW  - Psychological aspects
 ER  - 
 
 TY  - CHAP
@@ -6412,9 +6321,1361 @@ SP  - 217
 EP  - 235
 PB  - Routledge
 SN  - 978-0-415-80965-8
+KW  - Psychological aspects
 KW  - Dark tourism
 KW  - Geographical perception
 KW  - Place attachment
-KW  - Psychological aspects
+ER  - 
+
+TY  - JOUR
+TI  - Genealogical Tourism: A Phenomenological Examination
+AU  - Santos, Carla Almeida
+AU  - Yan, Grace
+T2  - Journal of Travel Research
+AB  - Seeking to contribute to ongoing investigations of diverse contexts of tourism consumption, the current investigation explores the meanings genealogical tourists attribute to their lived experiences and contextualizes those findings within larger social approaches to the human dynamics that drive contemporary tourism. Taking an interpretive turn, it proposes genealogical tourism as reflecting contemporary tourists’ call for diversity of leisure interests and opportunities as well as their desire for a full range of varying intimacies, intensities, and complexities in their tourism lived experiences. In particular, it reveals tourism as a reflexive response to a sense of loss that underpins modern society, assisting in reaffirming both a generational sense of the self and a self-recognition that one has one’s own perspective on the world.
+DA  - 2010/02//
+PY  - 2010
+DO  - 10.1177/0047287509332308
+DP  - DOI.org (Crossref)
+VL  - 49
+IS  - 1
+SP  - 56
+EP  - 67
+J2  - Journal of Travel Research
+LA  - en
+SN  - 0047-2875, 1552-6763
+ST  - Genealogical Tourism
+UR  - http://journals.sagepub.com/doi/10.1177/0047287509332308
+Y2  - 2022/01/10/04:51:51
+ER  - 
+
+TY  - CHAP
+TI  - How Genealogy improves historical study
+AU  - Arial, Tracy
+T2  - The Personal Past: History, Identity and the Genealogical Impulse. Canadian Issues Spring/Summer 2020
+A2  - Boswell, Randy
+DA  - 2020///
+PY  - 2020
+SP  - 67
+EP  - 70
+UR  - https://acs-aec.ca/en/publications-en/the-personal-past-history-identity-and-the-genealogical-impulse/
+ER  - 
+
+TY  - BOOK
+TI  - History at the crossroads: Australians and the past
+AU  - Ashton, Paul
+AU  - Hamilton, Paula
+CY  - Ultimo, NSW
+DA  - 2010///
+PY  - 2010
+DP  - K10plus ISBN
+ET  - 1st ed
+SP  - 174
+LA  - eng
+PB  - Halstead Press
+SN  - 978-1-920831-81-3
+ST  - History at the crossroads
+ER  - 
+
+TY  - BOOK
+TI  - Australians and the past
+AU  - Hamilton, Paula
+AU  - Ashton, Paul
+T2  - Australian cultural history
+CY  - St. Lucia, QLD
+DA  - 2003///
+PY  - 2003
+DP  - Open WorldCat
+LA  - English
+M1  - 22
+PB  - University of Queensland Press
+SN  - 978-0-7022-3473-6
+ER  - 
+
+TY  - CHAP
+TI  - Who Am I? Reflections on Measuring Ethnic Ancestry in Canada
+AU  - Badets, Jane
+T2  - The Personal Past: History, Identity and the Genealogical Impulse. Canadian Issues Spring/Summer 2020
+A2  - Boswell, Randy
+DA  - 2020///
+PY  - 2020
+SP  - 26
+EP  - 32
+UR  - https://acs-aec.ca/en/publications-en/the-personal-past-history-identity-and-the-genealogical-impulse/
+ER  - 
+
+TY  - JOUR
+TI  - Convict shame to convict chic: Intergenerational memory and family histories
+AU  - Barnwell, Ashley
+T2  - Memory Studies
+AB  - This article highlights the significance of family history research for memory studies. It provides an overview of the economic and cultural impact of this popular practice as well as a survey of the interdisciplinary field of research emerging around questions of genealogy and identity. It then develops a framework for engaging with the intergenerational, socially responsive memory work of family historians drawing from Paul Connerton’s typography of forgetting, Maurice Halbwach’s theory of social memory and Karl Mannheim’s notion of generations. The article grounds this framework with a case study about generational conflicts in Australian family histories, specifically around the shifting status of the convict ancestor, from a figure of secrecy and shame to one of pride and intrigue. I argue that family history research reveals the process by which generations have shaped memory, editing ‘the family narrative’ in response to changing social ideas about which kinds of identities and families hold value and promise. The names and dates on family trees therefore tell the stories not just of a discrete set of individuals but also of how social, national and generational interests interlink to produce the narratives we live by in both intimate and public spheres.
+DA  - 2019/08/01/
+PY  - 2019
+DO  - 10.1177/1750698017709870
+DP  - SAGE Journals
+VL  - 12
+IS  - 4
+SP  - 398
+EP  - 411
+J2  - Memory Studies
+LA  - en
+SN  - 1750-6980
+ST  - Convict shame to convict chic
+UR  - https://doi.org/10.1177/1750698017709870
+Y2  - 2022/01/10/05:06:43
+KW  - family history
+KW  - family secrets
+KW  - intergenerational memory
+KW  - national identity
+KW  - social memory
+ER  - 
+
+TY  - JOUR
+TI  - Hidden heirlooms: Keeping family secrets across generations
+AU  - Barnwell, Ashley
+T2  - Journal of Sociology
+AB  - This article explores how wider national narratives facilitate families’ choices about what information to keep secret over time. I argue that attention to the ways family secrets operate reveals how social and moral codes are both sustained and challenged on an intimate scale. The article also makes an argument for using life writing and literature to explore the often-illusive contours of family secrets. To illustrate, I examine Lynette Russell’s memoir A Little Bird Told Me: Family Secrets, Necessary Lies and Richard Flanagan’s novel Death of a River Guide. Anchoring the analysis within the transition from colonial to postcolonial societies, these texts lend insight into the collective practices families use to manage secrets and to construct socially sanctioned identities. The discussion foregrounds the enduring impact of colonial policies upon the intimate formation of families, and the role families play in reproducing and challenging these legacies via collective secret-keeping and silences.
+DA  - 2018/09/01/
+PY  - 2018
+DO  - 10.1177/1440783317727878
+DP  - SAGE Journals
+VL  - 54
+IS  - 3
+SP  - 446
+EP  - 460
+J2  - Journal of Sociology
+LA  - en
+SN  - 1440-7833
+ST  - Hidden heirlooms
+UR  - https://doi.org/10.1177/1440783317727878
+Y2  - 2022/01/10/05:13:54
+KW  - auto/biography
+KW  - colonial policies
+KW  - family identities
+KW  - family secrets
+KW  - inheritance
+KW  - intergenerational relationships
+KW  - social stigma
+ER  - 
+
+TY  - JOUR
+TI  - Family Secrets and the Slow Violence of Social Stigma
+AU  - Barnwell, Ashley
+T2  - Sociology
+AB  - This article uses Rob Nixon’s theory of ‘slow violence’ to examine how families keep secrets to manage stigma over time. In an age driven by hurriedness and distraction, Nixon calls for scholars to attend to the uneventful injustices that slip beneath the radar, dismissed or postponed. While his concept addresses environmental pollution, I argue that it is also relevant to the temporal dimensions of other sociological problems. To understand the social causes and impacts of family secrets I apply the concept of slow violence to qualitative survey responses collected from non-professional family historians in 2016. Bringing Nixon’s idea to family secrets, I argue, exposes how stigma – as an often unseen and accretive form of social violence – is felt and managed within families across generations. The article demonstrates how Nixon’s time-centred theory valuably foregrounds long-term ramifications in a context where the churn of election and policy cycles often sets a short-term view.
+DA  - 2019/12/01/
+PY  - 2019
+DO  - 10.1177/0038038519846443
+DP  - SAGE Journals
+VL  - 53
+IS  - 6
+SP  - 1111
+EP  - 1126
+J2  - Sociology
+LA  - en
+SN  - 0038-0385
+UR  - https://doi.org/10.1177/0038038519846443
+Y2  - 2022/01/10/05:14:21
+KW  - emotions
+KW  - family history
+KW  - family secrets
+KW  - intergenerational families
+KW  - qualitative surveys
+ER  - 
+
+TY  - BLOG
+TI  - Keeping it secret: revealing the secrets in your family history
+AU  - Barnwell, Ashley
+T2  - Ancestry UK Blog
+DA  - 2017/12/15/
+PY  - 2017
+UR  - https://blogs.ancestry.co.uk/ancestry/2017/12/15/keeping-it-secret-revealing-the-secrets-in-your-family-history/
+Y2  - 2021/01/10/
+ER  - 
+
+TY  - BOOK
+TI  - Reframing Pilgrimage Cultures in Motion.
+AU  - Coleman, Simon
+AU  - Eade, John
+AU  - European Association of Social Anthropologists
+AB  - Reframing Pilgrimage argues that sacred travel is just one of the twenty-first century's many forms of cultural mobility. The contributors consider the meanings of pilgrimage in Christian, Mormon, Hindu, Islamic and Sufi traditions, as well as in secular contexts, and they create a new theory of pilgrimage as a form of voluntary displacement. This voluntary displacement helps to constitute cultural meaning in a world constantly 'en route'. Pilgrimage, which works both on global economic and individual levels, is recognised as a highly creative and politically charged force intimately.
+CY  - Hoboken
+DA  - 2012///
+PY  - 2012
+DP  - Open WorldCat
+LA  - English
+PB  - Taylor and Francis
+SN  - 978-1-134-41171-9 978-1-280-05637-6 978-0-203-64369-3 978-0-415-30354-5
+ER  - 
+
+TY  - BOOK
+TI  - Pathfinders: a history of Aboriginal trackers in NSW
+AU  - Bennett, Michael
+CN  - DU123.4 .B46 2020
+CY  - Sydney, NSW, Australia
+DA  - 2020///
+PY  - 2020
+DP  - Library of Congress ISBN
+SP  - 322
+PB  - NewSouth Publishing
+SN  - 978-1-74223-656-8
+ST  - Pathfinders
+KW  - Aboriginal Australians
+KW  - Australia New South Wales
+KW  - History
+KW  - Investigation History
+KW  - Missing persons
+KW  - Tracking and trailing
+ER  - 
+
+TY  - JOUR
+TI  - Practising family history: ‘identity’ as a category of social practice: Practising family history
+AU  - Bottero, Wendy
+T2  - The British Journal of Sociology
+DA  - 2015/09//
+PY  - 2015
+DO  - 10.1111/1468-4446.12133
+DP  - DOI.org (Crossref)
+VL  - 66
+IS  - 3
+SP  - 534
+EP  - 556
+J2  - The British Journal of Sociology
+LA  - en
+SN  - 00071315
+ST  - Practising family history
+UR  - https://onlinelibrary.wiley.com/doi/10.1111/1468-4446.12133
+Y2  - 2022/01/10/05:21:26
+ER  - 
+
+TY  - JOUR
+TI  - Who do you think they were? How family historians make sense of social position and inequality in the past: Who do you think they were?
+AU  - Bottero, Wendy
+T2  - The British Journal of Sociology
+DA  - 2012/03//
+PY  - 2012
+DO  - 10.1111/j.1468-4446.2011.01393.x
+DP  - DOI.org (Crossref)
+VL  - 63
+IS  - 1
+SP  - 54
+EP  - 74
+LA  - en
+SN  - 00071315
+ST  - Who do you think they were?
+UR  - https://onlinelibrary.wiley.com/doi/10.1111/j.1468-4446.2011.01393.x
+Y2  - 2022/01/10/05:21:55
+ER  - 
+
+TY  - BOOK
+TI  - Caroline's dilemma: a colonial inheritance saga
+AU  - Bradbury, Bettina
+AB  - Caroline Kearney faced a heart-breaking dilemma. She was 31 years old and had six children when her husband died in 1866. She had hoped that her sons would inherit the sheep station they owned in the Wimmera in Victoria. But she had no right to it herself. Her husband's will offered a reasonable annuity to support her and the children. But, it had a catch: for that support to be paid, she had to move to Ireland with her children and live in a house her brothers-in-law would choose. English-born, she had migrated to Australia with her family when she was sixteen. She had never been to Ireland. This extraordinary story reveals much about family, women's rights, property, and the law in the British Empire of the nineteenth century. A truly impressive work of historical recovery, on a major scale
+CN  - HQ1822.5.K43 B73 2019
+CY  - Sydney, NSW
+DA  - 2019///
+PY  - 2019
+DP  - Library of Congress ISBN
+SP  - 336
+PB  - UNSW Press LTD
+SN  - 978-1-74223-660-5
+ST  - Caroline's dilemma
+KW  - 1788-1900
+KW  - 19th century
+KW  - Australia
+KW  - Biography
+KW  - History
+KW  - Inheritance and succession
+KW  - Kearney, Caroline
+KW  - Legal status, laws, etc. History
+KW  - Social conditions
+KW  - Widows
+KW  - Women
+ER  - 
+
+TY  - BOOK
+TI  - Ko Taranaki Te Maunga
+AU  - Buchanan, Rachel
+DA  - 2018/09/12/
+PY  - 2018
+DP  - DOI.org (Crossref)
+ET  - 1
+PB  - Bridget Williams Books
+SN  - 978-1-988545-28-8
+UR  - https://www.bwb.co.nz/books/ko-taranaki-te-maunga
+Y2  - 2022/01/10/05:23:24
+ER  - 
+
+TY  - BOOK
+TI  - The psychic life of power: theories in subjection
+AU  - Butler, Judith
+CN  - BD438.5 .B88 1997
+CY  - Stanford, Calif
+DA  - 1997///
+PY  - 1997
+DP  - Library of Congress ISBN
+SP  - 218
+PB  - Stanford University Press
+SN  - 978-0-8047-2811-9 978-0-8047-2812-6
+ST  - The psychic life of power
+KW  - Power (Philosophy)
+KW  - Power (Social sciences)
+KW  - Self
+KW  - Self (Philosophy)
+KW  - Social aspects
+ER  - 
+
+TY  - BOOK
+TI  - Oh happy day: those times and these times
+AU  - Callil, Carmen
+AB  - "Carmen Callil explores her roots in a book that is a miracle of research and whose writing is fuelled by righteous anger - a story of Empire, migration and the poverty and injustice of nineteenth-century England In this remarkable book, Carmen Callil discovers the story of her British ancestors, beginning with her great-great-grandmother Sary Lacey, born illegitimate in 1808, an impoverished stocking frame worker in Leicestershire. Through detailed research, we follow Sary from slum to tenement and from pregnancy to pregnancy. We also meet George Conquest, a canal worker and the father of one of Sary's children. George was sentenced - for stealing a piece of hemp - to seven years' transportation to Australia, where he faced the extraordinary brutality of convict life. Meanwhile, Mary Ann Brooks and her father John, a silversmith, travel across the seas from Lincolnshire to escape the Workhouse and life as a skivvy. But for George, as for so many destitute and disenfranchised British people like him, Australia turned out to be his Happy Day. He survived, prospered and eventually returned to England, where he met Sary again, after nearly thirty years. He brought her out to Australia, and they were never parted again. Carmen Callil not only reclaims from obscurity the lives of these ordinary men and women who were sent to Australia as convicts or domestic servants, but also draws telling parallels for our own times. Oh Happy Day is a moving story of poverty, social injustice, Empire and migration."--Amazon.ca
+CN  - DU122.B7 C35 2020
+CY  - London
+DA  - 2020///
+PY  - 2020
+DP  - Library of Congress ISBN
+SP  - 346
+PB  - Jonathan Cape
+SN  - 978-0-224-09030-8 978-0-224-09031-5
+ST  - Oh happy day
+KW  - Australia
+KW  - British
+KW  - Callil, Carmen
+KW  - Family
+KW  - Genealogy
+KW  - History
+ER  - 
+
+TY  - BOOK
+TI  - Yizkor for Rose: A life Lost and Found
+AU  - Cervini, Erica
+DA  - 2020///
+PY  - 2020
+PB  - Self-published
+ER  - 
+
+TY  - BOOK
+TI  - Private lives, public history
+AU  - Clark, Anna
+CN  - DU110 .C47 2015
+CY  - Carlton, Vic
+DA  - 2016///
+PY  - 2016
+DP  - Library of Congress ISBN
+SP  - 180
+PB  - Melbourne University Press
+SN  - 978-0-522-86895-1 978-0-522-86896-8
+KW  - Australia
+KW  - History
+KW  - Social conditions
+ER  - 
+
+TY  - JOUR
+TI  - Ordinary People’s History
+AU  - Clark, Anna
+T2  - History Australia
+DA  - 2012/01//
+PY  - 2012
+DO  - 10.1080/14490854.2012.11668409
+DP  - DOI.org (Crossref)
+VL  - 9
+IS  - 1
+SP  - 201
+EP  - 216
+J2  - History Australia
+LA  - en
+SN  - 1449-0854, 1833-4881
+UR  - https://www.tandfonline.com/doi/full/10.1080/14490854.2012.11668409
+Y2  - 2022/01/10/05:26:40
+ER  - 
+
+TY  - CHAP
+TI  - Family history and transnational historical consciousness
+AU  - Evans, Tanya
+AU  - Clark, Anna
+T2  - Transnationalism, Nationalism and Australian History
+A2  - Clark, Anna
+A2  - Rees, Anne
+A2  - Simmonds, Alecia
+AB  - In recent years History's 'national narrative' has been powerfully challenged by transnational and international debates. Using Australian history as a case study, this collection draws on leading contributions from academics and public intellectuals to explore the ways national identities still resonate in historical scholarship and reexamines key moments in Australian history, with a transnational lens, raising important questions about the unique context of Australia's national narrative. The book examines the tension between national and transnational perspectives, attempting to internationalise the often parochial nation-based narratives that characterise national history, such as the history wars or the glorification of the Anzac Legend, whilst bearing in mind the limits of transnational histories in a national setting. Moving from the local and personal to the global, encompassing comparative and international research and drawing on the experiences of researchers working across nations and communities, this collection brings together diverging national and transnational approaches and asks several critical research questions: What is transnational history? How do new transnational readings of the past challenge conventional national narratives and approaches? What are implications of transnational and international approaches on Australian history? What possibilities do they bring to the discipline? What are their limitations? And finally, how do we understand the nation in this transnational moment?
+CN  - 909
+CY  - Singapore
+DA  - 2017///
+PY  - 2017
+DP  - Library of Congress ISBN
+ET  - 1st ed. 2017
+SP  - 167
+EP  - 178
+PB  - Springer Singapore : Imprint: Palgrave Macmillan
+SN  - 978-981-10-5017-6
+KW  - Asia
+KW  - Asian Culture
+KW  - Australasian History
+KW  - Ethnology
+KW  - History
+KW  - International relations
+KW  - International Relations
+KW  - Islands of the Pacific
+KW  - World history
+KW  - World History, Global and Transnational History
+ER  - 
+
+TY  - JOUR
+TI  - Inheriting the past: Exploring historical consciousness across generations
+AU  - Clark, A.
+AB  - Despite significant research into the meaning and operation of historical consciousness, there is still much to be understood about its hereditary function. For example, what does historical inheritance look like? How does it influence our individual and collective historical consciousnesses? And, just as critically, what happens to historical consciousness when history is deliberately withheld, when that inheritance is suspended or severed? As a way into some of these questions about passing on the past, this paper draws on a qualitative research project into historical consciousness in Australia to explore how so-called 'ordinary people' see themselves as part of a historical narrative. It reveals that historical inheritance is critical to our historical consciousness, and it notes the profound impact of forgetting on participants, raising important questions about the role of 'silence' and 'absence' in the formation of historical consciousness.
+DA  - 2014/01/01/
+PY  - 2014
+DP  - opus.lib.uts.edu.au
+ST  - Inheriting the past
+UR  - https://opus.lib.uts.edu.au/handle/10453/35522
+Y2  - 2022/01/10/05:28:54
+ER  - 
+
+TY  - JOUR
+TI  - “I want to know my bloodline”: New Brunswickers and Their Pasts
+AU  - Conrad, Margaret
+AU  - Dubé, Natalie
+AU  - Northrup, David
+AU  - Owre, Keith
+T2  - Journal of New Brunswick Studies / Revue d’études sur le Nouveau-Brunswick
+AB  - New Brunswick is a product of wars fought from 1689 to 1815. During these wars, all of which included battles on North American soil, the social relations among the First Nations, French, and British inhabitants were forged, often in blood. These conflicts became the foundation for mutable but seemingly mutually exclusive identities that are documented in a recent survey of New Brunswickers on how they engage the past in their everyday lives. In this paper, we describe the eighteenth-century context in which many New Brunswick cultural identities were constructed and address the findings of the Canadians and Their Pasts survey in a province where popular engagement with history is complicated by diverse perceptions of the past.
+          
+          Résumé
+          
+          Le Nouveau-Brunswick est le produit de guerres ayant eu lieu entre 1689 et 1815. Pendant ces guerres, qui ont toutes eu des batailles en sol nord-américain, des relations sociales se sont tissées entre les Premières nations, les Français et les Britanniques; souvent, ils étaient unis par les liens du sang. Ces conflits sont à la source d’identités mutables, mais qui étaient, en apparence, mutuellement exclusives et qui ont fait l’objet d’une récente enquête qui portait sur les gens du Nouveau-Brunswick et sur la façon qu’ils évoquent le passé au quotidien. Dans cet exposé, nous décrivons le contexte du 18e siècle dans lequel de nombreuses identités culturelles du Nouveau-Brunswick se sont formées et nous nous penchons sur les résultats du sondage portant sur les Canadiens et leur passé et ce, dans une province où l’engagement populaire envers l’histoire se complique par les diverses perceptions du passé.
+DA  - 2010/01/01/
+PY  - 2010
+DP  - journals.lib.unb.ca
+VL  - 1
+LA  - en
+SN  - 2369-6591
+ST  - “I want to know my bloodline”
+UR  - https://journals.lib.unb.ca/index.php/JNBS/article/view/18188
+Y2  - 2022/01/10/05:35:22
+ER  - 
+
+TY  - BOOK
+TI  - A drift of 'Derwent ducks': lives of the 200 female Irish convicts transported on the Australasia from Dublin to Hobart in 1849
+AU  - Cowley, Trudy
+CY  - Hobart, TAS
+DA  - 2011///
+PY  - 2011
+DP  - Open WorldCat
+LA  - English
+PB  - New Town
+SN  - 978-0-9756784-4-2
+ST  - A drift of 'Derwent ducks'
+ER  - 
+
+TY  - CHAP
+TI  - Ancestors: The Broken Lineage of Family History
+AU  - Davison, Graeme
+T2  - The use and abuse of Australian history
+CN  - DU108 .D38 2000
+CY  - St. Leonards, N.S.W
+DA  - 2000///
+PY  - 2000
+DP  - Library of Congress ISBN
+PB  - Allen & Unwin
+SN  - 978-1-86448-720-6
+KW  - Australia
+KW  - Historiography
+KW  - History Philosophy
+ER  - 
+
+TY  - BOOK
+TI  - Lost relations: fortunes of my family in Australia's Golden Age
+AU  - Davison, Graeme
+CN  - JV9190.V53 D38 2015
+CY  - Crows Nest, New South Wales
+DA  - 2015///
+PY  - 2015
+DP  - Library of Congress ISBN
+SP  - 274
+PB  - Allen & Unwin
+SN  - 978-1-74331-946-8
+ST  - Lost relations
+KW  - 19th century
+KW  - Australia Victoria
+KW  - Davison, Graeme
+KW  - Emigration and immigration History
+KW  - English
+KW  - Family
+KW  - History
+KW  - Immigrants
+KW  - Victoria
+ER  - 
+
+TY  - BOOK
+TI  - The people who own themselves: aboriginal ethnogenesis in a Canadian family, 1660 - 1900
+AU  - Devine, Heather
+CY  - Calgary
+DA  - 2004///
+PY  - 2004
+DP  - K10plus ISBN
+SP  - 338
+LA  - eng
+PB  - University of Calgary Press
+SN  - 978-1-55238-660-6
+ST  - The people who own themselves
+ER  - 
+
+TY  - CHAP
+TI  - Public History in Canada: Public Service or public service?
+AU  - Dove, Michael
+AU  - Hamilton, Michelle
+T2  - What is public history globally? working with the past in the present
+A2  - Ashton, Paul
+A2  - Trapeznik, Alexander
+AB  - Across the globe, history has gone public. With the rise of the internet, family historians are now delving into archives continents apart. Activists look into and recreate the past to promote social justice or environmental causes. Dark and difficult pasts are confronted at sites of commemoration. Artists draw on memory and the past to study the human condition and make meaning in the present. As a result of this democratisation of history, public history movements have now risen to prominence. This groundbreaking edited collection takes a comprehensive look at public history throughout the world. Divided into three sections - Background, Definitions and Issues; Approaches and Methods; and Sites of Public History - it contextualises public history in eleven different countries, explores the main research skills and methods of the discipline and illustrates public history research with a variety of global case studies. What is Public History Globally? provides an in-depth examination of the ways in which ordinary people become active participants in historical processes and it will be an invaluable resource for advance undergraduates and postgraduates studying public history, museology and heritage studies
+CN  - 900
+CY  - London
+DA  - 2019///
+PY  - 2019
+DP  - BnF ISBN
+LA  - eng
+PB  - Bloomsbury Academic
+SN  - 978-1-350-03328-3 978-1-350-03329-0
+ER  - 
+
+TY  - BOOK
+TI  - Shortfall: family secrets, financial collapse, and a hidden history of American banking
+AU  - Echols, Alice
+CN  - HV6684.C6 E34 2017
+CY  - New York
+DA  - 2017///
+PY  - 2017
+DP  - Library of Congress ISBN
+SP  - 318
+PB  - New Press
+SN  - 978-1-62097-303-5
+ST  - Shortfall
+KW  - 1919-1933
+KW  - Case studies
+KW  - Colorado
+KW  - Corrupt practices
+KW  - Davis, Walter Clyde
+KW  - Embezzlement
+KW  - Financial crime
+KW  - History
+KW  - Savings and loan associations
+KW  - United States
+ER  - 
+
+TY  - JOUR
+TI  - Locating Family in Cultural Memory Studies
+AU  - Erll, Astri
+T2  - Journal of Comparative Family Studies
+AB  - Cultural memory studies addresses the question of how the "past" is created and recreated within sociocultural contexts. What is the place of "family"–and of family memories–in this burgeoning field? And how can the concept of memory be used as a tool in comparative family research? This article presents, first, the main notions of Maurice Halbwachs's theory of mémoire collective and asks how the sociologist places family within collective memory. Second, it discusses how the "new memory studies" of the 1980s and 1990s, which clearly showed a bias towards large-scale, often national memories, can be refocused through the lens of small-scale family memories. Third, it provides an overview of current research on the dynamics of remembering within families. It discusses how new approaches, which are based mostly on qualitative interviewing, have adopted innovative transgenerational, transnational, and media culture perspectives. La critique culturelle de la mémoire collective demande comment on construit et reconstruit le "passé" dans des contextes socioculturels. Ou se trouve le lieu de la "famille"–et de la mémoire et la famille–dans ce domaine de la recherche en plein essor? Et comment peut-on conceptualiser la "mémoire" dans la recherche comparative sur la famille? Cet article présente les connaissances fondamentales de la théorie de la mémoire collective de Maurice Halbwachs en se demandant comment situe le sociologue la famille dans la mémoire collective. Deuxièmement on pose la question comment on peut ouvrir de nouvelles perspectives à partir de la "nouvelle recherche de la mémoire" des années 80 et 90, qui a montré une tendance vers les grandes formations, souvent nationales, avec les "petits" mémoires familiales. Troisièmement, l'article présente un aperçu de la recherche actuelle consacrée à la dynamique de la mémoire familiale. Nous discutons de nouveaux concepts de la recherche qualitative sociale ("qualitative Sozialforschung"), qui ont crée nouvelles perspectives transgénérationnelles, transnationales et médiales. La crítica cultural de la memoria colectiva pregunta cómo se construye y se reconstruye el "pasado" en contextos socioculturales. ¿Qué es el lugar de la "familia"–y de la memoria familiar–en este campo creciente de la investigación? ¿Y cómo se puede conceptualizar la "memoria" en la investigación comparada de la familia? Este artículo presenta las comprensiones fundamentales de la teoría de la memoria colectiva de Maurice Halbwachs y pregunta como el sociólogo posiciona la familia dentro de la memoria colectiva. En segundo lugar se discute la pregunta como la "nueva investigación de la memoria" de los años 80 y 90, que mostró una tendencia unívoca hacia las formaciones "grandes," muchas veces nacionales de la memoria puede obtener una nueva perspectiva bajo la lente de las "pequeñas" memorias familiares. En tercer lugar el artículo presenta el panorama de la investigación actual dedicada a la dinámica de las memorias familiares. Se discute conceptos nuevos de la investigación cualitativa social ("qualitative Sozialforschung"), que abriereon perspectivas transgeneracionales, transnacionales y mediales.
+DA  - 2011///
+PY  - 2011
+DP  - JSTOR
+VL  - 42
+IS  - 3
+SP  - 303
+EP  - 318
+SN  - 0047-2328
+UR  - http://www.jstor.org/stable/41604447
+Y2  - 2022/01/10/05:49:24
+ER  - 
+
+TY  - JOUR
+TI  - <i>Who Do You Think You Are?</i> Historical Television Consultancy
+AU  - Evans, Tanya
+T2  - Australian Historical Studies
+DA  - 2015/09/02/
+PY  - 2015
+DO  - 10.1080/1031461X.2015.1074256
+DP  - DOI.org (Crossref)
+VL  - 46
+IS  - 3
+SP  - 454
+EP  - 467
+J2  - Australian Historical Studies
+LA  - en
+SN  - 1031-461X, 1940-5049
+ST  - <i>Who Do You Think You Are?
+UR  - http://www.tandfonline.com/doi/full/10.1080/1031461X.2015.1074256
+Y2  - 2022/01/10/05:50:10
+ER  - 
+
+TY  - JOUR
+TI  - Secrets and Lies: the Radical Potential of Family History
+AU  - Evans, Tanya
+T2  - History Workshop Journal
+DA  - 2011///
+PY  - 2011
+DP  - JSTOR
+IS  - 71
+SP  - 49
+EP  - 73
+SN  - 1363-3554
+ST  - Secrets and Lies
+UR  - http://www.jstor.org/stable/41306811
+Y2  - 2022/01/10/05:50:40
+ER  - 
+
+TY  - CHAP
+TI  - Discovering violence in the family
+T2  - Gender violence in Australia: historical perspectives
+A2  - Piper, Alana
+A2  - Stevenson, Alana
+CN  - HV6250.4.W65 G476 2019
+CY  - Clayton, Victoria, Australia
+DA  - 2019///
+PY  - 2019
+DP  - Library of Congress ISBN
+SP  - 20
+EP  - 33
+PB  - Monash University Publishing
+SN  - 978-1-925835-30-4
+KW  - Australia
+KW  - Violence against
+KW  - Women
+ER  - 
+
+TY  - BOOK
+TI  - Fractured families: life on the margins in colonial New South Wales
+AU  - Evans, Tanya
+CN  - DU172.A2 E93 2015
+CY  - Sydney, NSW, Australia
+DA  - 2015///
+PY  - 2015
+DP  - Library of Congress ISBN
+SP  - 304
+PB  - UNSW Press
+SN  - 978-1-74223-257-7
+ST  - Fractured families
+KW  - Australia New South Wales
+KW  - Biography
+KW  - Economic conditions
+KW  - Frontier and pioneer life
+KW  - New South Wales
+KW  - Pioneers
+KW  - Social conditions
+ER  - 
+
+TY  - JOUR
+TI  - Emerging questions in family history studies
+AU  - Evans, Tanya
+T2  - International Public History
+DA  - 2019/10/25/
+PY  - 2019
+DO  - 10.1515/iph-2019-0013
+DP  - DOI.org (Crossref)
+VL  - 2
+IS  - 2
+SP  - 20190013
+LA  - en
+SN  - 2567-1111
+UR  - https://www.degruyter.com/document/doi/10.1515/iph-2019-0013/html
+Y2  - 2022/01/10/05:55:44
+ER  - 
+
+TY  - JOUR
+TI  - Introduction: Emerging Directions for Family History Studies
+AU  - Evans, Tanya
+AU  - de Groot, Jerome
+T2  - International Public History
+AB  - Abstract
+            This introduction charts the rise of family history across the globe and its international impact upon culture, biomedicine, and technology. It introduces the contributions to this special issue from interdisciplinary scholars based in the US, Canada, Brazil, Europe, Australia and India that have collaborated internationally over the past three years. It argues that public historians need to take the practice of family history seriously and that all scholars can learn from its collaborative, integrated, international practice. We are presented with overwhelming evidence of the need to decentralize and trouble the Eurocentrism of existing historical scholarship. This special issue provides a platform for the conversations we have been having about family history over the past three years and encourages others to join in.
+DA  - 2019/10/25/
+PY  - 2019
+DO  - 10.1515/iph-2019-0014
+DP  - DOI.org (Crossref)
+VL  - 2
+IS  - 2
+SP  - 20190014
+LA  - en
+SN  - 2567-1111
+ST  - Introduction
+UR  - https://www.degruyter.com/document/doi/10.1515/iph-2019-0014/html
+Y2  - 2022/01/10/05:56:00
+ER  - 
+
+TY  - JOUR
+TI  - Family History and the Global Politics of DNA
+AU  - Abel, Sarah
+AU  - Tsosie, Krystal S.
+T2  - International Public History
+AB  - Abstract
+            The global DNA ancestry industry appeals to various “markets”: diasporic groups seeking to reconstruct lost kinship links; adoptees looking for biological relatives; genealogists tracing their family trees; and those who are merely curious about what DNA can reveal about their identity. However, the language of empowerment and openness employed by DNA ancestry-testing companies in their publicity materials masks the important commercial and private interests at stake. Drawing particularly on the experiences of Native and Indigenous American communities, this article highlights some of the contradictions and dilemmas engendered by the industry, and questions to what extent its practices can empower users without infringing upon the rights of other groups.
+DA  - 2019/10/25/
+PY  - 2019
+DO  - 10.1515/iph-2019-0015
+DP  - DOI.org (Crossref)
+VL  - 2
+IS  - 2
+SP  - 20190015
+LA  - en
+SN  - 2567-1111
+UR  - https://www.degruyter.com/document/doi/10.1515/iph-2019-0015/html
+Y2  - 2022/01/10/05:56:17
+ER  - 
+
+TY  - JOUR
+TI  - Family History Collaborators in Conversation
+AU  - Barnwell, Ashley
+AU  - King, Laura
+T2  - International Public History
+AB  - Abstract
+            Ashley Barnwell and Laura King converse about their collaborations with family historians in Australia and England. They reveal the potential uses of collaboration when challenging understandings of ‘the family’, decolonizing and declassing historical scholarship on the family and the wellbeing benefits for family history researchers and carers.
+DA  - 2019/10/25/
+PY  - 2019
+DO  - 10.1515/iph-2019-0016
+DP  - DOI.org (Crossref)
+VL  - 2
+IS  - 2
+SP  - 20190016
+LA  - en
+SN  - 2567-1111
+UR  - https://www.degruyter.com/document/doi/10.1515/iph-2019-0016/html
+Y2  - 2022/01/10/05:56:44
+ER  - 
+
+TY  - JOUR
+TI  - “The Genealogical sublime”: An Interview with Julie Creet
+AU  - de Groot, Jerome
+T2  - International Public History
+DA  - 2019/10/25/
+PY  - 2019
+DO  - 10.1515/iph-2019-0017
+DP  - DOI.org (Crossref)
+VL  - 2
+IS  - 2
+SP  - 20190017
+LA  - en
+SN  - 2567-1111
+ST  - “The Genealogical sublime”
+UR  - https://www.degruyter.com/document/doi/10.1515/iph-2019-0017/html
+Y2  - 2022/01/10/05:56:52
+ER  - 
+
+TY  - JOUR
+TI  - The Roles of Authenticity and Immediacy in Engaging Family Historians in Online Learning Designed to Advance Academic Skills
+AU  - Harman, Kristyn
+T2  - International Public History
+AB  - Abstract
+            A rapid increase in the availability of digitized archival resources of relevance to family historians together with increasing individual fascination with genealogical research led to the University of Tasmania introducing a fully online Diploma of Family History in 2016. The course’s emphasis on authenticity through a variety of modalities and the sense of immediacy with which its online learning environment is imbued combine to engage and retain students’ interest as they focus on locating and contextualizing their own ancestors as research subjects. Permeating family history with academic skills promotes best practice in locating, analyzing, storing, and publicly presenting family-centric research materials for the edification of current and future generations.
+DA  - 2019/10/25/
+PY  - 2019
+DO  - 10.1515/iph-2019-0018
+DP  - DOI.org (Crossref)
+VL  - 2
+IS  - 2
+SP  - 20190018
+LA  - en
+SN  - 2567-1111
+UR  - https://www.degruyter.com/document/doi/10.1515/iph-2019-0018/html
+Y2  - 2022/01/10/05:57:03
+ER  - 
+
+TY  - JOUR
+TI  - Practical Solutions: Genealogy and the Potential of Public Pedagogy in Poland
+AU  - Jurczyk-Romanowska, Ewa
+T2  - International Public History
+AB  - Abstract
+            The article deals with the development of genealogy in Poland, indicates its interdisciplinary character, as well as the socio-political context of its development. In particular, the possibility of using the genealogical passion of older people as a motivating factor to undertake education in the field of information and communication technology (ICT) was highlighted. As an example of good practice, the assumptions and preliminary conclusions of the research carried out within the Learning Tree project, which was implemented in Poland, Turkey and Italy, are presented. On the basis of the research it is stated that genealogy can be a factor encouraging the adoption of computer education by seniors, and consequently contribute to reducing the level of digital exclusion of older people by increasing their participation in the information society.
+DA  - 2019/10/25/
+PY  - 2019
+DO  - 10.1515/iph-2019-0019
+DP  - DOI.org (Crossref)
+VL  - 2
+IS  - 2
+SP  - 20190019
+LA  - en
+SN  - 2567-1111
+ST  - Practical Solutions
+UR  - https://www.degruyter.com/document/doi/10.1515/iph-2019-0019/html
+Y2  - 2022/01/10/05:57:09
+ER  - 
+
+TY  - JOUR
+TI  - Some Reflections on Public History in Canada Today
+AU  - Dean, David
+AU  - Walsh, John C.
+T2  - International Public History
+AB  - Abstract
+            This article offers a reflection on the state of public history in Canada today. The authors focus on four particularly significant and related developments: the growth of the field within universities and colleges; the ways in which public history has helped re-shape research agendas; the influence of public history work outside academia; and Canada’s role in the ongoing process of what has been dubbed ‘the internationalization’ of public history. These developments reveal an intellectually rigorous, politically aware, and socially engaged public history that challenges boundaries in exciting and productive ways. The authors offer links so readers can explore recent controversies, issues, and debates in Canadian public history.
+DA  - 2019/10/25/
+PY  - 2019
+DO  - 10.1515/iph-2019-0021
+DP  - DOI.org (Crossref)
+VL  - 2
+IS  - 2
+SP  - 20190021
+LA  - en
+SN  - 2567-1111
+UR  - https://www.degruyter.com/document/doi/10.1515/iph-2019-0021/html
+Y2  - 2022/01/10/05:57:22
+ER  - 
+
+TY  - JOUR
+TI  - “A Fool’s errand”: Lonnie Bunch and the Creation of the National Museum of African American History and Culture
+AU  - Etges, Andreas
+AU  - Dean, David
+T2  - International Public History
+DA  - 2019/10/25/
+PY  - 2019
+DO  - 10.1515/iph-2019-0020
+DP  - DOI.org (Crossref)
+VL  - 2
+IS  - 2
+SP  - 20190020
+LA  - en
+SN  - 2567-1111
+ST  - “A Fool’s errand”
+UR  - https://www.degruyter.com/document/doi/10.1515/iph-2019-0020/html
+Y2  - 2022/01/10/05:57:36
+ER  - 
+
+TY  - JOUR
+TI  - The use of memory and material culture in the history of the family in colonial Australia
+AU  - Evans, Tanya
+T2  - Journal of Australian Studies
+DA  - 2012/06//
+PY  - 2012
+DO  - 10.1080/14443058.2012.678584
+DP  - DOI.org (Crossref)
+VL  - 36
+IS  - 2
+SP  - 207
+EP  - 228
+J2  - Journal of Australian Studies
+LA  - en
+SN  - 1444-3058, 1835-6419
+UR  - http://www.tandfonline.com/doi/abs/10.1080/14443058.2012.678584
+Y2  - 2022/01/10/05:59:43
+ER  - 
+
+TY  - JOUR
+TI  - Review of Who Do You Think You Are?
+AU  - Evans, Richard
+T2  - History Australia
+DA  - 2008/01//
+PY  - 2008
+DO  - 10.2104/ha080082
+DP  - DOI.org (Crossref)
+VL  - 5
+IS  - 3
+SP  - 82.1
+EP  - 82.2
+J2  - History Australia
+LA  - en
+SN  - 1449-0854, 1833-4881
+UR  - https://www.tandfonline.com/doi/full/10.2104/ha080082
+Y2  - 2022/01/10/06:00:20
+ER  - 
+
+TY  - CHAP
+TI  - Family myths, memories and interviewing
+AU  - Finnegan, Ruth
+T2  - The Oral History Reader
+A2  - Perks, Robert
+A2  - Thomson, Alistair
+AB  - About the book: 
+This greatly anticipated update of The Oral History Reader is a comprehensive, international anthology of major, ‘classic’ articles and cutting-edge pieces on the theory, method and use of oral history. 
+
+This wide-ranging volume illustrates similarities and differences in oral history from around the world, including examples from North and South America, Britain and Europe, Australasia, Asia and Africa. It also details the subjects – such as women's history, family history, gay and lesbian history, ethnic history and disability history – to which oral history has made a significant contribution. 
+
+This second edition is arranged into five thematic sections. The collection details issues in the theory and practice of oral history and covers influential debates in its development over the past sixty years. New chapters include: 
+
+interview methods and the oral history relationship 
+
+the use of testimony in truth and reconciliation politics 
+
+memory and interpretation 
+
+the digital revolution and new technologies for the creation, use and dissemination of oral history 
+
+community oral history projects 
+
+memory and history.
+CY  - London, UK
+DA  - 2006///
+PY  - 2006
+DP  - oro.open.ac.uk
+ET  - 2nd revised edition
+SP  - 177
+EP  - 183
+LA  - en
+PB  - Routledge
+SN  - 978-0-415-34303-9
+UR  - http://www.routledge.com/books/The-Oral-History-Reader-isbn9780415343039
+Y2  - 2022/01/10/06:00:43
+ER  - 
+
+TY  - JOUR
+TI  - Maternal Reminiscing Style and Children’s Developing Understanding of Self and Emotion
+AU  - Fivush, Robyn
+T2  - Clinical Social Work Journal
+DA  - 2007/03//
+PY  - 2007
+DO  - 10.1007/s10615-006-0065-1
+DP  - DOI.org (Crossref)
+VL  - 35
+IS  - 1
+SP  - 37
+EP  - 46
+J2  - Clin Soc Work J
+LA  - en
+SN  - 0091-1674, 1573-3343
+UR  - https://link.springer.com/10.1007/s10615-006-0065-1
+Y2  - 2022/01/10/06:01:34
+ER  - 
+
+TY  - JOUR
+TI  - The Development of Autobiographical Memory
+AU  - Fivush, Robyn
+T2  - Annual Review of Psychology
+AB  - Autobiographical memory is a uniquely human system that integrates memories of past experiences into an overarching life narrative. In this review, I extend social-cultural models of autobiographical memory development and present theory and research that demonstrates that (a) autobiographical memory is a gradually developing system across childhood and adolescence that depends on the development of a sense of subjective self as continuous in time; (b) autobiographical memory develops within specific social and cultural contexts that relate to individual, gendered, and cultural differences in adults' autobiographical memories, and, more specifically, (c) mothers who reminisce with their young children in elaborated and evaluative ways have children who develop more detailed, coherent, and evaluative autobiographical memories.
+DA  - 2011/01/10/
+PY  - 2011
+DO  - 10.1146/annurev.psych.121208.131702
+DP  - DOI.org (Crossref)
+VL  - 62
+IS  - 1
+SP  - 559
+EP  - 582
+J2  - Annu. Rev. Psychol.
+LA  - en
+SN  - 0066-4308, 1545-2085
+UR  - https://www.annualreviews.org/doi/10.1146/annurev.psych.121208.131702
+Y2  - 2022/01/10/06:02:02
+ER  - 
+
+TY  - BOOK
+TI  - Autobiographical memory and the construction of a narrative self: developmental and cultural perspectives
+A3  - Fivush, Robyn
+CY  - New York, NY
+DA  - 2013///
+PY  - 2013
+DP  - K10plus ISBN
+ET  - 1. issued in paperback
+SP  - 240
+LA  - eng
+PB  - Psychology Press
+SN  - 978-0-415-64602-4
+ST  - Autobiographical memory and the construction of a narrative self
+ER  - 
+
+TY  - BOOK
+TI  - Chain letters: narrating convict lives
+A3  - Maxwell-Stewart, Hamish
+A3  - Frost, Lucy
+CN  - HV8950.A8 C525 2001
+CY  - Carlton South, Vic
+DA  - 2001///
+PY  - 2001
+DP  - Library of Congress ISBN
+SP  - 248
+PB  - Melbourne University Press
+SN  - 978-0-522-84977-6
+ST  - Chain letters
+KW  - 1788-1851
+KW  - Australia
+KW  - Biography
+KW  - History
+KW  - Penal colonies
+KW  - Prisoners
+ER  - 
+
+TY  - JOUR
+TI  - The Politics of Writing Convict Lives: Academic Research, State Archives and Family History
+AU  - Frost, Lucy
+T2  - Life Writing
+DA  - 2011/03//
+PY  - 2011
+DO  - 10.1080/14484528.2011.542327
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 1
+SP  - 19
+EP  - 33
+J2  - Life Writing
+LA  - en
+SN  - 1448-4528, 1751-2964
+ST  - The Politics of Writing Convict Lives
+UR  - http://www.tandfonline.com/doi/abs/10.1080/14484528.2011.542327
+Y2  - 2022/01/10/06:04:04
+ER  - 
+
+TY  - JOUR
+TI  - The Ties That Bind: Materiality, Identity, and the Life Course in the “Things” Families Keep
+AU  - Gloyn, Liz
+AU  - Crewe, Vicky
+AU  - King, Laura
+AU  - Woodham, Anna
+T2  - Journal of Family History
+AB  - Using an interdisciplinary research methodology across three archaeological and historical case studies, this article explores “family archives.” Four themes illustrate how objects held in family archives, curation practices, and intergenerational narratives reinforce a family’s sense of itself: people–object interactions, gender, socialization and identity formation, and the “life course.” These themes provide a framework for professional archivists to assist communities and individuals working with their own family archives. We argue that the family archive, broadly defined, encourages a more egalitarian approach to history. We suggest a multiperiod analysis draws attention to historical forms of knowledge and meaning-making practices over time.
+DA  - 2018/04//
+PY  - 2018
+DO  - 10.1177/0363199017746451
+DP  - DOI.org (Crossref)
+VL  - 43
+IS  - 2
+SP  - 157
+EP  - 176
+J2  - Journal of Family History
+LA  - en
+SN  - 0363-1990, 1552-5473
+ST  - The Ties That Bind
+UR  - http://journals.sagepub.com/doi/10.1177/0363199017746451
+Y2  - 2022/01/10/06:04:33
+ER  - 
+
+TY  - CHAP
+TI  - Genealogy, Hobby, Politics and Science
+AU  - De Groot, Jerome
+T2  - Consuming history: historians and heritage in contemporary popular culture
+CN  - D16.163 .G4 2016
+CY  - London ; New York
+DA  - 2016///
+PY  - 2016
+DP  - Library of Congress ISBN
+ET  - Second edition
+PB  - Routledge, Taylor & Francis Group
+SN  - 978-1-138-90531-3 978-1-138-90532-0
+KW  - History in popular culture
+KW  - Public history
+ER  - 
+
+TY  - JOUR
+TI  - International Federation for Public History Plenary Address
+AU  - de Groot, Jerome
+T2  - The Public Historian
+AB  - This article argues for the importance of genealogy and family history to contemporary understanding and experience of the past. Through looking at various ways that genealogy might be undertaken and imagined, the article argues that this important area needs to be further conceptualized and studied by public historians. The article looks at the implications inherent in the broad shift to global online genealogy and family history. The argument is interrogative and assertive in order to provoke debate amongst public historians about how we might investigate, theorize, and interrogate genealogy and family history further in the future.
+DA  - 2015/08/01/
+PY  - 2015
+DO  - 10.1525/tph.2015.37.3.102
+DP  - DOI.org (Crossref)
+VL  - 37
+IS  - 3
+SP  - 102
+EP  - 127
+LA  - en
+SN  - 0272-3433, 1533-8576
+UR  - https://online.ucpress.edu/tph/article/37/3/102/89479/International-Federation-for-Public-History
+Y2  - 2022/01/10/06:06:41
+ER  - 
+
+TY  - JOUR
+TI  - “Things Are Coming Out That Are Questionable, We Never Knew About”: DNA and the New Family History
+AU  - Stallard, Matthew
+AU  - de Groot, Jerome
+T2  - Journal of Family History
+AB  - Family history is undertaken by millions around the world seeking to understand their past. This practice is understudied, and we need to work hard to understand how it works. Over the past decade, family history has been transformed through the use of DNA sequencing to enable genetic genealogy. Through analyzing data generated in a number of focus groups with family historians, this article contributes to our understanding of family history as a practice by engaging closely with the community. In particular, the article considers the responses of family historians to the challenge of the new data generated through DNA sequencing. Looking at the ways in which the practice is changing enables a clearer view of how family history works and how scholarship might engage with it.
+DA  - 2020/07//
+PY  - 2020
+DO  - 10.1177/0363199020906853
+DP  - DOI.org (Crossref)
+VL  - 45
+IS  - 3
+SP  - 274
+EP  - 294
+J2  - Journal of Family History
+LA  - en
+SN  - 0363-1990, 1552-5473
+ST  - “Things Are Coming Out That Are Questionable, We Never Knew About”
+UR  - http://journals.sagepub.com/doi/10.1177/0363199020906853
+Y2  - 2022/01/10/06:07:18
+ER  - 
+
+TY  - BOOK
+TI  - A world of their own making: myth, ritual, and the quest for family values
+AU  - Gillis, John R.
+CY  - Cambridge, Mass
+DA  - 1997///
+PY  - 1997
+DP  - K10plus ISBN
+ET  - 1. Harvard Univ. Press paperback ed
+SP  - 310
+LA  - eng
+PB  - Harvard Univ. Press
+SN  - 978-0-674-96188-3
+ST  - A world of their own making
+ER  - 
+
+TY  - BOOK
+TI  - Roots
+AU  - Haley, Alex
+CN  - E185.97.H24 A33
+CY  - Garden City, N.Y
+DA  - 1976///
+PY  - 1976
+DP  - Library of Congress ISBN
+ET  - 1st ed
+SP  - 688
+PB  - Doubleday
+SN  - 978-0-385-03787-7
+KW  - African American families
+KW  - African Americans
+KW  - Biography
+KW  - Family
+KW  - Haley family
+KW  - Haley, Alex
+KW  - Kinte family
+ER  - 
+
+TY  - JOUR
+TI  - Memory and history in twenty-first century Australia: A survey of the field
+AU  - Darian-Smith, Kate
+AU  - Hamilton, Paula
+T2  - Memory Studies
+AB  - This essay surveys the fields of oral history and memory studies in Australia since the publication of the landmark volume Memory and History in Twentieth-Century Australia in 1994. It argues that the practice of oral history has been central to memory studies in Australia, and explores key texts relating to the memory and commemoration of war, colonialism, Indigenous histories, trauma and witnessing in Australian society.
+DA  - 2013/07//
+PY  - 2013
+DO  - 10.1177/1750698013482868
+DP  - DOI.org (Crossref)
+VL  - 6
+IS  - 3
+SP  - 370
+EP  - 383
+J2  - Memory Studies
+LA  - en
+SN  - 1750-6980, 1750-6999
+ST  - Memory and history in twenty-first century Australia
+UR  - http://journals.sagepub.com/doi/10.1177/1750698013482868
+Y2  - 2022/01/10/06:09:52
+L1  - https://opus.lib.uts.edu.au/bitstream/10453/27087/1/2012007762OK.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Memory and history in twenty-first century Australia: A survey of the field
+AU  - Darian-Smith, Kate
+AU  - Hamilton, Paula
+T2  - Memory Studies
+AB  - This essay surveys the fields of oral history and memory studies in Australia since the publication of the landmark volume Memory and History in Twentieth-Century Australia in 1994. It argues that the practice of oral history has been central to memory studies in Australia, and explores key texts relating to the memory and commemoration of war, colonialism, Indigenous histories, trauma and witnessing in Australian society.
+DA  - 2013/07//
+PY  - 2013
+DO  - 10.1177/1750698013482868
+DP  - DOI.org (Crossref)
+VL  - 6
+IS  - 3
+SP  - 370
+EP  - 383
+J2  - Memory Studies
+LA  - en
+SN  - 1750-6980, 1750-6999
+ST  - Memory and history in twenty-first century Australia
+UR  - http://journals.sagepub.com/doi/10.1177/1750698013482868
+Y2  - 2022/01/10/06:10:03
+L1  - https://opus.lib.uts.edu.au/bitstream/10453/27087/1/2012007762OK.pdf
+ER  - 
+
+TY  - JOUR
+TI  - The transformative power of digital humanities in teaching family history online
+AU  - Harman, Kristyn
+T2  - Journal of University Teaching & Learning Practice
+DA  - 2018/09/18/
+PY  - 2018
+DO  - 10.14453/jutlp.v15i3.7
+VL  - 15
+IS  - 3
+UR  - https://ro.uow.edu.au/jutlp/vol15/iss3/7
+ER  - 
+
+TY  - JOUR
+TI  - Beyond Complicity: Questions and Issues for White Women in Aboriginal History
+AU  - Haskins, Victoria
+T2  - Australian Humanities Review
+DA  - 2006///
+PY  - 2006
+VL  - 39
+LA  - en-US
+ST  - Beyond Complicity
+UR  - http://australianhumanitiesreview.org/2006/09/01/beyond-complicity-questions-and-issues-for-white-women-in-aboriginal-history/
+Y2  - 2022/01/10/06:12:27
+ER  - 
+
+TY  - BOOK
+TI  - Female sexualization: a collective work of memory
+AU  - Haug, Frigga
+CY  - London; New York, N.Y.
+DA  - 1999///
+PY  - 1999
+DP  - Open WorldCat
+LA  - English
+PB  - Verso
+SN  - 978-1-85984-207-2
+ST  - Female sexualization
+ER  - 
+
+TY  - BOOK
+TI  - From the ruins of colonialism: history as social memory
+AU  - Healy, Chris
+T2  - Studies in Australian history
+CY  - New York
+DA  - 1997///
+PY  - 1997
+DP  - K10plus ISBN
+SP  - 249
+LA  - eng
+PB  - Cambridge University Press
+SN  - 978-0-521-56576-9 978-0-521-56278-2
+ST  - From the ruins of colonialism
+ER  - 
+
+TY  - BLOG
+TI  - Public history: exploring productive relationships with partner practitioners -
+AU  - Hobbins, Peter
+T2  - PHANSA NSW&ACT Blog
+AB  - by Peter Hobbins… In recent years I have come to favour the term ‘community historians’, in part because it encompasses local, family and special-interest historians, alongside what we in medical history refer to as ‘practitioner’ historians. Indeed, I’ve begun experimenting with the phrase ‘partner practitioners’ as an inclusive term for the variety of folks ... Read more
+DA  - 2018/11/19/T23:17:48+00:00
+PY  - 2018
+LA  - en-AU
+ST  - Public history
+UR  - https://www.phansw.org.au/public-history-exploring-productive-relationships-with-partner-practitioners/
+Y2  - 2022/01/10/06:16:21
+ER  - 
+
+TY  - BOOK
+TI  - Hidden in plain view: the aboriginal people of coastal Sydney
+AU  - Irish, Paul
+CN  - GN667.N5 I75 2017
+CY  - Sydney, N.S.W
+DA  - 2017///
+PY  - 2017
+DP  - Library of Congress ISBN
+SP  - 207
+PB  - NewSouth Publishing
+SN  - 978-1-74223-511-0
+ST  - Hidden in plain view
+KW  - 1788-1900
+KW  - Aboriginal Australians
+KW  - Australia Sydney (N.S.W.)
+KW  - Colonization History
+KW  - History
+KW  - Social conditions
+KW  - Sydney (N.S.W.)
+ER  - 
+
+TY  - BOOK
+TI  - Making history: the historian and uses of the past
+AU  - Kalela, Jorma
+CN  - 907.2
+CY  - Basingstoke
+DA  - 2012///
+PY  - 2012
+DP  - BnF ISBN
+LA  - eng
+PB  - Palgrave Macmillan
+SN  - 978-0-230-27681-9 978-0-230-27682-6
+ST  - Making history
+ER  - 
+
+TY  - BOOK
+TI  - The rocks: life in early Sydney
+AU  - Karskens, Grace
+CY  - Melbourne; Lancaster
+DA  - 2000///
+PY  - 2000
+DP  - Open WorldCat
+LA  - English
+PB  - Melbourne University Press ; Gazelle
+SN  - 978-0-522-84844-1
+ST  - The rocks
+ER  - 
+
+TY  - BOOK
+TI  - The invisible history of the human race: how DNA and history shape our identities and our futures
+AU  - Kenneally, Christine
+DA  - 2016///
+PY  - 2016
+DP  - Open WorldCat
+LA  - English
+SN  - 978-1-86395-806-6 978-0-670-02555-8 978-1-86395-703-8 978-0-14-312792-5 978-1-4596-9211-4
+ST  - The invisible history of the human race
+ER  - 
+
+TY  - JOUR
+TI  - BEING THERE TOGETHER: DARK FAMILY TOURISM AND THE EMOTIVE EXPERIENCE OF CO-PRESENCE IN THE HOLOCAUST PAST
+AU  - Kidron, Carol A.
+T2  - Annals of Tourism Research
+DA  - 2013/04//
+PY  - 2013
+DO  - 10.1016/j.annals.2012.12.009
+DP  - DOI.org (Crossref)
+VL  - 41
+SP  - 175
+EP  - 194
+J2  - Annals of Tourism Research
+LA  - en
+SN  - 01607383
+ST  - BEING THERE TOGETHER
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0160738313000042
+Y2  - 2022/01/10/06:20:58
+ER  - 
+
+TY  - CHAP
+TI  - Chapter 19. Family Historians and Historians of the Family: The Value of Collaboration
+AU  - King, Laura
+AU  - Hammett, Jessica
+T2  - Making Histories
+A2  - Ashton, Paul
+A2  - Evans, Tanya
+A2  - Hamilton, Paula
+DA  - 2020/09/21/
+PY  - 2020
+DP  - DOI.org (Crossref)
+SP  - 237
+EP  - 250
+PB  - De Gruyter
+SN  - 978-3-11-063635-2
+ST  - Chapter 19. Family Historians and Historians of the Family
+UR  - https://www.degruyter.com/document/doi/10.1515/9783110636352-020/html
+Y2  - 2022/01/10/06:21:37
+ER  - 
+
+TY  - JOUR
+TI  - Kinship, Affinity and Connectedness: Exploring the Role of Genealogy in Personal Lives
+AU  - Kramer, Anne-Marie
+T2  - Sociology
+AB  - Drawing on the 2008 Mass Observation Directive ‘Doing Family Research’, this article explores the role of genealogy in personal lives from the perspective of genealogists and non-genealogists in the UK. Analysing the ends to which genealogy is put, it finds that genealogy is a key kinship practice, mapping connectedness, offering a resource for identity-work, and allowing belonging in time. Engaging with anthropological work on kinship, relatedness and remembrance and with recent sociological work on identity and affinity, this article explores how family history as a creative and imaginative memory and kinship practice is simultaneously used to map affinities and connectedness, enact relatedness, and produce self-identity. It argues that examining the role of genealogy and the genealogical imaginary reveals that conventional as well as non-conventional kinship produces partial and insecure identities. This compels everyday personal engagement with the meaning and legacy of inheritance for collective and individual identification and identity.
+DA  - 2011/06//
+PY  - 2011
+DO  - 10.1177/0038038511399622
+DP  - DOI.org (Crossref)
+VL  - 45
+IS  - 3
+SP  - 379
+EP  - 395
+J2  - Sociology
+LA  - en
+SN  - 0038-0385, 1469-8684
+ST  - Kinship, Affinity and Connectedness
+UR  - http://journals.sagepub.com/doi/10.1177/0038038511399622
+Y2  - 2022/01/10/06:21:57
+ER  - 
+
+TY  - CHAP
+TI  - Genealogy
+AU  - Kyle, Noeline
+T2  - The oxford companion to australian history
+A2  - Davison, Graeme
+A2  - Hirst, John
+A2  - Macintyre, Stuart
+AB  - the history of local communities, small and large, often written for and by the locals themselves, is among the most
+CY  - Oxford
+DA  - 1998///
+PY  - 1998
+SP  - 280
+EP  - 281
+LA  - English
+PB  - Oxford University Press
+SN  - 978-0-19-173516-5
+ER  - 
+
+TY  - BOOK
+TI  - Common people: the history of an English family
+AU  - Light, Alison
+AB  - "Family history is a massive phenomenon of our times but what are we after when we go in search of our ancestors? Beginning with her grandparents, Alison Light moves between the present and the past, in an extraordinary series of journeys over two centuries, across Britain and beyond. Epic in scope and deep in feeling, Common People is a family history but also a new kind of public history, following the lives of the migrants who travelled the country looking for work. Original and eloquent, it is a timely rethinking of who the English were - but ultimately it reflects on history itself, and on our constant need to know who went before us and what we owe them."--R??sum?? de l'??diteur.
+DA  - 2015///
+PY  - 2015
+DP  - Open WorldCat
+LA  - English
+SN  - 978-0-14-103986-2
+ST  - Common people
 ER  - 
 
