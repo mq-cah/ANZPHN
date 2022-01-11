@@ -190,8 +190,8 @@ LA  - en
 SN  - 1741-6612
 ST  - Nurturing spiritual well-being among older people in Australia
 UR  - http://onlinelibrary.wiley.com/doi/abs/10.1111/ajag.12284
-KW  - health
 KW  - Indigenous
+KW  - health
 KW  - non-Indigenous
 KW  - older people
 KW  - spiritual well-being
@@ -235,12 +235,12 @@ SP  - 382
 LA  - en
 PB  - Aboriginal Studies Press
 SN  - 978-0-85575-499-0
-KW  - Aboriginal Australians
-KW  - Antiquities
 KW  - Australia
-KW  - History
+KW  - Aboriginal Australians
 KW  - Social archaeology
+KW  - History
 KW  - Social life and customs
+KW  - Antiquities
 ER  - 
 
 TY  - JOUR
@@ -3584,11 +3584,11 @@ SP  - 280
 PB  - Text Publishing
 SN  - 978-1-925773-99-6
 ST  - Sand talk
-KW  - Aboriginal Australians
-KW  - Attitudes
 KW  - Australia
+KW  - Aboriginal Australians
 KW  - Indigenous peoples
 KW  - Philosophy
+KW  - Attitudes
 KW  - Philosophy, Aboriginal Australian
 KW  - Public opinion
 ER  - 
@@ -3664,10 +3664,10 @@ PB  - Magabala Books
 SN  - 978-1-875641-72-7
 ST  - Yorro Yorro
 KW  - Aboriginal Australians
+KW  - Religion
 KW  - Antiquities
 KW  - Australia Kimberley (W.A.)
 KW  - Kimberley (W.A.)
-KW  - Religion
 KW  - Rock paintings
 ER  - 
 
@@ -3765,12 +3765,12 @@ EP  - 68
 LA  - en
 PB  - Monash University Publishing
 SN  - 978-1-921867-71-2
-KW  - 1900 - 1999
-KW  - 20th century
 KW  - Australia
 KW  - History
-KW  - New Zealand
 KW  - Philosophy
+KW  - 1900 - 1999
+KW  - 20th century
+KW  - New Zealand
 KW  - Philosophy, Modern
 KW  - Philosophy, New Zealand
 ER  - 
@@ -3787,15 +3787,15 @@ SP  - 688
 PB  - Spinifex
 SN  - 978-1-875559-71-8
 ST  - Ngarrindjeri wurruwarrin
+KW  - South Australia
+KW  - Social life and customs
+KW  - Social conditions
 KW  - Australia Goolwa (S.A.)
 KW  - Folklore
 KW  - Hindmarsh Island Bridge Royal Commission
 KW  - Narrinyeri (Australian people)
 KW  - Oral tradition
 KW  - Sacred space
-KW  - Social conditions
-KW  - Social life and customs
-KW  - South Australia
 KW  - Women, Narrinyeri
 ER  - 
 
@@ -4216,13 +4216,13 @@ SP  - 87
 EP  - 97
 LA  - english
 SN  - 1037-9851
-KW  - Aboriginal culture
 KW  - Aboriginal history
+KW  - Northern Territory
+KW  - Aboriginal culture
 KW  - Conservation (Natural resources)
 KW  - Cultural resource management
 KW  - Information
 KW  - Management
-KW  - Northern Territory
 KW  - Parks
 KW  - Tourism
 ER  - 
@@ -4358,14 +4358,14 @@ SP  - 246
 PB  - Palgrave Macmillan
 SN  - 978-1-4039-6322-2 978-1-4039-6330-7
 ST  - Dream travelers
-KW  - Aboriginal Australians
 KW  - Australia
+KW  - Aboriginal Australians
+KW  - Social life and customs
 KW  - Cross-cultural studies
 KW  - Dream interpretation
 KW  - Dreams
 KW  - Ethnology
 KW  - Melanesia
-KW  - Social life and customs
 ER  - 
 
 TY  - BOOK
@@ -4383,9 +4383,9 @@ PB  - Wilfred Laurier University Press
 SN  - 978-0-88920-117-0
 ST  - The firm and the formless
 KW  - Aboriginal Australians
+KW  - Religion
 KW  - Ethnic identity
 KW  - Mythology, Aboriginal Australian
-KW  - Religion
 ER  - 
 
 TY  - JOUR
@@ -4619,13 +4619,13 @@ SP  - 19
 EP  - 25
 ST  - Dadirri -Aboriginal contemplation-
 UR  - http://search.informit.org/doi/abs/10.3316/ielapa.971111819
+KW  - Religion
 KW  - Aboriginal religion
 KW  - Buddhist zen
 KW  - Christian hesychasm
 KW  - Hindu yoga
 KW  - Islamic Dhikr
 KW  - Meditation
-KW  - Religion
 KW  - Self discipline
 KW  - Ungunmerr, Miriam Rose
 ER  - 
@@ -4871,8 +4871,11 @@ IS  - 2
 SP  - 69
 EP  - 80
 UR  - http://search.informit.org/doi/abs/10.3316/aeipt.191258
-KW  - Aboriginal communities
+KW  - Australia
+KW  - Postcolonialism
+KW  - Northern Territory
 KW  - Aboriginal culture
+KW  - Aboriginal communities
 KW  - Aboriginal education
 KW  - Aboriginal elders
 KW  - Aboriginal knowledge
@@ -4880,7 +4883,6 @@ KW  - Aboriginal languages
 KW  - Aboriginal peoples
 KW  - Aboriginal teachers
 KW  - Arnhem Land (NT)
-KW  - Australia
 KW  - Charles Darwin University
 KW  - Cultural awareness
 KW  - Cultural interrelationships
@@ -4895,10 +4897,8 @@ KW  - Knowledge systems
 KW  - Metaphysics
 KW  - Moral values
 KW  - North American students
-KW  - Northern Territory
 KW  - Online learning
 KW  - Partnerships in education
-KW  - Postcolonialism
 KW  - Primary secondary education
 KW  - Research ethics
 KW  - Research projects
@@ -4927,9 +4927,9 @@ EP  - 31
 UR  - http://search.informit.org/doi/abs/10.3316/aeipt.52383
 KW  - Aboriginal culture
 KW  - Aboriginal peoples
+KW  - Western civilisation
 KW  - Ecological factors
 KW  - Scientific principles
-KW  - Western civilisation
 ER  - 
 
 TY  - CHAP
@@ -5014,10 +5014,10 @@ SP  - 434
 PB  - Allen & Unwin
 SN  - 978-1-74237-748-3
 ST  - The biggest estate on earth
-KW  - Aboriginal Australians
-KW  - Agriculture History
 KW  - Australia
+KW  - Aboriginal Australians
 KW  - History
+KW  - Agriculture History
 KW  - Land use
 KW  - Management History
 KW  - Natural resources
@@ -5272,8 +5272,8 @@ SP  - 316
 PB  - Routledge, Taylor & Francis Group
 SN  - 978-1-138-90531-3 978-1-138-90532-0
 ST  - Consuming history
-KW  - History in popular culture
 KW  - Public history
+KW  - History in popular culture
 ER  - 
 
 TY  - JOUR
@@ -6424,9 +6424,9 @@ ST  - Convict shame to convict chic
 UR  - https://doi.org/10.1177/1750698017709870
 Y2  - 2022/01/10/05:06:43
 KW  - family history
+KW  - national identity
 KW  - family secrets
 KW  - intergenerational memory
-KW  - national identity
 KW  - social memory
 ER  - 
 
@@ -6449,10 +6449,10 @@ SN  - 1440-7833
 ST  - Hidden heirlooms
 UR  - https://doi.org/10.1177/1440783317727878
 Y2  - 2022/01/10/05:13:54
+KW  - family secrets
 KW  - auto/biography
 KW  - colonial policies
 KW  - family identities
-KW  - family secrets
 KW  - inheritance
 KW  - intergenerational relationships
 KW  - social stigma
@@ -6476,9 +6476,9 @@ LA  - en
 SN  - 0038-0385
 UR  - https://doi.org/10.1177/0038038519846443
 Y2  - 2022/01/10/05:14:21
-KW  - emotions
 KW  - family history
 KW  - family secrets
+KW  - emotions
 KW  - intergenerational families
 KW  - qualitative surveys
 ER  - 
@@ -6521,8 +6521,8 @@ PB  - NewSouth Publishing
 SN  - 978-1-74223-656-8
 ST  - Pathfinders
 KW  - Aboriginal Australians
-KW  - Australia New South Wales
 KW  - History
+KW  - Australia New South Wales
 KW  - Investigation History
 KW  - Missing persons
 KW  - Tracking and trailing
@@ -6580,17 +6580,17 @@ SP  - 336
 PB  - UNSW Press LTD
 SN  - 978-1-74223-660-5
 ST  - Caroline's dilemma
-KW  - 1788-1900
-KW  - 19th century
 KW  - Australia
-KW  - Biography
 KW  - History
+KW  - Biography
+KW  - 19th century
+KW  - Women
+KW  - Social conditions
+KW  - 1788-1900
 KW  - Inheritance and succession
 KW  - Kearney, Caroline
 KW  - Legal status, laws, etc. History
-KW  - Social conditions
 KW  - Widows
-KW  - Women
 ER  - 
 
 TY  - BOOK
@@ -6618,11 +6618,11 @@ SP  - 218
 PB  - Stanford University Press
 SN  - 978-0-8047-2811-9 978-0-8047-2812-6
 ST  - The psychic life of power
+KW  - Social aspects
 KW  - Power (Philosophy)
 KW  - Power (Social sciences)
 KW  - Self
 KW  - Self (Philosophy)
-KW  - Social aspects
 ER  - 
 
 TY  - BOOK
@@ -6639,11 +6639,11 @@ PB  - Jonathan Cape
 SN  - 978-0-224-09030-8 978-0-224-09031-5
 ST  - Oh happy day
 KW  - Australia
+KW  - History
+KW  - Family
 KW  - British
 KW  - Callil, Carmen
-KW  - Family
 KW  - Genealogy
-KW  - History
 ER  - 
 
 TY  - BOOK
@@ -6708,13 +6708,13 @@ SP  - 167
 EP  - 178
 PB  - Springer Singapore : Imprint: Palgrave Macmillan
 SN  - 978-981-10-5017-6
+KW  - History
+KW  - International Relations
+KW  - Ethnology
 KW  - Asia
 KW  - Asian Culture
 KW  - Australasian History
-KW  - Ethnology
-KW  - History
 KW  - International relations
-KW  - International Relations
 KW  - Islands of the Pacific
 KW  - World history
 KW  - World History, Global and Transnational History
@@ -6796,13 +6796,13 @@ SP  - 274
 PB  - Allen & Unwin
 SN  - 978-1-74331-946-8
 ST  - Lost relations
+KW  - History
+KW  - Family
 KW  - 19th century
 KW  - Australia Victoria
 KW  - Davison, Graeme
 KW  - Emigration and immigration History
 KW  - English
-KW  - Family
-KW  - History
 KW  - Immigrants
 KW  - Victoria
 ER  - 
@@ -6851,16 +6851,16 @@ SP  - 318
 PB  - New Press
 SN  - 978-1-62097-303-5
 ST  - Shortfall
-KW  - 1919-1933
+KW  - History
+KW  - United States
 KW  - Case studies
+KW  - 1919-1933
 KW  - Colorado
 KW  - Corrupt practices
 KW  - Davis, Walter Clyde
 KW  - Embezzlement
 KW  - Financial crime
-KW  - History
 KW  - Savings and loan associations
-KW  - United States
 ER  - 
 
 TY  - JOUR
@@ -6931,8 +6931,8 @@ EP  - 33
 PB  - Monash University Publishing
 SN  - 978-1-925835-30-4
 KW  - Australia
-KW  - Violence against
 KW  - Women
+KW  - Violence against
 ER  - 
 
 TY  - BOOK
@@ -6947,13 +6947,13 @@ SP  - 304
 PB  - UNSW Press
 SN  - 978-1-74223-257-7
 ST  - Fractured families
-KW  - Australia New South Wales
-KW  - Biography
-KW  - Economic conditions
-KW  - Frontier and pioneer life
 KW  - New South Wales
-KW  - Pioneers
+KW  - Biography
 KW  - Social conditions
+KW  - Economic conditions
+KW  - Australia New South Wales
+KW  - Frontier and pioneer life
+KW  - Pioneers
 ER  - 
 
 TY  - JOUR
@@ -7273,10 +7273,10 @@ SP  - 248
 PB  - Melbourne University Press
 SN  - 978-0-522-84977-6
 ST  - Chain letters
-KW  - 1788-1851
 KW  - Australia
-KW  - Biography
 KW  - History
+KW  - Biography
+KW  - 1788-1851
 KW  - Penal colonies
 KW  - Prisoners
 ER  - 
@@ -7337,8 +7337,8 @@ DP  - Library of Congress ISBN
 ET  - Second edition
 PB  - Routledge, Taylor & Francis Group
 SN  - 978-1-138-90531-3 978-1-138-90532-0
-KW  - History in popular culture
 KW  - Public history
+KW  - History in popular culture
 ER  - 
 
 TY  - JOUR
@@ -7409,10 +7409,10 @@ ET  - 1st ed
 SP  - 688
 PB  - Doubleday
 SN  - 978-0-385-03787-7
-KW  - African American families
-KW  - African Americans
 KW  - Biography
 KW  - Family
+KW  - African American families
+KW  - African Americans
 KW  - Haley family
 KW  - Haley, Alex
 KW  - Kinte family
@@ -7542,12 +7542,12 @@ SP  - 207
 PB  - NewSouth Publishing
 SN  - 978-1-74223-511-0
 ST  - Hidden in plain view
-KW  - 1788-1900
 KW  - Aboriginal Australians
-KW  - Australia Sydney (N.S.W.)
-KW  - Colonization History
 KW  - History
 KW  - Social conditions
+KW  - 1788-1900
+KW  - Australia Sydney (N.S.W.)
+KW  - Colonization History
 KW  - Sydney (N.S.W.)
 ER  - 
 
@@ -7677,5 +7677,403 @@ DP  - Open WorldCat
 LA  - English
 SN  - 978-0-14-103986-2
 ST  - Common people
+ER  - 
+
+TY  - NEWS
+TI  - In defence of family history
+AU  - Light, Alison
+T2  - The Guardian
+AB  - After shopping and porn, family history is the most popular activity on the web. Alison Light, who has spent years tracing her ancestors, defends it against scholarly condescension
+DA  - 2014/10/11/T08:00:01.000Z
+PY  - 2014
+DP  - The Guardian
+LA  - en-GB
+SE  - Books
+SN  - 0261-3077
+UR  - https://www.theguardian.com/books/2014/oct/11/genealogy-not-historys-poor-relation-family
+Y2  - 2022/01/11/05:58:03
+KW  - Books
+KW  - Culture
+KW  - Family
+KW  - Genealogy
+KW  - History books
+KW  - Life and style
+ER  - 
+
+TY  - JOUR
+TI  - Before I Forget: From Personal Memory to Family History
+AU  - Lindley, Siân E.
+T2  - Human–Computer Interaction
+AB  - This article presents findings from a field study of 8 persons older than 50 who were undertaking a range of activities with the intention of “recording their memories for posterity.” We describe practices associated with dealing with inherited family archives; the creation of new artifacts (such as scrapbooks and collections of letters) out of repurposed archived materials; and the recording of one's memoirs. Our analysis leads us to emphasise a distinction between “personal” memory and memory “for family,” noting that although memory is used in the construction of a sense of one's own history, and in enabling personal reflection on the past, the work that is bound up with processing archives and producing new artifacts is heavily influenced by a desire to make them accessible and relevant to children and grandchildren, both now and in the future. The tending to, and crafting of, these materials can be understood as a means of creating a “joint” past and reinforcing a wider family narrative. We conclude that through these practices, memory is used a resource for self but also for future family life.
+DA  - 2012/04/05/
+PY  - 2012
+DO  - 10.1080/07370024.2012.656065
+DP  - Taylor and Francis+NEJM
+VL  - 27
+IS  - 1-2
+SP  - 13
+EP  - 36
+SN  - 0737-0024
+ST  - Before I Forget
+UR  - https://www.tandfonline.com/doi/abs/10.1080/07370024.2012.656065
+Y2  - 2022/01/11/06:00:00
+ER  - 
+
+TY  - BOOK
+TI  - Barefoot and pregnant? Irish famine orphans in Australia: documents and register
+AU  - McClaughlin, Trevor
+CN  - CS2003 .M23 1991
+CY  - Melbourne
+DA  - 1991///
+PY  - 1991
+DP  - Library of Congress ISBN
+SP  - 1
+PB  - Genealogical Society of Victoria
+SN  - 978-0-949672-25-4 978-0-949672-51-3
+ST  - Barefoot and pregnant?
+KW  - 19th century
+KW  - Australia
+KW  - Emigration and immigration History
+KW  - Genealogy
+KW  - History
+KW  - Ireland
+KW  - Irish
+KW  - Women
+ER  - 
+
+TY  - BOOK
+TI  - Race, tea and colonial resettlement: imperial families, interrupted
+AU  - McCabe, Jane
+CN  - DS430 .M35 2017
+CY  - London ; New York
+DA  - 2017///
+PY  - 2017
+DP  - Library of Congress ISBN
+SP  - 253
+PB  - Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc
+SN  - 978-1-4742-9950-3
+ST  - Race, tea and colonial resettlement
+KW  - 20th century
+KW  - Anglo-Indians
+KW  - Emigration and immigration History
+KW  - Family relationships History
+KW  - History
+KW  - HISTORY / Asia / India & South Asia
+KW  - HISTORY / Australia & New Zealand
+KW  - HISTORY / Europe / Great Britain
+KW  - HISTORY / World
+KW  - Imperialism
+KW  - India
+KW  - Kālimpong (India)
+KW  - Land settlement
+KW  - Miscegenation
+KW  - New Zealand
+KW  - Plantation owners
+KW  - Race relations History
+KW  - Racially mixed people
+KW  - Social aspects History
+KW  - Tea plantations
+ER  - 
+
+TY  - JOUR
+TI  - Legacy tourism: the search for personal meaning in heritage travel
+AU  - McCain, Gary
+AU  - Ray, Nina M.
+T2  - Tourism Management
+DA  - 2003/12//
+PY  - 2003
+DO  - 10.1016/S0261-5177(03)00048-7
+DP  - DOI.org (Crossref)
+VL  - 24
+IS  - 6
+SP  - 713
+EP  - 717
+J2  - Tourism Management
+LA  - en
+SN  - 02615177
+ST  - Legacy tourism
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0261517703000487
+Y2  - 2022/01/11/06:08:32
+ER  - 
+
+TY  - JOUR
+TI  - Intergenerational narratives and identity across development
+AU  - Merrill, Natalie
+AU  - Fivush, Robyn
+T2  - Developmental Review
+DA  - 2016/06//
+PY  - 2016
+DO  - 10.1016/j.dr.2016.03.001
+DP  - DOI.org (Crossref)
+VL  - 40
+SP  - 72
+EP  - 92
+J2  - Developmental Review
+LA  - en
+SN  - 02732297
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0273229716000125
+Y2  - 2022/01/11/06:09:14
+ER  - 
+
+TY  - BOOK
+TI  - The psychology of family history: exploring our genealogy
+AU  - Moore, Susan
+AU  - Rosenthal, Doreen
+AU  - Robinson, Rebecca
+AB  - This important book examines the motives that drive family historians and explores whether those who research their ancestral pedigrees have distinct personalities, demographics or family characteristics. It describes genealogists' experiences as they chart their family trees including their insights, dilemmas and the fascinating, sometimes disturbing and often surprising, outcomes of their searches. Drawing on theory and research from psychology and other humanities disciplines, as well as from the authors' extensive survey data collected from over 800 amateur genealogists, the authors present the experiences of family historians, including personal insights, relationship changes, mental health benefits and ethical dilemmas. The book emphasises the motivation behind this exploration, including the need to acknowledge and tell ancestral stories, the spiritual and health-related aspects of genealogical research, the addictiveness of the detective work, the lifelong learning opportunities and the passionate desire to find lost relatives. With its focus on the role of family history in shaping personal identity and contemporary culture, this is fascinating reading for anyone studying genealogy and family history, professional genealogists and those researching their own history
+CN  - 929.1
+CY  - London
+DA  - 2021///
+PY  - 2021
+DP  - BnF ISBN
+ET  - 1st edition
+LA  - eng
+PB  - Routledge
+SN  - 978-1-00-019642-9 978-1-00-019641-2 978-1-00-301157-6 978-1-00-019640-5 978-0-367-82042-8
+ST  - The psychology of family history
+ER  - 
+
+TY  - JOUR
+TI  - Genealogical Identities
+AU  - Nash, Catherine
+T2  - Environment and Planning D: Society and Space
+AB  - Ideas of belonging, cultural identity, and social relations based on ancestral connection, blood, and primordial kinship, have a contradictory presence in cultural theory and public culture. The search for alternatives to fixed, essentialist, and exclusive ways of imagining culture and belonging has been central to recent cultural theory and cultural geography. This has involved much attention to cultural routes, mobility, and hybridity and a critique of cultural roots, fixity, and purity in response to increasing transnational flows, the experience of displaced people, racism, and ethnic fundamentalism. Yet discourses of indigeneity and new migration patterns, as well as cultural globalisation more widely, have also prompted the growth in genealogy amongst ‘settler’ groups in Australia, Canada, New Zealand, and the United States who search for European, and often specifically Irish, roots. In this paper I explore the relationships between ideas of nation, ancestry, and diaspora. I focus on what happens when questions of nationality, ethnicity, and identity meet in the practice of ancestral research in Ireland, and begin to track the spatially differentiated cultural politics of genealogy. As the language of genealogy travels with Irish roots tourists and through electronic networks, the implications of genealogical practices and identifications can mutate so that what may be a politically regressive turn to ethnic purity and racial discourse in one context can, in another, productively unsettle older exclusive versions of belonging. For both individual and collective identities, genealogical projects can have unsettling results.
+DA  - 2002/02//
+PY  - 2002
+DO  - 10.1068/d314
+DP  - DOI.org (Crossref)
+VL  - 20
+IS  - 1
+SP  - 27
+EP  - 52
+J2  - Environ Plan D
+LA  - en
+SN  - 0263-7758, 1472-3433
+UR  - http://journals.sagepub.com/doi/10.1068/d314
+Y2  - 2022/01/11/06:10:40
+ER  - 
+
+TY  - BOOK
+TI  - Genetic geographies: the trouble with ancestry
+AU  - Nash, Catherine
+CN  - GN289 .N37 2015
+CY  - Minneapolis
+DA  - 2015///
+PY  - 2015
+DP  - Library of Congress ISBN
+SP  - 238
+PB  - University of Minnesota Press
+SN  - 978-0-8166-9063-3 978-0-8166-9073-2
+ST  - Genetic geographies
+KW  - Genealogy
+KW  - Historical geography
+KW  - Human population genetics
+KW  - Social aspects
+ER  - 
+
+TY  - CHAP
+TI  - 'They're Family!': Cultural Geographies of Relatedness in Popular Genealogy
+AU  - Nash, Catherine
+T2  - Uprootings/Regroundings Questions of Home and Migration
+A2  - Ahmed, Sara
+A2  - Castañeda, Claudia
+A2  - Fortier, Anne-Marie
+A2  - Sheller, Mimi
+DA  - 2020/08/05/
+PY  - 2020
+DP  - DOI.org (Crossref)
+ET  - 1
+SP  - 179
+EP  - 203
+LA  - en
+PB  - Routledge
+SN  - 978-1-00-308729-8
+ST  - 'They're Family!'
+UR  - https://www.taylorfrancis.com/books/9781000185119/chapters/10.4324/9781003087298-11
+Y2  - 2022/01/11/06:13:53
+ER  - 
+
+TY  - CHAP
+TI  - Why are Canadians Researching their Family History?
+AU  - Neilson, Leighann
+T2  - The Personal Past: History, Identity and the Genealogical Impulse. Canadian Issues Spring/Summer 2020
+A2  - Boswell, Randy
+DA  - 2020///
+PY  - 2020
+SP  - 22
+EP  - 25
+UR  - https://acs-aec.ca/en/publications-en/the-personal-past-history-identity-and-the-genealogical-impulse/
+ER  - 
+
+TY  - BOOK
+TI  - The other side of absence: discovering my father's secrets
+AU  - O'Neill, Betty
+AB  - Betty O'Neill grew up knowing very little about her father, Antoni. She knew that he had fled Poland after World War Two, that he had disappeared overnight when she was just an infant, and that his brief reappearance when she was a young adult had been a harrowing, painful ordeal. Fifty-five years after he deserted her family, Betty is determined to find out more. What drove him to abandon them, twice? What was his story? Who was Antoni Jagielski? Her search for truth takes Betty to Poland, where she unexpectedly inherits a family apartment from the half sister she never knew, a time capsule of her father's life. Sifting through photos and letters she begins to piece together a picture of her father as a Polish resistance fighter, a survivor of Auschwitz and Gusen concentration camps, an exile in post-war England, and a migrant to Australia. But the deeper she searches, the darker the revelations about her father become, as Betty is faced with disturbing truths buried within her family. Honest, compelling, and meticulously researched, The Other Side of Absence is an elegant debut memoir of resilience and strength, and of a daughter reconciling the damage that families inherit from war.
+DA  - 2020///
+PY  - 2020
+DP  - Open WorldCat
+LA  - English
+SN  - 978-1-920727-68-0 978-1-920727-69-7
+ST  - The other side of absence
+ER  - 
+
+TY  - JOUR
+TI  - Memory-Work: The Method
+AU  - Onyx, Jenny
+AU  - Small, Jennie
+T2  - Qualitative Inquiry
+AB  - Memory-work is a social constructionist and feminist research method that was developed in Germany by Frigga Haug and others explicitly to bridge the gap between theory and experience. It provides a way of exploring the process whereby individual women become part of society, and the ways in which women themselves participate in that process of socialization. It is a group method, involving always the collective analysis of individual written memories. It is feminist in being explicitly liberationist in its intent. The use of memory-work as a method in feminist social research has become well established in Australia and New Zealand. Increasingly, its use as a qualitative research method has come to challenge conventional mainstream research practices. However, for feminist researchers too, the method brings with it many fascinating dilemmas and issues of both a theoretical and methodological nature. This article identifies some of those issues.
+DA  - 2001/12//
+PY  - 2001
+DO  - 10.1177/107780040100700608
+DP  - DOI.org (Crossref)
+VL  - 7
+IS  - 6
+SP  - 773
+EP  - 786
+J2  - Qualitative Inquiry
+LA  - en
+SN  - 1077-8004, 1552-7565
+ST  - Memory-Work
+UR  - http://journals.sagepub.com/doi/10.1177/107780040100700608
+Y2  - 2022/01/11/06:17:28
+ER  - 
+
+TY  - BOOK
+TI  - Genealogy: essential research methods
+AU  - Osborn, Helen
+AB  - Osborn provides advice and inspiration on methods and problem-solving for amateur family historians. She examines the various themes that affect the success or failure of all genealogy research, and provides an overview of common challenges that genealogists encounter.
+DA  - 2016///
+PY  - 2016
+DP  - Open WorldCat
+LA  - English
+SN  - 978-0-7090-9197-4
+ST  - Genealogy
+ER  - 
+
+TY  - BOOK
+TI  - Transnational Ties: Australian Lives in the World
+A3  - Deacon, Desley
+A3  - Russell, Penny
+A3  - Woollacott, Angela
+DA  - 2008/12//
+PY  - 2008
+DP  - DOI.org (Crossref)
+PB  - ANU Press
+SN  - 978-1-921536-20-5
+ST  - Transnational Ties
+UR  - https://press.anu.edu.au/publications/series/anu-lives-series-biography/transnational-ties
+Y2  - 2022/01/11/06:19:38
+ER  - 
+
+TY  - CHAP
+TI  - The Old Commodore: a Transnational Life
+AU  - Pybus, Cassandra
+T2  - Transnational Ties: Australian Lives in the World
+A2  - Deacon, Desley
+A2  - Russell, Penny
+A2  - Woollacott, Angela
+DA  - 2008/12//
+PY  - 2008
+DP  - DOI.org (Crossref)
+PB  - ANU Press
+SN  - 978-1-921536-20-5
+UR  - https://press.anu.edu.au/publications/series/anu-lives-series-biography/transnational-ties
+Y2  - 2022/01/11/06:19:38
+ER  - 
+
+TY  - BOOK
+TI  - Boom! manufacturing memoir for the popular market
+AU  - Rak, Julie
+T2  - Life writing series
+CN  - CT25 .R355 2013
+CY  - Waterloo, ON
+DA  - 2013///
+PY  - 2013
+DP  - Library of Congress ISBN
+SP  - 249
+PB  - Wilfrid Laurier University Press
+SN  - 978-1-55458-939-5
+KW  - United States
+KW  - Autobiography
+KW  - Publishers and publishing
+ER  - 
+
+TY  - JOUR
+TI  - Before Rockets and Aeroplanes: Family History
+AU  - Read, Peter
+T2  - Australian Cultural History: The Journal of the History of Culture in Australia
+AB  - Digital Collections
+DA  - 2003///
+PY  - 2003
+DP  - openresearch-repository.anu.edu.au
+LA  - en
+SN  - 0728-8433
+ST  - Before Rockets and Aeroplanes
+UR  - https://openresearch-repository.anu.edu.au/handle/1885/87156
+Y2  - 2022/01/11/06:26:38
+ER  - 
+
+TY  - JOUR
+TI  - Mother-child conversations about the past: Relationships of style and memory over time
+AU  - Reese, Elaine
+AU  - Haden, Catherine A.
+AU  - Fivush, Robyn
+T2  - Cognitive Development
+DA  - 1993/10//
+PY  - 1993
+DO  - 10.1016/S0885-2014(05)80002-4
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 4
+SP  - 403
+EP  - 430
+J2  - Cognitive Development
+LA  - en
+SN  - 08852014
+ST  - Mother-child conversations about the past
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0885201405800024
+Y2  - 2022/01/11/06:26:57
+ER  - 
+
+TY  - CHAP
+TI  - The Development and Transformation of Canadian Genealogy
+AU  - Reid, John
+T2  - The Personal Past: History, Identity and the Genealogical Impulse. Canadian Issues Spring/Summer 2020
+A2  - Boswell, Randy
+DA  - 2020///
+PY  - 2020
+UR  - https://acs-aec.ca/en/publications-en/the-personal-past-history-identity-and-the-genealogical-impulse/
+ER  - 
+
+TY  - NEWS
+TI  - Sons and daughters of the Southern Cross
+AU  - Feneley, Rick
+AU  - McAlonna, Julie
+T2  - The Sydney Morning Herald
+AB  - An amateur historian with a ''bean counter's approach to history'' is leading Australians to an unsung group of ancestors, the first generation of home-grown colonists. Rick Feneley and Julie McAlonna report.
+DA  - 2009/10/09/
+PY  - 2009
+SP  - 5
+LA  - en
+UR  - https://www.smh.com.au/national/sons-and-daughters-of-the-southern-cross-20091009-gqub.html
+Y2  - 2022/01/11/06:28:47
+ER  - 
+
+TY  - BOOK
+TI  - The hatch and brood of time: a study of the first generation of native-born white Australians, 1788-1828
+AU  - Robinson, Portia
+CN  - DU115 .R59 1985-
+CY  - Melbourne; Oxford; New York
+DA  - 1985///
+PY  - 1985
+DP  - search.library.uq.edu.au
+LA  - eng
+PB  - Oxford University Press
+SN  - 978-0-19-554569-2
+ST  - The hatch and brood of time
+KW  - 1788-1851
+KW  - Australia
+KW  - Social conditions
 ER  - 
 

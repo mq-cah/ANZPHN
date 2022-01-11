@@ -20,6 +20,7 @@ We are continually collating and adding to multiple themed bibliographies on [ou
 * [Dark Tourism](https://www.zotero.org/groups/4404913/aaphn/collections/MQ5G8ERC){:target="_blank"}
 * [Public History Theses](https://www.zotero.org/groups/4404913/aaphn/collections/7JA4UZLL){:target="_blank"}
 * [Public History and the Media](https://www.zotero.org/groups/4404913/aaphn/collections/EC7QBYPJ){:target="_blank"}
+* [Family History and Family Histories](https://www.zotero.org/groups/4404913/aaphn/collections/YFNACA4L){:target="_blank"}
 
 ### Full AAPHN Library
 In addition to our Zotero library, our full bibliography can be downloaded in several different ways. For example, download these files and import them into your reference manager of choice:
