@@ -13,17 +13,17 @@ excerpt: >
 : Speakers are a mix of amateur and professional historians, archivists, librarians, museum specialists, authors and academics.
 : Our talks are held **in-person** (subject to the COVID restrictions), and **also held live via Zoom**. We have been streaming our talks via Zoom since the first lockdown in March 2020, and they have been very successful. This means that our talks can still go-ahead even if we have a lockdown. Also we are really fortunate that this also means that our guest speakers don’t have to be in Auckland, nor even in New Zealand! Our audience is also much more geographically diverse.
 : **CFP**: Heritage _Talks_ is also seeking speakers for the second half of the year – June to November.
-: **When**: Wednesday at 12 noon NZT from February to November. Programme available [here]({{ site.baseurl }}/assets/files/2022_Feb-Jul_Heritage_talks_leaflet_final.pdf){:target="_blank"}.
+: **When**: Wednesday at 12 noon NZT from February to November. Programme available [here]({{ site.baseurl }}assets/files/2022_Feb-Jul_Heritage_talks_leaflet_final.pdf){:target="_blank"}.
 : **More Information**: [Auckland Libraries website](https://www.aucklandlibraries.govt.nz/Pages/family-and-local-history-events.aspx){:target="_blank"}
 : **Contact**: <Seonaid.Harvey@aucklandcouncil.govt.nz>
 
-### Call For Papers
 **WWII in the Asia-Pacific: Border Crossing Mobilities**
 : **Event Description**: Two-day online workshop which focuses on international mobilities and migration as a way to understand the impacts of WWII across the Asia-Pacific region. The workshop is a joint project between The University of Notre Dame (Australia), the University of Wollongong, and Ritsumeikan University (Japan).
 : **When** 18-19 July 2022.
-: **Deadline for submission**: 17 January 2022.
 : **Contact and more Information**: [http://www.ritsumei.ac.jp/research/ihhss/events/article.html/?id=77](http://www.ritsumei.ac.jp/research/ihhss/events/article.html/?id=77){:target="_blank"}
 
+### Call For Papers
+_There are currently no CFPs, if you would like to list your own CFP with the AAPHN, please get in touch with <aaphn@mq.edu.au>_
 
 ## Past Events
 **AAPHN '21 Social Meet and Greet**
