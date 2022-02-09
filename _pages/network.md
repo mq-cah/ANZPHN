@@ -268,10 +268,6 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <scottmck@uow.edu.au>
 : **Research Profile** [UoW Research Page](https://scholars.uow.edu.au/display/scott_mckinnon){:target="_blank"}
 
-**Clare Menck, Consultant Historian** <br />
-: Clare Menck has been working in the WA heritage industry for over twenty years. She runs her own business in Perth as a consultant historian and is currently working on a Thematic History of Western Australia for the Department of Planning, Lands & Heritage (Heritage Services). Clare has served on the management committee of Professional Historians Association (WA) since 2018 and is currently its President.
-: **Contact** <clarenerida@gmail.com>
-
 **Dr Tom Murray**<br />
 : **Contact** <tom.murray@mq.edu.au>
 
@@ -282,6 +278,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Bronwen Neil is Professor of Ancient History at Macquarie, and member of the Macquarie University [Ancient Cultures Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache){:target="_blank"}. She studied Linguistics, Classics and Ancient History at the University of Queensland (1987-1991), before undertaking a Master of Arts in Theological Research at Durham University, UK (1997/1998) and completing her PhD at Australian Catholic University in 1999. Subsequently, she joined the Centre for Early Christian Studies there (2000-2015), serving as Associate Director (2014-2015). From 2001-2005 she held an ARC Postgraduate Research Fellowship, while teaching in the School of Theology at ACU. In 2010 she was appointed the inaugural holder of the Burke Senior Lectureship in Ecclesiastical Latin, and in 2015 was promoted to Associate Professor. She was awarded an ARC Future Fellowship (2014-2018) and joined Macquarie University as Professor of Ancient History in 2017.
 : **Contact** <bronwen.neil@mq.edu.au>
 : **Research profile** For Bronwen's research and positions see her [ORCID Profile](https://orcid.org/0000-0002-6626-3693){:target="_blank"}.
+
+**Judith Nissen**<br />
+: Judith Nissen is a freelance professional historian accredited with Professional Historians Australia. She has researched and written numerous published histories of organisations, schools, buildings, municipalities and people. Commissions and reports for private and corporate clients have included heritage significance assessments and citations for buildings, engineering sites, parks and trees, permanent and temporary museum exhibitions and websites, archives assessments, lands research, and biographical work. See her website [Judith Nissen - Professional Freelance Historian](https://protect-au.mimecast.com/s/VO_6C3QNl1Sv88W0ugEypz?domain=judithnissen.com.au/){:target="_blank"} for more details of research interests, publications and past commissions.
+:  **Contact** <judith.nissen@bigpond.com>
 
 **Elizabeth Offer, PhD Candidate**<br />
 : **Contact** <ejoffer@students.latrobe.edu.au>
