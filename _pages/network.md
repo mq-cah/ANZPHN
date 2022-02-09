@@ -204,6 +204,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : Janine Irvine completed her doctorate in March 2021. Her research examined local history books as life writing and she is interested in how community histories are researched and written as collaborative projects.
 : **Contact** <janineirvine.lifewriting@gmail.com>
 
+**Sonia Jennings**<br />
+: Sonia Jennings is a partner of Living Histories professional historians. Based in Melbourne, [Living Histories](https://protect-au.mimecast.com/s/NCuqCxngGkfjPwomf82LYb?domain=livinghistories.net.au/){:target="_blank"} has published commissioned histories, completed heritage and significance assessments, conducted oral histories and completed many history-related projects over the past 25 years. Sonia is a past president of Professional Historians Australia and a member of PHA (Vic & Tas). She is currently the PR Officer for PHA (Vic & Tas) and co-editor of Historia, the PHA national news bulletin.
+: **Contact** <sonia@livinghistories.net.au>
+
 **Dr Benjamin Jones**<br />
 : Dr Benjamin Jones is a Lecturer in History at Central Queensland University. He mainly researches Australian social and political history with a particular emphasis on republicanism, national identity, and public memory.
 : **Contact** <b.t.jones@cqu.edu.au>
