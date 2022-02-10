@@ -26,6 +26,7 @@ _If you would like to list your own event with the AAPHN, please get in touch wi
 
 ### Call For Papers
 **6th World Conference of the International Federation for Public History**
+
 : **Event Description**: From 16 to 20 August 2022 the 6th World Conference of the International Federation for Public History (IFPH) will take place in Berlin. The German capital, which has been called the “Rome of contemporary history”, is an ideal location for a major meeting of public historians from across the globe. Like few other cities in the world it offers many different layers of history, that not only still matter and are controversial locally or regionally, but nationally and even internationally.
 
 : The conference will be hosted at the [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html){:target="_blank"}, where the first German MA program in Public History was established. It is located in the Southwestern part of the city.
