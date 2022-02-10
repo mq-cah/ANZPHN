@@ -27,8 +27,11 @@ _If you would like to list your own event with the AAPHN, please get in touch wi
 ### Call For Papers
 **6th World Conference of the International Federation for Public History**
 : **Event Description**: From 16 to 20 August 2022 the 6th World Conference of the International Federation for Public History (IFPH) will take place in Berlin. The German capital, which has been called the “Rome of contemporary history”, is an ideal location for a major meeting of public historians from across the globe. Like few other cities in the world it offers many different layers of history, that not only still matter and are controversial locally or regionally, but nationally and even internationally.
+
 : The conference will be hosted at the [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html){:target="_blank"}, where the first German MA program in Public History was established. It is located in the Southwestern part of the city.
+
 : Our partners are the [National Council on Public History](https://ncph.org/){:target="_blank"}, the world’s largest public history organization, the [German Historical Association](https://www.historikerverband.de/){:target="_blank"} (VHD) and its working group on applied / public history ([AGPH](https://agph.hypotheses.org/internationales){:target="_blank"}), the [American Historical Association](https://www.historians.org/){:target="_blank"} and the [Leibniz Centre for Contemporary History in Potsdam](https://zzf-potsdam.de/en/institution/leibniz-centre-contemporary-history-potsdam){:target="_blank"} (ZZF). The full call for papers is available [here](https://www.ifph2020.berlin/_media/CFP_2022.pdf){:target="_blank"}.
+: **CFP Deadline**: [15th February](https://www.ifph2020.berlin/proposal-submission/index.html){:target="_blank"}.
 : **When**: 16th to 20th August 2022
 : **Where**: [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html){:target="_blank"}
 : **Website**: [https://www.ifph2020.berlin/index.html](https://www.ifph2020.berlin/index.html){:target="_blank"}
