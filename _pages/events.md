@@ -6,6 +6,8 @@ toc_sticky: true
 excerpt: >
   The AAPHN collates information regarding upcoming invents of interest to public history enthusiasts and practitioners and also sends out a bi-annual Newsletter summarising the year and looking forward to the future.
 ---
+_If you would like to list your own event with the AAPHN, please get in touch with <aaphn@mq.edu.au>_
+
 ## Upcoming Events
 ### Seminar Series and Talks
 **Auckland Libraries: Heritage _Talks_ / Waha Pū-Taonga**
@@ -19,11 +21,18 @@ excerpt: >
 
 **WWII in the Asia-Pacific: Border Crossing Mobilities**
 : **Event Description**: Two-day online workshop which focuses on international mobilities and migration as a way to understand the impacts of WWII across the Asia-Pacific region. The workshop is a joint project between The University of Notre Dame (Australia), the University of Wollongong, and Ritsumeikan University (Japan).
-: **When** 18-19 July 2022.
+: **When**: 18-19 July 2022.
 : **Contact and more Information**: [http://www.ritsumei.ac.jp/research/ihhss/events/article.html/?id=77](http://www.ritsumei.ac.jp/research/ihhss/events/article.html/?id=77){:target="_blank"}
 
 ### Call For Papers
-_There are currently no CFPs, if you would like to list your own CFP with the AAPHN, please get in touch with <aaphn@mq.edu.au>_
+**6th World Conference of the International Federation for Public History**
+: **Event Description**: From 16 to 20 August 2022 the 6th World Conference of the International Federation for Public History (IFPH) will take place in Berlin. The German capital, which has been called the “Rome of contemporary history”, is an ideal location for a major meeting of public historians from across the globe. Like few other cities in the world it offers many different layers of history, that not only still matter and are controversial locally or regionally, but nationally and even internationally.
+: The conference will be hosted at the [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html){:target="_blank"}, where the first German MA program in Public History was established. It is located in the Southwestern part of the city.
+: Our partners are the [National Council on Public History](https://ncph.org/){:target="_blank"}, the world’s largest public history organization, the [German Historical Association](https://www.historikerverband.de/){:target="_blank"} (VHD) and its working group on applied / public history ([AGPH](https://agph.hypotheses.org/internationales){:target="_blank"}), the [American Historical Association](https://www.historians.org/){:target="_blank"} and the [Leibniz Centre for Contemporary History in Potsdam](https://zzf-potsdam.de/en/institution/leibniz-centre-contemporary-history-potsdam){:target="_blank"} (ZZF). The full call for papers is available [here](https://www.ifph2020.berlin/_media/CFP_2022.pdf){:target="_blank"}.
+: **When**: 16th to 20th August 2022
+: **Where**: [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html){:target="_blank"}
+: **Website**: [https://www.ifph2020.berlin/index.html](https://www.ifph2020.berlin/index.html){:target="_blank"}
+: **Contact**: <info@ifph2020.berlin>
 
 ## Past Events
 **AAPHN '21 Social Meet and Greet**
