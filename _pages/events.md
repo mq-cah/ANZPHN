@@ -25,8 +25,18 @@ _If you would like to list your own event with the AAPHN, please get in touch wi
 : **Contact and more Information**: [http://www.ritsumei.ac.jp/research/ihhss/events/article.html/?id=77](http://www.ritsumei.ac.jp/research/ihhss/events/article.html/?id=77){:target="_blank"}
 
 ### Call For Papers
-**6th World Conference of the International Federation for Public History**
+**Public and applied history in the classroom: Australian contexts**
+: **Event Description**: Hosted as a collaboration between the [Centre for Applied History (Macquarie University)](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} and the Tertiary History Educators Association (THEA, [University of Newcastle](https://www.newcastle.edu.au/){:target="_blank"}), you are invited to attend a symposium for history education academics, public historians, historians, and other interested researchers at Macquarie University Sydney City Campus, Friday, 24 June 2022.
+: The focus of the symposium is _public and applied history in the classroom_. The aim is to investigate those pedagogies, practices, ideas and theories that are effective in teaching history in the classroom. Here, the definition of classrooms includes tertiary, secondary, and primary schools as well as classrooms that exist outside of the formal or traditional ‘four walls’ of an educational institution. Sample topics may include: teaching of commemoration, memorials and monuments as artefacts for teaching, public history and national identity, the role of the teacher in mediating historical understanding.
+: The symposium will provide tertiary-based academics including history teaching educators, historians, public historians and others interested in the study and application of history the opportunity to meet, to discuss current issues, share research interests, and to discuss opportunities for collaboration into the future. Symposium presentations will be 20 minutes with 5 minutes for questions. To present, you are requested to follow the Key Dates information below to ensure your place in the program. Presenters will also be invited to submit an expression of interest to publish their presentation as a [Public History Weekly (PHW)](https://public-historyweekly.degruyter.com/){:target="_blank"} piece.
+: **When**: Friday 24th June 2022
+: **CFP Deadline**: Friday 25th March (250 word abstract)
+: **Registration Deadline**: Friday 6th May
+: **Where**: Macquarie University Sydney Campus
+: **Handout**: PDF of the full CFP is available [here]({{ site.baseurl }}/assets/files/cfp_cah_thea_symposium.pdf){:target="_blank"}.
+: **Contact**: <thea@newcastle.edu.au>
 
+**6th World Conference of the International Federation for Public History**
 : **Event Description**: From 16 to 20 August 2022 the 6th World Conference of the International Federation for Public History (IFPH) will take place in Berlin. The German capital, which has been called the “Rome of contemporary history”, is an ideal location for a major meeting of public historians from across the globe. Like few other cities in the world it offers many different layers of history, that not only still matter and are controversial locally or regionally, but nationally and even internationally.
 
 : The conference will be hosted at the [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html){:target="_blank"}, where the first German MA program in Public History was established. It is located in the Southwestern part of the city.
