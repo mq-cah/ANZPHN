@@ -30,7 +30,7 @@ _If you would like to list your own event with the AAPHN, please get in touch wi
 : **CFP Deadline**: Friday 25th March (250 word abstract)
 : **Registration Deadline**: Friday 6th May
 : **Where**: Macquarie University Sydney Campus
-: **Handout**: PDF of the full CFP is available [here]({{ site.baseurl }}/assets/files/cfp_cah_thea_symposium.pdf){:target="_blank"}.
+: **More Information**: PDF of the full CFP is available [here]({{ site.baseurl }}/assets/files/cfp_cah_thea_symposium.pdf){:target="_blank"}.
 : **Contact**: <thea@newcastle.edu.au>
 
 **6th World Conference of the International Federation for Public History**
