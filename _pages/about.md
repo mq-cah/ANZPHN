@@ -23,7 +23,7 @@ In order to "*promote teaching, research and engagements between these diverse c
 
 ### AAPHN Newsletter
 
-Bi-annually we will send out a virtual AAPHN newsletter via our email contact list. This newsletter will contain information about upcoming events and funding opportunities, and will also highlight some of the popular posts from the AAPHN [blog]({{ site.baseurl }}/posts/){:target="_blank"}. If you would like to receive this newsletter (as well as other communications from the AAPHN) or would like to have an event or funding opportunity advertised, please subscribe to our mailing list by contacting us at <aaphn@mq.edu.au>.
+We have a virtual AAPHN newsletter which we distribute via our email contact list. This newsletter will contain information about upcoming events and funding opportunities, and will also highlight some of the popular posts from the AAPHN [blog]({{ site.baseurl }}/posts/){:target="_blank"}. If you would like to receive this newsletter (as well as other communications from the AAPHN) or would like to have an event or funding opportunity advertised, please subscribe to our mailing list by contacting us at <aaphn@mq.edu.au>.
 
 ## The Team
 ### Associate Professor Tanya Evans
@@ -49,7 +49,7 @@ Professor Paul Ashton is adjunct professor at the [Centre for Applied History](h
 
 ![image-center]({{ site.baseurl }}/assets/images/people/EwanSmall.jpeg){: .align-center}
 
-Ewan Coopey is PhD candidate and Research Assistant at the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} working on several history-focused websites and a database of Australian Public History theses. He is interested in Roman archaeology and epigraphy and is also passionate about public engagement with history, archaeology, and academia more broadly. He is dedicated to promoting Open Access (OA) publishing and the application of digital tools in archaeology and epigraphy.
+Ewan Coopey is PhD candidate and Research Assistant at the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} working on several history-focused websites and a record of Australian Public History theses. His research explores the interplay between identities, communities and objects, with particular focus on Roman archaeology and epigraphy. He is also passionate about public engagement with history, archaeology, and academia more broadly, writing several [blog contributions](https://webarke.com/author/ewansc/){:target="_blank"}. He is dedicated to promoting Open Access (OA) publishing and the application of digital tools (both basic and complex) in history, archaeology and epigraphy.
 
 **Research Profile:** [Macquarie University Research Profile](https://researchers.mq.edu.au/en/persons/ewan-coopey){:target="_blank"}
 
