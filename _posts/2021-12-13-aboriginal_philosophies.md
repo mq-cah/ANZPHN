@@ -13,7 +13,7 @@ header:
 excerpt: > #the sneak preview of your blog piece that is shown on twitter shares and previews (1 sentence)
   In this piece, Ashok muses about public history and the philosophies of Aboriginal peoples, their intersections, and our connection to the universe.
 categories:
-  - Public History #leave this
+  - Public_History #leave this
 tags: #give your post three tags (no spaces)
   - Aboriginal Peoples
   - Philosophy

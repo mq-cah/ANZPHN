@@ -11,7 +11,7 @@ header:
 excerpt: >
   MQ PACE researcher Amanda Midlam briefly summarises her experience with the Irish Famine Memorial Project and describes her exciting researcher guide
 categories:
-  - Public History
+  - Public_History
 tags:
   - Ireland
   - Student research

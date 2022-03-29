@@ -11,7 +11,7 @@ header:
 excerpt: >
   Fiona McKergow addresses the intriguing story of public history in Aotearoa New Zealand, including an exploration of its place in the ongoing processes of historical redress for Māori.
 categories:
-  - Public History
+  - Public_History
 tags:
   - NZ
   - PHANZA

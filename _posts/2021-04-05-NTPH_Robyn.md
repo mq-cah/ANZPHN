@@ -11,7 +11,7 @@ header:
 excerpt: >
   Robyn Smith recounts the development of public history in the NT and how this was intertwined with the Territory's own history.
 categories:
-  - Public History
+  - Public_History
 tags:
   - NT
   - PHA
