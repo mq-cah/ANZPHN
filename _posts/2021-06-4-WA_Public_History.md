@@ -12,7 +12,7 @@ header:
 excerpt: >
   History plays a rich role beyond academia in Western Australia, with its diverse audiences being served by a range of organisations operating out of the state.
 categories:
-  - Public_History
+  - Public History
 tags:
   - WA
   - Archives

@@ -11,7 +11,7 @@ header:
 excerpt: >
   Paul Ashton and Paula Hamilton trace back the practice of public history in NSW, from its early days in the 20th century to 2021.
 categories:
-  - Public_History
+  - Public History
 tags:
   - NSW
   - ACT

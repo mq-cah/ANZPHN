@@ -11,7 +11,7 @@ header:
 excerpt: >
   Tasmania has a complicated relationship between culture, conservation and development, and Imogen Wegman recounts it wonderfully in this blog post on public history in the island state.
 categories:
-  - Public_History
+  - Public History
 tags:
   - TAS
   - Indigenous

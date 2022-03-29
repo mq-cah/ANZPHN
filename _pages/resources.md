@@ -56,10 +56,14 @@ Alternatively, download these files for text / formatted bibliography:
 : **Twitter**: [@DigitalNZ](https://twitter.com/DigitalNZ){:target="_blank"}
 : <https://digitalnz.org/>{:target="_blank"}
 
+* **How to Research and Write the Life Stories of Irish Famine Orphans**
+: **Description**: Guide for researching and writing the life stories of Irish Famine orphans created by AAPHN [PACE](https://students.mq.edu.au/study/course/pace){:target="_blank"} student researcher Amanda Midlam. See announcement post [here](({{ site.baseurl }}/posts/public_history/irish_famine_memorial_blog/){:target="_blank"}) for more information.
+: <https://earlgreysfamineorphans.wordpress.com/author/trevo1/>{:target="_blank"}
+
 * **Kalimpong Kids**
 : **Description**: Between 1908 and 1938, 130 Anglo-Indian adolescents were sent to New Zealand from Dr Graham’s Homes in Kalimpong, India. Most were the children of British tea planters and Indian women, and faced an uncertain future in India. Their resettlement in New Zealand was in many ways a success, but it was also characterised by silence about their heritage.
 : This website is for descendants of the Kalimpong Kids, many of whom are still discovering this hidden aspect of their family history. It is also for anyone with an interest in the Kalimpong story, from which we can learn so much about memory, community and family ties.
-: <http://www.kalimpongkids.org.nz/>{:target="_blank"}
+: <http://www.kalimpongkis.org.nz/>{:target="_blank"}
 
 * **New Zealand Women Historian's Forum**
 : **Description**: A place to connect, share and advance the work of women historians of Aotearoa New Zealand.
