@@ -57,7 +57,7 @@ Alternatively, download these files for text / formatted bibliography:
 : <https://digitalnz.org/>{:target="_blank"}
 
 * **How to Research and Write the Life Stories of Irish Famine Orphans**
-: **Description**: Guide for researching and writing the life stories of Irish Famine orphans created by AAPHN [PACE](https://students.mq.edu.au/study/course/pace){:target="_blank"} student researcher Amanda Midlam. See announcement post [here](({{ site.baseurl }}/posts/public_history/irish_famine_memorial_blog/){:target="_blank"}) for more information.
+: **Description**: Guide for researching and writing the life stories of Irish Famine orphans created by AAPHN [PACE](https://students.mq.edu.au/study/course/pace){:target="_blank"} student researcher Amanda Midlam. See announcement post [here]({{ site.baseurl }}/public_history/irish_famine_memorial_blog/){:target="_blank"}) for more information.
 : <https://earlgreysfamineorphans.wordpress.com/author/trevo1/>{:target="_blank"}
 
 * **Kalimpong Kids**

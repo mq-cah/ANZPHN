@@ -3,7 +3,9 @@ title: "PACE Research with the Irish Famine Memorial"
 author: amandam
 header:
   overlay_image: assets/images/irish_famine_memorial_big.jpg
-  caption: "Irish Famine Memorial, Hyde Park Barracks, Sydney. JohnsonL623, WikiCommons [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en){:target="_blank"}."
+  overlay_filter: 0.25
+  caption: "Irish Famine Memorial, Hyde Park Barracks, Sydney. JohnsonL623, WikiCommons CC BY-SA 3.0."
+  caption_url: "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
   actions:
     - label: "Read Below"
       url: "/public_history/irish_famine_memorial_blog/#my-work-with-the-irish-famine-memorial"
