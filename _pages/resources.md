@@ -58,7 +58,7 @@ Alternatively, download these files for text / formatted bibliography:
 
 * **How to Research and Write the Life Stories of Irish Famine Orphans**
 : **Description**: Guide for researching and writing the life stories of Irish Famine orphans created by AAPHN [PACE](https://students.mq.edu.au/study/course/pace){:target="_blank"} student researcher Amanda Midlam. See announcement post [here]({{ site.baseurl }}/public_history/irish_famine_memorial_blog/){:target="_blank"}) for more information.
-: <https://earlgreysfamineorphans.wordpress.com/author/trevo1/>{:target="_blank"}
+: <https://earlgreysfamineorphans.wordpress.com/2022/03/22/earl-greys-irish-famine-orphans-83-amandas-guide/>{:target="_blank"}
 
 * **Kalimpong Kids**
 : **Description**: Between 1908 and 1938, 130 Anglo-Indian adolescents were sent to New Zealand from Dr Graham’s Homes in Kalimpong, India. Most were the children of British tea planters and Indian women, and faced an uncertain future in India. Their resettlement in New Zealand was in many ways a success, but it was also characterised by silence about their heritage.
