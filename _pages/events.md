@@ -16,7 +16,6 @@ _If you would like to list your own event with the AAPHN, please get in touch wi
 : **CFP**: Heritage _Talks_ is also seeking speakers for the second half of the year – June to November.
 : **When**: Wednesday at 12 noon NZT from February to November.
 : **More Information**: [Auckland Libraries website](https://www.aucklandlibraries.govt.nz/Pages/family-and-local-history-events.aspx){:target="_blank"}
-: **YouTube**: [Auckland Libraries YouTube](https://www.youtube.com/user/aucklandlibraries){:target="_blank"}
 : **Contact**: <Seonaid.Harvey@aucklandcouncil.govt.nz>
 
 **WWII in the Asia-Pacific: Border Crossing Mobilities**
