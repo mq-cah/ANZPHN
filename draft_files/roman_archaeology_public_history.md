@@ -38,7 +38,7 @@ I want to engage with Public and Applied histories here (and abroad)
 
 Initially, confused, but after some musing, lots of possibilities (e.g. lots of places teach ancient history, and these students go on to create histories, how has this impacted public history in Aus?). Two we all as Roman (and perhaps geo-temporally removed) researchers can engage with relatively easily.
 - Applied: Apply theories and findings from people of the past to engage with issues and concepts of todays - how did humans of the past address issues we face?
-- Public History: Public Access of Data and Papers to increase public accessibility and development of public histories.
+- Public History/consumption of history: Public Access of Data and Papers to increase public accessibility and development of public histories.
 
 # Reading List
 Marwick 2021
