@@ -17,6 +17,18 @@ tags:
   - Theory
 classes: wide
 ---
+
+to add to author.yml
+ewansc:
+  name: "Ewan Coopey"
+  bio: "Ewan Coopey is PhD candidate and Research Assistant at the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} working on several history-focused websites. His research explores the interplay between identities, communities and objects, with particular focus on Roman archaeology and epigraphy. He is passionate about public engagement and is dedicated to promoting Open Access (OA) publishing and the application of digital tools (both basic and complex) in history, archaeology and epigraphy."
+  avatar: assets/images/people/EwanSmall.jpeg
+  links:
+    - label: "EuuanXCVI"
+      url: https://twitter.com/EuuanXCVI
+    - label: "ORCID"
+      url: https://orcid.org/0000-0001-8633-6418
+
 _Ewan muses about how his Roman archaeological research in Australia can intersect with public and applied history._
 
 # Roman Archaeology in Australia...
