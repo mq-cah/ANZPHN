@@ -9,7 +9,7 @@ header:
       url: "public_history/aboriginal_philosophies/#indigenous-and-asian-relationships-in-contemporary-australian-literature"
   teaser: assets/images/hakkas_boat_small.jpg
 excerpt: >
-  This is the sneak preview that will be one sentence and describe the post
+  A new project led by Dr Daozhi Xu explores the relationships between Indigenous and Chinese peoples preserved in Australian literature &endash; stories which deserve an audience
 categories:
   - Public_History
 tags:
