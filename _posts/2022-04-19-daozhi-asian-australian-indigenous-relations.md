@@ -2,12 +2,12 @@
 title: "Indigenous and Asian relationships in contemporary Australian literature"
 author: daozhixu
 header:
-  overlay_image: {{ site.baseurl }}/assets/images/hakkas_boat_large.jpg
+  overlay_image: assets/images/hakkas_boat_large.jpg
   caption: "A Hakkas Boat from 'At home with the Hakkas in South China' (1921) by S A Nagel. WikiCommons: Public Domain."
   actions:
     - label: "Read Below"
       url: "public_history/aboriginal_philosophies/#indigenous-and-asian-relationships-in-contemporary-australian-literature"
-  teaser: {{ site.baseurl }}/assets/images/hakkas_boat_small.jpg
+  teaser: assets/images/hakkas_boat_small.jpg
 excerpt: >
   This is the sneak preview that will be one sentence and describe the post
 categories:
