@@ -6,7 +6,7 @@ header:
   caption: "A Hakkas Boat from 'At home with the Hakkas in South China' (1921) by S A Nagel. WikiCommons: Public Domain."
   actions:
     - label: "Read Below"
-      url: "public_history/aboriginal_philosophies/#indigenous-and-asian-relationships-in-contemporary-australian-literature"
+      url: "public_history/daozhi-asian-australian-indigenous-relations/#indigenous-and-asian-relationships-in-contemporary-australian-literature"
   teaser: assets/images/hakkas_boat_small.jpg
 excerpt: >
   A new project led by Dr Daozhi Xu explores the relationships between Indigenous and Chinese peoples preserved in Australian literature &endash; stories which deserve an audience
