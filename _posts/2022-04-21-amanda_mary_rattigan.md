@@ -7,7 +7,7 @@ header:
   caption: "Seahorse Inn, Boydtown as it looked in Mary's time. Flickr."
   actions:
     - label: "Read Below"
-      url: "public_history/2022-04-21-amanda_mary_rattigan/#mary-rattigan"
+      url: "public_history/amanda_mary_rattigan/#mary-rattigan"
   teaser: assets/images/amanda/seahorse_inn_header.png
 excerpt: >
   Amanda Midlam recounts the tumultuous and interesting life of Mary Rattigan, an Irish migrant to Australia.
@@ -224,7 +224,7 @@ Trish Power (email)
 
 Codie Thomas (living on property where Mary lived and is buried)
 
-## Local history organisations
+### Local history organisations
 Bega Valley Genealogists
 
 Eden Killer Whale Museum
@@ -241,7 +241,7 @@ Pambula Historical Society
 
 South Coast History Society
 
-## Electronic sources
+### Electronic sources
 [Ancestry.com](https://www.ancestry.com.au/account/signin){:target="_blank"}
 
 [Baptism records in Ireland](https://registers.nli.ie/parishes/1102){:target="_blank"}
@@ -309,7 +309,7 @@ Reid, Richard and Morgan, Cheryl. _A Decent Set of Girls_. Yass Heritage Project
 
 Reilly, Terry. _Mayo’s Forgotten Famine Girls: from Workhouse to Australia (1848 – 1850) & convict journal_ <terryreilly@eircom.net> (GIFFC March 2019 newsletter)
 
-## Miscellaneous
+### Miscellaneous
 Church and civil records of births, deaths and marriages (here and Ireland)
 
 Fairall, Jon. “Women Who Changed Australia” (Tippoo Saib) (GIFCC Oct 2019 newsletter).
