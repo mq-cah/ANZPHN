@@ -172,11 +172,6 @@ Sadly friendships don’t leave government and parish records and there are no k
 
 Personally I think, and hope, that our Mary found a good friend in her near neighbour Mary Whelan, nee Ryan. Mary Whelan was born in 1828, so was only two or three years older than our Mary but, by the time Susannah Stevens was born, already had three children and was heavily pregnant with the fourth. Both young women had come from Ireland and settled in Kiah, but Mary Whelan had the luck to have her mother and father at hand. All Chris Davey and I can do is speculate and I could not find more information about friendships, but Gail Gibson from Bega Valley Genealogists gave me a good tip – if you are looking for friends look at the names of witnesses on wedding certificates and the names of godparents on baptism certificates.
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/images/amanda/mary_ryan.jpg" alt="a black and white image of a lady with a frilled neck top">
-  <figcaption>Photo of Mary Ryan. Courtesy Monaro Pioneers website.</figcaption>
-</figure>
-
 ## Birth and Death
 On the 26 May 1861, Mary died giving birth. She had endured 30 hours of a labour that went dreadfully wrong before she passed away. The baby girl died with her. The river was in flood and no-one could go for help and it was said that the neighbours for miles around could hear her screams as she laboured. Because of the flood and the inability to travel she was buried on the land at Three Water Holes but there is one last mystery in her story. Chris Davey was told by her aunt, Heather Dulihunty, of a further tragedy involving a later flood that washed out the grave. However, Connie Stevens states there is a grave on the land and says she was told by Keith Cross, a local historian with a specialty in burials, that it belonged to Mary Rattigan. Unfortunately both Heather Dulihunty and Keith Cross have passed away so we can’t ask them for more information. Perhaps, like so much else, we will never know more.
 
@@ -211,6 +206,8 @@ Many thanks to:
 - John Christopher Farrell for meeting my request on a Facebook page with such unique and important information and perspectives.
 - Irish Famine Memorial without which I would not have undertaken this research.
 - Steven Holmes, proud Thaua man, for his connection to Thaua country and the way he advocates for it
+
+_If you would like to access any of the resources mentioned please contact us at the AAPHN._
 
 ## Bibliography
 ### Personal Contacts
