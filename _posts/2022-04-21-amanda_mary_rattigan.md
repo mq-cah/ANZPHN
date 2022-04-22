@@ -1,6 +1,7 @@
 ---
 title: "Mary Rattigan's Life: An Irish Orphan Story"
 author: amandam
+toc: true
 header:
   overlay_image: assets/images/amanda/seahorse_inn_header.png
   caption: "Seahorse Inn, Boydtown as it looked in Mary's time. Flickr."
