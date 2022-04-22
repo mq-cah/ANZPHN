@@ -6,7 +6,7 @@ header:
   caption: "Seahorse Inn, Boydtown as it looked in Mary's time. Flickr."
   actions:
     - label: "Read Below"
-      url: "public_history/2022-04-22-amanda_mary_rattigan/#mary-rattigan"
+      url: "public_history/2022-04-21-amanda_mary_rattigan/#mary-rattigan"
   teaser: assets/images/amanda/seahorse_inn_header.png
 excerpt: >
   Amanda Midlam recounts the tumultuous and interesting life of Mary Rattigan, an Irish migrant to Australia.
