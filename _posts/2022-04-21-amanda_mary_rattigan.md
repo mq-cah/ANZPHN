@@ -51,14 +51,14 @@ gallery:
 # Mary Rattigan
 _Here, Amanda Midlam recounts the tumultuous and interesting life of Mary Rattigan, an Irish migrant to Australia. This work is a product of her PACE internship with the Macquarie University Centre for Applied History and the Irish Famine Memorial._
 
-## Introduction
+# Introduction
 Unfortunately there are no photos of Mary Rattigan. This means we may never know what she looked like but, by delving into the past, we can build a picture of the life of this remarkable woman who showed such spirit and resilience. Generations later, her family still remember her and are inspired by her - and her name is etched in the glass panel of the Irish Famine Memorial at Hyde Park Barracks. It is important that Mary is remembered because Australia was built by women like her, whose contributions are all too often forgotten (see <https://irishfaminememorial.org/>).
 
 The bare facts of Mary Rattigan’s life are bleak. She was born in Ballymahon, County Longford, actual date unknown but around 1831, and by the age of 18 she had endured unimaginable hardship and had set out to the other side of the world. She had survived famine and the death of both her parents and had been put into a workhouse where the conditions were appalling, after which she left Ireland, under the Earl Grey Scheme, to emigrate to Australia to fend for herself, having no relatives in the colony.
 
 Earl Grey, the British Secretary of State for the colonies, came up with the scheme to address both the shortage of domestic labour and the shortage of females in Australia and also alleviate the overcrowding in Ireland's workhouses, overflowing due to famine. Under the scheme, 4175 young girls arrived in Australia from Irish workhouses between October 1848 and August 1850. Mary was only one of them but was probably typical. Here are more details about her extraordinary life beginning with some background on where she came from.
 
-## Ballymahon, County Longford, Ireland
+# Ballymahon, County Longford, Ireland
 
 Mary grew up in Ballymahon. According to John Christopher Farrell, a current Longford resident with an interest in local history, Ballymahon was a small market town that developed as a settlement based around a castle built by the O'Farrell clan and a corn mill on the banks of the River Inny, which forms part of the boundary between County Longford and County Westmeath.
 
@@ -92,7 +92,7 @@ Chris Davey believes it was clear to the workhouse orphan girls that they would 
 
 We know from the Earl Grey Scheme records that she was one of fifty girls migrating from Longford. She was discharged from her workhouse and was taken by horse and cart to Dublin, her port of embarkation in Ireland. From there she travelled by ship to England, perhaps sailing directly to Plymouth, or perhaps she arrived in England at another port and then travelled to Plymouth, where she boarded the Digby for the long voyage to Australia. Recorded as still in her teens, Roman Catholic, able to read but not able to write and both her parents dead, Mary headed off to a new land and unknown life.
 
-## The Journey to Australia
+# The Journey to Australia
 
 Most people did not travel much then, nor far from home generally, but due to the circumstances in Ireland Mary would have known of people emigrating - leaving for America, England, Scotland, Canada and Australia plus, of course, she would have known that for many years the English had been sending Irish political prisoners to Australia.
 
@@ -104,7 +104,7 @@ Mary left Plymouth on the 16th of December 1848, sailing on the Digby. Her name 
 
 The amount of food she was fed on board must have amazed her after living in a state of starvation for some years. The ration was half a pound of beef or pork a day and the girls would have gained condition on board. The voyages that took place under the Earl Grey Scheme were generally well run, with only one death out of the more than 4000 girls who emigrated. On each ship there was a surgeon to look after the girls’ health, a school mistress and a religious instructor. Mary did not list a complaint while on board the ship but another girl, Catherine Hartigan, complained about the ship’s master physically assaulting her.
 
-## Australia
+# Australia
 
 Mary arrived in Sydney on the 4th of April 1849 and with more than 200 other girls from the Digby was taken to the Hyde Park Barracks. This is where she was housed until sent to an indentured job and is where her name is now etched into the Irish Famine Memorial. She would have found out quickly that it was not a great time to arrive in the colony. There was a drought inland, the economy was in depression and the settlement was rocked by corruption scandals. She would also have been aware of the racism towards the Irish. Newspaper reports show that many people of English origin believed the Irish to be dirty and lazy. No education was offered to her and Mary’s days were occupied by jobs given to her before she was sent to Parramatta to work for the overseer of the Parramatta Hospital. But it wasn’t long before she ran into trouble.
 
@@ -131,7 +131,7 @@ It wasn’t long before the Earl Grey scheme ended due to opposition from coloni
   <figcaption>Bodytown Beach (2022). Image: A. Midlam.</figcaption>
 </figure>
 
-## Twofold Bay
+# Twofold Bay
 
 Despite its name Boydtown was not a town and still isn’t, having a population of only 70 in the 2016 census. In the official census of 1849, the year before Mary’s arrival, the population of Boydtown was bigger and stood at 200, however operations ceased and Boydtown was virtually abandoned by May 1850 when Mary arrived. She must have felt for the second time that she had travelled to the end of the earth.
 
@@ -169,7 +169,7 @@ The Thaua had plentiful food sources in their natural environment – animals, p
   <figcaption>Boydtwon Church (2022). Image: A. Midlam.</figcaption>
 </figure>
 
-## Motherhood then Marriage
+# Motherhood then Marriage
 
 We don’t know how Mary established herself at Twofold Bay but the records show her life changed again when, after two years on the far south coast, she became a mother on 27 April 1852. This child was Susannah, a direct ancestor of Chris Davey. On the birth certificate John Stevens is listed as father. Later she married Thomas Stevens. Was there a John Stevens and if so was he related to the man she went on to marry and spend the rest of her life with? Or was this the same man? There is no John Stevens at the right period on the excellent Monaro Pioneers website and it seems most likely it was a mistake. Mary’s own name was written on the baptism certificate as Ratercon. John Stevens was born in London in 1821, so was about ten years older than Mary and had a different religion from her own and a different native tongue.
 
@@ -183,7 +183,7 @@ Perhaps the year of birth for Susannah was recorded wrongly? Or perhaps baby Jan
 
 Anyone could have used the names Mary and Thomas Stevens at the church in Cooma. If Mary adopted this child – and it is a big if - it was an act of supreme love. Mary had no family in the colony apart from her husband. Could the mother have been a friend? I am speculating that friendships, where there was no family support in a new country, would have been enormously important. The mystery intrigues the family and one member suggested DNA testing of descendants to see if that gave any clues but Jane Underhill Stevens had no children.
 
-## Land Ownership
+# Land Ownership
 
 In 1856, there was a massive land sale of suburban lots in the township of Eden and rural lots in surrounding areas. Mary and Thomas managed to buy 33 acres of land on the Kiah River near Boydtown at an auction, on May 2, almost six years to the day since Mary arrived in Twofold Bay. The upset price was £1 per acre, which means that was the lowest price the government would accept at auction and the deposit was ten percent. It is not known what price they actually paid for the land and where they got the money for the deposit but they now owned land on the Kiah River that was about ten times bigger than a leased Irish farm. There was no consent to the sale of land from the traditional owners but it was legal under white law.
 
@@ -206,19 +206,19 @@ The government proclamation goes on to state that the parcel of land Mary and Th
 
 Two years later, Mary, aged 30, gave birth to Thomas most likely assisted by her neighbour, Mary Ryan, who is described on his birth certificate as a nurse. The Ryan family migrated to Australia as free settlers eight years before Mary Rattigan arrived and they were neighbours at Kiah. Being a nurse was not a formal qualification at the time, but many of the women assisting at births had a lot of knowledge and experience. Certainly there would not have been much choice or access for Mary Stevens to obtain health care for herself and her family. As Chris Davey notes, “The very act that Mary survived to marry, have children and own land is a measure of her success.” (For Thomas' birth certificate see [below](https://phn.edu.au/public_history/amanda_mary_rattigan/#supplementary-resources)).
 
-## Friends
+# Friends
 
 Sadly friendships don’t leave government and parish records and there are no known photographs of Mary Rattigan, let alone with friends, but I asked Chris Davey what she thought. She speculated that Mary Rattigan may have been friends with Jane Underhill nee Kirkland, who was born in 1824 and had fourteen children, six by the time Mary gave birth for the first time. Chris writes, “Jane Underhill was only 6 years older than Mary. I like to think Mary had a friend otherwise life would have been more hard and lonely. Imagine being able to speak Gaelic and about Ireland, the Famine, the journey they each undertook. A release for both of them”.
 
 Personally I think, and hope, that our Mary found a good friend in her near neighbour Mary Whelan, nee Ryan. Mary Whelan was born in 1828, so was only two or three years older than our Mary but, by the time Susannah Stevens was born, already had three children and was heavily pregnant with the fourth. Both young women had come from Ireland and settled in Kiah, but Mary Whelan had the luck to have her mother and father at hand. All Chris Davey and I can do is speculate and I could not find more information about friendships, but Gail Gibson from Bega Valley Genealogists gave me a good tip – if you are looking for friends look at the names of witnesses on wedding certificates and the names of godparents on baptism certificates.
 
-## Birth and Death
+# Birth and Death
 On the 26 May 1861, Mary died giving birth. She had endured 30 hours of a labour that went dreadfully wrong before she passed away. The baby girl died with her. The river was in flood and no-one could go for help and it was said that the neighbours for miles around could hear her screams as she laboured. Because of the flood and the inability to travel she was buried on the land at Three Water Holes but there is one last mystery in her story. Chris Davey was told by her aunt, Heather Dulihunty, of a further tragedy involving a later flood that washed out the grave. However, Connie Stevens states there is a grave on the land and says she was told by Keith Cross, a local historian with a specialty in burials, that it belonged to Mary Rattigan. Unfortunately both Heather Dulihunty and Keith Cross have passed away so we can’t ask them for more information. Perhaps, like so much else, we will never know more. (For the death certificate, see [below](https://phn.edu.au/public_history/amanda_mary_rattigan/#supplementary-resources))
 
-## After Death
+# After Death
 Thomas remarried an English woman, Eliza Sutton, just six months after Mary’s death. He would have needed someone to care for the children while he worked the farm but it may well have been a love match. Thomas and Eliza had five children together and stayed married until his death in 1905 and are buried together in Eden cemetery. It is not known if Mary ever knew Eliza Sutton. According to Connie Stevens, a descendent of Thomas and Eliza, they lost the land for failing to make payments but they stayed in the district.
 
-## Conclusion
+# Conclusion
 That was it. The short life of Mary Rattigan Stevens was over, much of it lived at the serrated and sharp end of terrible experiences. Mary Rattigan suffered through starvation, death of parents, emigration and isolation. We can only hope she was happy in her marriage and we can be certain that buying land must have been a happy and exciting time. Mary’s life seems so difficult by today’s standards, but not perhaps by the norms of the time. Many people like Mary must have lived and died and left no trace apart from their uncounted descendants - some of the Irish Famine Girls were so small from malnutrition that they could not give birth but others had large families. These young women made a profound contribution to modern Australia. There were over 4000 of them. There must be very many Australians descended from them.
 
 As a postscript Mary Rattigan is to have not just one memorial but two. Her name is etched on the Irish Famine Memorial in Sydney and now the current owner of the land where she lived at Kiah plans to plant a tree on the spot where her grave was believed to be and is creating a memorial for her there.
@@ -230,7 +230,7 @@ _Lest we forget._
   <figcaption>Towamba River, also known as Kiah River, near where Mary lived (October 2021). Image: A. Midlam.</figcaption>
 </figure>
 
-## Acknowledgements
+# Acknowledgements
 This work was completed by Amanda Midlam as part of the course requirement for [FOAR7004: Arts Internship for Researchers](https://coursehandbook.mq.edu.au/2021/units/FOAR7004/?year=2021){:target="_blank"} while she was a MRes student at Macquarie University and supervised by Associate Professor Tanya
 Evans, Director of the Centre for Applied History.
 
@@ -249,12 +249,12 @@ Many thanks to:
 
 _If you would like to access any of the resources mentioned please contact us at the AAPHN._
 
-## Supplementary resources
+# Supplementary resources
 Several supplementary resources, including photos of Mary and Thomas, a map of Kiah, and several birth, baptism and death certificates. Rights indicated in image captions.
 {% include gallery id="gallery" caption="Several supplementary resources." %}
 
-## Bibliography
-### Personal Contacts
+# Bibliography
+## Personal Contacts
 Connie Stevens (member of family of Mary Rattigan)
 
 Gail Gibson (local genealogist)
@@ -267,7 +267,7 @@ Trish Power (email)
 
 Codie Thomas (living on property where Mary lived and is buried)
 
-### Local history organisations
+## Local history organisations
 Bega Valley Genealogists
 
 Eden Killer Whale Museum
@@ -284,7 +284,7 @@ Pambula Historical Society
 
 South Coast History Society
 
-### Electronic sources
+## Electronic sources
 [Ancestry.com](https://www.ancestry.com.au/account/signin){:target="_blank"}
 
 [Baptism records in Ireland](https://registers.nli.ie/parishes/1102){:target="_blank"}
@@ -323,7 +323,7 @@ The Eden Voice (Facebook)
 
 We Are the Survivors: Boyle Workhouse (GIFCC March 2019)
 
-## Books
+# Books
 Barratt, Shirley. _Rush Oh!_, Picador, 2015.
 
 Blair, Leonie and McIntyre, Perry. _Fair Delinquents_. Either Side Publications.
@@ -352,7 +352,7 @@ Reid, Richard and Morgan, Cheryl. _A Decent Set of Girls_. Yass Heritage Project
 
 Reilly, Terry. _Mayo’s Forgotten Famine Girls: from Workhouse to Australia (1848 – 1850) & convict journal_ <terryreilly@eircom.net> (GIFFC March 2019 newsletter)
 
-### Miscellaneous
+## Miscellaneous
 Church and civil records of births, deaths and marriages (here and Ireland)
 
 Fairall, Jon. “Women Who Changed Australia” (Tippoo Saib) (GIFCC Oct 2019 newsletter).
