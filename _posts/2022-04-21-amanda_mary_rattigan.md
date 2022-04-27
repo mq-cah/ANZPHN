@@ -18,6 +18,35 @@ tags:
   - Irish Orphan
   - Biography
 classes: wide
+gallery:
+  - url: /assets/images/amanda/susannah.jpg
+    image_path: /assets/images/amanda/susannah.jpg
+    alt: "a scan of a baptism certificate for susannah stevens"
+    title: "Baptism certificate for Susannah Stevens. Courtesy of Chris Davey. All rights reserved."
+  - url: /assets/images/amanda/jane.jpg
+    image_path: /assets/images/amanda/jane.jpg
+    alt: "a scan of a baptism certificate for jane underhill"
+    title: "Baptism certificate for Jane Underhill Stevens. Courtesy of Chris Davey. All rights reserved."
+  - url: /assets/images/amanda/marriage.jpg
+    image_path: /assets/images/amanda/marriage.jpg
+    alt: "a scan of a marriage certificate for Mary Ratagan (sic) and Thomas Stevens"
+    title: "Marriage Certificate for Mary Ratagan (sic) and Thomas Stevens. Courtesy of Chris Davey. All rights reserved."
+  - url: /assets/images/amanda/marriage.jpg
+    image_path: /assets/images/amanda/marriage.jpg
+    alt: "a scan of a Birth Certificate for Thomas Stevens"
+    title: "Birth Certificate for Thomas Stevens. Courtesy of Chris Davey. All rights reserved."
+  - url: /assets/images/amanda/deathcert.jpg
+    image_path: /assets/images/amanda/deathcert.jpg
+    alt: "a scan of Mary's death certificate"
+    title: "Mary Stephens (sic) Death Certificate. Courtesy of Chris Davey. All rights reserved."
+  - url: /assets/images/amanda/deathcert.jpg
+    image_path: /assets/images/amanda/thomas_stevens.jpg
+    alt: "an image of thomas, wearing a jacket and sporting a big beard"
+    title: "Thomas Stevens, Mary Rattigan’s husband, is buried with his second wife in Eden cemetery. Courtesy of Chris Davey. All rights reserved."
+  - url: /assets/images/amanda/mary_ryan.jpg
+    image_path: /assets/images/amanda/mary_ryan.jpg
+    alt: "an image of mary in black and white"
+    title: "The lady herself, Mary Ryan (sic). Courtesy of Chris Davey. All rights reserved."
 ---
 # Mary Rattigan
 _Here, Amanda Midlam recounts the tumultuous and interesting life of Mary Rattigan, an Irish migrant to Australia. This work is a product of her PACE internship with the Macquarie University Centre for Applied History and the Irish Famine Memorial._
@@ -124,6 +153,11 @@ This first encounter between black and white in Twofold Bay was peaceful, but af
 
 Middens in the vicinity prove many thousands of years of prior occupation but by the time Mary arrived, in May 1850, pastoralists had taken the land and white whalers employed Aboriginal crews. The Thaua people had traditionally had everything they needed in their local environment, not just for sustenance, but for deeply satisfying lives, however the white settlers needed money to buy stores, equipment, livestock and everything they needed. At Boydtown there was a company store that charged company prices, but it is not known if it was operating when Mary arrived after Boyd’s departure. Oswald Brierly, an artist, had been Boyd’s manager at Boydtown, looking after his whaling and pastoral interests, before leaving in 1848. Brierly was interested in the local people and befriended and painted a local man, Budginbro.
 
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/amanda/budginbro.jpg" alt="a painting of a seated individual with various tools on the ground around them, such as a boomarang and axe, and another figure in the background">
+  <figcaption>Budginbro painted by Oswald Brierly. Courtesy of Steven Holmes. Rights reserved.</figcaption>
+</figure>
+
 Steven Holmes, a Thaua man who is directly descended from Budginbro, lives locally and has spearheaded a campaign to change the name of Ben Boyd National Park. He regards Boyd in blunt terms. “My ancestors didn’t just get up and walk away, they’re buried here.” He explains that a lot of his ancestors were chained and kept in pig pens in cold weather. He makes it clear he is hurt by this and is adamant that Boyd’s name should not be memorialised by having a national park named after him.
 
 Steven Holmes does not know of any connection with Mary and unfortunately with neither the original inhabitants nor immigrants such as Mary able to write, we lack records of any interaction. What we do know is that they were both living in the same locality at the same time. What we also know is that both Mary and the original occupants had lived through sustained trauma. Mary, on the one hand, had been told she had a chance at a new and better life, although that chance must have seemed slim to her. On the other hand, for the original people, their traditional way of life disintegrating must have been devastating and with their land being taken their new lives could not have looked promising.
@@ -141,7 +175,7 @@ We don’t know how Mary established herself at Twofold Bay but the records show
 
 Susannah had a Roman Catholic baptism but on 18 December 1852, Mary Rattigan and Thomas Stevens married at Boydtown in a Church of England ceremony. Had Mary given up her Catholicism or were there practical reasons for a Church of England wedding? Did she believe in God or had her experiences given her doubts? This is something we cannot know.
 
-What we do know is that there is a great mystery about Mary’s life at this time. There is a baptism certificate for a second baby, Jane Underhill Stevens, with the same date as their wedding. To add to the mystery the wedding was in coastal Boydtown but Mary and Thomas appear to have been inland up the mountain at Cooma for the baptism of the baby on the same day.
+What we do know is that there is a great mystery about Mary’s life at this time. There is a baptism certificate for a second baby, Jane Underhill Stevens, with the same date as their wedding. To add to the mystery the wedding was in coastal Boydtown but Mary and Thomas appear to have been inland up the mountain at Cooma for the baptism of the baby on the same day (See [below](public_history/amanda_mary_rattigan/#supplementary-resources) for both baptism certificates and their marriage certificate).
 
 This second baby, according to the baptism certificate, was reportedly born only four days before, meaning an age difference of only 7.5 months between Susanna and Jane. If the dates are correct, medical advice suggests it is extremely unlikely, if not impossible, for the second baby to have survived. There is also the problem of the geographical distance between Boydtown and Cooma to consider. Connie Stevens, a family member who still lives locally, is adamant. “It would not have been possible in those days. The roads and transport would have made that impossible”.
 
@@ -155,7 +189,12 @@ In 1856, there was a massive land sale of suburban lots in the township of Eden 
 
 By this time Mary and Thomas had three children: Susannah and Jane, born less than a year apart, and then three years after Jane, baby Benjamin arrived. Life would have been very busy with three young children and land to farm but it must have felt like they had really fallen on their feet.
 
-A map, courtesy of Chris Davey (contact author for map), shows their land which appears to be part of a small Irish enclave on the river with the Englishman, Thomas Stevens, being the odd one out. The land on both sides of the Stevens was bought at the same sale by Patrick Whelan who had done well for himself. Presumably Paddy’s Point marked on the map was named after him and these days Whelan’s Swamp is nearby. Born in 1804 in County Tipperary, Patrick had been a convict with prisoner’s number 36/1037. He was sentenced at Kings County Ireland on 16 July 1835 to seven years for assault and transported on the ship "Surry". He arrived in Sydney Australia on 17 May 1836 and was granted a certificate of freedom number on 15 July 1843. Another parcel of land was taken up by Mary Ryan, the mother of Patrick Whelan’s wife, who was also called Mary.
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/amanda/kiah.jpg" alt="a scan of Mary's death certificate">
+  <figcaption>Resumed area map of Kiah. Courtesy of Chris Davey. All rights reserved.</figcaption>
+</figure>
+
+A map, above, shows their land which appears to be part of a small Irish enclave on the river with the Englishman, Thomas Stevens, being the odd one out. The land on both sides of the Stevens was bought at the same sale by Patrick Whelan who had done well for himself. Presumably Paddy’s Point marked on the map was named after him and these days Whelan’s Swamp is nearby. Born in 1804 in County Tipperary, Patrick had been a convict with prisoner’s number 36/1037. He was sentenced at Kings County Ireland on 16 July 1835 to seven years for assault and transported on the ship "Surry". He arrived in Sydney Australia on 17 May 1836 and was granted a certificate of freedom number on 15 July 1843. Another parcel of land was taken up by Mary Ryan, the mother of Patrick Whelan’s wife, who was also called Mary.
 
 _New South Wales Government Gazette_, Saturday 15 March 1856, p. 935 (Article available [here](https://trove.nla.gov.au/newspaper/article/228682037/12604756)):
 
@@ -165,7 +204,7 @@ The government proclamation goes on to state that the parcel of land Mary and Th
 
 > 37. Auckland, 33a. 2r., Thirty-three acres and two roods, parish of Kiah, portion No. 11, commonly called Three Water Holes, Towamba River; commencing at the north-east corner, being a point on the right bank of the Towamba River bearing about west 16 degrees north, and distant 29 chains from the south-west corner of portion No. 10, and bounded on the east by a line bearing south 17 chains; on the south by a line bearing west 22 chains to the Towamba River; and on the west and north by the right bank of the Towamba River downwards to the point of commencement. Upset price £1 per acre.
 
-Two years later, Mary, aged 30, gave birth to Thomas most likely assisted by her neighbour, Mary Ryan, who is described on his birth certificate as a nurse. The Ryan family migrated to Australia as free settlers eight years before Mary Rattigan arrived and they were neighbours at Kiah. Being a nurse was not a formal qualification at the time, but many of the women assisting at births had a lot of knowledge and experience. Certainly there would not have been much choice or access for Mary Stevens to obtain health care for herself and her family. As Chris Davey notes, “The very act that Mary survived to marry, have children and own land is a measure of her success.”
+Two years later, Mary, aged 30, gave birth to Thomas most likely assisted by her neighbour, Mary Ryan, who is described on his birth certificate as a nurse. The Ryan family migrated to Australia as free settlers eight years before Mary Rattigan arrived and they were neighbours at Kiah. Being a nurse was not a formal qualification at the time, but many of the women assisting at births had a lot of knowledge and experience. Certainly there would not have been much choice or access for Mary Stevens to obtain health care for herself and her family. As Chris Davey notes, “The very act that Mary survived to marry, have children and own land is a measure of her success.” (For Thomas' birth certificate see [below](public_history/amanda_mary_rattigan/#supplementary-resources)).
 
 ## Friends
 
@@ -174,7 +213,7 @@ Sadly friendships don’t leave government and parish records and there are no k
 Personally I think, and hope, that our Mary found a good friend in her near neighbour Mary Whelan, nee Ryan. Mary Whelan was born in 1828, so was only two or three years older than our Mary but, by the time Susannah Stevens was born, already had three children and was heavily pregnant with the fourth. Both young women had come from Ireland and settled in Kiah, but Mary Whelan had the luck to have her mother and father at hand. All Chris Davey and I can do is speculate and I could not find more information about friendships, but Gail Gibson from Bega Valley Genealogists gave me a good tip – if you are looking for friends look at the names of witnesses on wedding certificates and the names of godparents on baptism certificates.
 
 ## Birth and Death
-On the 26 May 1861, Mary died giving birth. She had endured 30 hours of a labour that went dreadfully wrong before she passed away. The baby girl died with her. The river was in flood and no-one could go for help and it was said that the neighbours for miles around could hear her screams as she laboured. Because of the flood and the inability to travel she was buried on the land at Three Water Holes but there is one last mystery in her story. Chris Davey was told by her aunt, Heather Dulihunty, of a further tragedy involving a later flood that washed out the grave. However, Connie Stevens states there is a grave on the land and says she was told by Keith Cross, a local historian with a specialty in burials, that it belonged to Mary Rattigan. Unfortunately both Heather Dulihunty and Keith Cross have passed away so we can’t ask them for more information. Perhaps, like so much else, we will never know more.
+On the 26 May 1861, Mary died giving birth. She had endured 30 hours of a labour that went dreadfully wrong before she passed away. The baby girl died with her. The river was in flood and no-one could go for help and it was said that the neighbours for miles around could hear her screams as she laboured. Because of the flood and the inability to travel she was buried on the land at Three Water Holes but there is one last mystery in her story. Chris Davey was told by her aunt, Heather Dulihunty, of a further tragedy involving a later flood that washed out the grave. However, Connie Stevens states there is a grave on the land and says she was told by Keith Cross, a local historian with a specialty in burials, that it belonged to Mary Rattigan. Unfortunately both Heather Dulihunty and Keith Cross have passed away so we can’t ask them for more information. Perhaps, like so much else, we will never know more. (For the death certificate, see [below](public_history/amanda_mary_rattigan/#supplementary-resources))
 
 ## After Death
 Thomas remarried an English woman, Eliza Sutton, just six months after Mary’s death. He would have needed someone to care for the children while he worked the farm but it may well have been a love match. Thomas and Eliza had five children together and stayed married until his death in 1905 and are buried together in Eden cemetery. It is not known if Mary ever knew Eliza Sutton. According to Connie Stevens, a descendent of Thomas and Eliza, they lost the land for failing to make payments but they stayed in the district.
@@ -209,6 +248,10 @@ Many thanks to:
 - Steven Holmes, proud Thaua man, for his connection to Thaua country and the way he advocates for it
 
 _If you would like to access any of the resources mentioned please contact us at the AAPHN._
+
+## Supplementary resources
+Several supplementary resources, including photos of Mary and Thomas, a map of Kiah, and several birth, baptism and death certificates. Rights indicated in image captions.
+{% include gallery id="gallery" caption="Several supplementary resources." %}
 
 ## Bibliography
 ### Personal Contacts
