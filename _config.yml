@@ -55,8 +55,8 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/aaphnetwork"
-    - label: "Newsletter signup"
-      icon: ""fa-solid fa-newspaper""
+    - label: "Newsletter"
+      icon: "fa-solid fa-newspaper"
       url: "http://eepurl.com/hRFpxv"
 
 footer:
