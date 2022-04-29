@@ -56,7 +56,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/aaphnetwork"
     - label: "Newsletter"
-      icon: "fab fa-fw fa-duotone fa-newspaper"
+      icon: "fab fa-fw fa-solid fa-newspaper"
       url: "http://eepurl.com/hRFpxv"
 
 footer:
