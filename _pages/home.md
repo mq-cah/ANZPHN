@@ -32,6 +32,7 @@ feature_row:
     btn_class: btn--primary
     btn_label: Connect
 ---
-If you would like to become a member of our [Network]({{ site.baseurl }}/network){:target="_blank"} or have your [organisation]({{ site.baseurl }}/organisations){:target="_blank"} or [project]({{ site.baseurl }}/projects){:target="_blank"} listed please contact us at <aaphn@mq.edu.au>. To simply subscribe to our communications, follow this [link](http://eepurl.com/hRFpxv){:target="_blank"}
+# AAPHN
+**The AAPHN** aims to facilitate collaboration, communication and networking for practitioners and enthusiasts of public and applied histories. This site is the centre of our activities, allowing for the circulation of events, funding opportunities and other news as well as providing a space for members to publish web articles and blog posts on their research. If you would like to become a member of our Australasia-wide network of individuals and organisations or would like to contribute to our [blog]({{ site.baseurl }}/posts){:target="_blank"} please contact us at <aaphn@mq.edu.au>. To simply subscribe to our communications, follow this [link](http://eepurl.com/hRFpxv){:target="_blank"}.
 
 {% include feature_row %}
