@@ -50,11 +50,14 @@ plugins:
 author:
   name   : "AAPHN"
   avatar : "/assets/images/old_photos_square.jpg"
-  bio    : "A network for public historians and enthusiasts across Australasia to connect, communicate and collaborate. Sign up to our newsletter and join the network by contacting us: <aaphn@mq.edu.au>."
+  bio    : "A network for public historians and enthusiasts across Australasia to connect, communicate and collaborate. Join the network by contacting us at <aaphn@mq.edu.au> or sign up to our newsletter below."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/aaphnetwork"
+    - label: "Newsletter signup"
+      icon: ""fa-solid fa-newspaper""
+      url: "http://eepurl.com/hRFpxv"
 
 footer:
   links:

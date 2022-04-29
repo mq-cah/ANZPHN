@@ -30,7 +30,8 @@ feature_row:
     excerpt: Browse the AAPHN
     url: /network/
     btn_class: btn--primary
-    btn_label: Connect    
+    btn_label: Connect
 ---
+If you would like to become a member of our [Network]({{ site.baseurl }}/network){:target="_blank"} or have your [organisation]({{ site.baseurl }}/organisations){:target="_blank"} or [project]({{ site.baseurl }}/projects){:target="_blank"} listed please contact us at <aaphn@mq.edu.au>. To simply subscribe to our communications, follow this [link](http://eepurl.com/hRFpxv){:target="_blank"}
 
 {% include feature_row %}

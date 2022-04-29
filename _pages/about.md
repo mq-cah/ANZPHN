@@ -23,7 +23,7 @@ In order to "*promote teaching, research and engagements between these diverse c
 
 ### AAPHN Newsletter
 
-We have a virtual AAPHN newsletter which we distribute via our email contact list. This newsletter will contain information about upcoming events and funding opportunities, and will also highlight some of the popular posts from the AAPHN [blog]({{ site.baseurl }}/posts/){:target="_blank"}. If you would like to receive this newsletter (as well as other communications from the AAPHN) or would like to have an event or funding opportunity advertised, please subscribe to our mailing list by contacting us at <aaphn@mq.edu.au>.
+We have a virtual AAPHN newsletter which we distribute via our email contact list to all of our network members. This newsletter will contain information about upcoming events and funding opportunities, and will also highlight some of the popular posts from the AAPHN [blog]({{ site.baseurl }}/posts/){:target="_blank"}. If you are not a member, but would like to receive this newsletter (as well as other communications from the AAPHN) or would like to have an event or funding opportunity advertised, please subscribe to our mailing list by following [this link here](http://eepurl.com/hRFpxv){:target="_blank"}.
 
 ## The Team
 ### Associate Professor Tanya Evans
