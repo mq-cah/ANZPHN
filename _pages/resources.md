@@ -56,6 +56,10 @@ Alternatively, download these files for text / formatted bibliography:
 : **Twitter**: [@DigitalNZ](https://twitter.com/DigitalNZ){:target="_blank"}
 : <https://digitalnz.org/>{:target="_blank"}
 
+* **DIY Digital Archaeology**
+: **Description**: "This is a hands-on class exploring how archaeologists can learn in a digital world. While digital tools like Python, R, 3D modeling, and GIS are becoming ubiquitous in archaeological research, there remains huge accessibility gaps for archaeologists who want training in these skills." The website provides Open Access hands-on activities for teaching and learning digital archaeology/history methods for application wherever and whenever. Data is included! By Dr. Natalie M. Susmann.
+: <https://profsusmann.wordpress.com/diy-dig-arch/>{:target="_blank"}
+
 * **How to Research and Write the Life Stories of Irish Famine Orphans**
 : **Description**: Guide for researching and writing the life stories of Irish Famine orphans created by AAPHN [PACE](https://students.mq.edu.au/study/course/pace){:target="_blank"} student researcher Amanda Midlam. See announcement post [here]({{ site.baseurl }}/public_history/irish_famine_memorial_blog/){:target="_blank"}) for more information.
 : <https://earlgreysfamineorphans.wordpress.com/2022/03/22/earl-greys-irish-famine-orphans-83-amandas-guide/>{:target="_blank"}
