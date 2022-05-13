@@ -114,24 +114,20 @@ Alternatively, download these files for text / formatted bibliography:
 
 ### Grants
 #### Open
-* Capstone Editing Grant for Mid-Career Researchers
-: **Description**:
-: The Capstone Editing Grant for Mid-Career Researchers provides up to A$5,000 of seed funding for one researcher per year to undertake an innovative research project. The expectation is that the research project will gather preliminary data and lead to the development of a research council funding application.
-: The grant can be used to cover any costs related to the research project, such as software or small lab equipment; domestic or overseas travel to learn new techniques or collaborate with colleagues; academic editing of the grant proposal; and data analysis.
-: **Eligibility**: Must have a part-time or full-time research-only position at a research institute, university or government science agency in Australia or New Zealand.
-: **Closing Date**: 24 February 2022
-: **More Information**: <https://www.capstoneediting.com.au/midcareer-grant>
-: **Application**: Follow the instructions on the Capstone Editing [website](https://www.capstoneediting.com.au/midcareer-grant){:target="_blank"}.
-
 #### Closed
 * Community Heritage Grants – 2021 Round (completed)
 : **Description**:
 : The Community Heritage Grants (CHG) program provides grants of up to $15,000 (GST inclusive) to community organisations such as libraries, archives, museums, genealogical and historical societies, multicultural and Indigenous groups. Successful CHG recipients are also given access to online workshops.
 : The grants are provided to assist with the preservation of locally owned, but nationally significant collections of materials that are publicly accessible including artefacts, letters, diaries, maps, photographs, and audio visual material. The grants are also aimed at helping make these collections of materials more publicly accessible.
-: **Type**: Community organisation grant
 : **Closing Date**: Monday 10 May 2021
 : **More Information**: <https://www.nla.gov.au/chg/guidelines>
-: **Application**: Follow instructions on the [NLA website](https://www.nla.gov.au/content/community-heritage-grants-4){:target="_blank"}
+
+* Capstone Editing Grant for Mid-Career Researchers
+: **Description**:
+: The Capstone Editing Grant for Mid-Career Researchers provides up to A$5,000 of seed funding for one researcher per year to undertake an innovative research project. The expectation is that the research project will gather preliminary data and lead to the development of a research council funding application.
+: The grant can be used to cover any costs related to the research project, such as software or small lab equipment; domestic or overseas travel to learn new techniques or collaborate with colleagues; academic editing of the grant proposal; and data analysis.
+: **Closing Date**: 24 February 2022
+: **More Information**: <https://www.capstoneediting.com.au/midcareer-grant>
 
 ## Jobs
 
