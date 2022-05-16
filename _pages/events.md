@@ -19,6 +19,16 @@ _If you would like to list your own event with the AAPHN, please get in touch wi
 : **More Information**: [Auckland Libraries website](https://www.aucklandlibraries.govt.nz/Pages/family-and-local-history-events.aspx){:target="_blank"}
 : **Contact**: <Seonaid.Harvey@aucklandcouncil.govt.nz>
 
+**The Wilson History Oration**
+: **Event Description**:
+: Associate Professor Tanya Evans will present the inaugural Wilson History Oration for Professional Historians Australia. The Oration is an annual online lecture for an eminent speaker to reflect and share experiences on history research, writing and audience engagement. Tanya’s presentation will take a deep dive into a multi-faceted approach to public history. The oration will be centred on one of Tanya’s current projects – an historic site in the Blue Mountains in NSW – and she will discuss her collaboration with local and family historians, environmental specialists, heritage practitioners and archaeologists.
+: The Oration has been established in memory of Dr Bill Wilson OAM (1942-2021). Bill Wilson’s support for the field of public history and the work of professional historians in Australia was inspiring. Throughout his career in history Bill was a diplomatic and personable leader and an innovative administrator.
+: **Paper Title**: 'Out of the Blue: collaborative and community-based history in Australia'
+: **When**: 2 June 2022, 5.30-6.30 pm AEDT
+: **Where**: Online
+: **Registration** Book [here](https://phavic.wildapricot.org/event-4818153){:target="_blank"}
+: **More Information**: [https://phavic.wildapricot.org/event-4818153](https://phavic.wildapricot.org/event-4818153){:target="_blank"}
+
 **WWII in the Asia-Pacific: Border Crossing Mobilities**
 : **Event Description**: Two-day online workshop which focuses on international mobilities and migration as a way to understand the impacts of WWII across the Asia-Pacific region. The workshop is a joint project between The University of Notre Dame (Australia), the University of Wollongong, and Ritsumeikan University (Japan).
 : **When**: 18-19 July 2022.
