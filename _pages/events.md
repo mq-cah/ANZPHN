@@ -21,7 +21,7 @@ _If you would like to list your own event with the AAPHN, please get in touch wi
 
 **Explorers by the IFPH / FIHP**
 : **Event Description**: Series of monthly talks and events ran by the [IFPH / FIHP](https://ifph.hypotheses.org/){:target="_blank"}. This is a space devoted to promoting research and building bridges between public historians around the world. Our goal is to encourage communication and open pathways to advance the field. To achieve this goal we do monthly events with academics, intellectuals, artists, and activists interested in the public history field. Attached you will find a brief summary of the project and the events we have done so far.
-: **Registration**: Go to [https://tinyurl.com/a85fux7y](https://tinyurl.com/a85fux7y){:target="_blank"}.
+: **Registration**: Contact us or <jimenaperry@gmail.com> for the Zoom link.
 : **Contact**: <jimenaperry@gmail.com>
 
 **The Wilson History Oration**
