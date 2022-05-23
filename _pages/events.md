@@ -19,9 +19,13 @@ _If you would like to list your own event with the AAPHN, please get in touch wi
 : **More Information**: [Auckland Libraries website](https://www.aucklandlibraries.govt.nz/Pages/family-and-local-history-events.aspx){:target="_blank"}
 : **Contact**: <Seonaid.Harvey@aucklandcouncil.govt.nz>
 
+**Explorers by the IFPH / FIHP**
+: **Event Description**: Series of monthly talks and events ran by the [IFPH / FIHP](https://ifph.hypotheses.org/){:target="_blank"}. This is a space devoted to promoting research and building bridges between public historians around the world. Our goal is to encourage communication and open pathways to advance the field. To achieve this goal we do monthly events with academics, intellectuals, artists, and activists interested in the public history field. Attached you will find a brief summary of the project and the events we have done so far.
+: **Registration**: Go to [https://tinyurl.com/a85fux7y](https://tinyurl.com/a85fux7y){:target="_blank"}.
+: **Contact**: <jimenaperry@gmail.com>
+
 **The Wilson History Oration**
-: **Event Description**:
-: Associate Professor Tanya Evans will present the inaugural Wilson History Oration for Professional Historians Australia. The Oration is an annual online lecture for an eminent speaker to reflect and share experiences on history research, writing and audience engagement. Tanya’s presentation will take a deep dive into a multi-faceted approach to public history. The oration will be centred on one of Tanya’s current projects – an historic site in the Blue Mountains in NSW – and she will discuss her collaboration with local and family historians, environmental specialists, heritage practitioners and archaeologists.
+: **Event Description**: Associate Professor Tanya Evans will present the inaugural Wilson History Oration for Professional Historians Australia. The Oration is an annual online lecture for an eminent speaker to reflect and share experiences on history research, writing and audience engagement. Tanya’s presentation will take a deep dive into a multi-faceted approach to public history. The oration will be centred on one of Tanya’s current projects – an historic site in the Blue Mountains in NSW – and she will discuss her collaboration with local and family historians, environmental specialists, heritage practitioners and archaeologists.
 : The Oration has been established in memory of Dr Bill Wilson OAM (1942-2021). Bill Wilson’s support for the field of public history and the work of professional historians in Australia was inspiring. Throughout his career in history Bill was a diplomatic and personable leader and an innovative administrator.
 : **Paper Title**: 'Out of the Blue: collaborative and community-based history in Australia'
 : **When**: 2 June 2022, 5.30-6.30 pm AEDT
