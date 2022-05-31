@@ -96,24 +96,24 @@ Alternatively, download these files for text / formatted bibliography:
 
 ### Fellowships
 #### Open
-
-#### Closed
-* CACHE Early Career Indigenous Australian Research Fellowship - 2021 (completed)
+* CACHE Early Career Indigenous Australian Research Fellowship - 2022
 : **Description**:
-: HDR, postdoctoral or heritage/environment professional fellowship of $5000 for a dynamic and enthusiastic Aboriginal and/or Torres Strait Islander person with research skills to work with members of the Centre for Ancient Cultural Heritage and Environment (CACHE) in the fields of archaeological science, cultural heritage, and/or environmental heritage.
-: **Closing Date**: Tuesday 6th July, 2021
+: Up to $5,000 HDR, postdoctoral or heritage/environment professional fellowship for a dynamic and enthusiastic Aboriginal and/or Torres Strait Islander person with research skills to work with members of the Centre for Ancient Cultural Heritage and Environment (CACHE) in the fields of archaeological science, cultural heritage, and/or environmental heritage.
+: **Closing Date**: Sunday 10th July, 2022
 : **More Information**: [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities){:target="_blank"}
 : **Application**: Follow instructions on the [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities){:target="_blank"}
 
 * CACHE Postdoctoral Research Fellowship (completed)
 : **Description**:
-: Postdoctoral fellowship of $5000 for a dynamic and enthusiastic early career scholar with research skills to work with members of the Centre for Ancient Cultural Heritage and Environment (CACHE) in the fields of archaeological science, cultural heritage, and/or environmental heritage.
-: **Closing Date**: Tuesday 6th July, 2021
+: Up to $5,000 Postdoctoral fellowship for a dynamic and enthusiastic early career scholar with research skills to work with members of the Centre for Ancient Cultural Heritage and Environment (CACHE) in the fields of archaeological science, cultural heritage, and/or environmental heritage.
+: **Closing Date**: Sunday 10th July, 2022
 : **More Information**: [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities){:target="_blank"}
 : **Application**: Follow instructions on the [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities){:target="_blank"}
 
 ### Grants
 #### Open
+* _There are currently no open Grants. Contact us if you have one you would like to advertise._
+
 #### Closed
 * Community Heritage Grants – 2021 Round (completed)
 : **Description**:
@@ -130,5 +130,4 @@ Alternatively, download these files for text / formatted bibliography:
 : **More Information**: <https://www.capstoneediting.com.au/midcareer-grant>
 
 ## Jobs
-
-* _There are currently no jobs posted on the AAPHN_
+* _There are currently no jobs posted on the AAPHN. Contact us if you have one you would like to advertise._
