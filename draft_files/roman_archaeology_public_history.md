@@ -32,7 +32,7 @@ ewansc:
 _Ewan muses about how his Roman archaeological research in Australia can intersect with public and applied history._
 
 # Roman Archaeology in Australia...
-Roman archaeology in Australia &endash; how to apply in Aussie context? What can I do? I envision this being teased out over several posts.
+Roman archaeology in Australia &mdash; how to apply in Aussie context? What can I do? I envision this being teased out over several posts.
 
 I want to engage with Public and Applied histories here (and abroad)
 
@@ -41,6 +41,9 @@ Firstly, we can:
 - Applied: Apply theories and findings from people of the past to engage with issues and concepts of todays - how did humans of the past address issues we face?
 Secondly, we can do public access (online), so the geographical communities, and the Australia, can engage with the knowledge production and heritage (however they wish).
 - Public History/consumption of history: Public Access of Data and Papers to increase public accessibility and development of public histories.
+- for me: open data. People can use by data, and data of others, for free. This has pedagogical and accessible benefits: students can learn with 'real' archaeological data and physical, logistical or financial barriers for enthusiasts, students, HDRs and ECRs can be reduced by providing access to data online and free of charge for them to develop their skills. As noted by Garstki, K. (2022) ‘Introduction: Challenges of a Critical Archaeology in the Modern World’, in Garstki, K. (ed.) _Critical archaeology in the digital age_, UCLA Cotsen Institute of Archaeology Press (Cotsen digital archaeology series). Pg. 3. Available at: https://escholarship.org/uc/item/0vh9t9jq.
+
+Firstly, it is integral to stress as Karen Milek does that archaeological scientists &mdash; and I would argue historians &mdash; "have an ethical obligation to improve the accessibility and portability of archaeological science in order to enable citizen science" &mdash; or, I would argue again, its historical manifestation: public history &mdash; and to do so public participation, publication and outreach elements of archaeological (and epigraphic) research need to become embedded components of practices, "not an addendum relegated to 'impact statements, 'open days' or 'public engagement events'." ([Milek 2018: 41, 43](https://doi.org/10.1080/00293652.2018.1552312){:target="_blank"}) **reword, from thesis**.
 
 # Reading List
 Marwick 2021
