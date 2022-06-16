@@ -59,3 +59,10 @@ daozhixu:
   bio: Macquarie University Research Fellow Dr Daozhi Xu is undertaking a project on Indigenous and Asian relationships in contemporary Australian literature. She is particularly interested in the interactions between Indigenous people and Chinese immigrants in Australia.
   avatar: assets/images/people/xu_daozhi.jpg
   links:
+ewansc:
+  name: "Ewan Coopey"
+  bio: "Ewan Coopey is PhD candidate and Research Assistant at the Centre for Applied History working on several history-focused websites. His research explores the interplay between identities, communities and objects, with particular focus on Roman archaeology and epigraphy. He is passionate about public engagement and is dedicated to promoting open research and the application of digital tools (both basic and complex)."
+  avatar: assets/images/people/EwanSmall.jpeg
+  links:
+    - label: "Research Profile"
+      url: https://researchers.mq.edu.au/en/persons/ewan-coopey
