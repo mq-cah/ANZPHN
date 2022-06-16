@@ -7,6 +7,7 @@ header:
   actions:
     - label: "Read Below"
       url: "public_history/railway-portraits-richmond-markets/#a-chance- encounter-and-a-chance-to-reflect"
+      alt: "a photo of market stall. the front of the stall reads railways portraits, and atop the stall are several piles of coloured books with images of trains in black and white."
   teaser: /assets/images/ewan/resized-IMG_3771.jpg
 excerpt: >
   A walk through Richmond markets leads to a chance finding of a public history flavour...
