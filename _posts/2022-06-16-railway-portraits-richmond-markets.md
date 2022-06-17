@@ -29,7 +29,7 @@ This event and these works, for me, illuminate the beauty of community public hi
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/ewan/IMG_3771.jpg" alt="a photo of a man behind a market stall holding a photographic book. the front of the stall reads railways portraits, and atop the stall are several piles of coloured books with images of trains in black and white. behind the man sits a rectangular banner with a larger black and white image of a locomotive">
-  <figcaption>The stall in question at Richmond Markets, and the books in all their glory. Image: Ewan, Public Domain.</figcaption>
+  <figcaption>The stall and gentleman in question at Richmond Markets, and the books in all their glory. Image: Ewan, Public Domain.</figcaption>
 </figure>
 
 # Railway Portraits
