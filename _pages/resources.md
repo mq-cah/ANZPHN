@@ -107,6 +107,13 @@ Alternatively, download these files for text / formatted bibliography:
 
 ### Fellowships
 #### Open
+* AHA Fiftieth Anniversary Fellowship
+: **Description**
+: The Australian Historical Association turns fifty in 2023. As part of its marking of this anniversary, the Association will be producing a brief history (of 25,000-30,000 words) examining its first fifty years. It is offering a fellowship worth $5000 to an emerging historian to work with Emeritus Professor David Carment AM in co-authoring such a publication which will be ready to launch at the AHA’s conference in July 2023 in Melbourne. Please note that the main body of the AHA’s records are located in the Noel Butlin Archives Centre at the Australian National University. The AHA is willing to contribute up to $500 towards the costs of a short research visit to Canberra for a successful applicant located interstate. 
+: **More Information**: Enquiries to Professor Frank Bongiorno: <frank.bongiorno@anu.edu.au> or see announcement [here at this URL](https://theaha.org.au/aha-fiftieth-anniversary-history-opportunity/){:target="_blank"}.
+: **Application**: Applicants should send a statement addressing the selection criteria as well as a curriculum vitae (each of a maximum length of 2 pages) to <executive@theaha.org.au>.
+: **Closing Date**: 11 July 2022
+
 * CACHE Early Career Indigenous Australian Research Fellowship - 2022
 : **Description**:
 : Up to $5,000 HDR, postdoctoral or heritage/environment professional fellowship for a dynamic and enthusiastic Aboriginal and/or Torres Strait Islander person with research skills to work with members of the Centre for Ancient Cultural Heritage and Environment (CACHE) in the fields of archaeological science, cultural heritage, and/or environmental heritage.
