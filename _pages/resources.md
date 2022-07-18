@@ -18,7 +18,7 @@ View and browse our [Zotero](https://www.zotero.org/){:target="_blank"} library 
 #### Bibliographic collections
 We are continually collating and adding to multiple themed bibliographies on [our Zotero library](https://www.zotero.org/groups/4404913/aaphn/library){:target="_blank"}. There are several collections already available for browsing, with more on the way:
 * [Dark Tourism](https://www.zotero.org/groups/4404913/aaphn/collections/MQ5G8ERC){:target="_blank"}
-* [Public History Theses](https://www.zotero.org/groups/4404913/aaphn/collections/7JA4UZLL){:target="_blank"}
+* [Public History Theses](https://www.zotero.org/groups/4404913/aaphn/collections/KQAPUAIE){:target="_blank"}
 * [Public History and the Media](https://www.zotero.org/groups/4404913/aaphn/collections/EC7QBYPJ){:target="_blank"}
 * [Family History and Family Histories](https://www.zotero.org/groups/4404913/aaphn/collections/YFNACA4L){:target="_blank"}
 
