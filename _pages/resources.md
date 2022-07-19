@@ -107,6 +107,8 @@ Alternatively, download these files for text / formatted bibliography:
 
 ### Fellowships
 #### Open
+* _There are currently no open Fellowships. Contact us if you have one you would like to advertise._
+#### Closed
 * AHA Fiftieth Anniversary Fellowship
 : **Description**
 : The Australian Historical Association turns fifty in 2023. As part of its marking of this anniversary, the Association will be producing a brief history (of 25,000-30,000 words) examining its first fifty years. It is offering a fellowship worth $5000 to an emerging historian to work with Emeritus Professor David Carment AM in co-authoring such a publication which will be ready to launch at the AHA’s conference in July 2023 in Melbourne. Please note that the main body of the AHA’s records are located in the Noel Butlin Archives Centre at the Australian National University. The AHA is willing to contribute up to $500 towards the costs of a short research visit to Canberra for a successful applicant located interstate. 
