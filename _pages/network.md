@@ -276,6 +276,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <scottmck@uow.edu.au>
 : **Research Profile** [UoW Research Page](https://scholars.uow.edu.au/display/scott_mckinnon){:target="_blank"}
 
+**Dr Martina Muller, Professional Historian**
+: Martina works as a historian in Sydney’s heritage sector and is a member of [PHA NSW & ACT](https://www.phansw.org.au/){:target="_blank"}.
+: **Contact** <martina.muller@storialines.com.au>
+
 **Dr Tom Murray**<br />
 : **Contact** <tom.murray@mq.edu.au>
 
