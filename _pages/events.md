@@ -39,7 +39,7 @@ _If you would like to list your own event with the AAPHN, please get in touch wi
 : **Contact and more Information**: [http://www.ritsumei.ac.jp/research/ihhss/events/article.html/?id=77](http://www.ritsumei.ac.jp/research/ihhss/events/article.html/?id=77){:target="_blank"}
 
 ### Call For Papers
-****
+**The New Historians Conference 2022**
 : **Event Description**: In the context of the pandemic and the immediate period that follows, there is a requirement to take a pause and understand the change, recalibrate, and prepare for what comes next. At the same time there are some things that remain constant, continuities that run strong through the before and after. The New Historians Conference 2022 is focused on the idea of change and continuity. We encourage contributions that concern any region of the world and speak to the conference theme from interdisciplinary perspectives. The invitation extends to researchers grounded in a variety of fields – history, anthropology, geography, international relations, linguistics, literature, philosophy, political science, sociology, Māori studies, and other social sciences. We are interested in papers that address: 1. the idea of change and continuity in cultural, social, political, or linguistic systems; 2. the agents, catalysts, or barriers to change and the struggle to control the direction of change; 3. the reception and impact of change across different time periods; 4. any parts of your larger research project where questions of change and continuity are explored. Proposals that delve into conversations about the impact of COVID-19 on various aspects of
 life across diverse spaces in the globe will be a valuable addition to the discussion.
 : **When**: 19th–20th October 2022 (tentative)
