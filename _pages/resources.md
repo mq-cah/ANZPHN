@@ -18,7 +18,6 @@ View and browse our [Zotero](https://www.zotero.org/){:target="_blank"} library 
 #### Bibliographic collections
 We are continually collating and adding to multiple themed bibliographies on [our Zotero library](https://www.zotero.org/groups/4404913/aaphn/library){:target="_blank"}. There are several collections already available for browsing, with more on the way:
 * [Dark Tourism](https://www.zotero.org/groups/4404913/aaphn/collections/MQ5G8ERC){:target="_blank"}
-* [Public History Theses](https://www.zotero.org/groups/4404913/aaphn/collections/KQAPUAIE){:target="_blank"}
 * [Public History and the Media](https://www.zotero.org/groups/4404913/aaphn/collections/EC7QBYPJ){:target="_blank"}
 * [Family History and Family Histories](https://www.zotero.org/groups/4404913/aaphn/collections/YFNACA4L){:target="_blank"}
 
@@ -32,6 +31,15 @@ Alternatively, download these files for text / formatted bibliography:
 * [Table]({{ site.baseurl }}/assets/aaphn_list.csv){:target="_blank"} (Excel, Google Sheet)
 * [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.pdf){:target="_blank"} (PDF)
 * [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.docx){:target="_blank"} (DOCX, Google Doc)
+
+## Public History Theses
+We have collated a list of public and applied history theses produced in, or concerning, Australasia. The list in available online on our Zotero bibliography, or below via the various links, documents or bibliographic files. If you have would like to add your own thesis please contact <aaphn@mq.edu.au> with the bibliographic details of your thesis (MA, MRes, MPhil, PhD, etc.).
+
+* Online [GitHub Repository](https://github.com/mq-cah/PublicHistTheses){:target="_blank"} with all of the below files and more. 
+* [Public History Theses Zotero Link](https://www.zotero.org/groups/4404913/aaphn/collections/KQAPUAIE){:target="_blank"}
+* Theses titles and abstracts: [PDF]({{ site.baseurl }}/assets/theses/theses+abstracts-list.pdf){:target="_blank"}
+* Theses bibliographic file: [.RIS]({{ site.baseurl }}/assets/theses/PublicHistoryTheses.ris){:target="_blank"}
+* Theses bibliographic file: [.BIB]({{ site.baseurl }}/assets/PublicHistoryTheses.bib){:target="_blank"}
 
 ## Web resources
 

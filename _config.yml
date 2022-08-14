@@ -58,12 +58,18 @@ author:
     - label: "Newsletter"
       icon: "fab fa-fw fa-solid fa-newspaper"
       url: "http://eepurl.com/hRFpxv"
+    - label: "GitHub"
+      icon: "fa-brands fa-github-square"
+      url: "https://github.com/mq-cah"
 
 footer:
   links:
-    - label: "AAPHN Twitter"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/aaphnetwork"
+    - label: "GitHub"
+      icon: "fa-brands fa-github-square"
+      url: "https://github.com/mq-cah"
 
 defaults:
   # _posts
