@@ -103,6 +103,7 @@ We have collated a list of public and applied history theses produced in, or con
 ### Postgraduate Study
 #### Open
 * _There are currently no open Fellowships. Contact us at <aaphn@mq.edu.au> if you have one you would like to advertise._
+
 #### Closed
 * Co-tutelle PhD Opportunity with Macquarie University and the University of Bristol: 2022-2025
  : **Description**:
