@@ -10,19 +10,9 @@ We plan to continually update this page &ndash; a 'forever work-in-progress' if 
 
 ## Bibliography
 
-This bibliography is still under construction. If you have anything to add please contact <aaphn@mq.edu.au> with either a consistently formatted list of references with DOIs / IBSNs / URLs where possible, or (preferably) a .RIS or .BIB (BibTeX) file exported from your reference manager.
+Our applied and public history bibliography is continually under construction. If you have anything to add please contact <aaphn@mq.edu.au> with either a consistently formatted list of references with DOIs / IBSNs / URLs where possible, or (preferably) a .RIS or .BIB (BibTeX) file exported from your reference manager.
 
-### Online Zotero Library
-View and browse our [Zotero](https://www.zotero.org/){:target="_blank"} library at: [https://www.zotero.org/groups/4404913/aaphn/library](https://www.zotero.org/groups/4404913/aaphn/library){:target="_blank"}.
-
-#### Bibliographic collections
-We are continually collating and adding to multiple themed bibliographies on [our Zotero library](https://www.zotero.org/groups/4404913/aaphn/library){:target="_blank"}. There are several collections already available for browsing, with more on the way:
-* [Dark Tourism](https://www.zotero.org/groups/4404913/aaphn/collections/MQ5G8ERC){:target="_blank"}
-* [Public History and the Media](https://www.zotero.org/groups/4404913/aaphn/collections/EC7QBYPJ){:target="_blank"}
-* [Family History and Family Histories](https://www.zotero.org/groups/4404913/aaphn/collections/YFNACA4L){:target="_blank"}
-
-### Full AAPHN Library
-In addition to our Zotero library, our full bibliography can be downloaded in several different ways. For example, download these files and import them into your reference manager of choice:
+The full bibliography can be downloaded in several different ways. For example, download these files and import them into your reference manager of choice:
 * [RIS]({{ site.baseurl }}/assets/aaphn_list.ris){:target="_blank"} (e.g. Mendeley)
 * [BIB]({{ site.baseurl }}/assets/aaphn_list.bib){:target="_blank"} (e.g. Zotero, LaTex)
 * [XML]({{ site.baseurl }}/assets/aaphn_list.xml){:target="_blank"} (e.g. EndNote)
@@ -32,10 +22,18 @@ Alternatively, download these files for text / formatted bibliography:
 * [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.pdf){:target="_blank"} (PDF)
 * [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.docx){:target="_blank"} (DOCX, Google Doc)
 
-## Public History Theses
-We have collated a list of public and applied history theses produced in, or concerning, Australasia. The list in available online on our Zotero bibliography, or below via the various links, documents or bibliographic files. If you have would like to add your own thesis please contact <aaphn@mq.edu.au> with the bibliographic details of your thesis (MA, MRes, MPhil, PhD, etc.).
+### Online Zotero Library
+View and browse the library online on [Zotero](https://www.zotero.org/){:target="_blank"} at: [https://www.zotero.org/groups/4404913/aaphn/library](https://www.zotero.org/groups/4404913/aaphn/library){:target="_blank"}.
 
-* Online [GitHub Repository](https://github.com/mq-cah/PublicHistTheses){:target="_blank"} with all of the below files and more. 
+We are continually collating and adding to multiple themed bibliographies on [this Zotero library](https://www.zotero.org/groups/4404913/aaphn/library){:target="_blank"}. There are several collections already available for browsing, with more on the way:
+* [Dark Tourism](https://www.zotero.org/groups/4404913/aaphn/collections/MQ5G8ERC){:target="_blank"}
+* [Public History and the Media](https://www.zotero.org/groups/4404913/aaphn/collections/EC7QBYPJ){:target="_blank"}
+* [Family History and Family Histories](https://www.zotero.org/groups/4404913/aaphn/collections/YFNACA4L){:target="_blank"}
+
+## Public History Theses
+We have collated a list of public and applied history theses produced in, or concerning, Australasia. The list is available online on our Zotero bibliography or below via the various links, documents or bibliographic files. If you would like to add your own thesis please contact <aaphn@mq.edu.au> with the bibliographic details of your thesis (MA, MRes, MPhil, PhD, etc.).
+
+* Online [GitHub Repository](https://github.com/mq-cah/PublicHistTheses){:target="_blank"} 
 * [Public History Theses Zotero Link](https://www.zotero.org/groups/4404913/aaphn/collections/KQAPUAIE){:target="_blank"}
 * Theses titles and abstracts: [PDF]({{ site.baseurl }}/assets/theses/theses+abstracts-list.pdf){:target="_blank"}
 * Theses bibliographic file: [.RIS]({{ site.baseurl }}/assets/theses/PublicHistoryTheses.ris){:target="_blank"}
@@ -104,6 +102,8 @@ We have collated a list of public and applied history theses produced in, or con
 
 ### Postgraduate Study
 #### Open
+* _There are currently no open Fellowships. Contact us at <aaphn@mq.edu.au> if you have one you would like to advertise._
+#### Closed
 * Co-tutelle PhD Opportunity with Macquarie University and the University of Bristol: 2022-2025
  : **Description**:
  : Professor Hilary Carey and Associate Professor Tanya Evans are hoping to recruit a funded co-tutelle PhD student to work on colonial history to be based at the University of Bristol for the first 2 years of the project and at Macquarie University for the final 2 years of the project.
@@ -115,7 +115,7 @@ We have collated a list of public and applied history theses produced in, or con
 
 ### Fellowships
 #### Open
-* _There are currently no open Fellowships. Contact us if you have one you would like to advertise._
+* _There are currently no open Fellowships. Contact us at <aaphn@mq.edu.au> if you have one you would like to advertise._
 #### Closed
 * AHA Fiftieth Anniversary Fellowship
 : **Description**
@@ -140,7 +140,10 @@ We have collated a list of public and applied history theses produced in, or con
 
 ### Grants
 #### Open
-* _There are currently no open Grants. Contact us if you have one you would like to advertise._
+* Friends of the Hocken Award
+: **Description**: Established in 2016, to mark the 25th Anniversary of the Friends of the Hocken Collections, this Award of $10,000 aims to support a research project on some aspect of the historical development of culture and society in New Zealand primarily using the resources of the Hocken Collections. This round of the Award is to be held in the calendar year of 2023.
+: **Closing Date**: The Closing Date is 15 October 2022.
+: **Application**: Application details are here [https://bit.ly/3ciqyfa](https://bit.ly/3ciqyfa){:target="_blank"}
 
 #### Closed
 * Community Heritage Grants – 2021 Round (completed)
@@ -158,4 +161,4 @@ We have collated a list of public and applied history theses produced in, or con
 : **More Information**: <https://www.capstoneediting.com.au/midcareer-grant>
 
 ## Jobs
-* _There are currently no jobs posted on the AAPHN. Contact us if you have one you would like to advertise._
+* _There are currently no jobs posted on the AAPHN. Contact us at <aaphn@mq.edu.au> if you have one you would like to advertise._
