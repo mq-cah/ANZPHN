@@ -17,7 +17,7 @@ _If you would like to list your own event with the AAPHN, please get in touch wi
 : **2022 Info**: [https://historycouncilnsw.org.au/history-week-nsw/history-week-2022/](https://historycouncilnsw.org.au/history-week-nsw/history-week-2022/){:target="_blank"}
 : **General Info**: [https://historycouncilnsw.org.au/history-week-nsw/](https://historycouncilnsw.org.au/history-week-nsw/){:target="_blank"}
 : **Macquarie University Events**: "Macquarie is celebrating History Week 2022 with a range of events, workshops and discussions that celebrate Macquarie’s rich connection to the past.
-From handling objects out of the Macquarie University History Museum collection, a discussion on the temporary exhibition ‘East Meets West: The Crusades and the Age of Decolonisation’ with museum tours following, a book sale and a catered celebration to round-out the week –- there’s something for everyone." More information is available on (the Macquarie University web page)[https://www.mq.edu.au/thisweek/2022/08/24/history-week-2022/]{:target"_blank"}
+From handling objects out of the Macquarie University History Museum collection, a discussion on the temporary exhibition ‘East Meets West: The Crusades and the Age of Decolonisation’ with museum tours following, a book sale and a catered celebration to round-out the week –- there’s something for everyone." More information is available on [the Macquarie University web page](https://www.mq.edu.au/thisweek/2022/08/24/history-week-2022/){:target"_blank"}
 
 ### Seminar Series and Talks
 **Auckland Libraries: Heritage _Talks_ / Waha Pū-Taonga**
