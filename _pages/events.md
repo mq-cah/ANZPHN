@@ -9,6 +9,16 @@ excerpt: >
 _If you would like to list your own event with the AAPHN, please get in touch with <aaphn@mq.edu.au>_
 
 ## Upcoming Events
+### History Week (NSW)
+: **Event Description**: History Week is the annual, state-wide celebration of History organised by the History Council of New South Wales. Initiated by the HCNSW in 1997, History Week is a fantastic opportunity for member organisations, large and small, throughout NSW to engage and educate the community about the vitality, diversity and meaning of History and its practice. The HCNSW has chosen to go with the theme ‘Hands-on History’ which was suggested by Dr Kiera Lindsey for our History Week 2022 Theme Suggestion Competition.
+: For History Week 2022 we invite you to roll up your sleeves and get your hands dirty! History doesn’t only happen in archives, libraries and books. Very often we need to go out in the field and get hands-on to connect with different sources, stories and audiences. Hands-on History invites you to explore histories by or about people who do things with their hands, whether that is for work or play. You may also like to creatively consider how you use your hands to do history; be that digging up artefacts, uncovering archives, restoring precious and everyday objects, curating exhibitions, writing and drawing, sewing, painting, even making music or a film or podcast! We want you to re-think Hands-on History and present your ideas in History Week 2022.
+: **When**: 3–-11 September 2022
+: **Where**: Various events online and in person ran by NSW institutions. See links below for event calendar.
+: **2022 Info**: [https://historycouncilnsw.org.au/history-week-nsw/history-week-2022/](https://historycouncilnsw.org.au/history-week-nsw/history-week-2022/){:target="_blank"}
+: **General Info**: [https://historycouncilnsw.org.au/history-week-nsw/](https://historycouncilnsw.org.au/history-week-nsw/){:target="_blank"}
+: **Macquarie University Events**: "Macquarie is celebrating History Week 2022 with a range of events, workshops and discussions that celebrate Macquarie’s rich connection to the past.
+From handling objects out of the Macquarie University History Museum collection, a discussion on the temporary exhibition ‘East Meets West: The Crusades and the Age of Decolonisation’ with museum tours following, a book sale and a catered celebration to round-out the week –- there’s something for everyone." More information is available on (the Macquarie University web page)[https://www.mq.edu.au/thisweek/2022/08/24/history-week-2022/]{:target"_blank"}
+
 ### Seminar Series and Talks
 **Auckland Libraries: Heritage _Talks_ / Waha Pū-Taonga**
 : **Event Description**: These talks are presented fortnightly on a Wednesday at 12 noon NZT from February to November, and topics cover a wide range of subjects relation to history. Social, local and family history, New Zealand, Australian and world history. Sometimes if something special is offered, we also schedule talks on the “off” Wednesday. Speakers are a mix of amateur and professional historians, archivists, librarians, museum specialists, authors and academics.
