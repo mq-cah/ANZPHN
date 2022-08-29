@@ -82,4 +82,4 @@ life across diverse spaces in the globe will be a valuable addition to the discu
 : **When** Wednesday the 20th of October 5-6pm
 
 ## Newsletter and Communications
-In addition to general membership communications and updates, we send out a newsletter bi-annually which records any upcoming events concerning public history in Australasia. If you would like to make a post about an upcoming event or would like for it to be included in our next newsletter, please contact the AAPHN team at <aaphn@mq.edu.au>.
+In addition to general membership communications and updates, we send out a newsletter bi-annually which records any upcoming events concerning public history in Australasia. If you would like to make a post about an upcoming event or would like for it to be included in our next newsletter, please contact the AAPHN team at <aaphn@mq.edu.au>. Also, keep updated on our social media, where we post and share information concerning many upcoming events. Twitter: [@aaphnetwork](https://twitter.com/aaphnetwork){:target="_blank"}.
