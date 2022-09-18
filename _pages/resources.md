@@ -100,10 +100,10 @@ We have collated a list of public and applied history theses produced in, or con
 
 ## Funding and Research Opportunities
 ### Postgraduate Study
-#### Open
+**Open**
 * _There are currently no open Fellowships. Contact us at <aaphn@mq.edu.au> if you have one you would like to advertise._
 
-#### Closed
+**Closed**
 * Co-tutelle PhD Opportunity with Macquarie University and the University of Bristol: 2022-2025
  : **Description**:
  : Professor Hilary Carey and Associate Professor Tanya Evans are hoping to recruit a funded co-tutelle PhD student to work on colonial history to be based at the University of Bristol for the first 2 years of the project and at Macquarie University for the final 2 years of the project.
@@ -114,9 +114,11 @@ We have collated a list of public and applied history theses produced in, or con
 : **More Information**: [https://www.jobs.ac.uk/job/CQW575/colonial-postcolonial-history-studentship](https://www.jobs.ac.uk/job/CQW575/colonial-postcolonial-history-studentship){:target="_blank"} and <hilary.carey@bristol.ac.uk>
 
 ### Fellowships
-#### Open
+**Open**
 * _There are currently no open Fellowships. Contact us at <aaphn@mq.edu.au> if you have one you would like to advertise._
-#### Closed
+
+**Closed**
+
 * AHA Fiftieth Anniversary Fellowship
 : **Description**
 : The Australian Historical Association turns fifty in 2023. As part of its marking of this anniversary, the Association will be producing a brief history (of 25,000-30,000 words) examining its first fifty years. It is offering a fellowship worth $5000 to an emerging historian to work with Emeritus Professor David Carment AM in co-authoring such a publication which will be ready to launch at the AHA’s conference in July 2023 in Melbourne. Please note that the main body of the AHA’s records are located in the Noel Butlin Archives Centre at the Australian National University. The AHA is willing to contribute up to $500 towards the costs of a short research visit to Canberra for a successful applicant located interstate. 
@@ -139,13 +141,15 @@ We have collated a list of public and applied history theses produced in, or con
 : **Application**: Follow instructions on the [MQ CACHE Website](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/cache/funding-opportunities){:target="_blank"}
 
 ### Grants
-#### Open
+**Open**
+
 * Friends of the Hocken Award
 : **Description**: Established in 2016, to mark the 25th Anniversary of the Friends of the Hocken Collections, this Award of $10,000 aims to support a research project on some aspect of the historical development of culture and society in New Zealand primarily using the resources of the Hocken Collections. This round of the Award is to be held in the calendar year of 2023.
 : **Closing Date**: The Closing Date is 15 October 2022.
 : **Application**: Application details are here [https://bit.ly/3ciqyfa](https://bit.ly/3ciqyfa){:target="_blank"}
 
-#### Closed
+**Closed**
+
 * Community Heritage Grants – 2021 Round (completed)
 : **Description**:
 : The Community Heritage Grants (CHG) program provides grants of up to $15,000 (GST inclusive) to community organisations such as libraries, archives, museums, genealogical and historical societies, multicultural and Indigenous groups. Successful CHG recipients are also given access to online workshops.
@@ -161,7 +165,6 @@ We have collated a list of public and applied history theses produced in, or con
 : **More Information**: <https://www.capstoneediting.com.au/midcareer-grant>
 
 ## Jobs
-#### Open
 * Assistant / Early Associate Professor, Cornell University
 : **Description**:
 : The Department of History at Cornell University is searching for an assistant or early associate professor of public history and/or public memory, with a focus on the Global South, Europe, indigenous communities, and/or transnational/transregional history, to complement current research and teaching in the department’s [Public History Initiative](http://phi.history.cornell.edu). We seek a scholar with a PhD in History or a related field who is also grounded in theoretical and methodological approaches in public history and memory studies, including, but not limited to commemorative practices, historic sites, digital media, museums, libraries, archives, and/or local communities.
