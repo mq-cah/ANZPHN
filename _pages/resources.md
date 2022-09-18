@@ -99,7 +99,6 @@ We have collated a list of public and applied history theses produced in, or con
 : <https://wellingtonchinesehistory.fandom.com/wiki/Wellington_Chinese_History_Wiki>{:target="_blank"}
 
 ## Funding and Research Opportunities
-
 ### Postgraduate Study
 #### Open
 * _There are currently no open Fellowships. Contact us at <aaphn@mq.edu.au> if you have one you would like to advertise._
@@ -162,4 +161,11 @@ We have collated a list of public and applied history theses produced in, or con
 : **More Information**: <https://www.capstoneediting.com.au/midcareer-grant>
 
 ## Jobs
-* _There are currently no jobs posted on the AAPHN. Contact us at <aaphn@mq.edu.au> if you have one you would like to advertise._
+#### Open
+* Assistant / Early Associate Professor, Cornell University
+: **Description**:
+: The Department of History at Cornell University is searching for an assistant or early associate professor of public history and/or public memory, with a focus on the Global South, Europe, indigenous communities, and/or transnational/transregional history, to complement current research and teaching in the department’s [Public History Initiative](http://phi.history.cornell.edu). We seek a scholar with a PhD in History or a related field who is also grounded in theoretical and methodological approaches in public history and memory studies, including, but not limited to commemorative practices, historic sites, digital media, museums, libraries, archives, and/or local communities.
+: This position will be part of the Provost’s new CIVIC initiative in “Humanities, Art, & Public Life,” encouraging collaborations across the university ([more info](https://provost.cornell.edu/academic-initiatives/radical-collaboration/civic/)) “Public Life” marks the myriad ways in which people express themselves and interact, react, discuss, or ignore one another in various attempts to make and re-make the demos. Potential partners include the Einaudi Center for International Studies, the Migrations Global Grand Challenge, Africana Studies, the American Indian and Indigenous Studies Program, Communication, Human Centered Design, Architecture, Art, and Planning, and Near Eastern Studies.
+: **More Information**: <https://academicjobsonline.org/ajo/jobs/22756> or contact <dg256@cornell.edu>.
+: **Applications**: <https://academicjobsonline.org/ajo/jobs/22756>
+: **Closing Date**: 2022/12/01
