@@ -39,12 +39,18 @@ We have collated a list of public and applied history theses produced in, or con
 
 ## Web resources
 ### Research Tools
+* **GLAM Workbench**
+: "Here you’ll find a collection of tools, tutorials, examples, and hacks to help you work with data from galleries, libraries, archives, and museums (the GLAM sector). The primary focus is Australia and New Zealand, but new collections are being added all the time. Let me know if there’s some GLAM data you’d like me to explore – suggestions are always welcome!" T. Sherratt
+: <https://glam-workbench.net/>{:target="_blank"}
 * **Trove Newspaper Harvester**
 : Tool for bulk harvests of digitised newspaper articles from Trove
 : <https://pypi.org/project/trove-newspaper-harvester/>{:target="_blank"}
 * **Time Layered Cultural Map**
 : This resource provides tools to help humanities researchers, including historians, and anyone interested in history, to work with digital maps. Many more history datasets will be added to this resource over the coming year.
 : <https://tlcmap.org>{:target="_blank"}
+* **Trove**
+: Trove is a collaboration between the National Library of Australia and hundreds of Partner organisations around Australia.
+: <https://trove.nla.gov.au/>{:target="_blank"}
 
 ### Archives, Datasets, Databases
 * **Colonial Frontier Massacres in Australia**
@@ -58,6 +64,9 @@ We have collated a list of public and applied history theses produced in, or con
 : Between 1908 and 1938, 130 Anglo-Indian adolescents were sent to New Zealand from Dr Graham’s Homes in Kalimpong, India. Most were the children of British tea planters and Indian women, and faced an uncertain future in India. Their resettlement in New Zealand was in many ways a success, but it was also characterised by silence about their heritage.
 : This website is for descendants of the Kalimpong Kids, many of whom are still discovering this hidden aspect of their family history. It is also for anyone with an interest in the Kalimpong story, from which we can learn so much about memory, community and family ties.
 : <http://www.kalimpongkis.org.nz/>{:target="_blank"}
+* **NSW and TAS Post Office Directories**
+: <https://nsw-post-office-directories-yajhxrvxsa-ts.a.run.app/>{:target="_blank"} (NSW)
+: <https://tasmanian-post-office-directories-yajhxrvxsa-ts.a.run.app/>{:target="_blank"} (TAS)
 * **RAAF P-40 Kittyhawk Accidents**
 : A digital map of RAAF P-40 Kittyhawk Accidents in Australia between 1942 and 1946.
 : <https://public.tableau.com/profile/chao.sun#!/vizhome/AircraftCrash_0/KittyHawkAccidents>{:target="_blank"}
@@ -69,6 +78,9 @@ We have collated a list of public and applied history theses produced in, or con
 * **How to Research and Write the Life Stories of Irish Famine Orphans**
 : Guide for researching and writing the life stories of Irish Famine orphans created by AAPHN [PACE](https://students.mq.edu.au/study/course/pace){:target="_blank"} student researcher Amanda Midlam. See announcement post [here]({{ site.baseurl }}/public_history/irish_famine_memorial_blog/){:target="_blank"} for more information.
 : <https://earlgreysfamineorphans.wordpress.com/2022/03/22/earl-greys-irish-famine-orphans-83-amandas-guide/>{:target="_blank"}
+* **Working with Trove data**
+: A collection of tools and resources to work with Trove data using the GLAM workbench.
+: <https://updates.timsherratt.org/2022/05/02/working-with-trove.html>{:target="_blank"}
 
 ### Blogs, Webpages, Forums, Wikis
 * **An Intimate Pandemic: The Community Impact of Influenza in 1919**
