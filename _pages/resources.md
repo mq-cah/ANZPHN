@@ -9,14 +9,12 @@ excerpt: >
 We plan to continually update this page &ndash; a 'forever work-in-progress' if you will &ndash; so if you would like to add published works, creative works, websites, and funding opportunities to this page, or would like suggest edits to certain pieces of information, please contact us at <aaphn@mq.edu.au>.
 
 ## Bibliography
-
 Our applied and public history bibliography is continually under construction. If you have anything to add please contact <aaphn@mq.edu.au> with either a consistently formatted list of references with DOIs / IBSNs / URLs where possible, or (preferably) a .RIS or .BIB (BibTeX) file exported from your reference manager.
 
 The full bibliography can be downloaded in several different ways. For example, download these files and import them into your reference manager of choice:
 * [RIS]({{ site.baseurl }}/assets/aaphn_list.ris){:target="_blank"} (e.g. Mendeley)
 * [BIB]({{ site.baseurl }}/assets/aaphn_list.bib){:target="_blank"} (e.g. Zotero, LaTex)
 * [XML]({{ site.baseurl }}/assets/aaphn_list.xml){:target="_blank"} (e.g. EndNote)
-
 Alternatively, download these files for text / formatted bibliography:
 * [Table]({{ site.baseurl }}/assets/aaphn_list.csv){:target="_blank"} (Excel, Google Sheet)
 * [Text]({{ site.baseurl }}/assets/aaphn_bibliography_list.pdf){:target="_blank"} (PDF)
@@ -40,62 +38,57 @@ We have collated a list of public and applied history theses produced in, or con
 * Theses bibliographic file: [.BIB]({{ site.baseurl }}/assets/PublicHistoryTheses.bib){:target="_blank"}
 
 ## Web resources
+### Research Tools
+* **Trove Newspaper Harvester**
+: Tool for bulk harvests of digitised newspaper articles from Trove
+: <https://pypi.org/project/trove-newspaper-harvester/>{:target="_blank"}
+* **Time Layered Cultural Map**
+: This resource provides tools to help humanities researchers, including historians, and anyone interested in history, to work with digital maps. Many more history datasets will be added to this resource over the coming year.
+: <https://tlcmap.org>{:target="_blank"}
 
-### Public History Web Resources
+### Archives, Datasets, Databases
+* **Colonial Frontier Massacres in Australia**
+: A map and information about massacres on the Australian Colonial Frontier.
+: <https://c21ch.newcastle.edu.au/colonialmassacres/>{:target="_blank"}
+* **DigitalNZ / Ā-Tihi o Aotearoa**
+: Search digital collections from all over Aotearoa
+: **Twitter**: [@DigitalNZ](https://twitter.com/DigitalNZ){:target="_blank"}
+: <https://digitalnz.org/>{:target="_blank"}
+* **Kalimpong Kids**
+: Between 1908 and 1938, 130 Anglo-Indian adolescents were sent to New Zealand from Dr Graham’s Homes in Kalimpong, India. Most were the children of British tea planters and Indian women, and faced an uncertain future in India. Their resettlement in New Zealand was in many ways a success, but it was also characterised by silence about their heritage.
+: This website is for descendants of the Kalimpong Kids, many of whom are still discovering this hidden aspect of their family history. It is also for anyone with an interest in the Kalimpong story, from which we can learn so much about memory, community and family ties.
+: <http://www.kalimpongkis.org.nz/>{:target="_blank"}
+* **RAAF P-40 Kittyhawk Accidents**
+: A digital map of RAAF P-40 Kittyhawk Accidents in Australia between 1942 and 1946.
+: <https://public.tableau.com/profile/chao.sun#!/vizhome/AircraftCrash_0/KittyHawkAccidents>{:target="_blank"}
+
+### Guides, Online Workshops, Courses
+* **DIY Digital Archaeology**
+: "This is a hands-on class exploring how archaeologists can learn in a digital world. While digital tools like Python, R, 3D modeling, and GIS are becoming ubiquitous in archaeological research, there remains huge accessibility gaps for archaeologists who want training in these skills." The website provides Open Access hands-on activities for teaching and learning digital archaeology/history methods for application wherever and whenever. Data is included! By Dr. Natalie M. Susmann.
+: <https://profsusmann.wordpress.com/diy-dig-arch/>{:target="_blank"}
+* **How to Research and Write the Life Stories of Irish Famine Orphans**
+: Guide for researching and writing the life stories of Irish Famine orphans created by AAPHN [PACE](https://students.mq.edu.au/study/course/pace){:target="_blank"} student researcher Amanda Midlam. See announcement post [here]({{ site.baseurl }}/public_history/irish_famine_memorial_blog/){:target="_blank"} for more information.
+: <https://earlgreysfamineorphans.wordpress.com/2022/03/22/earl-greys-irish-famine-orphans-83-amandas-guide/>{:target="_blank"}
+
+### Blogs, Webpages, Forums, Wikis
 * **An Intimate Pandemic: The Community Impact of Influenza in 1919**
 : <https://www.rahs.org.au/an-intimate-pandemic-the-community-impact-of-influenza-in-1919/>{:target="_blank"}
-
 * **Camden History Notes Blog**
 : The aim of the Camden History Notes blog is telling stories about the characters, events, general goings and changing landscapes of the Macarthur region of New South Wales, and occasionally elsewhere.
 : Originally occupied by the Indigenous Dharawal people it is one the fastest, growing areas in Australia with its master-planned housing estates and peri-urban farmland around the historic communities of Camden, Campbelltown and Picton on Sydney’s southwestern urban fringe.
 : <https://camdenhistorynotes.com/>{:target="_blank"}
-
-* **Colonial Frontier Massacres in Australia**
-: **Description**: A map and information about massacres on the Australian Colonial Frontier.
-: <https://c21ch.newcastle.edu.au/colonialmassacres/>{:target="_blank"}
-
 * **Colourful Histories**
 : <https://colourfulhistories.wordpress.com/>{:target="_blank"}
-
-* **DigitalNZ / Ā-Tihi o Aotearoa**
-: **Description**: Search digital collections from all over Aotearoa
-: **Twitter**: [@DigitalNZ](https://twitter.com/DigitalNZ){:target="_blank"}
-: <https://digitalnz.org/>{:target="_blank"}
-
-* **DIY Digital Archaeology**
-: **Description**: "This is a hands-on class exploring how archaeologists can learn in a digital world. While digital tools like Python, R, 3D modeling, and GIS are becoming ubiquitous in archaeological research, there remains huge accessibility gaps for archaeologists who want training in these skills." The website provides Open Access hands-on activities for teaching and learning digital archaeology/history methods for application wherever and whenever. Data is included! By Dr. Natalie M. Susmann.
-: <https://profsusmann.wordpress.com/diy-dig-arch/>{:target="_blank"}
-
-* **How to Research and Write the Life Stories of Irish Famine Orphans**
-: **Description**: Guide for researching and writing the life stories of Irish Famine orphans created by AAPHN [PACE](https://students.mq.edu.au/study/course/pace){:target="_blank"} student researcher Amanda Midlam. See announcement post [here]({{ site.baseurl }}/public_history/irish_famine_memorial_blog/){:target="_blank"}) for more information.
-: <https://earlgreysfamineorphans.wordpress.com/2022/03/22/earl-greys-irish-famine-orphans-83-amandas-guide/>{:target="_blank"}
-
-* **Kalimpong Kids**
-: **Description**: Between 1908 and 1938, 130 Anglo-Indian adolescents were sent to New Zealand from Dr Graham’s Homes in Kalimpong, India. Most were the children of British tea planters and Indian women, and faced an uncertain future in India. Their resettlement in New Zealand was in many ways a success, but it was also characterised by silence about their heritage.
-: This website is for descendants of the Kalimpong Kids, many of whom are still discovering this hidden aspect of their family history. It is also for anyone with an interest in the Kalimpong story, from which we can learn so much about memory, community and family ties.
-: <http://www.kalimpongkis.org.nz/>{:target="_blank"}
-
 * **New Zealand Women Historian's Forum**
-: **Description**: A place to connect, share and advance the work of women historians of Aotearoa New Zealand.
+:  place to connect, share and advance the work of women historians of Aotearoa New Zealand.
 : <https://newzealandwomenhistoriansforum.wordpress.com/>{:target="_blank"}
-
-* **RAAF P-40 Kittyhawk Accidents**
-: **Description**: A digital map of RAAF P-40 Kittyhawk Accidents in Australia between 1942 and 1946.
-: <https://public.tableau.com/profile/chao.sun#!/vizhome/AircraftCrash_0/KittyHawkAccidents>{:target="_blank"}
-
 * **Santa Cruz Trains: Railroads of the Monterey Bay Area**
 : <https://www.santacruztrains.com/>{:target="_blank"}
-
 * **Teller of Yarns**
-: **Description**: A collection of real Australian stories composed by an author, a researcher of history, and a passionate storyteller.
+: A collection of real Australian stories composed by an author, a researcher of history, and a passionate storyteller.
 : <https://www.tellerofyarns.com/>{:target="_blank"}
-
-* **Time Layered Cultural Map**
-: **Description**: This resource provides tools to help humanities researchers, including historians, and anyone interested in history, to work with digital maps. Many more history datasets will be added to this resource over the coming year.
-: <https://tlcmap.org>{:target="_blank"}
-
 * **Wellington Chinese History Wiki**
-: **Description**: Collates information relevant to the stories of Chinese in Wellington NZ.
+: Collates information relevant to the stories of Chinese in Wellington NZ.
 : <https://wellingtonchinesehistory.fandom.com/wiki/Wellington_Chinese_History_Wiki>{:target="_blank"}
 
 ## Funding and Research Opportunities
