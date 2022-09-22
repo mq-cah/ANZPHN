@@ -157,7 +157,7 @@ We have collated a list of public and applied history theses produced in, or con
 : **Closing Date**: 24 February 2022
 : **More Information**: <https://www.capstoneediting.com.au/midcareer-grant>
 
-## Jobs
+## Jobs and Work
 * Assistant / Early Associate Professor, Cornell University
 : **Description**:
 : The Department of History at Cornell University is searching for an assistant or early associate professor of public history and/or public memory, with a focus on the Global South, Europe, indigenous communities, and/or transnational/transregional history, to complement current research and teaching in the department’s [Public History Initiative](http://phi.history.cornell.edu). We seek a scholar with a PhD in History or a related field who is also grounded in theoretical and methodological approaches in public history and memory studies, including, but not limited to commemorative practices, historic sites, digital media, museums, libraries, archives, and/or local communities.
