@@ -42,15 +42,18 @@ We have collated a list of public and applied history theses produced in, or con
 * **GLAM Workbench**
 : "Here you’ll find a collection of tools, tutorials, examples, and hacks to help you work with data from galleries, libraries, archives, and museums (the GLAM sector). The primary focus is Australia and New Zealand, but new collections are being added all the time. Let me know if there’s some GLAM data you’d like me to explore – suggestions are always welcome!" T. Sherratt
 : <https://glam-workbench.net/>{:target="_blank"}
-* **Trove Newspaper Harvester**
-: Tool for bulk harvests of digitised newspaper articles from Trove
-: <https://pypi.org/project/trove-newspaper-harvester/>{:target="_blank"}
 * **Time Layered Cultural Map**
 : This resource provides tools to help humanities researchers, including historians, and anyone interested in history, to work with digital maps. Many more history datasets will be added to this resource over the coming year.
 : <https://tlcmap.org>{:target="_blank"}
 * **Trove**
 : Trove is a collaboration between the National Library of Australia and hundreds of Partner organisations around Australia.
 : <https://trove.nla.gov.au/>{:target="_blank"}
+* **Trove Newspapers: Data Dashboard**
+: Trove's collection of digitised newspapers is always changing – new articles and newspapers are being added by the NLA, while Trove users are busy correcting OCRd text and adding tags and comments. The search you run today might produce different results than the same query did a month ago, a year ago, or ten years ago. Researchers need to understand how these changes affect the queries they make, the results they find, and the arguments they construct. This dashboard helps researchers understand the context of their queries by presenting a snapshot of Trove's digitised newspapers, based on weekly data harvests. It shows Trove's current make up from a number of angles, as well as highlighting recent changes. It is updated every Sunday.
+: <https://wragge.github.io/trove-newspaper-totals/>{:target"_blank}
+* **Trove Newspaper Harvester**
+: Tool for bulk harvests of digitised newspaper articles from Trove
+: <https://pypi.org/project/trove-newspaper-harvester/>{:target="_blank"}
 
 ### Archives, Datasets, Databases
 * **Colonial Frontier Massacres in Australia**
