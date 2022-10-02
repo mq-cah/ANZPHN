@@ -9,7 +9,7 @@ header:
       url: "public_history/#call-for-contributions"
   teaser: {{ site.baseurl }}/assets/images/old_photos_1_banner_small.jpg 
 excerpt: >
-    The _AAPHN_ would like to gather data on memberswork with diverse external partners to reveal the benefits and positive impact of that work.
+  The _AAPHN_ would like to gather data on members' work with diverse external partners to reveal the benefits and positive impact of that work.
 categories:
   - Public_History 
 tags: 
