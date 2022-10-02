@@ -3,6 +3,7 @@ title: "Citizenship Matters: Call for Contributions"
 author: tanya evans
 header:
   overlay_image: /assets/images/old_photos_1_banner_small.jpg
+  overlay_filter: 0.25
   caption: "© State Library of NSW. Photo by Joy Lai"
   actions:
     - label: "Read Below"
