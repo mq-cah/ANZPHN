@@ -56,13 +56,16 @@ We have collated a list of public and applied history theses produced in, or con
 : <https://pypi.org/project/trove-newspaper-harvester/>{:target="_blank"}
 
 ### Archives, Datasets, Databases
-* **Colonial Frontier Massacres in Australia**
-: A map and information about massacres on the Australian Colonial Frontier.
+* **Colonial Frontier Massacres in Australia (Interactive Map)**
+: An interactive map and information about massacres on the Australian Colonial Frontier.
 : <https://c21ch.newcastle.edu.au/colonialmassacres/>{:target="_blank"}
 * **DigitalNZ / Ā-Tihi o Aotearoa**
 : Search digital collections from all over Aotearoa
 : **Twitter**: [@DigitalNZ](https://twitter.com/DigitalNZ){:target="_blank"}
 : <https://digitalnz.org/>{:target="_blank"}
+* **QLD State Archives: Frontier wars**
+: Archive access and information for accessing and researching QLD Frontier wars.
+: <https://www.qld.gov.au/recreation/arts/heritage/archives/collection/war/frontier-wars>{:target="_blank"}
 * **Kalimpong Kids**
 : Between 1908 and 1938, 130 Anglo-Indian adolescents were sent to New Zealand from Dr Graham’s Homes in Kalimpong, India. Most were the children of British tea planters and Indian women, and faced an uncertain future in India. Their resettlement in New Zealand was in many ways a success, but it was also characterised by silence about their heritage.
 : This website is for descendants of the Kalimpong Kids, many of whom are still discovering this hidden aspect of their family history. It is also for anyone with an interest in the Kalimpong story, from which we can learn so much about memory, community and family ties.
@@ -73,6 +76,11 @@ We have collated a list of public and applied history theses produced in, or con
 * **RAAF P-40 Kittyhawk Accidents**
 : A digital map of RAAF P-40 Kittyhawk Accidents in Australia between 1942 and 1946.
 : <https://public.tableau.com/profile/chao.sun#!/vizhome/AircraftCrash_0/KittyHawkAccidents>{:target="_blank"}
+
+### Websites
+* **Australian Frontier Conflicts 1788-1940s and Beyond**
+: Welcome the the Australian Frontier Conflicts (1788-1940s and Beyond) website that seeks to document the conflicts between European colonists and Australian Aboriginal and Torres Straight Islander peoples.
+: <https://australianfrontierconflicts.com.au/>{:target)"_blank"}
 
 ### Guides, Online Workshops, Courses
 * **DIY Digital Archaeology**
@@ -85,15 +93,21 @@ We have collated a list of public and applied history theses produced in, or con
 : A collection of tools and resources to work with Trove data using the GLAM workbench.
 : <https://updates.timsherratt.org/2022/05/02/working-with-trove.html>{:target="_blank"}
 
-### Blogs, Webpages, Forums, Wikis
+### Blogs, Webpages, Forums, Wikis, Podcasts
 * **An Intimate Pandemic: The Community Impact of Influenza in 1919**
 : <https://www.rahs.org.au/an-intimate-pandemic-the-community-impact-of-influenza-in-1919/>{:target="_blank"}
+* **Australian histories Podcast**
+: Australian History: Brilliant stories from Australia’s past.
+: <https://ahp.podbean.com/>{:target="_blank"}
 * **Camden History Notes Blog**
 : The aim of the Camden History Notes blog is telling stories about the characters, events, general goings and changing landscapes of the Macarthur region of New South Wales, and occasionally elsewhere.
 : Originally occupied by the Indigenous Dharawal people it is one the fastest, growing areas in Australia with its master-planned housing estates and peri-urban farmland around the historic communities of Camden, Campbelltown and Picton on Sydney’s southwestern urban fringe.
 : <https://camdenhistorynotes.com/>{:target="_blank"}
 * **Colourful Histories**
 : <https://colourfulhistories.wordpress.com/>{:target="_blank"}
+* **Frontier War Stories Podcast**
+: Frontier War Stories - a podcast dedicated to truth-telling about a side of Australian that has been left out of the history books.
+: <https://boespearim.podbean.com/>{:target="_blank"}
 * **New Zealand Women Historian's Forum**
 :  place to connect, share and advance the work of women historians of Aotearoa New Zealand.
 : <https://newzealandwomenhistoriansforum.wordpress.com/>{:target="_blank"}
