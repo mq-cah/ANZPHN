@@ -19,7 +19,16 @@ _If you would like to list your own event with the AAPHN, please get in touch wi
 : **Macquarie University Events**: "Macquarie is celebrating History Week 2022 with a range of events, workshops and discussions that celebrate Macquarie’s rich connection to the past.
 From handling objects out of the Macquarie University History Museum collection, a discussion on the temporary exhibition ‘East Meets West: The Crusades and the Age of Decolonisation’ with museum tours following, a book sale and a catered celebration to round-out the week –- there’s something for everyone." More information is available on [the Macquarie University web page](https://www.mq.edu.au/thisweek/2022/08/24/history-week-2022/){:target"_blank"}
 
-### Seminar Series and Talks
+### Seminar Series, Panels and Talks
+**30th anniversary of Professional Historians Assoc. (Vic & Tas)**
+: Join PHA (Vic & Tas) members at Graduate House to celebrate three decades of this Association. The celebrations present a social networking opportunity with a special panel featuring foundational, intermediate and new members reflecting on their experiences over 30 years of the PHA (Vic & Tas).
+: **Venue**: Graduate House, 220 Leicester Street, Carlton, 3053
+: **Date**: Sunday 13 November 2022
+: **Time**: 2pm - 5pm
+: **Cost**: $60 for canapes, complimentary drink on arrival, cake, tea and coffee 
+: **RSVP**: Sunday 6 November at <https://phavic.wildapricot.org/event-4877675>{:target="_blank"}
+: **Flyer**: [See this PDF for more information]({{ site.baseurl }}/assets/files/pha_30th_anniversary_notice.pdf){:target="_blank"}
+
 **Mothering in Crisis: Family, Disaster and Climate Change**
 : Join us to hear the initial findings of "Mothering in Crisis", a Melbourne Climate Futures CRX Project headed by Dr Carla Pascoe Leahy and Dr Julia Hurst. Climate change is sparking more frequent and more intense environmental disasters, with worse forecast across this century. As a population group with a heightened care burden during disasters, as well as an explicit investment in the future in the form of their children, mothers are particularly impacted by worsening environmental crises. Yet we know very little about how Australian mothers are experiencing the climate-fuelled disasters of the twenty-first century, how their experiences compare to other time periods, and what kinds of support would benefit families in an era of radical environmental change.
 : This free seminar will present the findings from the first stage of "Mothering in Crisis", a project led by Dr Carla Pascoe Leahy and Dr Julia Hurst. Funded by Melbourne Climate Futures CRX (Climate Research Accelerator) at the University of Melbourne, the project fills a critical research gap into mothers’ experiences in a period of rapid environmental change. Presentation of project findings and discussion time will be followed by lunch. Both in-person* and online participation is available.
