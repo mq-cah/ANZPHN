@@ -77,6 +77,11 @@ We have collated a list of public and applied history theses produced in, or con
 : A digital map of RAAF P-40 Kittyhawk Accidents in Australia between 1942 and 1946.
 : <https://public.tableau.com/profile/chao.sun#!/vizhome/AircraftCrash_0/KittyHawkAccidents>{:target="_blank"}
 
+### Teaching Resources
+* **Ancient Rome in Motion**
+: Ancient Rome in Motion (ARM) develops high-quality, research-led content, to support the teaching of Ancient History in High Schools and to engage the wider public. ARM creates content for short animated films that are designed to be accessible to a teenage audience, alongside additional resources for teachers to build lessons around these films. The films create an environment for better student engagement and curiosity, whilst at the same time delivering content based on the latest academic research on Roman history and archaeology. 
+: <https://www.patreon.com/user?u=83152769>{:target="_blank"}
+
 ### Websites
 * **Australian Frontier Conflicts 1788-1940s and Beyond**
 : Welcome the the Australian Frontier Conflicts (1788-1940s and Beyond) website that seeks to document the conflicts between European colonists and Australian Aboriginal and Torres Straight Islander peoples.

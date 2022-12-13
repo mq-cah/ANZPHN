@@ -15,6 +15,11 @@ Browse the many wonderful projects being undertaken by our vast network of pract
 
 ## A-D
 
+**Ancient Rome in Motion (ARM)**
+: **Project Description** Ancient Rome in Motion (ARM) develops high-quality, research-led content, to support the teaching of Ancient History in High Schools and to engage the wider public. ARM creates content for short animated films that are designed to be accessible to a teenage audience, alongside additional resources for teachers to build lessons around these films. The films create an environment for better student engagement and curiosity, whilst at the same time delivering content based on the latest academic research on Roman history and archaeology. 
+: **Status** Active
+: **Website** <https://www.patreon.com/user?u=83152769>{:target="_blank"}
+
 **Colonial Frontier Massacres in Australia**
 : **Project Description** A map and information about massacres on the Australian Colonial Frontier.
 : **Status** Active
