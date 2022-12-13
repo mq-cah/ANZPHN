@@ -38,6 +38,8 @@ We have collated a list of public and applied history theses produced in, or con
 * Theses bibliographic file: [.BIB]({{ site.baseurl }}/assets/PublicHistoryTheses.bib){:target="_blank"}
 
 ## Web resources
+These categories of resources overlap, but if you would like your resource put under another heading, do please get in touch at <aaphn@mq.edu.au>.
+
 ### Research Tools
 * **GLAM Workbench**
 : "Here you’ll find a collection of tools, tutorials, examples, and hacks to help you work with data from galleries, libraries, archives, and museums (the GLAM sector). The primary focus is Australia and New Zealand, but new collections are being added all the time. Let me know if there’s some GLAM data you’d like me to explore – suggestions are always welcome!" T. Sherratt
