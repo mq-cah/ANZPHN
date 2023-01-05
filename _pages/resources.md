@@ -130,7 +130,11 @@ These categories of resources overlap, but if you would like your resource put u
 ## Funding and Research Opportunities
 ### Postgraduate Study
 **Open**
-* _There are currently no open Fellowships. Contact us at <aaphn@mq.edu.au> if you have one you would like to advertise._
+* European PhD Scholarship Opportunity with PHACS
+: **Description**: _The Public History as the New Citizen Science of the Past_ (PHACS) team at the _Center for Contemporary and Digital History_ (C²DH) (University of Luxembourg) calls for PhD applicants in Public History. PHACS is looking for motivated and qualified candidates who are interested in developing, with their help, an application for an individual AFR PhD grant by the _National Research Fund_. The doctoral project represents an excellent opportunity for qualified students to contribute to the knowledge and practice of public history in a European context. If selected for an AFR, the PhD candidate will be offered a work contract (up to 4 years) and will work on their PhD thesis with supervisors in the PHACS team.
+: **Application**: A cover letter; CV; and project description for PhD project. **See flyer below for more information**. Send to phacs@uni.lu
+: **Closing date**: January 22, 2023 at midnight CET (Luxembourg time)
+: **More information**: Please read [this information flyer]({{ site.baseurl }}/assets/files/PHACS_AFR_call.pdf){:target="_blank"} **before applying**
 
 **Closed**
 * Co-tutelle PhD Opportunity with Macquarie University and the University of Bristol: 2022-2025
