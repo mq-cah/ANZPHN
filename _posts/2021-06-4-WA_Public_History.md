@@ -77,3 +77,6 @@ Baige Zylstra, ‘“Those riches of which we are so proud”: Western Australia
 
 ## Lectures
 Philippa Maddern, '"The Past Is Not What It Used to Be": The Future of Western Australian History', History Council of Western Australia Annual Lecture (2012).
+
+
+_All content on the blog is distributed under [Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}._

@@ -47,3 +47,5 @@ Curthoys, Ann. 2000. “An Uneasy Conversation: The Multicultural and the Indige
 Ganter, Regina. 2006. _Mixed Relations: Asian–Aboriginal Contact in North Australia_. Crawley, W.A.: University of Western Australia Press. [Trove Record](https://catalogue.nla.gov.au/Record/3293318){:target="_blank"}
 
 Stephenson, Peta. 2007. _The Outsiders Within: Telling Australia’s Indigenous-Asian Story_. Sydney: UNSW Press. [Trove Record](https://catalogue.nla.gov.au/Record/3771971){:target="_blank"}
+
+_All content on the blog is distributed under [Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}._

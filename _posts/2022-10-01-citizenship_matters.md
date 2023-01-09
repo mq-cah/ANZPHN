@@ -57,3 +57,5 @@ I show how family history fosters inter-generational and cross-cultural, religio
 Family History, Historical Consciousness and Citizenship reveals that family historians collect and analyse varied historical sources, including oral testimony, archival documents, pictures and objects of material culture. This book reveals how people are thinking historically outside academia, what historical skills they are using to produce historical knowledge, what knowledge is being produced and what impact that can have on them, their communities and scholars. 
  
 * Family History, _Historical Consciousness and Citizenship: A New Social History_, (Bloomsbury, 2022), [https://www.bloomsbury.com/uk/family-history-historical-consciousness-and-citizenship-9781350212060/](https://www.bloomsbury.com/uk/family-history-historical-consciousness-and-citizenship-9781350212060/){:target="_blank"}
+
+_All content on the blog is distributed under [Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}._

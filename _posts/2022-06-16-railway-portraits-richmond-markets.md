@@ -34,3 +34,6 @@ This event and these works, for me, illuminate the beauty of community public hi
 
 # Railway Portraits
 If you want to get yourselves one of the five volumes (or the whole set), you sure can. One could even, I'm sure, ask their library to buy the set. Several purchasing deals are offered: $55 for 1, $90 for 2, $130 for 3, $170 for 4 and all 5 for $200. Please email <railwayportraits@aapt.net.au>, contact (02) 4757 3570, or, better yet, pop down to the markets and have a yarn as well. Trust me, it will be worth it.
+
+
+_All content on the blog is distributed under [Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}._

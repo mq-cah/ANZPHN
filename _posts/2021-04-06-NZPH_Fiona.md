@@ -78,3 +78,5 @@ In 2000, the Historical Branch was relocated to Manatū Taonga, the Ministry for
 - Te Ara: The Encyclopedia of New Zealand, [accessible here](https://teara.govt.nz/en){:target="_blank"}
 - Whakakitenga, first Māori VR film, [accessible here](https://www.wgtn.ac.nz/victorious/issues/victorious-2020/soaring-into-an-historical-maori-worldview-with-vr){:target="_blank"}
 - Women Together – Ngā Rōpu Wāhine o te Motu, [accessible here](https://nzhistory.govt.nz/women-together){:target="_blank"}
+
+_All content on the blog is distributed under [Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}._

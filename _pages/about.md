@@ -21,6 +21,8 @@ In order to create opportunities to "*communicate, meet and share knowledge amon
 
 In order to "*promote teaching, research and engagements between these diverse communities*" through the AAPHN, this website is home to a [blog]({{ site.baseurl }}/posts/){:target="_blank"} where history practitioners and enthusiasts from across Australia and Aotearoa NZ can disseminate their research, history and culture, as well as provide updates about their respective fields and regions. If you would like to contribute to this resource please send through a short (~150 word) description of your proposed post to <aaphn@mq.edu.au> and we will inform you of the rest of the submission process. We are accepting entries from all members of our network on any topic to do with public history or the application of history in public settings. If you have any questions about content on our website please also do not hesitate to get in contact with us.
 
+All content on the blog is distributed under [Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}.
+
 ### AAPHN Newsletter
 
 We have a virtual AAPHN newsletter which we distribute via our email contact list to all of our network members. This newsletter will contain information about upcoming events and funding opportunities, and will also highlight some of the popular posts from the AAPHN [blog]({{ site.baseurl }}/posts/){:target="_blank"}. If you are not a member, but would like to receive this newsletter (as well as other communications from the AAPHN) or would like to have an event or funding opportunity advertised, please subscribe to our mailing list by following [this link here](http://eepurl.com/hRFpxv){:target="_blank"}.

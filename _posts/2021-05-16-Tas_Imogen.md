@@ -59,3 +59,5 @@ For several reasons, including the state’s convict heritage and its demographi
 - W Bryden, ‘Tasmanian Museum and Art Gallery: Historical Note’, Papers and Proceedings of the Royal Society of Tasmania 100 (1966): 23.
 - Mary Koolhof, ‘Apology by the Royal Society of Tasmania to the Aboriginal People of Tasmania’ (Hobart, Australia, 15 February 2021), https://rst.org.au/wp-content/uploads/2021/02/RST-2021-Apology-to-Tasmanian-Aboriginal-People-for-the-web.pdf
 - Brett Torossi, ‘Apology to Tasmanian Aboriginal People’ (Hobart, Australia, Department of State Growth, 15 February 2021), https://www.tmag.tas.gov.au/about_us/apology_to_tasmanian_aboriginal_people.
+
+_All content on the blog is distributed under [Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}._

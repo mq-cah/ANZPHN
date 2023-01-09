@@ -116,3 +116,5 @@ their presence in activities that work with the past in the present. And
 to ensure a stronger profile, they need to be explicit and vocal about
 the social benefits of public history and to work across different
 media.
+
+_All content on the blog is distributed under [Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}._

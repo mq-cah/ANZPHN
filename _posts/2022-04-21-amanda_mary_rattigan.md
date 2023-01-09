@@ -374,3 +374,6 @@ Shipping lists inc. Aust shipping 1788-1968 passengers and crew: Available at <w
 Site visits: local places where they lived, worked, died.
 
 Workhouse admission and discharge papers (Ireland).
+
+
+**License** _All content on the blog is distributed under [Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}._
