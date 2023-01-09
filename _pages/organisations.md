@@ -34,7 +34,7 @@ Browse the many wonderful organisations that comprise our vast network of practi
 
 ## I-L
 ## M-P
-**Professional Historians Association (PHA)**
+**Professional Historians Australia (PHA)**
 : **Website** <https://www.historians.org.au/>{:target="_blank"}
 
 **Professional Historians Association, New Zealand Aotearoa (PHANZA)**
