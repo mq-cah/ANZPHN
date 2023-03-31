@@ -1,5 +1,5 @@
 ---
-title: "Roman Archaeology Down Under: Musings about Application and Accessibility"
+title: "Roman Archaeology Down Under: Furthering Engagement through Research Accessibility"
 author: ewansc
 header:
   overlay_image: {{ site.baseurl }}/assets/images/name of banner photo.jpeg/.png
@@ -21,7 +21,7 @@ classes: wide
 to add to author.yml
 ewansc:
   name: "Ewan Coopey"
-  bio: "Ewan Coopey is PhD candidate and Research Assistant at the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"} working on several history-focused websites. His research explores the interplay between identities, communities and objects, with particular focus on Roman archaeology and epigraphy. He is passionate about public engagement and is dedicated to promoting Open Access (OA) publishing and the application of digital tools (both basic and complex) in history, archaeology and epigraphy."
+  bio: "Ewan Coopey is PhD candidate and Assistant at the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history){:target="_blank"}. His research explores the interplay between identities, communities, and objects, with particular focus on Roman archaeology and epigraphy in _Dalmatia_. He is passionate about public engagement, Open Access (OA), and the application of digital tools in history, archaeology, and epigraphy."
   avatar: assets/images/people/EwanSmall.jpeg
   links:
     - label: "EuuanXCVI"
@@ -29,21 +29,27 @@ ewansc:
     - label: "ORCID"
       url: https://orcid.org/0000-0001-8633-6418
 
-_Ewan muses about how his Roman archaeological research in Australia can intersect with public and applied history._
+_Ewan Coopey muses about another way Roman archaeological research can intersect with public and applied history in Australia._
 
 # Roman Archaeology in Australia...
-Roman archaeology in Australia &mdash; how to apply in Aussie context? What can I do? I envision this being teased out over several posts.
+Roman archaeology in Australasia &mdash; how to apply in Aussie context? 
 
-I want to engage with Public and Applied histories here (and abroad)
+...is practised in several institutions across Australia and Aoteoroa
 
-Initially, confused, but after some musing, lots of possibilities.
-Firstly, we can:
-- Applied: Apply theories and findings from people of the past to engage with issues and concepts of todays - how did humans of the past address issues we face?
-Secondly, we can do public access (online), so the geographical communities, and the Australia, can engage with the knowledge production and heritage (however they wish).
-- Public History/consumption of history: Public Access of Data and Papers to increase public accessibility and development of public histories.
-- for me: open data. People can use by data, and data of others, for free. This has pedagogical and accessible benefits: students can learn with 'real' archaeological data and physical, logistical or financial barriers for enthusiasts, students, HDRs and ECRs can be reduced by providing access to data online and free of charge for them to develop their skills. As noted by Garstki, K. (2022) ‘Introduction: Challenges of a Critical Archaeology in the Modern World’, in Garstki, K. (ed.) _Critical archaeology in the digital age_, UCLA Cotsen Institute of Archaeology Press (Cotsen digital archaeology series). Pg. 3. Available at: https://escholarship.org/uc/item/0vh9t9jq.
+...looking for more avenues to engage with community and contribute towards the consumption of Roman archaeology and history by the general populace. 
 
-Firstly, it is integral to stress as Karen Milek does that archaeological scientists &mdash; and I would argue historians &mdash; "have an ethical obligation to improve the accessibility and portability of archaeological science in order to enable citizen science" &mdash; or, I would argue again, its historical manifestation: public history &mdash; and to do so public participation, publication and outreach elements of archaeological (and epigraphic) research need to become embedded components of practices, "not an addendum relegated to 'impact statements, 'open days' or 'public engagement events'." ([Milek 2018: 41, 43](https://doi.org/10.1080/00293652.2018.1552312){:target="_blank"}) **reword, from thesis**.
+This is not to say the field does not already engage with the public. In the realm of education, for example,... new curriculum... Public lectures (Sara Bond, ccwm beer)
+
+Indeed, I agree with Karen Milek, who states that archaeologists "have an ethical obligation to improve the accessibility and portability of archaeological science in order to enable citizen science" &mdash; and, I would add to this, public history and engagement. To achieve this, open and public participation, publication, and outreach elements of research need to become embedded components of practices, "not an addendum relegated to 'impact statements, 'open days' or 'public engagement events'" ([Milek 2018: 41, 43](https://doi.org/10.1080/00293652.2018.1552312){:target="_blank"}). This is not to say these three components are not still extremely valuable pieces of the puzzle, just that they should not be the sole domains of public and community engagement.
+
+One avenue to... is to incorporate more open practices into our research methodologies, most notably (and perhaps easily) open access publication practices and (where circumstances permit) open data.
+
+For me specifically: open data. People can use by data, and data of others, for free. This has pedagogical and accessible benefits: students can learn with 'real' archaeological data and physical, logistical or financial barriers for enthusiasts, students, HDRs and ECRs can be reduced by providing access to data online and free of charge for them to develop their skills. As noted by Garstki, K. (2022) ‘Introduction: Challenges of a Critical Archaeology in the Modern World’, in Garstki, K. (ed.) _Critical archaeology in the digital age_, UCLA Cotsen Institute of Archaeology Press (Cotsen digital archaeology series). Pg. 3. Available at: https://escholarship.org/uc/item/0vh9t9jq.
+
+There are challenges -- the artefacts and analyses must be produced in ways where they can be engaged with by the public: archaeological data can sometimes require computer skills to properly 'use' --- but any tables, visualisations, maps, images, and other outputs produced by analysis of the data are a good start (e.g. internet archaeology volume) and there are data publishing services which host datasets on websites with relatively user friendly user interfaces with drop down menus, such as open context or _ADS_?
+
+Facilitate engagement beyond, or following, the 'open days' and 'public engagement events' mentioned above, as well as facilitate engagement with research papers and archaeological data in secondary and even primary education contexts (Marwick 2021?). It also allows communities to engage with the knowledge production however they wish --- who knows what questions they may ask?
+
 
 # Reading List
 Marwick 2021
