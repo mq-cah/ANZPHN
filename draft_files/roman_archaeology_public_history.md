@@ -50,6 +50,7 @@ There are challenges -- the artefacts and analyses must be produced in ways wher
 
 Facilitate engagement beyond, or following, the 'open days' and 'public engagement events' mentioned above, as well as facilitate engagement with research papers and archaeological data in secondary and even primary education contexts (Marwick 2021?). It also allows communities to engage with the knowledge production however they wish --- who knows what questions they may ask?
 
+Want to show students my data -- see how they engage with it, see what they think is missing, co-design a database that captures more data
 
 # Reading List
 Marwick 2021
