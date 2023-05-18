@@ -35,9 +35,11 @@ There are of course challenges. For one, artefacts and analyses must be produced
 
 That said, nothing is ever easy, and I think increased engagement with OA practices can help Australasian-based archaeologists of the Roman world facilitate engagement beyond, or following, the 'open days' and 'public engagement events' mentioned above. It would allow interested communities to engage with knowledge production however and whenever they wish, and I for one cannot wait to hear what questions they ask.
 
-# Further reading List
-Garstki, K. (2022) ‘Introduction: Challenges of a Critical Archaeology in the Modern World’, in Garstki, K. (ed.) _Critical archaeology in the digital age_, UCLA Cotsen Institute of Archaeology Press (Cotsen digital archaeology series). <https://escholarship.org/uc/item/0vh9t9jq>{:target="_blank"}.
+# Further reading and watching
+YouTube Series on Open Linked Archaeological Data by The Fitzwilliam Museum: <https://www.youtube.com/watch?v=mMR6JQ1M6qE>{:target="_blank"}; <https://www.youtube.com/watch?v=0m79yDb4AzE&t=49s>{:target="_blank"}
 
-Hillard, Tom. W. (1998). Ancient history in a modern university: proceedings of a conference held at Macquarie University, 8-13 July, 1993: to mark twenty-five years of the teaching of ancient history at Macquarie University and the retirement from the chair of professor Edwin Judge. <https://catalogue.nla.gov.au/Record/530778>{:target="_blank"}.\
+Garstki, Kevin (2022) ‘Introduction: Challenges of a Critical Archaeology in the Modern World’ _Critical archaeology in the digital age. <https://escholarship.org/uc/item/0vh9t9jq>{:target="_blank"}
 
-Marwick, Ben. (2020). ‘Open Access to Publications to Expand Participation in Archaeology’. Norwegian Archaeological Review 53 (2): 163–69. <https://doi.org/10.1080/00293652.2020.1837233>{:target="_blank"}.
+Hillard, Tom W. (1998) _Ancient history in a modern university_. <https://catalogue.nla.gov.au/Record/530778>{:target="_blank"}
+
+Marwick, Ben (2020) ‘Open Access to Publications to Expand Participation in Archaeology’ _NAW_ 53(2): 163–69. <https://doi.org/10.1080/00293652.2020.1837233>{:target="_blank"}
