@@ -61,8 +61,8 @@ daozhixu:
   links:
 ewansc:
   name: "Ewan Coopey"
-  bio: "Ewan Coopey is PhD candidate and Research Assistant at the Centre for Applied History working on several history-focused websites. His research explores the interplay between identities, communities and objects, with particular focus on Roman archaeology and epigraphy. He is passionate about public engagement and is dedicated to promoting open research and the application of digital tools (both basic and complex)."
+  bio: "Ewan Coopey is PhD candidate, archaeologist and assistant at the Centre for Applied History. His research explores the interplay between Roman communities and objects, with particular focus on Roman archaeology and epigraphy. He is passionate about public engagement, digital tools, and open research practices."
   avatar: assets/images/people/EwanSmall.jpeg
   links:
-    - label: "Research Profile"
-      url: https://researchers.mq.edu.au/en/persons/ewan-coopey
+    - label: "ORCID"
+      url: https://orcid.org/0000-0001-8633-6418
