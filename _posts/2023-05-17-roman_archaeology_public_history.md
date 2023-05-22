@@ -2,12 +2,12 @@
 title: "Roman Archaeology Down Under: Facilitating Engagement through Openness"
 author: ewansc
 header:
-  overlay_image: {{ site.baseurl }}/assets/images/ewan/Open_Data_stickers.jpg
+  overlay_image: /assets/images/ewan/Open_Data_stickers.jpg
   caption: "Open Data stickers. WikiCommons. CC0"
   actions:
     - label: "Read Below"
       url: "URL to first heading"
-  teaser: {{ site.baseurl }}/assets/images/ewan/Open_Data_stickers.jpg
+  teaser: /assets/images/ewan/Open_Data_stickers.jpg
   "Ewan briefly overviews a way Roman archaeological research can intersect with public history in Australia: Open Access."
 categories:
   - Public_History
