@@ -8,6 +8,7 @@ header:
     - label: "Read Below"
       url: "URL to first heading"
   teaser: /assets/images/ewan/Open_Data_stickers.jpg
+excerpt: >
   "Ewan briefly overviews a way Roman archaeological research can intersect with public history in Australia: Open Access."
 categories:
   - Public_History
