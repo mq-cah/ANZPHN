@@ -10,7 +10,7 @@ header:
       url: "public_history/roman_archaeology_public_history/#roman-archaeology-down-under"
   teaser: /assets/images/ewan/Open_Data_stickers.jpg
 excerpt: >
-  "Ewan briefly overviews a way Roman archaeological research can intersect with public history in Australia: Open Access."
+  "Ewan muses about how Roman archaeological research can intersect with public history in Australia: Open Access."
 categories:
   - Public_History
 tags:
@@ -19,7 +19,7 @@ tags:
   - open data
 classes: wide
 ---
-_Ewan briefly overviews a way Roman archaeological research can intersect with public history in Australia: Open Access._
+_Ewan muses about how Roman archaeological research can intersect with public history in Australia: Open Access._
 
 # Roman archaeology down under
 Roman archaeology is offered in several institutions across Australia and Aoteoroa (New Zealand), from the University of Western Australia to Otago University, typically as a component of history or archaeology degrees. There are also several projects and a sizeable contingent of active researchers in the field, many of whom are members of groups such as the Mediterranean Archaeology Australasian Research Community [MAARC](https://mediterraneanarcha.wixsite.com/maarc){:target="_blank"} and the Australasian Society for Classical Studies [ASCS](https://www.ascs.org.au/){:target="_blank"}.
