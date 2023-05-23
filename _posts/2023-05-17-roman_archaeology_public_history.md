@@ -38,7 +38,7 @@ There are of course challenges. For one, artefacts and analyses must be produced
 That said, nothing is ever easy, and by incorporating OA practices into our research from the start we will confront (or begin to confront) several of these key issues. Which will be worth it, because increased engagement with OA practices can help Australasian-based archaeologists of the Roman world facilitate engagement beyond, or following, the 'open days' and 'public engagement events' mentioned above --- allowing interested communities to engage with knowledge production however and whenever they wish. I for one cannot wait to hear what questions they ask.
 
 # Further reading and watching
-YouTube Series on Open Linked Archaeological Data by The Fitzwilliam Museum: [YouTube](https://www.youtube.com/watch?v=mMR6JQ1M6qE){:target="_blank"}; <https://www.youtube.com/watch?v=0m79yDb4AzE&t=49s>{:target="_blank"}
+YouTube Series on Open Linked Archaeological Data by The Fitzwilliam Museum: [YouTube](https://www.youtube.com/watch?v=mMR6JQ1M6qE){:target="_blank"}
 
 Garstki, Kevin (2022) ‘Introduction: Challenges of a Critical Archaeology in the Modern World’ _Critical archaeology in the digital age_. <https://escholarship.org/uc/item/0vh9t9jq>{:target="_blank"}
 
