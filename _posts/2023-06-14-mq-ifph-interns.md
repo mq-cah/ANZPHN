@@ -8,7 +8,7 @@ header:
       - label: "Read Below"
       url: "public_history/mq-ifph-interns/#macquarie-university-interns-with-the-ifph"
 excerpt: >
-  "Two MQ interns were recently hosted by the IFPH Explorers, lets here about their experience..."
+  "Two MQ interns were recently hosted by the IFPH Explorers, let's hear about their experience..."
 categories:
   - Public_History
 tags:
@@ -17,7 +17,7 @@ tags:
   - students
 classes: wide
 ---
-_Two MQ interns were recently hosted by the IFPH Explorers, lets here about their experience..._
+_Two MQ interns were recently hosted by the IFPH Explorers, let's hear about their experience..._
 
 # Macquarie University Interns with the IFPH
 During the first semester of 2023, Macquarie University Undergraduate student Tamsin Martin asnd Imogen Less interned with the [IFPH Explorers](https://ifph.hypotheses.org/ifph-explorers). They did an internship with the Explorers due to their interest in public history and did a great job! Listen to them discuss their work here:
