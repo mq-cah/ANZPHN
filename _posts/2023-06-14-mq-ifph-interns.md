@@ -1,10 +1,10 @@
 ---
-title: "Macquarie Students at the IFPH"
+title: "Macquarie University Students at the IFPH"
 author: ewansc
 header:
-  video:
-    id: 830973852
-    provider: vimeo
+  overlay_image: /assets/images/old_photos_1_banner.jpg
+  caption: "© State Library of NSW. Photo by Joy Lai"
+  overlay_filter: 0.5
       - label: "Read Below"
       url: "public_history/mq-ifph-interns/#macquarie-university-interns-with-the-ifph"
 excerpt: >
