@@ -5,9 +5,6 @@ header:
   overlay_image: /assets/images/old_photos_1_banner.jpg
   overlay_filter: 0.25
   caption: "© State Library of NSW. Photo by Joy Lai"
-  actions:
-    - label: "Read Below"
-      url: "public_history/mq-ifph-interns/#macquarie-university-interns-with-the-ifph"
   teaser: /assets/images/old_photos_1_banner.jpg
 excerpt: >
   "Two MQ interns were recently hosted by the IFPH Explorers, let's hear about their experience..."
