@@ -48,7 +48,7 @@ But it also does much more than this. Some of our students make an explicit conn
 * Tanya Evans and Melanie Burkett, 'The Pedagogical and Social Value of Public History and Work Integrated Learning: a Case Study from Australia', _Cultural and Social History_, published online 2nd February 2022. [https://socialhistory.org.uk/shs_exchange/the-value-of-public-history/](https://socialhistory.org.uk/shs_exchange/the-value-of-public-history/){:target="_blank"}
 
 ## Example 2
-**The positive impact of family history researchOver the past decade I have researched the impact of undertaking family history research on individuals.**
+**The positive impact of family history research: Over the past decade I have researched the impact of undertaking family history research on individuals.**
 
 Family history is one of the most widely practiced forms of public history around the globe, especially in settler migrant nations like Australia and Canada. It empowers millions of researchers, linking the past to the present in powerful ways, transforming individuals' understandings of themselves and the world. My latest book Family History, Historical Consciousness and Citizenship: A New Social History examines the practice, meanings and impact of undertaking family history research for individuals and society more broadly.
 
