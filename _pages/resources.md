@@ -115,6 +115,10 @@ These categories of resources overlap, but if you would like your resource put u
 * **Frontier War Stories Podcast**
 : Frontier War Stories - a podcast dedicated to truth-telling about a side of Australian that has been left out of the history books.
 : <https://boespearim.podbean.com/>{:target="_blank"}
+* **History Council NSW**
+: The History Council NSW has a collection of podcasts and videos on a myriad of public hsitory topics on their website and their YouTube Channel.
+: Podcasts:  <https://historycouncilnsw.org.au/podcasts/>{:target="_blank"}
+: Videos:  <https://www.youtube.com/c/historycouncilofnewsouthwalesinc>{:target="_blank"}
 * **New Zealand Women Historian's Forum**
 :  place to connect, share and advance the work of women historians of Aotearoa New Zealand.
 : <https://newzealandwomenhistoriansforum.wordpress.com/>{:target="_blank"}
