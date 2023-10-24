@@ -8,6 +8,9 @@ excerpt: >
 ---
 _If you would like to list your own event with the AAPHN, please get in touch with <aaphn@mq.edu.au>_
 
+## Newsletter and Communications
+In addition to general membership communications and updates, we send out a newsletter bi-annually which records any upcoming events concerning public history in Australasia. If you would like to make a post about an upcoming event or would like for it to be included in our next newsletter, please contact the AAPHN team at <aaphn@mq.edu.au>. Also, keep updated on our social media, where we post and share information concerning many upcoming events. Twitter: [@aaphnetwork](https://twitter.com/aaphnetwork){:target="_blank"}.
+
 ## Upcoming Events
 ### Seminar Series, Panels and Talks
 **Auckland Libraries: Heritage _Talks_ / Waha Pū-Taonga**
@@ -55,6 +58,3 @@ life across diverse spaces in the globe will be a valuable addition to the discu
 **Mothering in Crisis: Family, Disaster and Climate Change**
 : Join us to hear the initial findings of "Mothering in Crisis", a Melbourne Climate Futures CRX Project headed by Dr Carla Pascoe Leahy and Dr Julia Hurst. Climate change is sparking more frequent and more intense environmental disasters, with worse forecast across this century. As a population group with a heightened care burden during disasters, as well as an explicit investment in the future in the form of their children, mothers are particularly impacted by worsening environmental crises. Yet we know very little about how Australian mothers are experiencing the climate-fuelled disasters of the twenty-first century, how their experiences compare to other time periods, and what kinds of support would benefit families in an era of radical environmental change.
 : This free seminar will present the findings from the first stage of "Mothering in Crisis", a project led by Dr Carla Pascoe Leahy and Dr Julia Hurst. Funded by Melbourne Climate Futures CRX (Climate Research Accelerator) at the University of Melbourne, the project fills a critical research gap into mothers’ experiences in a period of rapid environmental change. Presentation of project findings and discussion time will be followed by lunch. Both in-person* and online participation is available.
-
-## Newsletter and Communications
-In addition to general membership communications and updates, we send out a newsletter bi-annually which records any upcoming events concerning public history in Australasia. If you would like to make a post about an upcoming event or would like for it to be included in our next newsletter, please contact the AAPHN team at <aaphn@mq.edu.au>. Also, keep updated on our social media, where we post and share information concerning many upcoming events. Twitter: [@aaphnetwork](https://twitter.com/aaphnetwork){:target="_blank"}.
