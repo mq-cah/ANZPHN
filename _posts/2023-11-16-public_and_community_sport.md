@@ -41,7 +41,7 @@ Register via eventbrite: [eventbrite.com.au](https://www.eventbrite.com.au/e/pub
   ------------ ------------------------- --------------------------------
   Taylah Evans History & Archaeology,    Improving boys mentally,
                Macquarie University      morally, and physically: A
-                                         history of the Police Citizen\'s
+                                         history of the Police Citizen's
                                          Youth Club (PCYC)
   -----------------------------------------------------------------------
   Sarah        Political Science,        Participatory archives and sport
@@ -94,7 +94,7 @@ Sporting History**
                                               Street Art in Australia
   -----------------------------------------------------------------------
   Gary Osmond & Murray Human Movement &       Indigenous sport histories:
-  Phillips             Nutrition Sciences,    Cherbourg\'s Marching Girls
+  Phillips             Nutrition Sciences,    Cherbourg's Marching Girls
                        University of          and the co-creation of
                        Queensland             public history
   -----------------------------------------------------------------------
@@ -105,7 +105,7 @@ Sporting History**
 
   ------------------------------------------------------------------------
   Katrina              Archivist, York        Representing the grassroots
-  Cohen-Palacios       University             history of women+\'s sports
+  Cohen-Palacios       University             history of women's sports
                                               on Wikipedia
   -------------------- ---------------------- ----------------------------
   Jane Hunt            Australian Studies,    From motions to missions:
