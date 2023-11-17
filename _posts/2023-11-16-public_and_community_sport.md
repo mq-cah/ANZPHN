@@ -18,6 +18,7 @@ classes: wide
 ---
 # Public Sport History and Community Sport
 Register for the upcoming Public Sport History and Community Sport Symposium. 
+
 ## When
 **Tues 5th December 2023, Macquarie University**
 
@@ -25,7 +26,7 @@ Register for the upcoming Public Sport History and Community Sport Symposium.
 Register via eventbrite: [eventbrite.com.au](https://www.eventbrite.com.au/e/public-sport-history-and-community-sport-tickets-753040974827){:target="_blank"}.
 
 ## PROGRAM
-Sessions in final program below. Please see [this document]({{ site.baseurl }}/assets/files/Public_Sport_History_and_Community_Sport_Draft_Program.docx){:target="_blank"} for the full program with papers and titles.
+Short program below. Please see [this document]({{ site.baseurl }}/assets/files/Public_Sport_History_and_Community_Sport_Draft_Program.docx){:target="_blank"} for the full program with papers, titles and presesnters.
 
 **8.30am -- 8.50am: Arrival/ Coffee and Tea**
 
