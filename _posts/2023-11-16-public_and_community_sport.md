@@ -22,14 +22,14 @@ _Register for the upcoming Public Sport History and Community Sport Symposium. F
 ## When
 **Tues 5^th^ December 2023, Macquarie University**
 
-## PROGRAM
+## Registration
+Register via eventbrite: [eventbrite.com.au](https://www.eventbrite.com.au/e/public-sport-history-and-community-sport-tickets-753040974827){:target="_blank"}.
 
+## PROGRAM
 **8.30am -- 8.50am: Arrival/ Coffee and Tea**
 
 **8.50am -- 10.00am: Keynote -- Guy Hansen**
-
-Grassroots: Community sport collections at the National Library of
-Australia
+* Grassroots: Community sport collections at the National Library of Australia
 
 **10.00am -- 11.30am: Memory and Sporting Public Histories**
 
