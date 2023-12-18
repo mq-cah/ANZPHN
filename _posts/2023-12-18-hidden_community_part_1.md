@@ -1,5 +1,5 @@
 ---
-title: "Hidden Community: Sydney’s Nineteenth Century Gymnasium Network. Part 1"
+title: "Hidden Community. Part 1"
 author: robertb
 header:
   overlay_image: /assets/images/old_photos_1_banner.jpg
@@ -16,8 +16,7 @@ tags:
   - sport
 classes: wide
 ---
-# Hidden Community: Sydney’s Nineteenth Century Gymnasium Network.
-
+# Sydney’s Nineteenth Century Gymnasium Network
 ## Part 1
 I have lived in Sydney all my life, thinking that I knew the CBD, and its history pretty well. I now realise that there is more to Sydney that lies beneath the foundations of modern offices and even its’ heritage buildings. The moment of rediscovery came from researching the history of gymnasiums featured among the businesses in the _Sands Postal Directory_; a nineteenth-century ‘white pages’ that circulated in Sydney between 1858 and 1933. 
 

@@ -1,5 +1,5 @@
 ---
-title: "Hidden Community: Sydney’s Nineteenth Century Gymnasium Network. Part 2"
+title: "Hidden Community. Part 2"
 author: robertb
 header:
   overlay_image: /assets/images/robertb/Picture6.jpg
@@ -16,7 +16,7 @@ tags:
   - sport
 classes: wide
 ---
-# Hidden Community: Sydney’s Nineteenth Century Gymnasium Network.
+# Sydney’s Nineteenth Century Gymnasium Network
 ## Part 2
 _Now that we understand how the gymnasium functioned, let’s have a look at how recreation, health and entertainment were reflected in these gymnasiums…_
 
@@ -113,12 +113,12 @@ The owners, athletes and the places that were all once part of this active gymna
 : Education in the Mid-Nineteenth Century.” Espacio, tiempo y educación 5, no. 1 261–279.
 
 **Images**
-: 1870. Hyde Park looking toward Liverpool St., 1870. SPF/892. Mitchell Library, State Library of New South Wales.
-: 1885. Larry Foley's White Horse Hotel in George Street, Sydney, with the Sudan regiment passing by 1885. National Library of Australia.
-: 1889. At the Ladies’ Gymnasium. The Illustrated Sydney News. Trove.
-: 1920. Print - Commercial building in Liverpool Street Sydney. City of Sydney.
-: Charles Henry Hunt. 1875. Larry Foley. National Library of Australia.
-: Robert Buttiglieri. 2023. Photograph - 125 York Street. City of Sydney Council and the Royal Australian Institute of Architects.
+: (1870) Hyde Park looking toward Liverpool St., 1870. SPF/892. Mitchell Library, State Library of New South Wales.
+: (1885) Larry Foley's White Horse Hotel in George Street, Sydney, with the Sudan regiment passing by 1885. National Library of Australia.
+: (1889) At the Ladies’ Gymnasium. The Illustrated Sydney News. Trove.
+: (1920) Print - Commercial building in Liverpool Street Sydney. City of Sydney.
+: Charles Henry Hunt (1875). Larry Foley. National Library of Australia.
+: Robert Buttiglieri (2023). Photograph - 125 York Street. City of Sydney Council and the Royal Australian Institute of Architects.
 
 **Newspaper Articles**
 : Australian Town and Country Journal "Ladies' Pages."  December 1, 1888: 21.
