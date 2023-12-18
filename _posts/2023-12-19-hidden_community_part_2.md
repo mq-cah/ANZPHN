@@ -20,7 +20,7 @@ classes: wide
 ## Part 2
 _Now that we understand how the gymnasium functioned, let’s have a look at how recreation, health and entertainment were reflected in these gymnasiums…_
 
-This is Part 2 of a series (see Part 1) 
+This is Part 2 of a series ([Part 1](https://phn.edu.au/public_history/hidden_community_part_1){:target="_blank"}) 
 
 ## Miss Foster’s Ladies Gymnasium  
 Miss Foster’s Ladies’ Gymnasium once stood directly opposite Hyde Park at 177a Liverpool Street, next to the Unitarian Church. What remains is an office complex consisting of a medical centre, café and law firm; it appears that the original building was refurbished in 1920 (_City of Sydney_ 1920). 
