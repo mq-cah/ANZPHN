@@ -19,6 +19,7 @@ classes: wide
 # Hidden Community: Sydney’s Nineteenth Century Gymnasium Network.
 ## Part 2
 _Now that we understand how the gymnasium functioned, let’s have a look at how recreation, health and entertainment were reflected in these gymnasiums…_
+
 This is Part 2 of a series (see Part 1) 
 
 ## Miss Foster’s Ladies Gymnasium  
@@ -29,7 +30,7 @@ From the little information available about Miss Mary Foster, we know that she w
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/robertb/Picture3.png" alt="four women at the Ladies' gymnasium (BW photo)">
-  <figcaption> 1889. At the Ladies’ Gymnasium. _Illustrated Sydney News_. Trove.</figcaption>
+  <figcaption> 1889. At the Ladies’ Gymnasium. Illustrated Sydney News. Trove.</figcaption>
 </figure>
 
 
@@ -59,7 +60,8 @@ _Let’s head now towards the Queen Victoria Building and have a look at what is
 
 ## Belisario’s Sydney Amateur Gymnasium
 The Sydney Amateur Gymnasium was located at 125 York Street, opposite the Queen Victoria Building. You would think that being so close to the Q.V.B., the building would be preserved, and that is partially correct. What stands today is a building occupied by offices and restaurants. Designed in the ‘federation warehouse style’ and constructed in 1909 as mentioned on this plaque:
-  Just after thirteen months in business, the police intervened during The Sydney Amateur Gymnasium’s first unofficial prize fights. The fighters, George Dawson and James Burge were held on remand at Central Police Court for fighting each other until exhaustion which was unlawful (Evening News, 1890). Referee Sydney Bloomfield gave a statement defending the young gymnasium. Bloomfield argued that the club fostered athletics and promoted displays amongst members and professionals for trophies; the contests were open for all friends and members (_Evening News, The Sydney Mail and New South Wales Advertiser_, 1890).
+
+> Just after thirteen months in business, the police intervened during The Sydney Amateur Gymnasium’s first unofficial prize fights. The fighters, George Dawson and James Burge were held on remand at Central Police Court for fighting each other until exhaustion which was unlawful (Evening News, 1890). Referee Sydney Bloomfield gave a statement defending the young gymnasium. Bloomfield argued that the club fostered athletics and promoted displays amongst members and professionals for trophies; the contests were open for all friends and members (_Evening News, The Sydney Mail and New South Wales Advertiser_, 1890).
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/robertb/Picture5.jpg" alt="photo of a circular plaque with black text">
@@ -102,37 +104,41 @@ At every turn throughout my research, there were always links connecting one gym
 
 The owners, athletes and the places that were all once part of this active gymnasium community in Sydney’s CBD still have stories to be shared and need to be memorialised. I hope that my research internship, the database, and my findings will influence researchers to begin rediscovering the many owners, athletes and gymnasiums and Sydney’s broader history.
 
-## Bibliography: 
+## Bibliography
 **Journal Articles**
-Alexandra Carden‐Coyne, Anna. 1999. “Classical heroism and modern life: Bodybuilding and masculinity in the early twentieth century.” Journal of Australian Studies, 23:63, 145-146.
-Waterhouse, Richard. 2002. “Bare‐Knuckle prize fighting, masculinity and nineteenth century Australian culture.” Journal of Australian Studies, 26:73, 101-110.
-Westberg, Johannes. 2018. “Adjusting Swedish Gymnastics to the Female Nature: Discrepancies in the Gendering of Girls’ Physical Education in the Mid-Nineteenth Century.” Espacio, tiempo y educación 5, no. 1 261–279.
+: Alexandra Carden‐Coyne, Anna. 1999. “Classical heroism and modern life: Bodybuilding and masculinity in the early twentieth century.” : Journal of Australian Studies, 23:63, 145-146.
+: Waterhouse, Richard. 2002. “Bare‐Knuckle prize fighting, masculinity and nineteenth century Australian culture.” Journal of Australian 
+: Studies, 26:73, 101-110.
+: Westberg, Johannes. 2018. “Adjusting Swedish Gymnastics to the Female Nature: Discrepancies in the Gendering of Girls’ Physical 
+: Education in the Mid-Nineteenth Century.” Espacio, tiempo y educación 5, no. 1 261–279.
+
 **Images**
-1870. Hyde Park looking toward Liverpool St., 1870. SPF/892. Mitchell Library, State Library of New South Wales.
-1885. Larry Foley's White Horse Hotel in George Street, Sydney, with the Sudan regiment passing by 1885. National Library of Australia.
-1889. At the Ladies’ Gymnasium. The Illustrated Sydney News. Trove.
-1920. Print - Commercial building in Liverpool Street Sydney. City of Sydney.
-Charles Henry Hunt. 1875. Larry Foley. National Library of Australia.
-Robert Buttiglieri. 2023. Photograph - 125 York Street. City of Sydney Council and the Royal Australian Institute of Architects.
+: 1870. Hyde Park looking toward Liverpool St., 1870. SPF/892. Mitchell Library, State Library of New South Wales.
+: 1885. Larry Foley's White Horse Hotel in George Street, Sydney, with the Sudan regiment passing by 1885. National Library of Australia.
+: 1889. At the Ladies’ Gymnasium. The Illustrated Sydney News. Trove.
+: 1920. Print - Commercial building in Liverpool Street Sydney. City of Sydney.
+: Charles Henry Hunt. 1875. Larry Foley. National Library of Australia.
+: Robert Buttiglieri. 2023. Photograph - 125 York Street. City of Sydney Council and the Royal Australian Institute of Architects.
+
 **Newspaper Articles**
-Australian Town and Country Journal "Ladies' Pages."  December 1, 1888: 21.
-Australian Town and Country Journal "Notes by Nimrod” September 1, 1883: 36. 
-Evening News "The Burge-Dawson Fight." December 6, 1890: 5. 
-Evening News “A New Gymnasium." December 15, 1885: 3
-Globe "Cansdell v M’Caffrey." January 2, 1886: 4.
-Illustrated Sydney News "The Ladies’ Gymnasium."  October 31, 1889: 28. 
-Referee "Among the Boxers."  March 9, 1892: 6.
-Referee "Murphy v. Burge” November 25, 1891: 6.
-Referee “Harry Cansdell Dead" November 13, 1912: 7.
-The Albury Banner and Wodonga Express "Victorian Mems." April 26, 1879: 17.
-The Australian Star "Dawson V. Mace" April 28, 1891: 6. 
-The Daily Telegraph "Advertising” April 1, 1905: 13.
-The Daily Telegraph "Advertising” March 8, 1902: 2. 
-The Daily Telegraph "The Sydney Gymnasium." September 22, 1884: 8.
-The Daily Telegraph "Wesleyan Ladies’ College” January 9, 1891: 3.
-The Hillston Spectator and Lachlan River Advertiser. 1903. "Odds and Ends" October 16, 1903: 3.
-The Sun "Gossip of the Ring" June 13, 1915: 14. 
-The Sydney Mail and New South Wales Advertiser “Glove Contests" December 13, 1890: 1332.
-The Sydney Morning Herald "Advertising” March 23, 1892: 2.
-The Sydney Morning Herald "Advertising” November 23, 1882: 2. 
-Truth "The Life Story of Joe Wallis No 2” December 29, 1940: 19.
+: Australian Town and Country Journal "Ladies' Pages."  December 1, 1888: 21.
+: Australian Town and Country Journal "Notes by Nimrod” September 1, 1883: 36. 
+: Evening News "The Burge-Dawson Fight." December 6, 1890: 5. 
+: Evening News “A New Gymnasium." December 15, 1885: 3
+: Globe "Cansdell v M’Caffrey." January 2, 1886: 4.
+: Illustrated Sydney News "The Ladies’ Gymnasium."  October 31, 1889: 28. 
+: Referee "Among the Boxers."  March 9, 1892: 6.
+: Referee "Murphy v. Burge” November 25, 1891: 6.
+: Referee “Harry Cansdell Dead" November 13, 1912: 7.
+: The Albury Banner and Wodonga Express "Victorian Mems." April 26, 1879: 17.
+: The Australian Star "Dawson V. Mace" April 28, 1891: 6. 
+: The Daily Telegraph "Advertising” April 1, 1905: 13.
+: The Daily Telegraph "Advertising” March 8, 1902: 2. 
+: The Daily Telegraph "The Sydney Gymnasium." September 22, 1884: 8.
+: The Daily Telegraph "Wesleyan Ladies’ College” January 9, 1891: 3.
+: The Hillston Spectator and Lachlan River Advertiser. 1903. "Odds and Ends" October 16, 1903: 3.
+: The Sun "Gossip of the Ring" June 13, 1915: 14. 
+: The Sydney Mail and New South Wales Advertiser “Glove Contests" December 13, 1890: 1332.
+: The Sydney Morning Herald "Advertising” March 23, 1892: 2.
+: The Sydney Morning Herald "Advertising” November 23, 1882: 2. 
+: Truth "The Life Story of Joe Wallis No 2” December 29, 1940: 19.
