@@ -2,10 +2,10 @@
 title: "Hidden Community: Sydney’s Nineteenth Century Gymnasium Network. Part 2"
 author: robertb
 header:
-  overlay_image: /assets/images/old_photos_1_banner.jpg
+  overlay_image: /assets/images/robertb/Picture6.jpg
   overlay_filter: 0.25
-  caption: "© State Library of NSW. Photo by Joy Lai"
-  teaser: /assets/images/old_photos_1_banner.jpg
+  caption: "George Street. © National Library of Australia"
+  teaser: /assets/images/robertb/Picture6.jpg
 excerpt: >
   "Learn (even) more about Nineteenth Century Sydney's 'hidden' Gymnasium communities."
 categories:
