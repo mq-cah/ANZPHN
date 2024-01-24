@@ -7,7 +7,7 @@ header:
   caption: "Police Citizen's Boys Club Boxing Champions 1954, Ern McQuillan 1926-2018, Mitchell Library, State Library of NSW."
   teaser: /assets/images/taylah/Picture1.jpg
 excerpt: >
-  "Here taylah explores how previous members of PCYC construct and mobilise a sense of a shared past."
+  "Here Taylah explores how previous members of PCYC construct and mobilise a sense of a shared past."
 categories:
   - Public_History
 tags:
@@ -16,12 +16,6 @@ tags:
   - sport
 classes: wide
 ---
-taylahevans:
-  name: "Taylah Evans"
-  bio: "Taylah Evans (she/they) is a recent MRes graduate and sessional teaching academic in the Department of History and Archaeology at Macquarie University. Taylah's research focuses on the campaign and appointment of women police in Australia. When not researching, Taylah enjoys reading and writing historical fiction."
-  avatar: assets/images/people/bio-photo.jpg
-  links:
-
 # PCYC and Memory
 In 2022, I completed my Masters of Research which focused on the appointment of women police in NSW. After a long year of delving into the history of policing in Australia a friend approached me asking what I knew about the Police Citizen’s Youth Club (PCYC). At the time, my only exposure to the club was my Tuesday night social netball team, but as someone who is interested in the historical dimension of policing, the history of PCYC certainly captured my attention. I was initially drawn to this project when thinking about the role of police in community led sports and what this meant for youth justice both in a historical context but also a contemporary one. However, once I began my research I became increasingly interested in the clubs and their relationships to their local communities. In particular, I was fascinated by how previous members of PCYC construct and mobilise a sense of a shared past. 
 
@@ -44,4 +38,4 @@ This political shift received significant backlash from both previous and curren
 
 However, in the case of PCYC, it is clear that this mobilisation of its past is often reactionary. In the face of clubs closing, lack of funding and privatisation, PCYC and its communities will draw upon its legacy and its history to make a claim about preserving its future. 
 
-(1): Robin Trotter, ‘Nostalgia and the Construction of an Australian Dreaming’, _Journal of Australian Studies_ 23 (1999): 2. (Online here)[https://doi.org/10.1080/14443059909387470]{:target="_blank"}
+> (1): Robin Trotter, ‘Nostalgia and the Construction of an Australian Dreaming’, _Journal of Australian Studies_ 23 (1999): 2. [Available online](https://doi.org/10.1080/14443059909387470){:target="_blank"}
