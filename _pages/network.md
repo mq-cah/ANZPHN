@@ -395,10 +395,9 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 
 ## U-Z
 **Eloise Wallace, Museum Director**<br />
-: Eloise Wallace is the Director of [Tairāwhiti Museum](https://tairawhitimuseum.org.nz/){:target="_blank"} in Gisborne, Co-Chair of Museums Aotearoa, Deputy Chair of Historic Places Tairāwhiti and a trustee of the Air Force Museum of New Zealand.
-: **Contact** <eloisewallace@tairawhitimuseum.org.nz>
+: Eloise Wallace is the Director of [Te Unua Museum of Southland] in Invercargill, Co-Chair of Museums Aotearoa, Deputy Chair of Historic Places Tairāwhiti and a trustee of the Air Force Museum of New Zealand.
+: **Contact** <mailto:Eloise.Wallace@southlandmuseum.co.nz>
 : **Social** [Linkedin](https://www.linkedin.com/in/eloise-wallace-63977694/){:target="_blank"}
-: **Twitter** [@Tairawhiti_muse](https://twitter.com/Tairawhiti_muse){:target="_blank"}
 
 **Dr Cheryl Ware**<br />
 : **Contact** <c.ware@auckland.ac.nz>
