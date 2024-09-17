@@ -15,10 +15,16 @@ In addition to general membership communications and updates, we send out a news
 
 **AAPHN Networking Event: The Impact of Public History**
 : **Event Description**: The AAPHN is planning a zoom networking event for public historians in Australia and Aotearoa to share 3-minute impact stories. Bring along a short powerpoint, an image, or a prop and tell us about the impact of your work in 3-minutes or less.
-: **When**: 10th October, 12pm AEST / 2pm NZT
+: **When**: 10th October 2024, 12pm AEST / 2pm NZT
 : **Registration Link**: [Register here](https://macquarie.zoom.us/meeting/register/tZcpfuipqDkjHN1r9hBn8PYd_OrI85WDOIKc){:target="_blank"}.
 
 ### Seminar Series, Panels and Talks
+**Making Public Histories Seminar Series: Oral History, Migration, Generations**
+: **Event Description**: This panel brings together three esteemed speakers to discuss the theme of oral history, migration and generations: Francesco Ricatti, Alexandra Dellios and Tanya Evans. The seminar is part of an ongoing series, Making Public Histories, that is offered jointly by the Monash University History Program, the History Council of Victoria and the Old Treasury Building.
+: **When**: 26th September 2024, 5PM AEST
+: **Registration Link**: [Register here](https://www.historycouncilvic.org.au/migration_mph_sept2024){:target="_blank"}.
+: **Contact**: <info@historycouncilvic.org.au>
+
 **Auckland Libraries: Heritage _Talks_ / Waha Pū-Taonga**
 : **Event Description**: These talks are presented fortnightly on a Wednesday at 12 noon NZT from February to November, and topics cover a wide range of subjects relation to history. Social, local and family history, New Zealand, Australian and world history. Sometimes if something special is offered, we also schedule talks on the “off” Wednesday. Speakers are a mix of amateur and professional historians, archivists, librarians, museum specialists, authors and academics.
 : Our talks are held **in-person** (subject to the COVID restrictions), and **also held live via Zoom**. We have been streaming our talks via Zoom since the first lockdown in March 2020, and they have been very successful. This means that our talks can still go-ahead even if we have a lockdown. Also we are really fortunate that this also means that our guest speakers don’t have to be in Auckland, nor even in New Zealand! Our audience is also much more geographically diverse.
@@ -33,11 +39,6 @@ In addition to general membership communications and updates, we send out a news
 : **Contact**: <jimenaperry@gmail.com>
 
 ### Call For Papers
-**Call for Papers: Culturally Specific Museums and Archives**
-: **Event Description**: Special issue seeking contributions about culturally-specific museums and archives in Australia, the social roles they have played for migrant and diasporic communities in Australia and beyond, the multilayered identities they promote, their relationship to multiculturalism (as a prescriptive policy framework and as a descriptor of the social milieu), as well as the opportunities and the challenges they represent for the communities that operate them. We are also interested in contributions that examine their relations to local government, state and national museums, libraries and archives dedicated to social history in Australia, exploring differences and similarities in terms of curatorial practices (collecting, preserving and exhibiting), community engagement and institutional features. Interested participants, please read the full CFP given below. Once fully informed, please submit your abstract by 20 December to Dr. Virginie Rey at <virginie.rey@deakin.edu.au>; cc Dr Alexandra Dellios <alexandra.dellio@anu.edu.au> and Dr Karen Schamberger at <kschamberger@nla.gov.au>.
-: **CPF flyer**: [CFP Flyer]({{ site.baseurl }}/assets/files/CALL FOR PAPER_culturally-specific museums2023.pdf){:target="_blank"} with full information and brief.
-: **CFP Deadline**: 20th December 2023
-: **Contact**: <virginie.rey@deakin.edu.au>; <alexandra.dellio@anu.edu.au>; <kschamberger@nla.gov.au>
 
 ## Past Events
 **AAPHN '21 Social Meet and Greet**
