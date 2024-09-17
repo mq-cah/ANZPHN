@@ -22,6 +22,7 @@ In addition to general membership communications and updates, we send out a news
 **Making Public Histories Seminar Series: Oral History, Migration, Generations**
 : **Event Description**: This panel brings together three esteemed speakers to discuss the theme of oral history, migration and generations: Francesco Ricatti, Alexandra Dellios and Tanya Evans. The seminar is part of an ongoing series, Making Public Histories, that is offered jointly by the Monash University History Program, the History Council of Victoria and the Old Treasury Building.
 : **When**: 26th September 2024, 5PM AEST
+: **Where**: Via zoom
 : **Registration Link**: [Register here](https://www.historycouncilvic.org.au/migration_mph_sept2024){:target="_blank"}.
 : **Contact**: <info@historycouncilvic.org.au>
 
