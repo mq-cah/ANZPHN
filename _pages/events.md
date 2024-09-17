@@ -12,6 +12,12 @@ _If you would like to list your own event with the AAPHN, please get in touch wi
 In addition to general membership communications and updates, we send out a newsletter bi-annually which records any upcoming events concerning public history in Australasia. If you would like to make a post about an upcoming event or would like for it to be included in our next newsletter, please contact the AAPHN team at <aaphn@mq.edu.au>. Also, keep updated on our social media, where we post and share information concerning many upcoming events. Twitter: [@aaphnetwork](https://twitter.com/aaphnetwork){:target="_blank"}.
 
 ## Upcoming Events
+
+**AAPHN Networking Event: The Impact of Public History**
+: **Event Description**: The AAPHN is planning a zoom networking event for public historians in Australia and Aotearoa to share 3-minute impact stories. Bring along a short powerpoint, an image, or a prop and tell us about the impact of your work in 3-minutes or less.
+: **When**: 10th October, 12pm AEST / 2pm NZT
+: **Registration Link**: (https://macquarie.zoom.us/meeting/register/tZcpfuipqDkjHN1r9hBn8PYd_OrI85WDOIKc){:target="_blank"}.
+
 ### Seminar Series, Panels and Talks
 **Auckland Libraries: Heritage _Talks_ / Waha Pū-Taonga**
 : **Event Description**: These talks are presented fortnightly on a Wednesday at 12 noon NZT from February to November, and topics cover a wide range of subjects relation to history. Social, local and family history, New Zealand, Australian and world history. Sometimes if something special is offered, we also schedule talks on the “off” Wednesday. Speakers are a mix of amateur and professional historians, archivists, librarians, museum specialists, authors and academics.
