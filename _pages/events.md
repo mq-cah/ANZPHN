@@ -16,7 +16,7 @@ In addition to general membership communications and updates, we send out a news
 **AAPHN Networking Event: The Impact of Public History**
 : **Event Description**: The AAPHN is planning a zoom networking event for public historians in Australia and Aotearoa to share 3-minute impact stories. Bring along a short powerpoint, an image, or a prop and tell us about the impact of your work in 3-minutes or less.
 : **When**: 10th October, 12pm AEST / 2pm NZT
-: **Registration Link**: (https://macquarie.zoom.us/meeting/register/tZcpfuipqDkjHN1r9hBn8PYd_OrI85WDOIKc){:target="_blank"}.
+: **Registration Link**: [Register here](https://macquarie.zoom.us/meeting/register/tZcpfuipqDkjHN1r9hBn8PYd_OrI85WDOIKc){:target="_blank"}.
 
 ### Seminar Series, Panels and Talks
 **Auckland Libraries: Heritage _Talks_ / Waha Pū-Taonga**
