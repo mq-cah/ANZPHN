@@ -280,6 +280,10 @@ Browse the many wonderful specialists, projects and organisations that comprise 
 : **Contact** <scottmck@uow.edu.au>
 : **Research Profile** [UoW Research Page](https://scholars.uow.edu.au/display/scott_mckinnon){:target="_blank"}
 
+**Isabelle Moss** <br />
+: Isabelle Moss is an emerging cultural and public historian. She completed her undergraduate studies at the University of Melbourne in 2021 and a Masters at the University of Edinburgh in 2023. Her research is primarily interested in the European witchcraft trials of the early modern period, with a particular focus on material culture. She is committed to making history accessible, engaging, and relevant for young people. Her podcast, [_Explained_](https://podcasters.spotify.com/pod/show/explainedpod){:target="_blank"}, was awarded a special commendation for the 2024 Macquarie-PHA Applied History Award.
+: **Contact** <isabellekmosss@gmail.com>
+
 **Dr Martina Muller, Professional Historian**
 : Martina works as a historian in Sydney’s heritage sector and is a member of [PHA NSW & ACT](https://www.phansw.org.au/){:target="_blank"}.
 : **Contact** <martina.muller@storialines.com.au>
